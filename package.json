@@ -1,0 +1,22 @@
+{
+  "name": "data-sync-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/update-injuries.js",
+  "scripts": {
+    "update": "node scripts/update-injuries.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceroadlogic/data-sync-v2.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
