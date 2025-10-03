@@ -1,0 +1,42 @@
+name: Update Weather
+
+on:
+  schedule:
+    # Regular updates: 3 times daily
+    - cron: '0 10,16,22 * * *'    # 10am, 4pm, 10pm UTC (6am, 12pm, 6pm ET)
+  workflow_dispatch:              # Manual trigger option
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run weather update script
+        run: node scripts/update-weather.js
+        env:
+          TZ: 'America/New_York'
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/weather-current.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          else
+            git commit -m "Update weather data - $(date)"
+            git pull --rebase origin main
+            git push
+          fi
