@@ -1,13 +1,13 @@
-name: Update Data
+name: Update Long-Term Injuries
 
 on:
   schedule:
-    # Regular season: 3 times daily
-    - cron: '0 6,14,22 * * *'    # 6am, 2pm, 10pm ET
+    # 3 times daily to catch any status changes
+    - cron: '0 12,16,20 * * *'    # 8am, 12pm, 4pm ET (12pm, 4pm, 8pm UTC)
   workflow_dispatch:              # Manual trigger option
 
 jobs:
-  update-injuries:
+  update-longterm-injuries:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,12 +31,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/injuries-active.json
+          git add data/injuries-longterm.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           else
-            git commit -m "Update active injuries - $(date)"
+            git commit -m "Update long-term injuries - $(date)"
             git pull --rebase origin main
             git push
           fi

@@ -81,12 +81,15 @@ async function fetchTeamInjuryData(teamId, teamAbbr) {
 }
 
 function categorizeInjuries(players, playerMapping) {
-  const categories = {
-    injured: [],
+  const active = {
     questionable: [],
     doubtful: [],
-    out: [],
-    ir: []
+    out: []
+  };
+
+  const longTerm = {
+    ir: [],
+    suspended: []
   };
 
   players.forEach(player => {
@@ -108,24 +111,27 @@ function categorizeInjuries(players, playerMapping) {
       injury_description: player.injury?.details || null
     };
 
-    // Categorize based on status
+    // Categorize based on status and designation
     const status = player.status.toLowerCase();
     const designation = player.injury?.status?.toLowerCase() || '';
 
-    if (status === 'out' || designation === 'out') {
-      categories.out.push(injuryData);
+    // Long-term injuries (IR, Suspended)
+    if (designation.includes('injured reserve') || status.includes('reserve')) {
+      longTerm.ir.push(injuryData);
+    } else if (designation.includes('suspension') || status.includes('suspension')) {
+      longTerm.suspended.push(injuryData);
+    }
+    // Active game-time decisions (Questionable, Doubtful, Out)
+    else if (status === 'out' || designation === 'out') {
+      active.out.push(injuryData);
     } else if (designation === 'doubtful') {
-      categories.doubtful.push(injuryData);
+      active.doubtful.push(injuryData);
     } else if (designation === 'questionable') {
-      categories.questionable.push(injuryData);
-    } else if (status === 'injured' || player.injury) {
-      categories.injured.push(injuryData);
-    } else if (status.includes('ir') || status.includes('reserve')) {
-      categories.ir.push(injuryData);
+      active.questionable.push(injuryData);
     }
   });
 
-  return categories;
+  return { active, longTerm };
 }
 
 async function updateInjuryData() {
@@ -158,32 +164,60 @@ async function updateInjuryData() {
   console.log(`Successfully fetched from ${successCount}/32 teams`);
   console.log(`Total players found: ${allPlayers.length}`);
 
-  // Categorize injuries
-  const categorizedInjuries = categorizeInjuries(allPlayers, playerMapping);
+  // Categorize injuries into active and long-term
+  const { active, longTerm } = categorizeInjuries(allPlayers, playerMapping);
 
-  // Create output data
-  const outputData = {
-    lastUpdated: new Date().toISOString(),
-    week: getCurrentNFLWeek(),
+  const currentWeek = getCurrentNFLWeek();
+  const timestamp = new Date().toISOString();
+
+  // Create active injuries output (questionable, doubtful, out)
+  const activeData = {
+    lastUpdated: timestamp,
+    week: currentWeek,
     summary: {
       total_players: allPlayers.length,
-      injured: categorizedInjuries.injured.length,
-      questionable: categorizedInjuries.questionable.length,
-      doubtful: categorizedInjuries.doubtful.length,
-      out: categorizedInjuries.out.length,
-      ir: categorizedInjuries.ir.length
+      questionable: active.questionable.length,
+      doubtful: active.doubtful.length,
+      out: active.out.length
     },
-    ...categorizedInjuries
+    questionable: active.questionable,
+    doubtful: active.doubtful,
+    out: active.out
   };
 
-  // Write to file
-  const outputPath = path.join(__dirname, '../data/injuries.json');
-  await fs.writeFile(outputPath, JSON.stringify(outputData, null, 2));
+  // Create long-term injuries output (IR, suspended)
+  const longTermData = {
+    lastUpdated: timestamp,
+    week: currentWeek,
+    summary: {
+      total_players: allPlayers.length,
+      ir: longTerm.ir.length,
+      suspended: longTerm.suspended.length
+    },
+    ir: longTerm.ir,
+    suspended: longTerm.suspended
+  };
 
-  console.log('Injury data updated successfully');
-  console.log(`Summary: ${outputData.summary.injured} injured, ${outputData.summary.questionable} questionable, ${outputData.summary.out} out`);
+  // Write both files
+  const activePath = path.join(__dirname, '../data/injuries-active.json');
+  const longTermPath = path.join(__dirname, '../data/injuries-longterm.json');
 
-  return outputData.summary;
+  await fs.writeFile(activePath, JSON.stringify(activeData, null, 2));
+  await fs.writeFile(longTermPath, JSON.stringify(longTermData, null, 2));
+
+  console.log('\n=== Injury Data Update Summary ===');
+  console.log('Active Injuries (injuries-active.json):');
+  console.log(`  - Questionable: ${active.questionable.length}`);
+  console.log(`  - Doubtful: ${active.doubtful.length}`);
+  console.log(`  - Out: ${active.out.length}`);
+  console.log('Long-Term Injuries (injuries-longterm.json):');
+  console.log(`  - IR: ${longTerm.ir.length}`);
+  console.log(`  - Suspended: ${longTerm.suspended.length}`);
+
+  return {
+    active: activeData.summary,
+    longTerm: longTermData.summary
+  };
 }
 
 function getCurrentNFLWeek() {

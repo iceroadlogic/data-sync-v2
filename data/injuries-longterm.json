@@ -1,0 +1,673 @@
+{
+  "lastUpdated": "2025-10-04T02:43:08.725Z",
+  "week": 5,
+  "summary": {
+    "total_players": 758,
+    "ir": 65,
+    "suspended": 1
+  },
+  "ir": [
+    {
+      "player_id": "11589",
+      "source_id": "4429275",
+      "player_name": "Trey Benson",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4137",
+      "source_id": "3045147",
+      "player_name": "James Conner",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11961",
+      "source_id": "4360230",
+      "player_name": "Emory Jones",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11964",
+      "source_id": "4428763",
+      "player_name": "Dayton Wade",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "13202",
+      "source_id": "4569372",
+      "player_name": "Dalevon Campbell",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11646",
+      "source_id": "4695883",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4274",
+      "source_id": "4212909",
+      "player_name": "David Moore",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "13080",
+      "source_id": "4575667",
+      "player_name": "Deion Hankins",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6012",
+      "source_id": "4037457",
+      "player_name": "Travis Homer",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6770",
+      "source_id": "3915511",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "team_abbr": "CIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "2750",
+      "source_id": "2580216",
+      "player_name": "DeAndre Carter",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "13212",
+      "source_id": "4569507",
+      "player_name": "Cade McDonald",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10444",
+      "source_id": "4369863",
+      "player_name": "Cedric Tillman",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12738",
+      "source_id": "4431562",
+      "player_name": "Phil Mafah",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10225",
+      "source_id": "4426485",
+      "player_name": "Jonathan Mingo",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11511",
+      "source_id": "4362489",
+      "player_name": "John Stephens Jr.",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12954",
+      "source_id": "4880638",
+      "player_name": "Kye Robichaux",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7597",
+      "source_id": "4044144",
+      "player_name": "Kenny Yeboah",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8041",
+      "source_id": "4608362",
+      "player_name": "Shane Zylstra",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11581",
+      "source_id": "4429023",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10222",
+      "source_id": "4362249",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7568",
+      "source_id": "4362504",
+      "player_name": "Brevin Jordan",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11599",
+      "source_id": "4426496",
+      "player_name": "Cade Stover",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5374",
+      "source_id": "3118892",
+      "player_name": "Justin Watson",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6918",
+      "source_id": "4243315",
+      "player_name": "Salvon Ahmed",
+      "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6453",
+      "source_id": "4249030",
+      "player_name": "D.J. Montgomery",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12114",
+      "source_id": "4426893",
+      "player_name": "Joshua Cephus",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12817",
+      "source_id": "4431196",
+      "player_name": "Jake Briningstool",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8221",
+      "source_id": "4362087",
+      "player_name": "Keaontay Ingram",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7528",
+      "source_id": "4241457",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12866",
+      "source_id": "4431044",
+      "player_name": "Jalin Conyers",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "3321",
+      "source_id": "3116406",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5987",
+      "source_id": "4048244",
+      "player_name": "Alexander Mattison",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8230",
+      "source_id": "4242431",
+      "player_name": "Ty Chandler",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7601",
+      "source_id": "4372485",
+      "player_name": "Rondale Moore",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12969",
+      "source_id": "4698253",
+      "player_name": "Lan Larison",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10870",
+      "source_id": "4372526",
+      "player_name": "Deneric Prince",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11748",
+      "source_id": "4427985",
+      "player_name": "Bub Means",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12068",
+      "source_id": "4911517",
+      "player_name": "Mason Pline",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11619",
+      "source_id": "4430637",
+      "player_name": "Ja'Lynn Polk",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12892",
+      "source_id": "4575348",
+      "player_name": "Da'Quan Felton",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9499",
+      "source_id": "4362227",
+      "player_name": "Bryce Ford-Wheaton",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11632",
+      "source_id": "4595348",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11576",
+      "source_id": "4685247",
+      "player_name": "Braelon Allen",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "13150",
+      "source_id": "4715355",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11636",
+      "source_id": "4686104",
+      "player_name": "Johnny Wilson",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6074",
+      "source_id": "3912092",
+      "player_name": "Donald Parham Jr.",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8206",
+      "source_id": "4036419",
+      "player_name": "Skylar Thompson",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11616",
+      "source_id": "4575665",
+      "player_name": "Jacob Cowing",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4218",
+      "source_id": "3040569",
+      "player_name": "Trent Taylor",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6963",
+      "source_id": "4039358",
+      "player_name": "Patrick Taylor Jr.",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10216",
+      "source_id": "4427391",
+      "player_name": "Kenny McIntosh",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8484",
+      "source_id": "4034779",
+      "player_name": "Ko Kieft",
+      "position": "TE",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11618",
+      "source_id": "4430834",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "13246",
+      "source_id": "4581750",
+      "player_name": "Jaden Smith",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8135",
+      "source_id": "4567156",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9999",
+      "source_id": "4361418",
+      "player_name": "Will Levis",
+      "position": "QB",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12516",
+      "source_id": "4429121",
+      "player_name": "Kalel Mullings",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9508",
+      "source_id": "4428557",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4663",
+      "source_id": "3068267",
+      "player_name": "Austin Ekeler",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6040",
+      "source_id": "3916564",
+      "player_name": "Tyree Jackson",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    }
+  ],
+  "suspended": [
+    {
+      "player_id": "10229",
+      "source_id": "4428331",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "news",
+      "injury_designation": "Suspension",
+      "injury_description": null
+    }
+  ]
+}

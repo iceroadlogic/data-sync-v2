@@ -1,4 +1,4 @@
-name: Frequent Updates
+name: Frequent Weather Updates
 
 on:
   schedule:
@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-injuries:
+  update-weather:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,8 +32,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run injury update script
-        run: node scripts/update-injuries.js
+      - name: Run weather update script
+        run: node scripts/update-weather.js
         env:
           TZ: 'America/New_York'
 
@@ -41,12 +41,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/injuries-active.json
+          git add data/weather-current.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           else
-            git commit -m "Update active injuries - $(date)"
+            git commit -m "Update weather data - $(date)"
             git pull --rebase origin main
             git push
           fi
