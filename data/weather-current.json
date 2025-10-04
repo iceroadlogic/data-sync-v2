@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-04T10:22:18.334Z",
+  "lastUpdated": "2025-10-04T16:26:52.293Z",
   "games": [
     {
       "game_id": "401772939",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 mph ENE",
-        "conditions": "Clear",
+        "temp": 75,
+        "wind": "0 to 15 mph S",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -113,9 +113,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "1 to 6 mph S",
-        "conditions": "Patchy Fog",
+        "temp": 86,
+        "wind": "1 to 5 mph S",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
