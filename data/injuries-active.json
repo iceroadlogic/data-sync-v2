@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-05T15:47:35.623Z",
+  "lastUpdated": "2025-10-05T16:27:17.686Z",
   "week": 5,
   "summary": {
     "total_players": 754,
     "questionable": 8,
     "doubtful": 0,
-    "out": 57
+    "out": 59
   },
   "questionable": [
     {
@@ -292,6 +292,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12705",
+      "source_id": "4426335",
+      "player_name": "Graham Mertz",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -316,6 +326,16 @@
       "source_id": "4429676",
       "player_name": "Tyler Goodson",
       "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12470",
+      "source_id": "4683423",
+      "player_name": "Riley Leonard",
+      "position": "QB",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Out",
