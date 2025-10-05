@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-05T16:47:06.008Z",
+  "lastUpdated": "2025-10-05T18:43:18.258Z",
   "games": [
     {
       "game_id": "401772939",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "5 to 10 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -35,8 +35,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "3 to 7 mph SE",
+        "temp": 79,
+        "wind": "7 mph SE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 85,
-        "wind": "2 to 6 mph S",
+        "wind": "7 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -61,10 +61,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
+        "temp": 82,
         "wind": "8 mph E",
         "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -75,7 +75,7 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "0 to 5 mph SW",
+        "wind": "5 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -101,8 +101,8 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "5 to 10 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -127,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "2 to 6 mph S",
+        "wind": "2 to 6 mph SW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -139,10 +139,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "10 to 16 mph E",
-        "conditions": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
-        "precipitation": "62%"
+        "temp": 74,
+        "wind": "9 to 15 mph E",
+        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
+        "precipitation": "32%"
       }
     }
   ]
