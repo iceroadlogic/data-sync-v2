@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-04T20:11:07.224Z",
+  "lastUpdated": "2025-10-05T12:18:44.524Z",
   "week": 5,
   "summary": {
-    "total_players": 757,
-    "ir": 64,
+    "total_players": 754,
+    "ir": 66,
     "suspended": 1
   },
   "ir": [
@@ -163,6 +163,16 @@
       "player_name": "John Stephens Jr.",
       "position": "TE",
       "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8249",
+      "source_id": "4360231",
+      "player_name": "Lucas Krull",
+      "position": "TE",
+      "team_abbr": "DEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -401,6 +411,16 @@
       "player_id": "11748",
       "source_id": "4427985",
       "player_name": "Bub Means",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9492",
+      "source_id": "4426407",
+      "player_name": "Trey Palmer",
       "position": "WR",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
