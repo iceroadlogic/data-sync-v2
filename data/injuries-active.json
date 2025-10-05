@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-05T15:10:04.911Z",
+  "lastUpdated": "2025-10-05T15:25:37.531Z",
   "week": 5,
   "summary": {
     "total_players": 754,
-    "questionable": 16,
+    "questionable": 15,
     "doubtful": 1,
     "out": 42
   },
@@ -94,16 +94,6 @@
       "player_name": "Will Dissly",
       "position": "TE",
       "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "3161",
-      "source_id": "2573079",
-      "player_name": "Carson Wentz",
-      "position": "QB",
-      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
