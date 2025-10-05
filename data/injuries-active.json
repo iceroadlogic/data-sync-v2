@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-10-05T16:57:13.048Z",
+  "lastUpdated": "2025-10-05T18:44:49.062Z",
   "week": 5,
   "summary": {
     "total_players": 754,
-    "questionable": 8,
+    "questionable": 7,
     "doubtful": 0,
     "out": 59
   },
   "questionable": [
-    {
-      "player_id": "5970",
-      "source_id": "4037235",
-      "player_name": "Greg Dortch",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "7531",
       "source_id": "4034948",
@@ -59,21 +49,21 @@
       "injury_description": null
     },
     {
-      "player_id": "8125",
-      "source_id": "4243389",
-      "player_name": "Calvin Austin III",
-      "position": "WR",
-      "team_abbr": "PIT",
+      "player_id": "8177",
+      "source_id": "4241374",
+      "player_name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "4981",
-      "source_id": "3925357",
-      "player_name": "Calvin Ridley",
+      "player_id": "8125",
+      "source_id": "4243389",
+      "player_name": "Calvin Austin III",
       "position": "WR",
-      "team_abbr": "TEN",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
