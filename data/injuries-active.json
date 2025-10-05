@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-05T06:26:03.678Z",
+  "lastUpdated": "2025-10-05T14:09:08.201Z",
   "week": 5,
   "summary": {
-    "total_players": 757,
-    "questionable": 16,
+    "total_players": 754,
+    "questionable": 15,
     "doubtful": 1,
-    "out": 39
+    "out": 42
   },
   "questionable": [
     {
@@ -99,20 +99,10 @@
       "injury_description": null
     },
     {
-      "player_id": "13121",
-      "source_id": "4433959",
-      "player_name": "Ben Yurosek",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4381",
       "source_id": "2468609",
       "player_name": "Taysom Hill",
-      "position": "TE",
+      "position": "QB",
       "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -263,6 +253,26 @@
       "injury_description": null
     },
     {
+      "player_id": "12472",
+      "source_id": "4601080",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12524",
+      "source_id": "4432762",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "8118",
       "source_id": "4570409",
       "player_name": "David Bell",
@@ -397,6 +407,16 @@
       "source_id": "4433970",
       "player_name": "J.J. McCarthy",
       "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "13121",
+      "source_id": "4433959",
+      "player_name": "Ben Yurosek",
+      "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Out",
