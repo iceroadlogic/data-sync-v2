@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-05T19:50:54.141Z",
+  "lastUpdated": "2025-10-05T20:17:30.351Z",
   "week": 5,
   "summary": {
     "total_players": 754,
-    "questionable": 3,
+    "questionable": 4,
     "doubtful": 0,
     "out": 65
   },
@@ -24,6 +24,16 @@
       "player_name": "Darnell Mooney",
       "position": "WR",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6149",
+      "source_id": "3916945",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
