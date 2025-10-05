@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-05T20:46:55.053Z",
+  "lastUpdated": "2025-10-05T22:21:16.721Z",
   "games": [
     {
       "game_id": "401772939",
@@ -9,8 +9,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "5 to 10 mph SW",
+        "temp": 75,
+        "wind": "5 to 10 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -22,9 +22,9 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
+        "temp": 60,
         "wind": "7 mph S",
-        "conditions": "Sunny",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -35,9 +35,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "7 mph SE",
-        "conditions": "Sunny",
+        "temp": 57,
+        "wind": "1 to 6 mph S",
+        "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -48,9 +48,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "7 mph S",
-        "conditions": "Sunny",
+        "temp": 59,
+        "wind": "0 to 7 mph S",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -61,9 +61,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "8 mph E",
-        "conditions": "Partly Sunny",
+        "temp": 61,
+        "wind": "2 to 7 mph E",
+        "conditions": "Partly Cloudy",
         "precipitation": "2%"
       }
     },
@@ -74,9 +74,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "5 mph SW",
-        "conditions": "Sunny",
+        "temp": 57,
+        "wind": "0 to 5 mph S",
+        "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -100,8 +100,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "5 to 10 mph SW",
+        "temp": 75,
+        "wind": "5 to 10 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -113,10 +113,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "6 mph S",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 61,
+        "wind": "1 to 5 mph SE",
+        "conditions": "Mostly Clear",
+        "precipitation": "4%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "9 to 15 mph E",
+        "wind": "10 to 18 mph E",
         "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
-        "precipitation": "32%"
+        "precipitation": "50%"
       }
     }
   ]
