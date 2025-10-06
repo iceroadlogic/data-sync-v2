@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-05T22:21:16.721Z",
+  "lastUpdated": "2025-10-06T10:27:35.007Z",
   "games": [
     {
       "game_id": "401772939",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Sunny",
+        "temp": 60,
+        "wind": "0 to 5 mph ENE",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "7 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 83,
+        "wind": "8 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "1 to 6 mph S",
-        "conditions": "Mostly Clear then Patchy Fog",
-        "precipitation": "0%"
+        "temp": 81,
+        "wind": "1 to 9 mph S",
+        "conditions": "Patchy Fog then Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -48,9 +48,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "0 to 7 mph S",
-        "conditions": "Clear",
+        "temp": 86,
+        "wind": "2 to 9 mph S",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -61,10 +61,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "2 to 7 mph E",
-        "conditions": "Partly Cloudy",
-        "precipitation": "2%"
+        "temp": 81,
+        "wind": "6 mph ENE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -74,9 +74,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "0 to 5 mph S",
-        "conditions": "Mostly Clear then Patchy Fog",
+        "temp": 81,
+        "wind": "0 to 5 mph SW",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -87,10 +87,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "8 mph NNW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 49,
+        "wind": "3 mph NNE",
+        "conditions": "Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -100,9 +100,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Sunny",
+        "temp": 60,
+        "wind": "0 to 5 mph ENE",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -113,10 +113,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "1 to 5 mph SE",
-        "conditions": "Mostly Clear",
-        "precipitation": "4%"
+        "temp": 81,
+        "wind": "2 to 6 mph S",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "29%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "2 to 6 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 81,
+        "wind": "7 to 12 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "10 to 18 mph E",
-        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
-        "precipitation": "50%"
+        "wind": "7 to 16 mph E",
+        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "precipitation": "29%"
       }
     }
   ]
