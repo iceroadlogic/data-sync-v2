@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-06T22:49:40.350Z",
+  "lastUpdated": "2025-10-06T23:09:25.211Z",
   "games": [
     {
       "game_id": "401772939",
@@ -22,10 +22,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "8 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "3%"
+        "temp": 64,
+        "wind": "8 mph S",
+        "conditions": "Partly Cloudy then Chance Showers And Thunderstorms",
+        "precipitation": "55%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "8 mph S",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 61,
+        "wind": "2 to 7 mph SE",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "9 mph S",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 62,
+        "wind": "5 to 8 mph S",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "6 mph E",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "temp": 63,
+        "wind": "5 mph ESE",
+        "conditions": "Partly Cloudy",
+        "precipitation": "11%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 81,
-        "wind": "5 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 60,
+        "wind": "5 mph S",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -114,7 +114,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "2 to 6 mph S",
+        "wind": "5 mph S",
         "conditions": "Showers And Thunderstorms",
         "precipitation": "96%"
       }
@@ -126,10 +126,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "8 mph W",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 63,
+        "wind": "3 to 9 mph S",
+        "conditions": "Partly Cloudy then Chance Showers And Thunderstorms",
+        "precipitation": "33%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "6 to 15 mph E",
-        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "31%"
+        "wind": "6 to 13 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
+        "precipitation": "21%"
       }
     }
   ]
