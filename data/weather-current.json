@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-06T22:31:17.185Z",
+  "lastUpdated": "2025-10-06T22:49:40.350Z",
   "games": [
     {
       "game_id": "401772939",
@@ -74,10 +74,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 81,
+        "wind": "5 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "3 to 9 mph S",
-        "conditions": "Partly Cloudy then Chance Showers And Thunderstorms",
-        "precipitation": "33%"
+        "temp": 80,
+        "wind": "8 mph W",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
