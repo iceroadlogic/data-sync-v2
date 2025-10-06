@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-06T22:21:49.469Z",
+  "lastUpdated": "2025-10-06T22:31:17.185Z",
   "games": [
     {
       "game_id": "401772939",
@@ -22,10 +22,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "8 mph S",
-        "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "precipitation": "41%"
+        "temp": 83,
+        "wind": "8 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "2 to 8 mph SE",
-        "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "temp": 82,
+        "wind": "8 mph S",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 to 9 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "temp": 83,
+        "wind": "9 mph S",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -61,9 +61,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "2 to 6 mph ESE",
-        "conditions": "Partly Cloudy",
+        "temp": 82,
+        "wind": "6 mph E",
+        "conditions": "Mostly Sunny",
         "precipitation": "3%"
       }
     },
@@ -116,7 +116,7 @@
         "temp": 66,
         "wind": "2 to 6 mph S",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "90%"
+        "precipitation": "96%"
       }
     },
     {
