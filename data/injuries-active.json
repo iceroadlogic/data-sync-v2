@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-06T21:01:52.214Z",
+  "lastUpdated": "2025-10-06T21:25:07.078Z",
   "week": 5,
   "summary": {
     "total_players": 754,
-    "questionable": 11,
+    "questionable": 12,
     "doubtful": 0,
     "out": 45
   },
@@ -94,6 +94,16 @@
       "player_name": "Darius Slayton",
       "position": "WR",
       "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
