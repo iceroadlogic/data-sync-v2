@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-10-06T21:46:37.566Z",
+  "lastUpdated": "2025-10-06T22:01:40.168Z",
   "week": 5,
   "summary": {
     "total_players": 754,
-    "questionable": 12,
+    "questionable": 11,
     "doubtful": 0,
-    "out": 45
+    "out": 46
   },
   "questionable": [
-    {
-      "player_id": "11716",
-      "source_id": "4696700",
-      "player_name": "Tip Reiman",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "7531",
       "source_id": "4034948",
@@ -131,6 +121,16 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "11716",
+      "source_id": "4696700",
+      "player_name": "Tip Reiman",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "12897",
       "source_id": "4605841",
