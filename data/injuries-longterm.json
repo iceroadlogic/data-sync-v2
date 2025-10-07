@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-07T16:13:42.708Z",
+  "lastUpdated": "2025-10-07T20:12:15.565Z",
   "week": 5,
   "summary": {
-    "total_players": 753,
-    "ir": 66,
+    "total_players": 752,
+    "ir": 67,
     "suspended": 1
   },
   "ir": [
@@ -274,6 +274,16 @@
       "position": "WR",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9480",
+      "source_id": "4430539",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "team_abbr": "JAX",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
