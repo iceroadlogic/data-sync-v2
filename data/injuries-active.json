@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-06T23:20:21.467Z",
+  "lastUpdated": "2025-10-07T06:28:57.688Z",
   "week": 5,
   "summary": {
     "total_players": 753,
-    "questionable": 11,
+    "questionable": 13,
     "doubtful": 0,
     "out": 46
   },
@@ -49,6 +49,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9480",
+      "source_id": "4430539",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6865",
       "source_id": "4242557",
       "player_name": "Colby Parkinson",
@@ -84,6 +94,16 @@
       "player_name": "Darius Slayton",
       "position": "WR",
       "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5185",
+      "source_id": "3128390",
+      "player_name": "Allen Lazard",
+      "position": "WR",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
