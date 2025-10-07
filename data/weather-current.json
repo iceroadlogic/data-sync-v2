@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2025-10-06T23:25:30.481Z",
+  "lastUpdated": "2025-10-07T10:26:18.235Z",
   "games": [
     {
       "game_id": "401772939",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "10 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 60,
+        "wind": "0 mph ",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "8 mph S",
-        "conditions": "Partly Cloudy then Chance Showers And Thunderstorms",
-        "precipitation": "55%"
+        "temp": 72,
+        "wind": "9 to 14 mph SW",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "99%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "2 to 7 mph SE",
-        "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "temp": 81,
+        "wind": "2 to 14 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 to 8 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "temp": 84,
+        "wind": "2 to 13 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph ESE",
-        "conditions": "Partly Cloudy",
-        "precipitation": "11%"
+        "temp": 82,
+        "wind": "1 to 6 mph SE",
+        "conditions": "Patchy Fog then Slight Chance Rain Showers",
+        "precipitation": "19%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 82,
+        "wind": "5 to 10 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "6 mph NNW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 51,
+        "wind": "2 mph NNE",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -100,9 +100,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "10 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 60,
+        "wind": "0 mph ",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -113,10 +113,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "5 mph S",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "96%"
+        "temp": 74,
+        "wind": "3 to 7 mph S",
+        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
+        "precipitation": "93%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "3 to 9 mph S",
-        "conditions": "Partly Cloudy then Chance Showers And Thunderstorms",
-        "precipitation": "33%"
+        "temp": 71,
+        "wind": "9 mph SW",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "95%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "6 to 13 mph E",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "21%"
+        "temp": 83,
+        "wind": "8 to 14 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "20%"
       }
     }
   ]
