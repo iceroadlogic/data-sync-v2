@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-08T10:26:23.749Z",
+  "lastUpdated": "2025-10-08T16:31:06.409Z",
   "games": [
     {
       "game_id": "401772940",
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "10 to 18 mph NE",
+        "wind": "15 to 22 mph NE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "33%"
+        "precipitation": "44%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "6 to 9 mph NNE",
+        "temp": 84,
+        "wind": "5 to 8 mph N",
         "conditions": "Sunny",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "9 mph N",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "22%"
+        "temp": 54,
+        "wind": "8 to 12 mph N",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "37%"
       }
     }
   ]
