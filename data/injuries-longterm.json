@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-08T16:13:57.625Z",
+  "lastUpdated": "2025-10-08T20:12:47.251Z",
   "week": 6,
   "summary": {
-    "total_players": 754,
-    "ir": 66,
+    "total_players": 755,
+    "ir": 68,
     "suspended": 1
   },
   "ir": [
@@ -22,6 +22,16 @@
       "source_id": "3045147",
       "player_name": "James Conner",
       "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11716",
+      "source_id": "4696700",
+      "player_name": "Tip Reiman",
+      "position": "TE",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -324,6 +334,16 @@
       "position": "QB",
       "team_abbr": "LV",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12507",
+      "source_id": "4685382",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
