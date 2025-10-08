@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-07T20:12:15.565Z",
-  "week": 5,
+  "lastUpdated": "2025-10-08T12:22:23.666Z",
+  "week": 6,
   "summary": {
     "total_players": 752,
-    "ir": 67,
+    "ir": 66,
     "suspended": 1
   },
   "ir": [
@@ -278,20 +278,20 @@
       "injury_description": null
     },
     {
-      "player_id": "9480",
-      "source_id": "4430539",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "12114",
       "source_id": "4426893",
       "player_name": "Joshua Cephus",
       "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9480",
+      "source_id": "4430539",
+      "player_name": "Brenton Strange",
+      "position": "TE",
       "team_abbr": "JAX",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -623,16 +623,6 @@
       "player_name": "Jaden Smith",
       "position": "WR",
       "team_abbr": "TB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "TEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
