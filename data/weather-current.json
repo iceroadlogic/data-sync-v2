@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-09T16:33:56.078Z",
+  "lastUpdated": "2025-10-09T21:13:08.468Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,7 +9,7 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 41,
+        "temp": 42,
         "wind": "5 to 9 mph N",
         "conditions": "Clear",
         "precipitation": "0%"
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "12 to 17 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "54%"
+        "wind": "12 to 18 mph NE",
+        "conditions": "Rain",
+        "precipitation": "76%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "12 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "temp": 73,
+        "wind": "14 mph N",
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "23%"
       }
     },
     {
@@ -63,8 +63,8 @@
       "weather": {
         "temp": 87,
         "wind": "8 mph N",
-        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "16%"
+        "conditions": "Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "8 mph N",
+        "temp": 84,
+        "wind": "5 to 8 mph N",
         "conditions": "Sunny",
-        "precipitation": "5%"
+        "precipitation": "2%"
       }
     },
     {
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "2 to 10 mph ESE",
+        "wind": "2 to 10 mph SE",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "9 to 14 mph SSW",
-        "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "precipitation": "15%"
+        "temp": 64,
+        "wind": "9 to 14 mph S",
+        "conditions": "Partly Cloudy",
+        "precipitation": "12%"
       }
     },
     {
@@ -140,7 +140,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "12 to 15 mph N",
+        "wind": "10 to 14 mph N",
         "conditions": "Chance Rain Showers",
         "precipitation": "49%"
       }
