@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-09T21:28:36.147Z",
+  "lastUpdated": "2025-10-09T21:38:13.414Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 52,
+    "questionable": 50,
     "doubtful": 0,
     "out": 19
   },
@@ -24,26 +24,6 @@
       "player_name": "Kyler Murray",
       "position": "QB",
       "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12897",
-      "source_id": "4605841",
-      "player_name": "Nathan Carter",
-      "position": "RB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7531",
-      "source_id": "4034948",
-      "player_name": "Feleipe Franks",
-      "position": "TE",
-      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
