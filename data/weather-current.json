@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-08T22:23:32.363Z",
+  "lastUpdated": "2025-10-09T10:27:48.726Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "5 to 8 mph N",
+        "temp": 41,
+        "wind": "5 to 9 mph N",
         "conditions": "Clear",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 62,
         "wind": "12 to 17 mph NE",
         "conditions": "Chance Light Rain",
-        "precipitation": "42%"
+        "precipitation": "54%"
       }
     },
     {
@@ -37,8 +37,8 @@
       "weather": {
         "temp": 68,
         "wind": "6 to 9 mph E",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "24%"
+        "conditions": "Chance Rain Showers",
+        "precipitation": "54%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "13 mph N",
+        "wind": "12 mph N",
         "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "precipitation": "5%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "9 mph N",
-        "conditions": "Sunny",
-        "precipitation": "12%"
+        "temp": 87,
+        "wind": "6 to 9 mph N",
+        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "16%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "13 mph N",
+        "temp": 80,
+        "wind": "12 mph N",
         "conditions": "Sunny",
-        "precipitation": "10%"
+        "precipitation": "8%"
       }
     },
     {
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "13 to 18 mph NE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "44%"
+        "wind": "15 to 22 mph NE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "63%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "5 to 8 mph N",
+        "temp": 85,
+        "wind": "8 mph N",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "5%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "3 to 10 mph ESE",
+        "temp": 67,
+        "wind": "2 to 10 mph ESE",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     },
     {
@@ -127,9 +127,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "9 to 14 mph S",
+        "wind": "9 to 14 mph SSW",
         "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "precipitation": "20%"
+        "precipitation": "15%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "13 mph N",
+        "wind": "8 to 13 mph N",
         "conditions": "Chance Rain Showers",
-        "precipitation": "37%"
+        "precipitation": "38%"
       }
     }
   ]
