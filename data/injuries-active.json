@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-10-10T06:29:38.315Z",
+  "lastUpdated": "2025-10-10T14:19:11.547Z",
   "week": 6,
   "summary": {
     "total_players": 759,
-    "questionable": 51,
-    "doubtful": 0,
+    "questionable": 50,
+    "doubtful": 1,
     "out": 22
   },
   "questionable": [
@@ -439,16 +439,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4037",
-      "source_id": "3116165",
-      "player_name": "Chris Godwin Jr.",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "11584",
       "source_id": "4596448",
       "player_name": "Bucky Irving",
@@ -519,7 +509,18 @@
       "injury_description": null
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "4037",
+      "source_id": "3116165",
+      "player_name": "Chris Godwin Jr.",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    }
+  ],
   "out": [
     {
       "player_id": "11583",
