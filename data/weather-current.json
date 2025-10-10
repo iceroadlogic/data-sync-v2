@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-10T16:30:35.413Z",
+  "lastUpdated": "2025-10-10T22:21:45.892Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "8 mph SE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 52,
+        "wind": "2 to 8 mph NW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "15 to 21 mph NE",
+        "temp": 64,
+        "wind": "17 to 21 mph NE",
         "conditions": "Rain Likely",
-        "precipitation": "72%"
+        "precipitation": "68%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "13 mph NNE",
-        "conditions": "Slight Chance Rain Showers then Partly Sunny",
-        "precipitation": "19%"
+        "temp": 72,
+        "wind": "15 mph NNE",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "39%"
       }
     },
     {
@@ -63,8 +63,8 @@
       "weather": {
         "temp": 87,
         "wind": "7 mph NW",
-        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "18%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "12 mph N",
-        "conditions": "Sunny",
-        "precipitation": "11%"
+        "temp": 76,
+        "wind": "13 mph NW",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "21%"
       }
     },
     {
@@ -90,7 +90,7 @@
         "temp": 66,
         "wind": "16 to 23 mph NE",
         "conditions": "Rain Showers",
-        "precipitation": "77%"
+        "precipitation": "79%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "8 mph N",
+        "temp": 82,
+        "wind": "5 to 8 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "4%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "8 to 13 mph SSW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "14%"
+        "temp": 64,
+        "wind": "7 to 13 mph S",
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
+        "temp": 55,
         "wind": "10 to 15 mph N",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "53%"
+        "conditions": "Rain Showers Likely",
+        "precipitation": "59%"
       }
     }
   ]
