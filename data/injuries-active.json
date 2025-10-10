@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-09T23:27:29.368Z",
+  "lastUpdated": "2025-10-10T06:29:38.315Z",
   "week": 6,
   "summary": {
-    "total_players": 758,
-    "questionable": 50,
+    "total_players": 759,
+    "questionable": 51,
     "doubtful": 0,
     "out": 22
   },
@@ -424,6 +424,16 @@
       "player_name": "Jordan Watkins",
       "position": "WR",
       "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "2152",
+      "source_id": "16728",
+      "player_name": "Teddy Bridgewater",
+      "position": "QB",
+      "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
