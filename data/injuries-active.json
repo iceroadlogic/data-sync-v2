@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-10T22:17:13.474Z",
+  "lastUpdated": "2025-10-11T06:25:29.175Z",
   "week": 6,
   "summary": {
     "total_players": 759,
-    "questionable": 22,
+    "questionable": 23,
     "doubtful": 0,
     "out": 39
   },
@@ -85,6 +85,16 @@
       "position": "TE",
       "team_abbr": "CAR",
       "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "13202",
+      "source_id": "4569372",
+      "player_name": "Dalevon Campbell",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     },
