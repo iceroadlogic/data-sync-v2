@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-11T16:11:57.765Z",
+  "lastUpdated": "2025-10-11T20:10:49.104Z",
   "week": 6,
   "summary": {
     "total_players": 759,
-    "ir": 68,
+    "ir": 69,
     "suspended": 1
   },
   "ir": [
@@ -152,6 +152,16 @@
       "source_id": "4426485",
       "player_name": "Jonathan Mingo",
       "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6151",
+      "source_id": "4045163",
+      "player_name": "Miles Sanders",
+      "position": "RB",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
