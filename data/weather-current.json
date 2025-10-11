@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-10T22:21:45.892Z",
+  "lastUpdated": "2025-10-11T10:23:06.659Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "2 to 8 mph NW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "10%"
+        "temp": 67,
+        "wind": "2 to 10 mph NE",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "22%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "17 to 21 mph NE",
-        "conditions": "Rain Likely",
+        "temp": 63,
+        "wind": "15 to 20 mph NE",
+        "conditions": "Light Rain Likely",
         "precipitation": "68%"
       }
     },
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "6 to 12 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "33%"
+        "temp": 68,
+        "wind": "5 to 12 mph NE",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "24%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "15 mph NNE",
+        "temp": 69,
+        "wind": "15 mph N",
         "conditions": "Chance Rain Showers",
-        "precipitation": "39%"
+        "precipitation": "43%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
-        "wind": "7 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "11%"
+        "temp": 86,
+        "wind": "6 mph N",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "16%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "13 mph NW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "temp": 77,
+        "wind": "12 mph NW",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "19%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "16 to 23 mph NE",
-        "conditions": "Rain Showers",
-        "precipitation": "79%"
+        "temp": 65,
+        "wind": "14 to 22 mph NE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "74%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "5 to 8 mph NNW",
+        "temp": 83,
+        "wind": "8 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "4%"
+        "precipitation": "5%"
       }
     },
     {
@@ -113,9 +113,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "2 to 12 mph SE",
-        "conditions": "Mostly Sunny",
+        "temp": 67,
+        "wind": "5 to 12 mph SE",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -126,10 +126,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 66,
         "wind": "7 to 13 mph S",
-        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "conditions": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "precipitation": "21%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "10 to 15 mph N",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "59%"
+        "temp": 54,
+        "wind": "9 to 13 mph N",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "52%"
       }
     }
   ]
