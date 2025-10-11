@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-11T10:23:06.659Z",
+  "lastUpdated": "2025-10-11T16:26:58.556Z",
   "games": [
     {
       "game_id": "401772940",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "2 to 10 mph NE",
+        "wind": "7 to 10 mph E",
         "conditions": "Slight Chance Light Rain",
         "precipitation": "22%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "5 to 12 mph NE",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "24%"
+        "temp": 70,
+        "wind": "6 to 12 mph NE",
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "16%"
       }
     },
     {
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "6 mph N",
+        "wind": "6 mph NW",
         "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
         "precipitation": "16%"
       }
@@ -76,7 +76,7 @@
       "weather": {
         "temp": 77,
         "wind": "12 mph NW",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "conditions": "Slight Chance Rain Showers",
         "precipitation": "19%"
       }
     },
@@ -89,7 +89,7 @@
       "weather": {
         "temp": 65,
         "wind": "14 to 22 mph NE",
-        "conditions": "Rain Showers Likely",
+        "conditions": "Rain Likely",
         "precipitation": "74%"
       }
     },
@@ -103,7 +103,7 @@
         "temp": 83,
         "wind": "8 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "5%"
+        "precipitation": "2%"
       }
     },
     {
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 to 12 mph SE",
+        "wind": "5 to 13 mph SE",
         "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -127,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "7 to 13 mph S",
+        "wind": "7 to 12 mph S",
         "conditions": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
         "precipitation": "21%"
       }
@@ -141,7 +141,7 @@
       "weather": {
         "temp": 54,
         "wind": "9 to 13 mph N",
-        "conditions": "Chance Rain Showers",
+        "conditions": "Chance Light Rain",
         "precipitation": "52%"
       }
     }
