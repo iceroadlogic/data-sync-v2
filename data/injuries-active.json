@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-12T15:47:41.064Z",
+  "lastUpdated": "2025-10-12T16:28:02.850Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 12,
+    "questionable": 10,
     "doubtful": 0,
-    "out": 55
+    "out": 61
   },
   "questionable": [
     {
@@ -24,16 +24,6 @@
       "player_name": "Curtis Samuel",
       "position": "WR",
       "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11600",
-      "source_id": "4431588",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -64,16 +54,6 @@
       "player_name": "Kalif Raymond",
       "position": "WR",
       "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6865",
-      "source_id": "4242557",
-      "player_name": "Colby Parkinson",
-      "position": "TE",
-      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -186,6 +166,16 @@
       "source_id": "4241416",
       "player_name": "Chuba Hubbard",
       "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11600",
+      "source_id": "4431588",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
       "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -362,6 +352,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11644",
+      "source_id": "4391845",
+      "player_name": "Cody Schrader",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11604",
       "source_id": "4432665",
       "player_name": "Brock Bowers",
@@ -397,6 +397,46 @@
       "player_name": "Tutu Atwell",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "6865",
+      "source_id": "4242557",
+      "player_name": "Colby Parkinson",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12500",
+      "source_id": "4889929",
+      "player_name": "Quinn Ewers",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11643",
+      "source_id": "4682745",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
