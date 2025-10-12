@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-12T20:17:48.931Z",
+  "lastUpdated": "2025-10-12T20:38:19.789Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 11,
+    "questionable": 12,
     "doubtful": 0,
     "out": 65
   },
@@ -84,6 +84,16 @@
       "player_name": "Kalif Raymond",
       "position": "WR",
       "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
