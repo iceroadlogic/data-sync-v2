@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-12T19:37:02.422Z",
+  "lastUpdated": "2025-10-12T19:50:21.343Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 9,
+    "questionable": 10,
     "doubtful": 0,
     "out": 66
   },
@@ -54,6 +54,16 @@
       "player_name": "Colston Loveland",
       "position": "TE",
       "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
