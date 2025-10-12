@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-12T20:47:06.671Z",
+  "lastUpdated": "2025-10-12T22:21:53.133Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "18 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "39%"
+        "temp": 55,
+        "wind": "18 to 22 mph NE",
+        "conditions": "Rain",
+        "precipitation": "98%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "18 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "39%"
+        "temp": 55,
+        "wind": "18 to 22 mph NE",
+        "conditions": "Rain",
+        "precipitation": "98%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "10 mph E",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "temp": 50,
+        "wind": "5 to 10 mph NE",
+        "conditions": "Slight Chance Rain Showers then Partly Cloudy",
+        "precipitation": "16%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "5 mph E",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "17%"
+        "temp": 72,
+        "wind": "3 mph NE",
+        "conditions": "Slight Chance Rain Showers then Partly Cloudy",
+        "precipitation": "20%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "12 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "2%"
+        "temp": 62,
+        "wind": "7 to 13 mph NW",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "18%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "20 mph NE",
-        "conditions": "Scattered Rain Showers",
-        "precipitation": "29%"
+        "temp": 57,
+        "wind": "15 to 18 mph N",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "53%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "8 mph NW",
+        "wind": "8 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
