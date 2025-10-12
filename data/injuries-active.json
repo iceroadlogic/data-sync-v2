@@ -1,13 +1,43 @@
 {
-  "lastUpdated": "2025-10-12T16:57:57.071Z",
+  "lastUpdated": "2025-10-12T18:45:08.171Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 10,
+    "questionable": 16,
     "doubtful": 0,
     "out": 61
   },
   "questionable": [
+    {
+      "player_id": "11199",
+      "source_id": "4362478",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11381",
+      "source_id": "4259324",
+      "player_name": "Travis Vokolek",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "10236",
       "source_id": "4385690",
@@ -59,11 +89,41 @@
       "injury_description": null
     },
     {
+      "player_id": "11586",
+      "source_id": "4429096",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "3161",
       "source_id": "2573079",
       "player_name": "Carson Wentz",
       "position": "QB",
       "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8146",
+      "source_id": "4569618",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
