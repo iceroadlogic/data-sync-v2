@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-12T18:55:57.538Z",
+  "lastUpdated": "2025-10-12T19:13:02.981Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 15,
+    "questionable": 9,
     "doubtful": 0,
-    "out": 62
+    "out": 66
   },
   "questionable": [
     {
@@ -13,16 +13,6 @@
       "source_id": "4362478",
       "player_name": "Emari Demercado",
       "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
-      "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -69,41 +59,11 @@
       "injury_description": null
     },
     {
-      "player_id": "7564",
-      "source_id": "4362628",
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "3634",
       "source_id": "2973405",
       "player_name": "Kalif Raymond",
       "position": "WR",
       "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11586",
-      "source_id": "4429096",
-      "player_name": "Blake Corum",
-      "position": "RB",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -129,26 +89,6 @@
       "injury_description": null
     },
     {
-      "player_id": "7049",
-      "source_id": "3886598",
-      "player_name": "Jauan Jennings",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7527",
-      "source_id": "4241464",
-      "player_name": "Mac Jones",
-      "position": "QB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "5872",
       "source_id": "3126486",
       "player_name": "Deebo Samuel",
@@ -161,6 +101,16 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "5849",
       "source_id": "3917315",
@@ -238,6 +188,26 @@
       "position": "RB",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11640",
+      "source_id": "4429033",
+      "player_name": "Jermaine Burton",
+      "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12062",
+      "source_id": "4700712",
+      "player_name": "Cam Grandy",
+      "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -637,6 +607,16 @@
       "player_name": "Calvin Austin III",
       "position": "WR",
       "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
