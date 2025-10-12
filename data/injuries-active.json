@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-12T20:50:52.915Z",
+  "lastUpdated": "2025-10-12T22:17:19.220Z",
   "week": 6,
   "summary": {
     "total_players": 758,
     "questionable": 12,
     "doubtful": 0,
-    "out": 65
+    "out": 67
   },
   "questionable": [
     {
@@ -216,6 +216,16 @@
       "source_id": "4429033",
       "player_name": "Jermaine Burton",
       "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4993",
+      "source_id": "3116164",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -755,6 +765,16 @@
       "player_id": "11959",
       "source_id": "4362617",
       "player_name": "Bryce Oliver",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4981",
+      "source_id": "3925357",
+      "player_name": "Calvin Ridley",
       "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "active",
