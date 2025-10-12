@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-12T06:25:51.990Z",
+  "lastUpdated": "2025-10-12T14:09:13.088Z",
   "week": 6,
   "summary": {
     "total_players": 758,
     "questionable": 18,
     "doubtful": 0,
-    "out": 41
+    "out": 44
   },
   "questionable": [
     {
@@ -292,6 +292,26 @@
       "injury_description": null
     },
     {
+      "player_id": "8208",
+      "source_id": "4362748",
+      "player_name": "Tyler Badie",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7583",
+      "source_id": "4241820",
+      "player_name": "Sam Ehlinger",
+      "position": "QB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11729",
       "source_id": "4912274",
       "player_name": "Sione Vaki",
@@ -426,6 +446,16 @@
       "source_id": "3128390",
       "player_name": "Allen Lazard",
       "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8219",
+      "source_id": "4241410",
+      "player_name": "Jelani Woods",
+      "position": "TE",
       "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Out",
