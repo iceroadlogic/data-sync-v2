@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-13T22:14:16.189Z",
+  "lastUpdated": "2025-10-13T22:22:18.910Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "14 to 17 mph NE",
+        "temp": 59,
+        "wind": "17 mph NE",
         "conditions": "Light Rain Likely",
-        "precipitation": "64%"
+        "precipitation": "59%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "14 to 17 mph NE",
+        "temp": 59,
+        "wind": "17 mph NE",
         "conditions": "Light Rain Likely",
-        "precipitation": "64%"
+        "precipitation": "59%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "6 to 10 mph NE",
-        "conditions": "Mostly Clear",
-        "precipitation": "7%"
+        "temp": 85,
+        "wind": "10 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -74,9 +74,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "3 to 10 mph N",
-        "conditions": "Mostly Clear",
+        "temp": 84,
+        "wind": "10 mph N",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -100,9 +100,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "2 to 6 mph NNE",
-        "conditions": "Mostly Clear",
+        "temp": 85,
+        "wind": "6 mph NNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
