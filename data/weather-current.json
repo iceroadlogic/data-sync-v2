@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-13T21:50:43.485Z",
+  "lastUpdated": "2025-10-13T22:14:16.189Z",
   "games": [
     {
       "game_id": "401772940",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "17 mph NE",
+        "temp": 54,
+        "wind": "14 to 17 mph NE",
         "conditions": "Light Rain Likely",
-        "precipitation": "59%"
+        "precipitation": "64%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "17 mph NE",
+        "temp": 54,
+        "wind": "14 to 17 mph NE",
         "conditions": "Light Rain Likely",
-        "precipitation": "59%"
+        "precipitation": "64%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "9 mph NE",
-        "conditions": "Partly Sunny",
+        "temp": 49,
+        "wind": "5 to 9 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
     },
@@ -48,9 +48,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "7 mph N",
-        "conditions": "Sunny",
+        "temp": 56,
+        "wind": "2 to 6 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "10 mph NE",
-        "conditions": "Sunny",
-        "precipitation": "4%"
+        "temp": 73,
+        "wind": "6 to 10 mph NE",
+        "conditions": "Mostly Clear",
+        "precipitation": "7%"
       }
     },
     {
@@ -74,9 +74,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "10 mph N",
-        "conditions": "Sunny",
+        "temp": 63,
+        "wind": "3 to 10 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -87,10 +87,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "16 mph N",
+        "temp": 55,
+        "wind": "15 mph N",
         "conditions": "Rain Showers Likely",
-        "precipitation": "66%"
+        "precipitation": "59%"
       }
     },
     {
@@ -100,9 +100,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "6 mph NNW",
-        "conditions": "Sunny",
+        "temp": 66,
+        "wind": "2 to 6 mph NNE",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 mph WSW",
+        "wind": "5 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
