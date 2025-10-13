@@ -1,20 +1,7 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-13T22:49:31.285Z",
+  "lastUpdated": "2025-10-13T23:10:22.092Z",
   "games": [
-    {
-      "game_id": "401772940",
-      "home_team": "NYG",
-      "away_team": "PHI",
-      "stadium": "MetLife Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 59,
-        "wind": "17 mph NE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "59%"
-      }
-    },
     {
       "game_id": "401772634",
       "home_team": "NYJ",
@@ -36,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "5 to 9 mph N",
+        "wind": "7 mph N",
         "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
@@ -48,9 +35,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "7 mph N",
-        "conditions": "Sunny",
+        "temp": 56,
+        "wind": "2 to 6 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -75,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "3 to 10 mph N",
+        "wind": "3 to 9 mph N",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -113,10 +100,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 mph WSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "temp": 42,
+        "wind": "6 mph NNW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -126,10 +113,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "6 mph N",
+        "temp": 64,
+        "wind": "5 mph NE",
         "conditions": "Cloudy",
-        "precipitation": "10%"
+        "precipitation": "11%"
       }
     },
     {
@@ -140,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "14 mph N",
+        "wind": "13 mph N",
         "conditions": "Rain Showers Likely",
         "precipitation": "58%"
       }
