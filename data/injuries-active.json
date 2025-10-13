@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-10-13T22:29:43.779Z",
+  "lastUpdated": "2025-10-13T22:39:17.972Z",
   "week": 6,
   "summary": {
     "total_players": 758,
-    "questionable": 17,
-    "doubtful": 0,
+    "questionable": 16,
+    "doubtful": 1,
     "out": 49
   },
   "questionable": [
@@ -129,16 +129,6 @@
       "injury_description": null
     },
     {
-      "player_id": "8146",
-      "source_id": "4569618",
-      "player_name": "Garrett Wilson",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7049",
       "source_id": "3886598",
       "player_name": "Jauan Jennings",
@@ -179,7 +169,18 @@
       "injury_description": null
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "8146",
+      "source_id": "4569618",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    }
+  ],
   "out": [
     {
       "player_id": "5849",
