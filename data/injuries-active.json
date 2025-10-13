@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-13T22:17:31.451Z",
+  "lastUpdated": "2025-10-13T22:29:43.779Z",
   "week": 6,
   "summary": {
     "total_players": 758,
     "questionable": 17,
     "doubtful": 0,
-    "out": 48
+    "out": 49
   },
   "questionable": [
     {
@@ -397,6 +397,16 @@
       "player_name": "Tyler Goodson",
       "position": "RB",
       "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7536",
+      "source_id": "4244049",
+      "player_name": "Quintin Morris",
+      "position": "TE",
+      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
