@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-13T16:31:53.570Z",
+  "lastUpdated": "2025-10-13T21:14:35.610Z",
   "games": [
     {
       "game_id": "401772940",
@@ -11,8 +11,8 @@
       "weather": {
         "temp": 59,
         "wind": "17 mph NE",
-        "conditions": "Rain",
-        "precipitation": "96%"
+        "conditions": "Light Rain Likely",
+        "precipitation": "59%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 59,
         "wind": "17 mph NE",
-        "conditions": "Rain",
-        "precipitation": "96%"
+        "conditions": "Light Rain Likely",
+        "precipitation": "59%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "10 mph NE",
+        "wind": "9 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "precipitation": "1%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "10 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "11%"
+        "wind": "7 mph N",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
+        "temp": 85,
         "wind": "10 mph NE",
         "conditions": "Sunny",
-        "precipitation": "10%"
+        "precipitation": "4%"
       }
     },
     {
@@ -74,8 +74,8 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 81,
-        "wind": "9 mph N",
+        "temp": 80,
+        "wind": "8 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "20 mph N",
-        "conditions": "Light Rain Likely",
-        "precipitation": "70%"
+        "wind": "16 mph N",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "66%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 85,
-        "wind": "6 mph N",
+        "wind": "6 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "6 mph WSW",
-        "conditions": "Slight Chance Rain Showers then Partly Sunny",
-        "precipitation": "19%"
+        "wind": "5 mph WSW",
+        "conditions": "Partly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -127,9 +127,9 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "7 mph N",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "wind": "6 mph N",
+        "conditions": "Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -141,8 +141,8 @@
       "weather": {
         "temp": 54,
         "wind": "14 mph N",
-        "conditions": "Light Rain Likely",
-        "precipitation": "55%"
+        "conditions": "Rain Showers Likely",
+        "precipitation": "58%"
       }
     }
   ]
