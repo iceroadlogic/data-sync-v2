@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2025-10-14T10:27:20.063Z",
+  "lastUpdated": "2025-10-14T16:31:53.408Z",
   "games": [
     {
       "game_id": "401772940",
@@ -11,8 +11,8 @@
       "weather": {
         "temp": 64,
         "wind": "10 to 14 mph N",
-        "conditions": "Slight Chance Light Rain then Mostly Cloudy",
-        "precipitation": "16%"
+        "conditions": "Partly Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 64,
         "wind": "10 to 14 mph N",
-        "conditions": "Slight Chance Light Rain then Mostly Cloudy",
-        "precipitation": "16%"
+        "conditions": "Partly Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -35,8 +35,8 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "5 to 10 mph N",
+        "temp": 71,
+        "wind": "8 to 12 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "6 to 10 mph N",
+        "wind": "10 mph NNE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "8 to 14 mph NE",
+        "wind": "13 mph NE",
         "conditions": "Sunny",
         "precipitation": "3%"
       }
@@ -75,8 +75,8 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "2 to 10 mph N",
-        "conditions": "Areas Of Fog then Sunny",
+        "wind": "6 to 9 mph NE",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     },
@@ -87,10 +87,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "14 mph N",
-        "conditions": "Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "19%"
+        "temp": 71,
+        "wind": "10 to 14 mph N",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "2 to 7 mph NE",
+        "wind": "7 mph NNE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -113,10 +113,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "7 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 60,
+        "wind": "8 mph NNE",
+        "conditions": "Mostly Cloudy then Chance Rain Showers",
+        "precipitation": "29%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "3 mph E",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "temp": 78,
+        "wind": "6 mph SE",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "13%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
+        "temp": 70,
         "wind": "12 mph N",
-        "conditions": "Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "20%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "2%"
       }
     }
   ]
