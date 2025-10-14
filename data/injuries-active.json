@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-13T23:19:52.832Z",
+  "lastUpdated": "2025-10-14T06:29:22.469Z",
   "week": 6,
   "summary": {
-    "total_players": 758,
-    "questionable": 14,
+    "total_players": 759,
+    "questionable": 16,
     "doubtful": 1,
     "out": 51
   },
@@ -34,6 +34,26 @@
       "player_name": "Travis Vokolek",
       "position": "TE",
       "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
