@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-10-13T20:13:16.986Z",
+  "lastUpdated": "2025-10-14T12:22:39.431Z",
   "week": 6,
   "summary": {
-    "total_players": 758,
-    "ir": 69,
-    "suspended": 1
+    "total_players": 759,
+    "ir": 70,
+    "suspended": 0
   },
   "ir": [
     {
@@ -282,6 +282,16 @@
       "source_id": "4249030",
       "player_name": "D.J. Montgomery",
       "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9229",
+      "source_id": "4429084",
+      "player_name": "Anthony Richardson Sr.",
+      "position": "QB",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -698,16 +708,5 @@
       "injury_description": null
     }
   ],
-  "suspended": [
-    {
-      "player_id": "10229",
-      "source_id": "4428331",
-      "player_name": "Rashee Rice",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "news",
-      "injury_designation": "Suspension",
-      "injury_description": null
-    }
-  ]
+  "suspended": []
 }
