@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-15T16:12:22.708Z",
+  "lastUpdated": "2025-10-15T20:13:20.917Z",
   "week": 7,
   "summary": {
-    "total_players": 757,
-    "ir": 71,
+    "total_players": 759,
+    "ir": 73,
     "suspended": 0
   },
   "ir": [
@@ -31,6 +31,16 @@
       "player_id": "11716",
       "source_id": "4696700",
       "player_name": "Tip Reiman",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11381",
+      "source_id": "4259324",
+      "player_name": "Travis Vokolek",
       "position": "TE",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
@@ -694,6 +704,16 @@
       "position": "RB",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4234",
+      "source_id": "3121409",
+      "player_name": "Noah Brown",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
