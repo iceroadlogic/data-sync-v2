@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-15T16:28:24.675Z",
+  "lastUpdated": "2025-10-15T22:21:44.165Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,8 +9,8 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "3 mph E",
+        "temp": 44,
+        "wind": "1 to 5 mph E",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "5 to 9 mph S",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "17%"
+        "temp": 84,
+        "wind": "3 to 9 mph S",
+        "conditions": "Sunny",
+        "precipitation": "6%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "10 to 15 mph W",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "81%"
+        "temp": 71,
+        "wind": "15 mph W",
+        "conditions": "Rain Showers",
+        "precipitation": "83%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "7 to 10 mph WNW",
-        "conditions": "Sunny",
-        "precipitation": "13%"
+        "temp": 64,
+        "wind": "10 mph WNW",
+        "conditions": "Slight Chance Rain Showers then Sunny",
+        "precipitation": "15%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "10 to 15 mph WNW",
+        "temp": 58,
+        "wind": "15 to 20 mph WNW",
         "conditions": "Rain Showers Likely",
-        "precipitation": "61%"
+        "precipitation": "71%"
       }
     },
     {
@@ -76,8 +76,8 @@
       "weather": {
         "temp": 70,
         "wind": "2 to 13 mph S",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
-        "precipitation": "17%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "10 to 17 mph SW",
+        "temp": 68,
+        "wind": "14 to 20 mph S",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "84%"
+        "precipitation": "85%"
       }
     },
     {
@@ -100,8 +100,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "6 mph SSE",
+        "temp": 76,
+        "wind": "6 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -113,8 +113,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "0 to 10 mph WSW",
+        "temp": 76,
+        "wind": "0 to 10 mph SW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -126,10 +126,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "2 to 12 mph SW",
+        "temp": 74,
+        "wind": "2 to 10 mph SW",
         "conditions": "Sunny",
-        "precipitation": "4%"
+        "precipitation": "0%"
       }
     },
     {
@@ -139,10 +139,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "6 mph S",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "38%"
+        "temp": 48,
+        "wind": "6 mph SSE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "41%"
       }
     }
   ]
