@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-15T12:23:21.031Z",
+  "lastUpdated": "2025-10-15T16:12:22.708Z",
   "week": 7,
   "summary": {
     "total_players": 757,
-    "ir": 70,
+    "ir": 71,
     "suspended": 0
   },
   "ir": [
@@ -102,6 +102,16 @@
       "source_id": "3915511",
       "player_name": "Joe Burrow",
       "position": "QB",
+      "team_abbr": "CIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4993",
+      "source_id": "3116164",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
