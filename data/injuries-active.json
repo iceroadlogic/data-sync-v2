@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-16T21:36:05.328Z",
+  "lastUpdated": "2025-10-16T21:49:17.370Z",
   "week": 7,
   "summary": {
     "total_players": 761,
-    "questionable": 55,
+    "questionable": 53,
     "doubtful": 3,
     "out": 18
   },
@@ -39,30 +39,10 @@
       "injury_description": null
     },
     {
-      "player_id": "8122",
-      "source_id": "4427728",
-      "player_name": "Bam Knight",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "5849",
       "source_id": "3917315",
       "player_name": "Kyler Murray",
       "position": "QB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10232",
-      "source_id": "4360761",
-      "player_name": "Michael Wilson",
-      "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Questionable",
