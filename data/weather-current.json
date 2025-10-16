@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-15T22:21:44.165Z",
+  "lastUpdated": "2025-10-16T10:28:36.504Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "1 to 5 mph E",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 43,
+        "wind": "3 mph E",
+        "conditions": "Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "3 to 9 mph S",
+        "wind": "3 to 8 mph S",
         "conditions": "Sunny",
-        "precipitation": "6%"
+        "precipitation": "8%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
+        "temp": 72,
         "wind": "15 mph W",
-        "conditions": "Rain Showers",
-        "precipitation": "83%"
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "90%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "10 mph WNW",
-        "conditions": "Slight Chance Rain Showers then Sunny",
-        "precipitation": "15%"
+        "temp": 66,
+        "wind": "7 to 10 mph W",
+        "conditions": "Sunny",
+        "precipitation": "6%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "15 to 20 mph WNW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "71%"
+        "wind": "20 to 25 mph W",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "83%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "2 to 13 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "13%"
+        "temp": 71,
+        "wind": "3 to 15 mph S",
+        "conditions": "Partly Sunny then Chance Rain Showers",
+        "precipitation": "26%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "14 to 20 mph S",
+        "temp": 69,
+        "wind": "15 to 23 mph SW",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "85%"
+        "precipitation": "94%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "6 mph SSE",
+        "wind": "6 mph S",
         "conditions": "Chance Light Rain",
-        "precipitation": "41%"
+        "precipitation": "42%"
       }
     }
   ]
