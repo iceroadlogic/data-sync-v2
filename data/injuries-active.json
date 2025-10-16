@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-16T14:20:24.218Z",
+  "lastUpdated": "2025-10-16T21:13:21.214Z",
   "week": 7,
   "summary": {
     "total_players": 761,
-    "questionable": 58,
+    "questionable": 55,
     "doubtful": 3,
     "out": 18
   },
@@ -109,20 +109,20 @@
       "injury_description": null
     },
     {
-      "player_id": "11600",
-      "source_id": "4431588",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "team_abbr": "CAR",
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
+      "player_id": "6790",
+      "source_id": "4259545",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -152,16 +152,6 @@
       "player_id": "4033",
       "source_id": "3123076",
       "player_name": "David Njoku",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11201",
-      "source_id": "4362018",
-      "player_name": "Blake Whiteheart",
       "position": "TE",
       "team_abbr": "CLE",
       "injury_status": "active",
@@ -249,11 +239,11 @@
       "injury_description": null
     },
     {
-      "player_id": "12455",
-      "source_id": "4596602",
-      "player_name": "Brashard Smith",
-      "position": "RB",
-      "team_abbr": "KC",
+      "player_id": "7587",
+      "source_id": "4361577",
+      "player_name": "Dyami Brown",
+      "position": "WR",
+      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -304,16 +294,6 @@
       "player_name": "Quentin Johnston",
       "position": "WR",
       "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7562",
-      "source_id": "4360797",
-      "player_name": "Tutu Atwell",
-      "position": "WR",
-      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -393,16 +373,6 @@
       "source_id": "3054850",
       "player_name": "Alvin Kamara",
       "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8144",
-      "source_id": "4361370",
-      "player_name": "Chris Olave",
-      "position": "WR",
       "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
