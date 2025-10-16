@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-16T22:15:24.745Z",
+  "lastUpdated": "2025-10-16T22:29:00.339Z",
   "week": 7,
   "summary": {
     "total_players": 761,
-    "questionable": 53,
+    "questionable": 52,
     "doubtful": 3,
     "out": 18
   },
@@ -269,16 +269,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9754",
-      "source_id": "4429025",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "11586",
       "source_id": "4429096",
       "player_name": "Blake Corum",
@@ -409,16 +399,6 @@
       "injury_description": null
     },
     {
-      "player_id": "7527",
-      "source_id": "4241464",
-      "player_name": "Mac Jones",
-      "position": "QB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8168",
       "source_id": "4430191",
       "player_name": "Skyy Moore",
@@ -443,6 +423,16 @@
       "source_id": "4361741",
       "player_name": "Brock Purdy",
       "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5086",
+      "source_id": "3051738",
+      "player_name": "Marquez Valdes-Scantling",
+      "position": "WR",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
