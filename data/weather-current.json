@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-17T10:27:08.153Z",
+  "lastUpdated": "2025-10-17T16:31:11.490Z",
   "games": [
     {
       "game_id": "401772941",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "1 to 6 mph SE",
+        "wind": "6 mph SE",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
       }
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 85,
-        "wind": "3 to 9 mph S",
+        "wind": "6 to 10 mph S",
         "conditions": "Sunny",
         "precipitation": "7%"
       }
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "15 mph W",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "95%"
+        "wind": "15 to 20 mph W",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "55%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "3 to 15 mph S",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
-        "precipitation": "23%"
+        "wind": "3 to 16 mph S",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "16%"
       }
     },
     {
@@ -100,8 +100,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "3 to 7 mph SSW",
+        "temp": 78,
+        "wind": "3 to 7 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
