@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-17T16:31:11.490Z",
+  "lastUpdated": "2025-10-17T22:22:38.226Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "6 mph SE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "temp": 55,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 85,
+        "temp": 86,
         "wind": "6 to 10 mph S",
         "conditions": "Sunny",
-        "precipitation": "7%"
+        "precipitation": "10%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "10 mph WNW",
+        "wind": "8 to 12 mph WNW",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "20 to 25 mph NW",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "86%"
+        "wind": "20 to 25 mph WNW",
+        "conditions": "Rain Showers",
+        "precipitation": "91%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "3 to 16 mph S",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
-        "precipitation": "16%"
+        "temp": 73,
+        "wind": "2 to 16 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "17 to 25 mph SW",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "98%"
+        "temp": 73,
+        "wind": "20 to 28 mph SW",
+        "conditions": "Rain Showers",
+        "precipitation": "99%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "3 to 7 mph SW",
+        "wind": "3 to 8 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -114,8 +114,8 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 10 mph SW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "0 to 5 mph SSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -127,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "2 to 8 mph WNW",
+        "wind": "2 to 9 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -139,10 +139,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "6 mph S",
-        "conditions": "Chance Light Rain then Chance Rain Showers",
-        "precipitation": "50%"
+        "temp": 49,
+        "wind": "2 to 6 mph SSE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "48%"
       }
     }
   ]
