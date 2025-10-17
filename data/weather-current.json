@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-16T23:24:54.782Z",
+  "lastUpdated": "2025-10-17T10:27:08.153Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "3 mph E",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 72,
+        "wind": "1 to 6 mph SE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -22,8 +22,8 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "3 to 8 mph S",
+        "temp": 85,
+        "wind": "3 to 9 mph S",
         "conditions": "Sunny",
         "precipitation": "7%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
+        "temp": 69,
         "wind": "15 mph W",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "88%"
+        "precipitation": "95%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "7 to 10 mph W",
+        "wind": "10 mph WNW",
         "conditions": "Sunny",
         "precipitation": "3%"
       }
@@ -62,8 +62,8 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "20 to 25 mph WNW",
-        "conditions": "Rain Showers",
+        "wind": "20 to 25 mph NW",
+        "conditions": "Showers And Thunderstorms",
         "precipitation": "86%"
       }
     },
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "15 to 26 mph SW",
+        "temp": 71,
+        "wind": "17 to 25 mph SW",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "93%"
+        "precipitation": "98%"
       }
     },
     {
@@ -126,8 +126,8 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "2 to 9 mph WSW",
+        "temp": 76,
+        "wind": "2 to 8 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -139,10 +139,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "5 mph SSE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "42%"
+        "temp": 50,
+        "wind": "6 mph S",
+        "conditions": "Chance Light Rain then Chance Rain Showers",
+        "precipitation": "50%"
       }
     }
   ]
