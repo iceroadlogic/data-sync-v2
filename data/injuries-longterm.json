@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-17T20:13:19.793Z",
+  "lastUpdated": "2025-10-18T12:19:12.644Z",
   "week": 7,
   "summary": {
-    "total_players": 764,
-    "ir": 73,
+    "total_players": 762,
+    "ir": 74,
     "suspended": 0
   },
   "ir": [
@@ -73,7 +73,7 @@
       "player_name": "Jalen Coker",
       "position": "WR",
       "team_abbr": "CAR",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -642,6 +642,16 @@
       "source_id": "4039358",
       "player_name": "Patrick Taylor Jr.",
       "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5086",
+      "source_id": "3051738",
+      "player_name": "Marquez Valdes-Scantling",
+      "position": "WR",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
