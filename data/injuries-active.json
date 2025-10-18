@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-17T22:17:37.018Z",
+  "lastUpdated": "2025-10-18T06:26:31.066Z",
   "week": 7,
   "summary": {
-    "total_players": 764,
-    "questionable": 20,
+    "total_players": 762,
+    "questionable": 21,
     "doubtful": 5,
     "out": 31
   },
@@ -94,6 +94,16 @@
       "player_name": "Dontayvion Wicks",
       "position": "WR",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4950",
+      "source_id": "3895856",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
