@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-18T16:12:13.630Z",
+  "lastUpdated": "2025-10-18T20:11:12.186Z",
   "week": 7,
   "summary": {
     "total_players": 762,
-    "ir": 74,
+    "ir": 73,
     "suspended": 0
   },
   "ir": [
@@ -64,16 +64,6 @@
       "position": "WR",
       "team_abbr": "BAL",
       "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11646",
-      "source_id": "4695883",
-      "player_name": "Jalen Coker",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
