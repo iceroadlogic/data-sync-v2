@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-19T06:27:34.256Z",
+  "lastUpdated": "2025-10-19T14:09:24.591Z",
   "week": 7,
   "summary": {
     "total_players": 759,
     "questionable": 19,
     "doubtful": 2,
-    "out": 39
+    "out": 42
   },
   "questionable": [
     {
@@ -428,6 +428,36 @@
       "player_name": "Quintin Morris",
       "position": "TE",
       "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11644",
+      "source_id": "4391845",
+      "player_name": "Cody Schrader",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
