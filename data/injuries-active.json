@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-19T19:37:20.048Z",
+  "lastUpdated": "2025-10-19T19:50:58.938Z",
   "week": 7,
   "summary": {
     "total_players": 759,
-    "questionable": 10,
+    "questionable": 11,
     "doubtful": 0,
     "out": 65
   },
@@ -34,6 +34,16 @@
       "player_name": "Joshua Palmer",
       "position": "WR",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9228",
+      "source_id": "4685720",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
