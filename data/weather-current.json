@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-19T20:46:32.248Z",
+  "lastUpdated": "2025-10-19T22:22:30.065Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "20 mph W",
-        "conditions": "Rain",
-        "precipitation": "97%"
+        "temp": 42,
+        "wind": "6 to 18 mph W",
+        "conditions": "Rain then Partly Cloudy",
+        "precipitation": "98%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "15 to 20 mph WNW",
+        "wind": "15 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "8 mph W",
+        "wind": "6 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "20 mph WNW",
+        "wind": "15 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "precipitation": "0%"
       }
     },
     {
@@ -75,7 +75,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "12 mph S",
+        "wind": "13 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "21 mph SW",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "65%"
+        "temp": 50,
+        "wind": "21 to 28 mph W",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "96%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "8 mph WSW",
+        "wind": "7 mph W",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -114,8 +114,8 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 5 mph SW",
-        "conditions": "Partly Sunny",
+        "wind": "5 mph WSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -127,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "7 to 13 mph NW",
+        "wind": "8 to 13 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -139,10 +139,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 45,
-        "wind": "3 mph SE",
-        "conditions": "Slight Chance Rain Showers then Partly Cloudy",
-        "precipitation": "20%"
+        "temp": 46,
+        "wind": "3 mph SSE",
+        "conditions": "Slight Chance Light Rain then Partly Cloudy",
+        "precipitation": "22%"
       }
     }
   ]
