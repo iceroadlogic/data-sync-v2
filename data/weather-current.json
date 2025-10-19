@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-19T16:48:25.963Z",
+  "lastUpdated": "2025-10-19T18:44:14.071Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "18 mph W",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "95%"
+        "temp": 67,
+        "wind": "20 mph W",
+        "conditions": "Rain",
+        "precipitation": "97%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "13 mph SW",
+        "wind": "12 mph SW",
         "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "27%"
+        "precipitation": "33%"
       }
     },
     {
@@ -38,7 +38,7 @@
         "temp": 69,
         "wind": "15 to 20 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "precipitation": "2%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "10 mph WNW",
+        "wind": "6 to 9 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "20 to 25 mph NW",
-        "conditions": "Rain Likely",
-        "precipitation": "56%"
+        "wind": "20 to 25 mph WNW",
+        "conditions": "Slight Chance Rain",
+        "precipitation": "20%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "12 to 15 mph S",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "wind": "13 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -90,7 +90,7 @@
         "temp": 72,
         "wind": "21 mph SW",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "82%"
+        "precipitation": "75%"
       }
     },
     {
