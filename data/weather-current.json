@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-19T15:53:42.455Z",
+  "lastUpdated": "2025-10-19T16:11:14.480Z",
   "games": [
     {
       "game_id": "401772941",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "15 to 18 mph SW",
+        "wind": "15 to 18 mph W",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "97%"
+        "precipitation": "95%"
       }
     },
     {
@@ -23,8 +23,8 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "12 mph SW",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "wind": "13 mph SW",
+        "conditions": "Slight Chance Showers And Thunderstorms",
         "precipitation": "27%"
       }
     },
@@ -37,8 +37,8 @@
       "weather": {
         "temp": 69,
         "wind": "15 to 20 mph WNW",
-        "conditions": "Chance Rain Showers then Partly Sunny",
-        "precipitation": "45%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
@@ -75,7 +75,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "10 to 15 mph S",
+        "wind": "8 to 15 mph S",
         "conditions": "Partly Sunny",
         "precipitation": "1%"
       }
@@ -89,7 +89,7 @@
       "weather": {
         "temp": 72,
         "wind": "10 to 24 mph SW",
-        "conditions": "Rain Showers",
+        "conditions": "Showers And Thunderstorms",
         "precipitation": "100%"
       }
     },
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "8 mph SW",
+        "wind": "5 to 8 mph SW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -114,7 +114,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 5 mph SW",
+        "wind": "0 to 5 mph SSW",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
