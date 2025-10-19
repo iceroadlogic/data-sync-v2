@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-18T20:11:12.186Z",
+  "lastUpdated": "2025-10-19T12:19:21.083Z",
   "week": 7,
   "summary": {
-    "total_players": 762,
-    "ir": 73,
+    "total_players": 759,
+    "ir": 70,
     "suspended": 0
   },
   "ir": [
@@ -81,16 +81,6 @@
       "player_id": "13080",
       "source_id": "4575667",
       "player_name": "Deion Hankins",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "6012",
-      "source_id": "4037457",
-      "player_name": "Travis Homer",
       "position": "RB",
       "team_abbr": "CHI",
       "injury_status": "day-to-day",
@@ -608,16 +598,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4217",
-      "source_id": "3040151",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "4218",
       "source_id": "3040569",
       "player_name": "Trent Taylor",
@@ -632,16 +612,6 @@
       "source_id": "4039358",
       "player_name": "Patrick Taylor Jr.",
       "position": "RB",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "5086",
-      "source_id": "3051738",
-      "player_name": "Marquez Valdes-Scantling",
-      "position": "WR",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
