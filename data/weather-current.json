@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-19T10:23:52.318Z",
+  "lastUpdated": "2025-10-19T14:20:25.583Z",
   "games": [
     {
       "game_id": "401772941",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "15 to 18 mph SW",
+        "wind": "15 to 18 mph W",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "97%"
+        "precipitation": "95%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "7 to 15 mph S",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "48%"
+        "wind": "12 mph SW",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "27%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "15 to 20 mph W",
+        "temp": 69,
+        "wind": "15 to 20 mph WNW",
         "conditions": "Chance Showers And Thunderstorms then Partly Sunny",
-        "precipitation": "56%"
+        "precipitation": "49%"
       }
     },
     {
@@ -64,7 +64,7 @@
         "temp": 58,
         "wind": "20 to 25 mph NW",
         "conditions": "Rain then Rain Showers",
-        "precipitation": "96%"
+        "precipitation": "93%"
       }
     },
     {
@@ -75,8 +75,8 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "1 to 15 mph SE",
-        "conditions": "Mostly Sunny",
+        "wind": "8 to 15 mph S",
+        "conditions": "Partly Sunny",
         "precipitation": "1%"
       }
     },
@@ -88,8 +88,8 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "18 to 22 mph SW",
-        "conditions": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms",
+        "wind": "10 to 24 mph SW",
+        "conditions": "Showers And Thunderstorms",
         "precipitation": "100%"
       }
     },
