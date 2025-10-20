@@ -1,33 +1,13 @@
 {
-  "lastUpdated": "2025-10-19T22:17:39.566Z",
+  "lastUpdated": "2025-10-20T06:30:33.704Z",
   "week": 7,
   "summary": {
     "total_players": 759,
-    "questionable": 13,
+    "questionable": 14,
     "doubtful": 0,
-    "out": 63
+    "out": 65
   },
   "questionable": [
-    {
-      "player_id": "7531",
-      "source_id": "4034948",
-      "player_name": "Feleipe Franks",
-      "position": "TE",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7090",
-      "source_id": "4040655",
-      "player_name": "Darnell Mooney",
-      "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "7670",
       "source_id": "4242433",
@@ -59,6 +39,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4351",
       "source_id": "3134353",
       "player_name": "Tim Patrick",
@@ -84,6 +74,16 @@
       "player_name": "Darren Waller",
       "position": "TE",
       "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11299",
+      "source_id": "4257364",
+      "player_name": "Zavier Scott",
+      "position": "RB",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -134,6 +134,16 @@
       "player_name": "Mike Evans",
       "position": "WR",
       "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -662,6 +672,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11638",
       "source_id": "4428209",
       "player_name": "Ricky Pearsall",
@@ -676,6 +696,16 @@
       "source_id": "4361741",
       "player_name": "Brock Purdy",
       "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
