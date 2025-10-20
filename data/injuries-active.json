@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-20T21:35:26.358Z",
+  "lastUpdated": "2025-10-20T21:46:16.526Z",
   "week": 7,
   "summary": {
     "total_players": 760,
-    "questionable": 14,
+    "questionable": 11,
     "doubtful": 1,
     "out": 43
   },
@@ -104,36 +104,6 @@
       "player_name": "Kene Nwangwu",
       "position": "RB",
       "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2152",
-      "source_id": "16728",
-      "player_name": "Teddy Bridgewater",
-      "position": "QB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12514",
-      "source_id": "4567750",
-      "player_name": "Emeka Egbuka",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
