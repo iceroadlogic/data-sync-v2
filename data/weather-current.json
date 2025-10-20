@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-20T21:51:30.509Z",
+  "lastUpdated": "2025-10-20T22:14:50.498Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "9 mph S",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 50,
+        "wind": "6 to 9 mph S",
+        "conditions": "Mostly Clear then Slight Chance Light Rain",
+        "precipitation": "16%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "10 mph NE",
-        "conditions": "Sunny",
+        "temp": 61,
+        "wind": "2 to 10 mph NE",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -74,9 +74,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "15 mph W",
-        "conditions": "Slight Chance Rain Showers",
+        "temp": 47,
+        "wind": "7 to 14 mph W",
+        "conditions": "Slight Chance Rain Showers then Mostly Clear",
         "precipitation": "15%"
       }
     },
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "12 mph W",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 47,
+        "wind": "6 to 15 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "16 to 22 mph NNW",
+        "wind": "16 to 20 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
