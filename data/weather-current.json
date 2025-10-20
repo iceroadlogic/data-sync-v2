@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-20T22:14:50.498Z",
+  "lastUpdated": "2025-10-20T22:23:08.480Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "6 to 9 mph S",
-        "conditions": "Mostly Clear then Slight Chance Light Rain",
-        "precipitation": "16%"
+        "temp": 66,
+        "wind": "9 mph S",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "2 to 10 mph NE",
-        "conditions": "Mostly Clear",
+        "temp": 74,
+        "wind": "10 mph NE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -74,9 +74,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "7 to 14 mph W",
-        "conditions": "Slight Chance Rain Showers then Mostly Clear",
+        "temp": 63,
+        "wind": "15 mph W",
+        "conditions": "Slight Chance Rain Showers",
         "precipitation": "15%"
       }
     },
