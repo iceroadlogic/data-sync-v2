@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-19T22:22:30.065Z",
+  "lastUpdated": "2025-10-20T10:33:48.678Z",
   "games": [
     {
       "game_id": "401772941",
@@ -9,10 +9,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "6 to 18 mph W",
-        "conditions": "Rain then Partly Cloudy",
-        "precipitation": "98%"
+        "temp": 66,
+        "wind": "3 to 9 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "12 mph SW",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "33%"
+        "temp": 75,
+        "wind": "14 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "15 mph WNW",
-        "conditions": "Sunny",
+        "temp": 43,
+        "wind": "0 mph ",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -48,9 +48,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "6 mph WSW",
-        "conditions": "Sunny",
+        "temp": 52,
+        "wind": "9 mph S",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -61,9 +61,9 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "15 mph WNW",
-        "conditions": "Mostly Sunny",
+        "temp": 46,
+        "wind": "10 mph WSW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "13 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 64,
+        "wind": "8 to 15 mph SW",
+        "conditions": "Showers And Thunderstorms then Partly Sunny",
+        "precipitation": "76%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "21 to 28 mph W",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "96%"
+        "temp": 60,
+        "wind": "13 to 22 mph W",
+        "conditions": "Slight Chance Rain Showers then Mostly Sunny",
+        "precipitation": "19%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "7 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 47,
+        "wind": "9 to 13 mph NNW",
+        "conditions": "Mostly Clear",
+        "precipitation": "8%"
       }
     },
     {
@@ -113,9 +113,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "5 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 58,
+        "wind": "0 to 5 mph E",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -126,9 +126,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "8 to 13 mph NW",
-        "conditions": "Sunny",
+        "temp": 54,
+        "wind": "5 mph NW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -139,10 +139,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
+        "temp": 45,
         "wind": "3 mph SSE",
-        "conditions": "Slight Chance Light Rain then Partly Cloudy",
-        "precipitation": "22%"
+        "conditions": "Chance Light Rain then Partly Cloudy",
+        "precipitation": "26%"
       }
     }
   ]
