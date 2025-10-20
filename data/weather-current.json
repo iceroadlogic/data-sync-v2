@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-20T16:32:10.375Z",
+  "lastUpdated": "2025-10-20T21:15:04.996Z",
   "games": [
     {
       "game_id": "401772941",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "6 to 9 mph SW",
+        "wind": "9 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -22,9 +22,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "14 mph NE",
-        "conditions": "Mostly Sunny",
+        "temp": 74,
+        "wind": "10 mph NE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "5 to 15 mph S",
+        "wind": "10 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -48,8 +48,8 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "14 to 20 mph WSW",
+        "temp": 74,
+        "wind": "16 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -61,8 +61,8 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "15 to 20 mph S",
+        "temp": 65,
+        "wind": "20 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 63,
         "wind": "15 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "12%"
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "13 to 18 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "wind": "12 mph W",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -100,8 +100,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "16 to 28 mph NW",
+        "temp": 63,
+        "wind": "16 to 22 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -114,8 +114,8 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 10 mph SW",
-        "conditions": "Patchy Fog then Sunny",
+        "wind": "5 mph WSW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -127,7 +127,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "3 to 7 mph NNW",
+        "wind": "7 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
