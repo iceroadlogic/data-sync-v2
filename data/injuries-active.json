@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-20T21:46:16.526Z",
+  "lastUpdated": "2025-10-20T22:01:46.896Z",
   "week": 7,
   "summary": {
     "total_players": 760,
-    "questionable": 11,
+    "questionable": 12,
     "doubtful": 1,
     "out": 43
   },
@@ -93,6 +93,16 @@
       "source_id": "4257364",
       "player_name": "Zavier Scott",
       "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "3161",
+      "source_id": "2573079",
+      "player_name": "Carson Wentz",
+      "position": "QB",
       "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
