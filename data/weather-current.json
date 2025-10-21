@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2025-10-21T10:27:14.719Z",
+  "lastUpdated": "2025-10-21T16:35:32.025Z",
   "games": [
     {
       "game_id": "401772941",
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "3 to 9 mph W",
+        "wind": "6 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "10 mph SW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 74,
+        "wind": "10 to 15 mph W",
+        "conditions": "Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -48,9 +48,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "9 mph W",
-        "conditions": "Clear",
+        "temp": 63,
+        "wind": "16 to 20 mph WNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -61,10 +61,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "15 mph W",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 55,
+        "wind": "20 to 25 mph WSW",
+        "conditions": "Mostly Cloudy then Rain Showers Likely",
+        "precipitation": "61%"
       }
     },
     {
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "16 to 20 mph SW",
-        "conditions": "Rain Showers",
-        "precipitation": "88%"
+        "wind": "17 mph SW",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "21%"
       }
     },
     {
@@ -100,9 +100,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "5 mph SSW",
-        "conditions": "Clear",
+        "temp": 69,
+        "wind": "3 to 7 mph ESE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -113,10 +113,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "0 mph ",
-        "conditions": "Patchy Fog",
-        "precipitation": "0%"
+        "temp": 74,
+        "wind": "0 to 10 mph WSW",
+        "conditions": "Mostly Sunny then Patchy Fog",
+        "precipitation": "2%"
       }
     },
     {
@@ -139,9 +139,9 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "3 mph SSE",
-        "conditions": "Partly Cloudy",
+        "temp": 61,
+        "wind": "3 mph N",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     }
