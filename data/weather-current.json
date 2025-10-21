@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "week": 7,
   "lastUpdated": "2025-10-21T16:35:32.025Z",
   "games": [
@@ -117,6 +118,126 @@
         "wind": "0 to 10 mph WSW",
         "conditions": "Mostly Sunny then Patchy Fog",
         "precipitation": "2%"
+=======
+  "week": 8,
+  "lastUpdated": "2025-10-21T20:50:10.153Z",
+  "games": [
+    {
+      "game_id": "401772942",
+      "home_team": "LAC",
+      "away_team": "MIN",
+      "stadium": "SoFi Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 72,
+        "wind": "0 to 10 mph SW",
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401772758",
+      "home_team": "CIN",
+      "away_team": "NYJ",
+      "stadium": "Paycor Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 64,
+        "wind": "2 to 6 mph E",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "24%"
+      }
+    },
+    {
+      "game_id": "401772759",
+      "home_team": "BAL",
+      "away_team": "CHI",
+      "stadium": "M&T Bank Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 59,
+        "wind": "1 to 5 mph E",
+        "conditions": "Partly Sunny",
+        "precipitation": "6%"
+      }
+    },
+    {
+      "game_id": "401772865",
+      "home_team": "CAR",
+      "away_team": "BUF",
+      "stadium": "Bank of America Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 68,
+        "wind": "2 to 7 mph ENE",
+        "conditions": "Partly Sunny",
+        "precipitation": "4%"
+      }
+    },
+    {
+      "game_id": "401772867",
+      "home_team": "PHI",
+      "away_team": "NYG",
+      "stadium": "Lincoln Financial Field",
+      "is_dome": false,
+      "weather": {
+        "temp": 60,
+        "wind": "0 to 5 mph N",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
+      }
+    },
+    {
+      "game_id": "401772868",
+      "home_team": "NE",
+      "away_team": "CLE",
+      "stadium": "Gillette Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 52,
+        "wind": "5 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
+      }
+    },
+    {
+      "game_id": "401772762",
+      "home_team": "DEN",
+      "away_team": "DAL",
+      "stadium": "Empower Field at Mile High",
+      "is_dome": false,
+      "weather": {
+        "temp": 69,
+        "wind": "5 to 8 mph S",
+        "conditions": "Partly Sunny",
+        "precipitation": "10%"
+      }
+    },
+    {
+      "game_id": "401772925",
+      "home_team": "PIT",
+      "away_team": "GB",
+      "stadium": "Acrisure Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 42,
+        "wind": "5 mph E",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "23%"
+      }
+    },
+    {
+      "game_id": "401772817",
+      "home_team": "KC",
+      "away_team": "WAS",
+      "stadium": "Arrowhead Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 50,
+        "wind": "8 to 12 mph WSW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "35%"
+>>>>>>> Stashed changes
       }
     },
     {

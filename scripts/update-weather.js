@@ -4,12 +4,30 @@ const path = require('path');
 // Rate limiting delay
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-// Calculate current NFL week
-function getCurrentNFLWeek() {
-  const now = new Date();
-  const seasonStart = new Date('2025-09-03T00:00:00Z');
-  const daysSinceStart = Math.floor((now - seasonStart) / (1000 * 60 * 60 * 24));
-  return Math.min(Math.floor(daysSinceStart / 7) + 1, 18);
+// Get current NFL week from Sleeper API
+async function getCurrentNFLWeek() {
+  try {
+    console.log('Fetching current NFL week from Sleeper API...');
+    const response = await fetch('https://api.sleeper.app/v1/state/nfl');
+
+    if (!response.ok) {
+      throw new Error(`Sleeper API error: ${response.status}`);
+    }
+
+    const state = await response.json();
+    console.log(`NFL Season: ${state.season}, Week: ${state.week}, Type: ${state.season_type}`);
+
+    return state.week;
+  } catch (error) {
+    console.error('Error fetching NFL week from Sleeper API:', error.message);
+    console.log('Falling back to calculated week...');
+
+    // Fallback to calculation if API fails
+    const now = new Date();
+    const seasonStart = new Date('2025-09-03T00:00:00Z');
+    const daysSinceStart = Math.floor((now - seasonStart) / (1000 * 60 * 60 * 24));
+    return Math.min(Math.floor(daysSinceStart / 7) + 1, 18);
+  }
 }
 
 // Load stadium data
@@ -149,8 +167,8 @@ async function updateWeatherData() {
   console.log(`Loaded ${Object.keys(stadiumLookup).length} stadiums`);
   console.log(`Loaded ${scheduleData.games.length} games`);
 
-  // Get current week
-  const currentWeek = getCurrentNFLWeek();
+  // Get current week from Sleeper API
+  const currentWeek = await getCurrentNFLWeek();
   console.log(`Current NFL week: ${currentWeek}`);
 
   // Filter games for current week
