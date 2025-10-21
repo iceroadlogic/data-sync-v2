@@ -1,126 +1,6 @@
 {
-<<<<<<< Updated upstream
-  "week": 7,
-  "lastUpdated": "2025-10-21T16:35:32.025Z",
-  "games": [
-    {
-      "game_id": "401772941",
-      "home_team": "CIN",
-      "away_team": "PIT",
-      "stadium": "Paycor Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 67,
-        "wind": "8 to 15 mph SW",
-        "conditions": "Slight Chance Rain Showers then Mostly Sunny",
-        "precipitation": "17%"
-      }
-    },
-    {
-      "game_id": "401772635",
-      "home_team": "JAX",
-      "away_team": "LAR",
-      "stadium": "TIAA Bank Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 83,
-        "wind": "6 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772755",
-      "home_team": "TEN",
-      "away_team": "NE",
-      "stadium": "Nissan Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 74,
-        "wind": "10 to 15 mph W",
-        "conditions": "Sunny",
-        "precipitation": "3%"
-      }
-    },
-    {
-      "game_id": "401772753",
-      "home_team": "KC",
-      "away_team": "LV",
-      "stadium": "Arrowhead Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 63,
-        "wind": "16 to 20 mph WNW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772861",
-      "home_team": "CHI",
-      "away_team": "NO",
-      "stadium": "Soldier Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 55,
-        "wind": "20 to 25 mph WSW",
-        "conditions": "Mostly Cloudy then Rain Showers Likely",
-        "precipitation": "61%"
-      }
-    },
-    {
-      "game_id": "401772860",
-      "home_team": "NYJ",
-      "away_team": "CAR",
-      "stadium": "MetLife Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 68,
-        "wind": "6 to 10 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "5%"
-      }
-    },
-    {
-      "game_id": "401772754",
-      "home_team": "CLE",
-      "away_team": "MIA",
-      "stadium": "Cleveland Browns Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 62,
-        "wind": "17 mph SW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
-      }
-    },
-    {
-      "game_id": "401772757",
-      "home_team": "DEN",
-      "away_team": "NYG",
-      "stadium": "Empower Field at Mile High",
-      "is_dome": false,
-      "weather": {
-        "temp": 69,
-        "wind": "3 to 7 mph ESE",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772756",
-      "home_team": "LAC",
-      "away_team": "IND",
-      "stadium": "SoFi Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 74,
-        "wind": "0 to 10 mph WSW",
-        "conditions": "Mostly Sunny then Patchy Fog",
-        "precipitation": "2%"
-=======
   "week": 8,
-  "lastUpdated": "2025-10-21T20:50:10.153Z",
+  "lastUpdated": "2025-10-21T21:12:05.010Z",
   "games": [
     {
       "game_id": "401772942",
@@ -129,7 +9,7 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
+        "temp": 75,
         "wind": "0 to 10 mph SW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
@@ -207,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 to 8 mph S",
+        "temp": 68,
+        "wind": "5 to 9 mph WSW",
         "conditions": "Partly Sunny",
-        "precipitation": "10%"
+        "precipitation": "7%"
       }
     },
     {
@@ -237,33 +117,6 @@
         "wind": "8 to 12 mph WSW",
         "conditions": "Chance Showers And Thunderstorms",
         "precipitation": "35%"
->>>>>>> Stashed changes
-      }
-    },
-    {
-      "game_id": "401772924",
-      "home_team": "SF",
-      "away_team": "ATL",
-      "stadium": "Levi's Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 57,
-        "wind": "2 mph WSW",
-        "conditions": "Clear",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772826",
-      "home_team": "SEA",
-      "away_team": "HOU",
-      "stadium": "Lumen Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 61,
-        "wind": "3 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
       }
     }
   ]
