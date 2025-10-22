@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-22T10:29:07.471Z",
+  "lastUpdated": "2025-10-22T16:34:43.258Z",
   "games": [
     {
       "game_id": "401772942",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "0 to 10 mph SSW",
+        "wind": "5 to 10 mph SSW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 62,
         "wind": "2 to 7 mph E",
-        "conditions": "Slight Chance Light Rain then Partly Sunny",
-        "precipitation": "15%"
+        "conditions": "Partly Sunny",
+        "precipitation": "14%"
       }
     },
     {
@@ -35,8 +35,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "1 to 5 mph NE",
+        "temp": 60,
+        "wind": "1 to 6 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
       }
@@ -87,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "5 to 9 mph WSW",
+        "temp": 70,
+        "wind": "5 to 8 mph SW",
         "conditions": "Partly Sunny",
-        "precipitation": "7%"
+        "precipitation": "5%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
+        "temp": 38,
         "wind": "6 mph NE",
-        "conditions": "Partly Cloudy then Chance Rain Showers",
-        "precipitation": "10%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
