@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-21T21:15:20.901Z",
+  "lastUpdated": "2025-10-22T12:22:49.362Z",
   "week": 8,
   "summary": {
-    "total_players": 759,
-    "ir": 70,
+    "total_players": 760,
+    "ir": 69,
     "suspended": 0
   },
   "ir": [
@@ -118,16 +118,6 @@
       "injury_description": null
     },
     {
-      "player_id": "13212",
-      "source_id": "4569507",
-      "player_name": "Cade McDonald",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "10444",
       "source_id": "4369863",
       "player_name": "Cedric Tillman",
@@ -142,16 +132,6 @@
       "source_id": "4431562",
       "player_name": "Phil Mafah",
       "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "10225",
-      "source_id": "4426485",
-      "player_name": "Jonathan Mingo",
-      "position": "WR",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -462,6 +442,16 @@
       "source_id": "4427985",
       "player_name": "Bub Means",
       "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9757",
+      "source_id": "4599739",
+      "player_name": "Kendre Miller",
+      "position": "RB",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
