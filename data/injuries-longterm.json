@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-22T16:15:11.724Z",
+  "lastUpdated": "2025-10-22T20:14:07.453Z",
   "week": 8,
   "summary": {
     "total_players": 760,
-    "ir": 69,
+    "ir": 70,
     "suspended": 0
   },
   "ir": [
@@ -372,6 +372,16 @@
       "source_id": "4048244",
       "player_name": "Alexander Mattison",
       "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "2505",
+      "source_id": "2576925",
+      "player_name": "Darren Waller",
+      "position": "TE",
       "team_abbr": "MIA",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
