@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-22T22:20:15.319Z",
+  "lastUpdated": "2025-10-23T10:29:01.843Z",
   "games": [
     {
       "game_id": "401772942",
@@ -9,10 +9,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
+        "temp": 74,
         "wind": "5 to 10 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 62,
         "wind": "2 to 7 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "14%"
+        "conditions": "Slight Chance Light Rain then Partly Sunny",
+        "precipitation": "17%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "1 to 6 mph N",
+        "wind": "1 to 5 mph NE",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -48,7 +48,7 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 66,
         "wind": "3 to 7 mph ENE",
         "conditions": "Partly Sunny",
         "precipitation": "1%"
@@ -64,7 +64,7 @@
         "temp": 59,
         "wind": "0 to 5 mph N",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "6 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 52,
+        "wind": "5 mph N",
+        "conditions": "Partly Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "3 to 7 mph W",
+        "temp": 69,
+        "wind": "3 to 7 mph S",
         "conditions": "Partly Sunny",
-        "precipitation": "6%"
+        "precipitation": "10%"
       }
     },
     {
@@ -103,7 +103,7 @@
         "temp": 38,
         "wind": "6 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "9%"
+        "precipitation": "7%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "10 mph E",
+        "temp": 49,
+        "wind": "8 mph NNE",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "39%"
+        "precipitation": "36%"
       }
     }
   ]
