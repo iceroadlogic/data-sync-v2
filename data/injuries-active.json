@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-22T22:16:10.286Z",
+  "lastUpdated": "2025-10-23T06:29:35.554Z",
   "week": 8,
   "summary": {
-    "total_players": 759,
-    "questionable": 50,
+    "total_players": 761,
+    "questionable": 54,
     "doubtful": 2,
     "out": 21
   },
@@ -219,6 +219,16 @@
       "injury_description": null
     },
     {
+      "player_id": "5001",
+      "source_id": "3117256",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "9500",
       "source_id": "4688813",
       "player_name": "Josh Downs",
@@ -389,9 +399,29 @@
       "injury_description": null
     },
     {
+      "player_id": "5859",
+      "source_id": "4047646",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8177",
       "source_id": "4241374",
       "player_name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5022",
+      "source_id": "3121023",
+      "player_name": "Dallas Goedert",
       "position": "TE",
       "team_abbr": "PHI",
       "injury_status": "active",
@@ -433,6 +463,16 @@
       "source_id": "16728",
       "player_name": "Teddy Bridgewater",
       "position": "QB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11820",
+      "source_id": "4361112",
+      "player_name": "Devin Culp",
+      "position": "TE",
       "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
