@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-22T20:14:07.453Z",
+  "lastUpdated": "2025-10-23T12:22:33.700Z",
   "week": 8,
   "summary": {
-    "total_players": 760,
-    "ir": 70,
+    "total_players": 761,
+    "ir": 71,
     "suspended": 0
   },
   "ir": [
@@ -623,6 +623,16 @@
       "player_name": "Kenny McIntosh",
       "position": "RB",
       "team_abbr": "SEA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "2216",
+      "source_id": "16737",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "team_abbr": "TB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
