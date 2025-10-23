@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-23T21:48:58.033Z",
+  "lastUpdated": "2025-10-23T22:13:40.979Z",
   "week": 8,
   "summary": {
     "total_players": 762,
-    "questionable": 55,
+    "questionable": 53,
     "doubtful": 2,
     "out": 22
   },
@@ -143,16 +143,6 @@
       "source_id": "3050481",
       "player_name": "Tanner Hudson",
       "position": "TE",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10228",
-      "source_id": "4257188",
-      "player_name": "Charlie Jones",
-      "position": "WR",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -452,16 +442,6 @@
       "player_id": "8177",
       "source_id": "4241374",
       "player_name": "Grant Calcaterra",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5022",
-      "source_id": "3121023",
-      "player_name": "Dallas Goedert",
       "position": "TE",
       "team_abbr": "PHI",
       "injury_status": "active",
