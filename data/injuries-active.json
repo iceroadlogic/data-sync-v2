@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-23T23:28:10.289Z",
+  "lastUpdated": "2025-10-24T06:28:43.651Z",
   "week": 8,
   "summary": {
     "total_players": 762,
-    "questionable": 50,
+    "questionable": 51,
     "doubtful": 2,
     "out": 25
   },
@@ -274,6 +274,16 @@
       "player_name": "Jaylen Waddle",
       "position": "WR",
       "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5973",
+      "source_id": "3921690",
+      "player_name": "Josh Oliver",
+      "position": "TE",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
