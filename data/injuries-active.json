@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-24T06:28:43.651Z",
+  "lastUpdated": "2025-10-24T14:20:04.767Z",
   "week": 8,
   "summary": {
     "total_players": 762,
-    "questionable": 51,
+    "questionable": 52,
     "doubtful": 2,
     "out": 25
   },
@@ -283,6 +283,16 @@
       "source_id": "3921690",
       "player_name": "Josh Oliver",
       "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "3161",
+      "source_id": "2573079",
+      "player_name": "Carson Wentz",
+      "position": "QB",
       "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
