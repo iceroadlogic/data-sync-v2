@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-24T16:32:23.731Z",
+  "lastUpdated": "2025-10-24T22:24:21.150Z",
   "games": [
     {
       "game_id": "401772942",
@@ -9,8 +9,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "0 to 10 mph SSW",
+        "temp": 75,
+        "wind": "5 to 10 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
+        "temp": 59,
         "wind": "2 to 8 mph E",
-        "conditions": "Chance Light Rain",
-        "precipitation": "25%"
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
@@ -38,7 +38,7 @@
         "temp": 59,
         "wind": "1 to 5 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "3 to 7 mph ENE",
+        "wind": "3 to 7 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 59,
+        "temp": 58,
         "wind": "0 to 5 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "2 to 6 mph N",
+        "wind": "5 mph N",
         "conditions": "Partly Sunny",
-        "precipitation": "9%"
+        "precipitation": "12%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "3 to 8 mph WSW",
+        "temp": 71,
+        "wind": "3 to 7 mph SSE",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "5%"
       }
     },
     {
@@ -103,7 +103,7 @@
         "temp": 38,
         "wind": "6 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "11%"
+        "precipitation": "9%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "8 mph ESE",
+        "temp": 47,
+        "wind": "7 mph ENE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "39%"
+        "precipitation": "33%"
       }
     }
   ]
