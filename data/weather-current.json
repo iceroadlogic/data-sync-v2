@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-23T23:27:23.130Z",
+  "lastUpdated": "2025-10-24T10:28:34.345Z",
   "games": [
     {
       "game_id": "401772942",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Sunny",
+        "temp": 58,
+        "wind": "0 mph ",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "2 to 7 mph E",
-        "conditions": "Slight Chance Rain Showers then Partly Sunny",
-        "precipitation": "20%"
+        "wind": "2 to 8 mph E",
+        "conditions": "Chance Light Rain",
+        "precipitation": "25%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "1 to 5 mph E",
+        "temp": 59,
+        "wind": "1 to 5 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "5 mph NW",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "wind": "2 to 6 mph N",
+        "conditions": "Partly Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -87,9 +87,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "3 to 7 mph SSE",
-        "conditions": "Partly Sunny",
+        "temp": 72,
+        "wind": "3 to 8 mph WSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "4%"
       }
     },
@@ -103,7 +103,7 @@
         "temp": 38,
         "wind": "6 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "9%"
+        "precipitation": "11%"
       }
     },
     {
@@ -116,7 +116,7 @@
         "temp": 50,
         "wind": "8 mph ESE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "36%"
+        "precipitation": "39%"
       }
     }
   ]
