@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-25T14:16:12.542Z",
+  "lastUpdated": "2025-10-25T22:16:49.345Z",
   "week": 8,
   "summary": {
-    "total_players": 763,
-    "questionable": 19,
+    "total_players": 762,
+    "questionable": 18,
     "doubtful": 1,
-    "out": 41
+    "out": 43
   },
   "questionable": [
     {
@@ -19,21 +19,21 @@
       "injury_description": null
     },
     {
-      "player_id": "11559",
-      "source_id": "4360423",
-      "player_name": "Michael Penix Jr.",
-      "position": "QB",
+      "player_id": "8112",
+      "source_id": "4426502",
+      "player_name": "Drake London",
+      "position": "WR",
       "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
       "position": "QB",
-      "team_abbr": "BAL",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -69,6 +69,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12524",
+      "source_id": "4432762",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6659",
       "source_id": "4421446",
       "player_name": "Craig Reynolds",
@@ -82,6 +92,16 @@
       "player_id": "12501",
       "source_id": "4701936",
       "player_name": "Matthew Golden",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8167",
+      "source_id": "4248528",
+      "player_name": "Christian Watson",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -104,16 +124,6 @@
       "player_name": "Brian Thomas Jr.",
       "position": "WR",
       "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4098",
-      "source_id": "3059915",
-      "player_name": "Kareem Hunt",
-      "position": "RB",
-      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -149,16 +159,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4171",
-      "source_id": "3115306",
-      "player_name": "Josh Reynolds",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12498",
       "source_id": "4808766",
       "player_name": "Mason Taylor",
@@ -169,12 +169,12 @@
       "injury_description": null
     },
     {
-      "player_id": "827",
-      "source_id": "14163",
-      "player_name": "Tyrod Taylor",
-      "position": "QB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
+      "player_id": "13150",
+      "source_id": "4715355",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     },
@@ -184,16 +184,6 @@
       "player_name": "Dareke Young",
       "position": "WR",
       "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11942",
-      "source_id": "4361088",
-      "player_name": "Colson Yankoff",
-      "position": "TE",
-      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -228,6 +218,16 @@
       "player_name": "Kyler Murray",
       "position": "QB",
       "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -309,16 +309,6 @@
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "8167",
-      "source_id": "4248528",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -493,6 +483,16 @@
       "injury_description": null
     },
     {
+      "player_id": "827",
+      "source_id": "14163",
+      "player_name": "Tyrod Taylor",
+      "position": "QB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "8146",
       "source_id": "4569618",
       "player_name": "Garrett Wilson",
@@ -617,6 +617,16 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11942",
+      "source_id": "4361088",
+      "player_name": "Colson Yankoff",
+      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
