@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-25T10:23:50.840Z",
+  "lastUpdated": "2025-10-25T16:29:00.900Z",
   "games": [
     {
       "game_id": "401772942",
@@ -9,8 +9,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "0 mph ",
+        "temp": 72,
+        "wind": "0 to 10 mph SW",
         "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
@@ -76,7 +76,7 @@
       "weather": {
         "temp": 53,
         "wind": "6 mph N",
-        "conditions": "Partly Sunny",
+        "conditions": "Patchy Frost then Mostly Sunny",
         "precipitation": "5%"
       }
     },
