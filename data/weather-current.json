@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-26T16:49:40.650Z",
+  "lastUpdated": "2025-10-26T18:46:04.561Z",
   "games": [
     {
       "game_id": "401772942",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "0 to 10 mph SW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "5 to 10 mph WSW",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     },
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "8 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "wind": "10 mph E",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "5 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "wind": "5 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -48,7 +48,7 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 65,
         "wind": "7 mph ENE",
         "conditions": "Mostly Cloudy",
         "precipitation": "5%"
@@ -62,8 +62,8 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "0 to 5 mph N",
-        "conditions": "Mostly Sunny",
+        "wind": "5 mph N",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -74,10 +74,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "7 mph N",
+        "temp": 54,
+        "wind": "8 mph NW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -88,8 +88,8 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "2 to 6 mph SSE",
-        "conditions": "Mostly Sunny",
+        "wind": "6 mph E",
+        "conditions": "Partly Sunny",
         "precipitation": "4%"
       }
     },
@@ -100,9 +100,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
+        "temp": 36,
         "wind": "6 mph NE",
-        "conditions": "Mostly Clear then Patchy Frost",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
