@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-26T20:46:40.097Z",
+  "lastUpdated": "2025-10-26T22:22:58.271Z",
   "games": [
     {
       "game_id": "401772942",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "5 to 10 mph WSW",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "wind": "5 mph WSW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "5 mph E",
-        "conditions": "Mostly Sunny",
+        "temp": 43,
+        "wind": "5 mph NE",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -61,9 +61,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 mph N",
-        "conditions": "Mostly Sunny",
+        "temp": 42,
+        "wind": "0 to 5 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
