@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-26T20:10:36.898Z",
+  "lastUpdated": "2025-10-26T20:30:55.898Z",
   "games": [
     {
       "game_id": "401772942",
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "5 mph E",
+        "wind": "5 mph NE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -61,8 +61,8 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "0 to 5 mph N",
+        "temp": 62,
+        "wind": "5 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -87,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 72,
+        "temp": 71,
         "wind": "6 mph E",
         "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "precipitation": "0%"
       }
     },
     {
