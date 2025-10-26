@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-26T19:26:09.888Z",
+  "lastUpdated": "2025-10-26T19:37:56.103Z",
   "week": 8,
   "summary": {
     "total_players": 759,
     "questionable": 11,
     "doubtful": 0,
-    "out": 71
+    "out": 72
   },
   "questionable": [
     {
@@ -298,6 +298,16 @@
       "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12512",
+      "source_id": "4685702",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
