@@ -1,33 +1,13 @@
 {
-  "lastUpdated": "2025-10-26T15:47:59.511Z",
+  "lastUpdated": "2025-10-26T16:29:40.933Z",
   "week": 8,
   "summary": {
     "total_players": 759,
-    "questionable": 11,
-    "doubtful": 1,
-    "out": 57
+    "questionable": 8,
+    "doubtful": 0,
+    "out": 63
   },
   "questionable": [
-    {
-      "player_id": "11559",
-      "source_id": "4360423",
-      "player_name": "Michael Penix Jr.",
-      "position": "QB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "6659",
       "source_id": "4421446",
@@ -99,16 +79,6 @@
       "injury_description": null
     },
     {
-      "player_id": "13150",
-      "source_id": "4715355",
-      "player_name": "Darius Cooper",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8527",
       "source_id": "4401805",
       "player_name": "Dareke Young",
@@ -119,18 +89,7 @@
       "injury_description": null
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "9228",
-      "source_id": "4685720",
-      "player_name": "Bryce Young",
-      "position": "QB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11199",
@@ -157,6 +116,16 @@
       "source_id": "4426502",
       "player_name": "Drake London",
       "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
+      "position": "QB",
       "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -193,6 +162,36 @@
       "injury_description": null
     },
     {
+      "player_id": "8170",
+      "source_id": "4361988",
+      "player_name": "James Mitchell",
+      "position": "TE",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5955",
+      "source_id": "3135321",
+      "player_name": "Hunter Renfrow",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9228",
+      "source_id": "4685720",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11583",
       "source_id": "4678008",
       "player_name": "Jonathon Brooks",
@@ -207,6 +206,16 @@
       "source_id": "4426386",
       "player_name": "Roschon Johnson",
       "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -577,6 +586,16 @@
       "source_id": "4047646",
       "player_name": "A.J. Brown",
       "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8162",
+      "source_id": "4426875",
+      "player_name": "Sam Howell",
+      "position": "QB",
       "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Out",
