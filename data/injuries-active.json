@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-27T21:26:01.761Z",
+  "lastUpdated": "2025-10-27T21:33:17.620Z",
   "week": 8,
   "summary": {
     "total_players": 760,
-    "questionable": 15,
+    "questionable": 16,
     "doubtful": 0,
     "out": 46
   },
@@ -22,6 +22,16 @@
       "player_id": "12519",
       "source_id": "4685278",
       "player_name": "Luther Burden III",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6271",
+      "source_id": "3917914",
+      "player_name": "Olamide Zaccheaus",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
