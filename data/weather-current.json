@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2025-10-26T22:22:58.271Z",
+  "lastUpdated": "2025-10-27T10:30:11.544Z",
   "games": [
     {
       "game_id": "401772942",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "5 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 58,
+        "wind": "5 mph ENE",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "10 mph E",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 64,
+        "wind": "5 to 10 mph E",
+        "conditions": "Partly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "5 mph NE",
-        "conditions": "Partly Cloudy",
+        "temp": 61,
+        "wind": "5 to 8 mph NE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "7 mph ENE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "5%"
+        "temp": 53,
+        "wind": "10 to 14 mph NE",
+        "conditions": "Rain Showers",
+        "precipitation": "94%"
       }
     },
     {
@@ -61,9 +61,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "0 to 5 mph N",
-        "conditions": "Mostly Clear",
+        "temp": 59,
+        "wind": "5 to 10 mph NE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -74,10 +74,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "8 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 51,
+        "wind": "7 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "6 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 44,
+        "wind": "3 mph S",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "6 mph NE",
+        "wind": "2 to 6 mph NE",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "7 mph ESE",
+        "wind": "2 to 6 mph ESE",
         "conditions": "Cloudy then Chance Rain Showers",
-        "precipitation": "31%"
+        "precipitation": "36%"
       }
     }
   ]
