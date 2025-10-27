@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-26T22:18:09.277Z",
+  "lastUpdated": "2025-10-27T06:33:01.431Z",
   "week": 8,
   "summary": {
     "total_players": 759,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 0,
     "out": 70
   },
@@ -39,6 +39,26 @@
       "injury_description": null
     },
     {
+      "player_id": "11433",
+      "source_id": "4383440",
+      "player_name": "Nate Adkins",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9494",
+      "source_id": "4686472",
+      "player_name": "Marvin Mims Jr.",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6659",
       "source_id": "4421446",
       "player_name": "Craig Reynolds",
@@ -49,21 +69,11 @@
       "injury_description": null
     },
     {
-      "player_id": "12501",
-      "source_id": "4701936",
-      "player_name": "Matthew Golden",
+      "player_id": "11762",
+      "source_id": "4429684",
+      "player_name": "Anthony Gould",
       "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8167",
-      "source_id": "4248528",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "team_abbr": "GB",
+      "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
