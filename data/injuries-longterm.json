@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-27T20:10:33.350Z",
-  "week": 8,
+  "lastUpdated": "2025-10-28T12:21:57.636Z",
+  "week": 9,
   "summary": {
     "total_players": 759,
-    "ir": 70,
+    "ir": 72,
     "suspended": 0
   },
   "ir": [
@@ -348,6 +348,16 @@
       "injury_description": null
     },
     {
+      "player_id": "7562",
+      "source_id": "4360797",
+      "player_name": "Tutu Atwell",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "12866",
       "source_id": "4431044",
       "player_name": "Jalin Conyers",
@@ -402,6 +412,16 @@
       "source_id": "4372485",
       "player_name": "Rondale Moore",
       "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "3161",
+      "source_id": "2573079",
+      "player_name": "Carson Wentz",
+      "position": "QB",
       "team_abbr": "MIN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
