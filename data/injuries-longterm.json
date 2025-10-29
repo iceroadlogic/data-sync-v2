@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-28T20:13:39.438Z",
+  "lastUpdated": "2025-10-29T12:22:59.583Z",
   "week": 9,
   "summary": {
-    "total_players": 757,
-    "ir": 72,
+    "total_players": 754,
+    "ir": 73,
     "suspended": 0
   },
   "ir": [
@@ -532,6 +532,16 @@
       "source_id": "4595348",
       "player_name": "Malik Nabers",
       "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12481",
+      "source_id": "4696981",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
       "team_abbr": "NYG",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
