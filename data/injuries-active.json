@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-30T22:48:50.374Z",
+  "lastUpdated": "2025-10-30T23:14:26.532Z",
   "week": 9,
   "summary": {
     "total_players": 764,
-    "questionable": 59,
+    "questionable": 58,
     "doubtful": 1,
-    "out": 20
+    "out": 24
   },
   "questionable": [
     {
@@ -409,26 +409,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7612",
-      "source_id": "4043016",
-      "player_name": "Dee Eskridge",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7611",
       "source_id": "4569173",
       "player_name": "Rhamondre Stevenson",
@@ -539,6 +519,16 @@
       "injury_description": null
     },
     {
+      "player_id": "4039",
+      "source_id": "2977187",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4189",
       "source_id": "2975863",
       "player_name": "Eric Saubert",
@@ -613,6 +603,26 @@
   ],
   "out": [
     {
+      "player_id": "4574",
+      "source_id": "2972515",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11629",
+      "source_id": "4696882",
+      "player_name": "Devontez Walker",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11583",
       "source_id": "4678008",
       "player_name": "Jonathon Brooks",
@@ -673,10 +683,30 @@
       "injury_description": null
     },
     {
+      "player_id": "12500",
+      "source_id": "4889929",
+      "player_name": "Quinn Ewers",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
       "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11643",
+      "source_id": "4682745",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
       "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Out",
