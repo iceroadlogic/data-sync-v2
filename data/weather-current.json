@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-10-30T16:33:57.749Z",
+  "lastUpdated": "2025-10-30T21:14:05.141Z",
   "games": [
     {
       "game_id": "401772943",
@@ -12,7 +12,7 @@
         "temp": 63,
         "wind": "5 to 10 mph NW",
         "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "5 to 9 mph W",
-        "conditions": "Sunny",
-        "precipitation": "4%"
+        "temp": 59,
+        "wind": "3 to 8 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "2 to 7 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "29%"
+        "wind": "2 to 6 mph SW",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "22%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "7 mph W",
+        "temp": 53,
+        "wind": "3 to 7 mph W",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "7%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 51,
         "wind": "2 to 12 mph SW",
         "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     },
     {
@@ -100,7 +100,7 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
+        "temp": 77,
         "wind": "0 to 5 mph NW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
@@ -113,10 +113,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "2 to 7 mph SW",
+        "temp": 51,
+        "wind": "2 to 6 mph SW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "27%"
+        "precipitation": "41%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
+        "temp": 41,
         "wind": "3 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "6%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "10%"
       }
     }
   ]
