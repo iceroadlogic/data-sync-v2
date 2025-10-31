@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-10-31T16:33:13.580Z",
+  "lastUpdated": "2025-10-31T22:24:10.310Z",
   "games": [
     {
       "game_id": "401772943",
@@ -9,9 +9,9 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "8 mph N",
-        "conditions": "Sunny",
+        "temp": 64,
+        "wind": "6 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "3 to 8 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "temp": 59,
+        "wind": "2 to 6 mph W",
+        "conditions": "Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "3 mph N",
+        "temp": 56,
+        "wind": "3 mph E",
         "conditions": "Chance Light Rain then Partly Sunny",
-        "precipitation": "38%"
+        "precipitation": "42%"
       }
     },
     {
@@ -48,9 +48,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "0 to 5 mph NNW",
-        "conditions": "Chance Rain Showers then Mostly Sunny",
+        "temp": 57,
+        "wind": "5 mph N",
+        "conditions": "Chance Rain Showers then Partly Sunny",
         "precipitation": "27%"
       }
     },
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "6 mph W",
+        "wind": "3 to 7 mph W",
         "conditions": "Sunny",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "2 to 12 mph SW",
+        "temp": 51,
+        "wind": "3 to 14 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -100,8 +100,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "0 to 5 mph W",
+        "temp": 75,
+        "wind": "0 to 5 mph NW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -115,8 +115,8 @@
       "weather": {
         "temp": 53,
         "wind": "1 to 6 mph SW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "16%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
