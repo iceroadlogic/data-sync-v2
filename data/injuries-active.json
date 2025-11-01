@@ -1,33 +1,13 @@
 {
-  "lastUpdated": "2025-11-01T14:16:13.438Z",
+  "lastUpdated": "2025-11-01T22:16:54.228Z",
   "week": 9,
   "summary": {
-    "total_players": 764,
-    "questionable": 17,
+    "total_players": 763,
+    "questionable": 15,
     "doubtful": 1,
-    "out": 47
+    "out": 45
   },
   "questionable": [
-    {
-      "player_id": "11199",
-      "source_id": "4362478",
-      "player_name": "Emari Demercado",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4080",
-      "source_id": "3059722",
-      "player_name": "Zay Jones",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "5849",
       "source_id": "3917315",
@@ -403,16 +383,6 @@
       "injury_description": null
     },
     {
-      "player_id": "8123",
-      "source_id": "4372071",
-      "player_name": "Hassan Haskins",
-      "position": "RB",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "12500",
       "source_id": "4889929",
       "player_name": "Quinn Ewers",
@@ -587,16 +557,6 @@
       "source_id": "4360405",
       "player_name": "Jake Bobo",
       "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "4189",
-      "source_id": "2975863",
-      "player_name": "Eric Saubert",
-      "position": "TE",
       "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Out",
