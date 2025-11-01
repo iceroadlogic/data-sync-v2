@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-01T16:11:34.552Z",
+  "lastUpdated": "2025-11-01T20:10:48.016Z",
   "week": 9,
   "summary": {
-    "total_players": 764,
-    "ir": 74,
+    "total_players": 763,
+    "ir": 75,
     "suspended": 0
   },
   "ir": [
@@ -644,6 +644,16 @@
       "position": "RB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4189",
+      "source_id": "2975863",
+      "player_name": "Eric Saubert",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
