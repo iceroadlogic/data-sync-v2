@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-10-31T22:24:10.310Z",
+  "lastUpdated": "2025-11-01T10:24:51.226Z",
   "games": [
     {
       "game_id": "401772943",
@@ -9,10 +9,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "6 mph N",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 81,
+        "wind": "6 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "3 mph E",
-        "conditions": "Chance Light Rain then Partly Sunny",
-        "precipitation": "42%"
+        "temp": 57,
+        "wind": "3 mph SE",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "5 mph N",
-        "conditions": "Chance Rain Showers then Partly Sunny",
-        "precipitation": "27%"
+        "temp": 54,
+        "wind": "0 to 5 mph NNW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "42%"
       }
     },
     {
@@ -61,9 +61,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "3 mph S",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
+        "temp": 59,
+        "wind": "2 mph SE",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
         "precipitation": "15%"
       }
     },
@@ -88,8 +88,8 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "3 to 14 mph SW",
-        "conditions": "Mostly Sunny",
+        "wind": "2 to 14 mph SW",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "0 to 5 mph NW",
+        "wind": "0 to 5 mph W",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -113,10 +113,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "1 to 6 mph SW",
+        "temp": 54,
+        "wind": "5 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "precipitation": "9%"
       }
     },
     {
@@ -126,10 +126,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
+        "temp": 44,
         "wind": "3 mph E",
-        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "17%"
+        "conditions": "Partly Cloudy then Slight Chance Light Rain",
+        "precipitation": "21%"
       }
     }
   ]
