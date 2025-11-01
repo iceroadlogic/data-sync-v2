@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-10-31T20:13:06.092Z",
+  "lastUpdated": "2025-11-01T12:19:15.046Z",
   "week": 9,
   "summary": {
     "total_players": 764,
-    "ir": 73,
+    "ir": 74,
     "suspended": 0
   },
   "ir": [
@@ -281,6 +281,16 @@
       "player_id": "12114",
       "source_id": "4426893",
       "player_name": "Joshua Cephus",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12530",
+      "source_id": "4685415",
+      "player_name": "Travis Hunter",
       "position": "WR",
       "team_abbr": "JAX",
       "injury_status": "day-to-day",
