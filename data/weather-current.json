@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-02T20:46:55.110Z",
+  "lastUpdated": "2025-11-02T22:22:15.193Z",
   "games": [
     {
       "game_id": "401772943",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "9 mph E",
+        "wind": "8 mph E",
         "conditions": "Chance Rain Showers",
         "precipitation": "26%"
       }
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "6 mph SW",
+        "wind": "5 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -45,7 +45,7 @@
       "weather": {
         "temp": 56,
         "wind": "2 mph E",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     },
@@ -58,8 +58,8 @@
       "weather": {
         "temp": 54,
         "wind": "5 mph NNW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "conditions": "Cloudy",
+        "precipitation": "13%"
       }
     },
     {
@@ -70,7 +70,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "3 mph S",
+        "wind": "2 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
       }
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "9 mph W",
+        "wind": "7 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -124,8 +124,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "0 to 5 mph W",
+        "temp": 73,
+        "wind": "5 mph WSW",
         "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
@@ -137,8 +137,8 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "7 mph SW",
+        "temp": 55,
+        "wind": "6 mph S",
         "conditions": "Sunny",
         "precipitation": "2%"
       }
