@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-02T19:13:14.572Z",
+  "lastUpdated": "2025-11-02T19:24:33.721Z",
   "week": 9,
   "summary": {
     "total_players": 763,
-    "questionable": 10,
+    "questionable": 11,
     "doubtful": 0,
     "out": 63
   },
@@ -54,6 +54,16 @@
       "player_name": "Ollie Gordon II",
       "position": "RB",
       "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9504",
+      "source_id": "4429022",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "team_abbr": "NE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
