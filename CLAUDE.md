@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Working with Claude Code
+
+**User Preference**: The user prefers to run all commands themselves. Do not execute bash commands without explicit permission. Provide the commands for the user to run instead.
+
 ## Project Overview
 
 This is an automated NFL data collection service that syncs injury reports and weather data to JSON files via GitHub Actions. The data is sourced from ESPN APIs (for injuries) and weather.gov (for weather), then committed back to the repository automatically.
@@ -39,7 +43,7 @@ The system operates on a scheduled pull-update-commit cycle:
 
 2. **Data Processing**
    - `update-injuries.js`: Fetches all NFL team rosters, filters to skill positions (QB, RB, WR, TE), categorizes injuries by severity
-   - `update-weather.js`: Calculates current NFL week, finds games for that week, fetches weather forecasts for outdoor stadiums only
+   - `update-weather.js`: Calculates current NFL week, finds games for that week, includes ALL games (indoor games with `is_dome: true, weather: null`, outdoor games with fetched weather data)
 
 3. **Player ID Mapping**
    - Uses `mappings/player-mapping.json` to translate ESPN IDs to internal player IDs
@@ -48,7 +52,7 @@ The system operates on a scheduled pull-update-commit cycle:
 4. **Output Files**
    - `data/injuries-active.json`: Questionable, Doubtful, Out (game-time decisions)
    - `data/injuries-longterm.json`: IR and Suspended players
-   - `data/weather-current.json`: Weather forecasts for current week's outdoor games
+   - `data/weather-current.json`: ALL current week games - outdoor games include weather data, indoor/dome games marked with `is_dome: true` and `weather: null`
 
 ### GitHub Actions Workflows
 
@@ -91,5 +95,5 @@ The categorization logic in `categorizeInjuries()` (update-injuries.js:83-135):
 - Node.js 18+ required (specified in package.json engines)
 - Uses native fetch API (node-fetch dependency for compatibility)
 - All times processed in Eastern Time (TZ='America/New_York' in workflows)
-- Weather only fetched for outdoor US stadiums (skips domes and international venues)
+- Weather data includes ALL games: outdoor stadiums get weather.gov API data, indoor/dome stadiums included with `is_dome: true` flag (international games skipped)
 - Skill positions filter: QB, RB, WR, TE only

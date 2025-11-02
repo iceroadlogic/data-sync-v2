@@ -190,16 +190,26 @@ async function updateWeatherData() {
       continue;
     }
 
-    // Skip domes and international stadiums
-    if (stadium.is_dome) {
-      console.log(`Skipping ${stadium.name} - dome/indoor`);
+    // Skip international stadiums (can't fetch weather from weather.gov)
+    if (stadium.is_international) {
+      console.log(`Skipping ${stadium.name} - international venue`);
       skipped++;
       continue;
     }
 
-    if (stadium.is_international) {
-      console.log(`Skipping ${stadium.name} - international venue`);
-      skipped++;
+    // Handle indoor/dome stadiums - include them but without weather data
+    if (stadium.is_dome) {
+      weatherGames.push({
+        game_id: game.espn_event_id,
+        home_team: game.home.team,
+        away_team: game.away.team,
+        stadium: stadium.name,
+        is_dome: true,
+        weather: null
+      });
+
+      console.log(`✓ ${game.away.team} @ ${game.home.team}: Indoor stadium`);
+      processed++;
       continue;
     }
 
@@ -238,8 +248,8 @@ async function updateWeatherData() {
   console.log('\n=== Weather Update Summary ===');
   console.log(`Week: ${currentWeek}`);
   console.log(`Total games: ${weekGames.length}`);
-  console.log(`Weather fetched: ${processed}`);
-  console.log(`Skipped (dome/international): ${skipped}`);
+  console.log(`Games processed: ${processed}`);
+  console.log(`Skipped (international only): ${skipped}`);
   console.log(`Output: weather-current.json`);
 
   return outputData;
