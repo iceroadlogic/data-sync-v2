@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-01T20:10:48.016Z",
+  "lastUpdated": "2025-11-02T12:18:58.687Z",
   "week": 9,
   "summary": {
     "total_players": 763,
-    "ir": 75,
+    "ir": 76,
     "suspended": 0
   },
   "ir": [
@@ -358,6 +358,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8123",
+      "source_id": "4372071",
+      "player_name": "Hassan Haskins",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "7562",
       "source_id": "4360797",
       "player_name": "Tutu Atwell",
@@ -648,20 +658,20 @@
       "injury_description": null
     },
     {
-      "player_id": "4189",
-      "source_id": "2975863",
-      "player_name": "Eric Saubert",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "10216",
       "source_id": "4427391",
       "player_name": "Kenny McIntosh",
       "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4189",
+      "source_id": "2975863",
+      "player_name": "Eric Saubert",
+      "position": "TE",
       "team_abbr": "SEA",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
