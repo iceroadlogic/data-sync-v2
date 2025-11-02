@@ -1,6 +1,10 @@
 {
   "week": 9,
+<<<<<<< Updated upstream
   "lastUpdated": "2025-11-02T22:22:15.193Z",
+=======
+  "lastUpdated": "2025-11-02T20:20:20.025Z",
+>>>>>>> Stashed changes
   "games": [
     {
       "game_id": "401772943",
@@ -45,8 +49,13 @@
       "weather": {
         "temp": 56,
         "wind": "2 mph E",
+<<<<<<< Updated upstream
         "conditions": "Sunny",
         "precipitation": "1%"
+=======
+        "conditions": "Mostly Sunny",
+        "precipitation": "2%"
+>>>>>>> Stashed changes
       }
     },
     {
@@ -105,7 +114,11 @@
       "weather": {
         "temp": 51,
         "wind": "16 mph SSW",
+<<<<<<< Updated upstream
         "conditions": "Mostly Cloudy",
+=======
+        "conditions": "Partly Sunny",
+>>>>>>> Stashed changes
         "precipitation": "3%"
       }
     },
@@ -124,9 +137,15 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
+<<<<<<< Updated upstream
         "temp": 73,
         "wind": "5 mph WSW",
         "conditions": "Patchy Fog",
+=======
+        "temp": 66,
+        "wind": "5 mph WSW",
+        "conditions": "Partly Sunny then Patchy Fog",
+>>>>>>> Stashed changes
         "precipitation": "0%"
       }
     },
