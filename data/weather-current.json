@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-02T22:53:29.241Z",
+  "lastUpdated": "2025-11-02T23:19:32.113Z",
   "games": [
     {
       "game_id": "401772943",
@@ -43,9 +43,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "2 mph E",
-        "conditions": "Sunny",
+        "temp": 37,
+        "wind": "2 mph SW",
+        "conditions": "Patchy Fog",
         "precipitation": "1%"
       }
     },
@@ -69,10 +69,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "3 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "temp": 40,
+        "wind": "5 mph S",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "9 mph W",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 35,
+        "wind": "6 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "16 mph SSW",
+        "wind": "15 mph SSW",
         "conditions": "Mostly Cloudy",
         "precipitation": "3%"
       }
@@ -137,10 +137,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "6 mph S",
-        "conditions": "Sunny",
-        "precipitation": "2%"
+        "temp": 42,
+        "wind": "6 to 10 mph S",
+        "conditions": "Mostly Clear",
+        "precipitation": "5%"
       }
     },
     {
