@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-01T22:21:51.672Z",
+  "lastUpdated": "2025-11-02T10:24:13.541Z",
   "games": [
     {
       "game_id": "401772943",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "2 to 6 mph NE",
+        "wind": "3 mph N",
         "conditions": "Partly Cloudy",
         "precipitation": "9%"
       }
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "2 to 6 mph W",
+        "wind": "1 to 6 mph W",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "0%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "3 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "14%"
+        "temp": 56,
+        "wind": "3 mph NE",
+        "conditions": "Slight Chance Light Rain then Partly Sunny",
+        "precipitation": "18%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "5 mph NNW",
-        "conditions": "Chance Rain Showers then Cloudy",
-        "precipitation": "40%"
+        "wind": "0 to 5 mph NNW",
+        "conditions": "Chance Rain Showers then Mostly Cloudy",
+        "precipitation": "42%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "2 mph SE",
-        "conditions": "Areas Of Fog then Mostly Sunny",
-        "precipitation": "9%"
+        "temp": 62,
+        "wind": "3 mph SE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -74,7 +74,7 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
+        "temp": 52,
         "wind": "3 to 7 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "3 to 16 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "wind": "2 to 16 mph SSW",
+        "conditions": "Mostly Sunny then Slight Chance Light Rain",
+        "precipitation": "15%"
       }
     },
     {
@@ -100,9 +100,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "0 to 5 mph WNW",
-        "conditions": "Patchy Fog then Partly Sunny",
+        "temp": 66,
+        "wind": "0 to 5 mph W",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -113,10 +113,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "1 to 6 mph SW",
+        "temp": 55,
+        "wind": "1 to 6 mph S",
         "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "precipitation": "3%"
       }
     },
     {
@@ -129,7 +129,7 @@
         "temp": 45,
         "wind": "3 mph E",
         "conditions": "Partly Cloudy then Slight Chance Light Rain",
-        "precipitation": "18%"
+        "precipitation": "20%"
       }
     }
   ]
