@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-02T19:50:21.279Z",
+  "lastUpdated": "2025-11-02T20:18:05.791Z",
   "week": 9,
   "summary": {
     "total_players": 763,
-    "questionable": 10,
+    "questionable": 11,
     "doubtful": 0,
-    "out": 65
+    "out": 72
   },
   "questionable": [
     {
@@ -14,16 +14,6 @@
       "player_name": "Kyler Murray",
       "position": "QB",
       "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6826",
-      "source_id": "4258595",
-      "player_name": "Cole Kmet",
-      "position": "TE",
-      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -49,11 +39,21 @@
       "injury_description": null
     },
     {
-      "player_id": "9758",
-      "source_id": "4432577",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "team_abbr": "HOU",
+      "player_id": "12501",
+      "source_id": "4701936",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9484",
+      "source_id": "4572680",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -69,11 +69,21 @@
       "injury_description": null
     },
     {
-      "player_id": "9504",
-      "source_id": "4429022",
-      "player_name": "Kayshon Boutte",
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12889",
+      "source_id": "4431210",
+      "player_name": "Beaux Collins",
       "position": "WR",
-      "team_abbr": "NE",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -222,6 +232,16 @@
       "injury_description": null
     },
     {
+      "player_id": "6826",
+      "source_id": "4258595",
+      "player_name": "Cole Kmet",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6790",
       "source_id": "4259545",
       "player_name": "D'Andre Swift",
@@ -352,6 +372,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9758",
+      "source_id": "4432577",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -442,11 +472,51 @@
       "injury_description": null
     },
     {
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8139",
+      "source_id": "4361777",
+      "player_name": "Zamir White",
+      "position": "RB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "5010",
       "source_id": "3127292",
       "player_name": "Will Dissly",
       "position": "TE",
       "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -498,6 +568,16 @@
       "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9504",
+      "source_id": "4429022",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
