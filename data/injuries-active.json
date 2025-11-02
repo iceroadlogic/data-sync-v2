@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-02T18:55:53.196Z",
+  "lastUpdated": "2025-11-02T19:13:14.572Z",
   "week": 9,
   "summary": {
     "total_players": 763,
-    "questionable": 8,
+    "questionable": 10,
     "doubtful": 0,
     "out": 63
   },
@@ -19,11 +19,31 @@
       "injury_description": null
     },
     {
+      "player_id": "4147",
+      "source_id": "3116389",
+      "player_name": "Samaje Perine",
+      "position": "RB",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12512",
       "source_id": "4685702",
       "player_name": "Quinshon Judkins",
       "position": "RB",
       "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9758",
+      "source_id": "4432577",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
