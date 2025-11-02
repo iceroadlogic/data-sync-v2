@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-02T14:53:47.152Z",
+  "lastUpdated": "2025-11-02T15:22:05.552Z",
   "games": [
     {
       "game_id": "401772943",
@@ -9,10 +9,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "3 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "9%"
+        "temp": 83,
+        "wind": "6 to 9 mph E",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "22%"
       }
     },
     {
@@ -51,7 +51,7 @@
         "temp": 54,
         "wind": "5 mph NNW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "32%"
+        "precipitation": "31%"
       }
     },
     {
@@ -88,7 +88,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "2 to 16 mph S",
+        "wind": "7 to 16 mph SSW",
         "conditions": "Partly Sunny",
         "precipitation": "7%"
       }
@@ -114,7 +114,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "2 to 6 mph S",
+        "wind": "2 to 6 mph SW",
         "conditions": "Mostly Sunny",
         "precipitation": "3%"
       }
