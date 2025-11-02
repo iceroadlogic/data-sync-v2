@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-02T23:19:32.113Z",
+  "lastUpdated": "2025-11-02T23:30:18.399Z",
   "games": [
     {
       "game_id": "401772943",
@@ -9,10 +9,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "9 mph E",
+        "temp": 72,
+        "wind": "3 to 7 mph NE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "26%"
+        "precipitation": "27%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "6 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 46,
+        "wind": "3 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
