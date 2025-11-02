@@ -2,8 +2,8 @@ name: Update Long-Term Injuries
 
 on:
   schedule:
-    # 3 times daily to catch any status changes
-    - cron: '0 12,16,20 * * *'    # 8am, 12pm, 4pm ET (12pm, 4pm, 8pm UTC)
+    # 3 times daily to catch any status changes (Monday-Saturday, excludes Sunday)
+    - cron: '0 12,16,20 * * 1-6'    # 8am, 12pm, 4pm ET (12pm, 4pm, 8pm UTC)
   workflow_dispatch:              # Manual trigger option
 
 jobs:

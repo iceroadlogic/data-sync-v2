@@ -2,8 +2,8 @@ name: Update Data
 
 on:
   schedule:
-    # Regular season: 3 times daily
-    - cron: '0 6,14,22 * * *'    # 6am, 2pm, 10pm ET
+    # Regular season: 3 times daily (Monday-Saturday, excludes Sunday)
+    - cron: '0 6,14,22 * * 1-6'    # 6am, 2pm, 10pm ET
   workflow_dispatch:              # Manual trigger option
 
 jobs:

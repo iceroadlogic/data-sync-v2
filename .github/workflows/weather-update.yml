@@ -2,8 +2,8 @@ name: Update Weather
 
 on:
   schedule:
-    # Regular updates: 3 times daily
-    - cron: '0 10,16,22 * * *'    # 10am, 4pm, 10pm UTC (6am, 12pm, 6pm ET)
+    # Regular updates: 3 times daily (Monday-Saturday, excludes Sunday)
+    - cron: '0 10,16,22 * * 1-6'    # 10am, 4pm, 10pm UTC (6am, 12pm, 6pm ET)
   workflow_dispatch:              # Manual trigger option
 
 jobs:
