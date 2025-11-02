@@ -1,10 +1,6 @@
 {
   "week": 9,
-<<<<<<< Updated upstream
-  "lastUpdated": "2025-11-02T20:09:34.817Z",
-=======
-  "lastUpdated": "2025-11-02T19:58:31.541Z",
->>>>>>> Stashed changes
+  "lastUpdated": "2025-11-02T20:28:39.240Z",
   "games": [
     {
       "game_id": "401772943",
@@ -33,8 +29,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-=======
       "game_id": "401772871",
       "home_team": "DET",
       "away_team": "MIN",
@@ -43,7 +37,6 @@
       "weather": null
     },
     {
->>>>>>> Stashed changes
       "game_id": "401772765",
       "home_team": "CIN",
       "away_team": "CHI",
@@ -53,11 +46,7 @@
         "temp": 56,
         "wind": "2 mph E",
         "conditions": "Mostly Sunny",
-<<<<<<< Updated upstream
         "precipitation": "3%"
-=======
-        "precipitation": "2%"
->>>>>>> Stashed changes
       }
     },
     {
@@ -70,7 +59,7 @@
         "temp": 54,
         "wind": "5 mph NNW",
         "conditions": "Slight Chance Rain Showers",
-        "precipitation": "17%"
+        "precipitation": "19%"
       }
     },
     {
@@ -87,8 +76,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-=======
       "game_id": "401772870",
       "home_team": "HOU",
       "away_team": "DEN",
@@ -97,7 +84,6 @@
       "weather": null
     },
     {
->>>>>>> Stashed changes
       "game_id": "401772763",
       "home_team": "NE",
       "away_team": "ATL",
@@ -119,17 +105,11 @@
       "weather": {
         "temp": 51,
         "wind": "16 mph SSW",
-<<<<<<< Updated upstream
         "conditions": "Mostly Cloudy",
-=======
-        "conditions": "Partly Sunny",
->>>>>>> Stashed changes
         "precipitation": "3%"
       }
     },
     {
-<<<<<<< Updated upstream
-=======
       "game_id": "401772873",
       "home_team": "LV",
       "away_team": "JAX",
@@ -138,7 +118,6 @@
       "weather": null
     },
     {
->>>>>>> Stashed changes
       "game_id": "401772874",
       "home_team": "LAR",
       "away_team": "NO",
@@ -146,13 +125,8 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-<<<<<<< Updated upstream
         "wind": "0 to 5 mph W",
         "conditions": "Patchy Fog",
-=======
-        "wind": "5 mph WSW",
-        "conditions": "Partly Sunny then Patchy Fog",
->>>>>>> Stashed changes
         "precipitation": "0%"
       }
     },
@@ -181,8 +155,6 @@
         "conditions": "Mostly Cloudy then Chance Light Rain",
         "precipitation": "28%"
       }
-<<<<<<< Updated upstream
-=======
     },
     {
       "game_id": "401772818",
@@ -191,7 +163,6 @@
       "stadium": "AT&T Stadium",
       "is_dome": true,
       "weather": null
->>>>>>> Stashed changes
     }
   ]
 }
