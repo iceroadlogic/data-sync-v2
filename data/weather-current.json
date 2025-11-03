@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-03T22:55:42.229Z",
+  "lastUpdated": "2025-11-03T23:25:51.431Z",
   "games": [
     {
       "game_id": "401772943",
@@ -9,10 +9,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "14 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 71,
+        "wind": "10 to 14 mph N",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -43,9 +43,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "10 mph W",
-        "conditions": "Sunny",
+        "temp": 36,
+        "wind": "0 to 7 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -69,9 +69,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "15 mph W",
-        "conditions": "Partly Sunny",
+        "temp": 38,
+        "wind": "7 to 13 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "15 to 20 mph W",
+        "wind": "15 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -137,10 +137,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "14 mph W",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "23%"
+        "temp": 41,
+        "wind": "13 mph W",
+        "conditions": "Chance Rain Showers then Mostly Clear",
+        "precipitation": "27%"
       }
     },
     {
