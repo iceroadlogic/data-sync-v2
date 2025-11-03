@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-02T23:49:34.320Z",
+  "lastUpdated": "2025-11-03T06:39:32.140Z",
   "week": 9,
   "summary": {
     "total_players": 763,
-    "questionable": 17,
+    "questionable": 19,
     "doubtful": 0,
-    "out": 69
+    "out": 71
   },
   "questionable": [
     {
@@ -89,6 +89,26 @@
       "injury_description": null
     },
     {
+      "player_id": "7587",
+      "source_id": "4361577",
+      "player_name": "Dyami Brown",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11631",
+      "source_id": "4432773",
+      "player_name": "Brian Thomas Jr.",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "9493",
       "source_id": "4426515",
       "player_name": "Puka Nacua",
@@ -159,20 +179,20 @@
       "injury_description": null
     },
     {
-      "player_id": "4039",
-      "source_id": "2977187",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "team_abbr": "SEA",
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "7716",
-      "source_id": "4048228",
-      "player_name": "John Bates",
-      "position": "TE",
+      "player_id": "11650",
+      "source_id": "4426948",
+      "player_name": "Luke McCaffrey",
+      "position": "WR",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -796,6 +816,26 @@
       "source_id": "4360405",
       "player_name": "Jake Bobo",
       "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4039",
+      "source_id": "2977187",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
       "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Out",
