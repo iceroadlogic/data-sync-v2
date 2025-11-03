@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2025-11-03T16:24:54.588Z",
+  "lastUpdated": "2025-11-03T21:25:54.247Z",
   "games": [
     {
       "game_id": "401772943",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 85,
-        "wind": "10 to 14 mph N",
+        "wind": "14 mph NE",
         "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "precipitation": "0%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "7 mph SW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "13%"
+        "wind": "8 mph SW",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -44,7 +44,7 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "12 mph W",
+        "wind": "10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -57,7 +57,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "5 mph WSW",
+        "wind": "5 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -70,9 +70,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "14 to 17 mph W",
+        "wind": "15 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "7%"
+        "precipitation": "0%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "10 mph S",
-        "conditions": "Mostly Cloudy then Chance Light Rain",
-        "precipitation": "50%"
+        "wind": "9 mph S",
+        "conditions": "Chance Light Rain",
+        "precipitation": "32%"
       }
     },
     {
@@ -103,8 +103,8 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "14 to 20 mph W",
+        "temp": 58,
+        "wind": "15 to 20 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -125,7 +125,7 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "0 to 5 mph SW",
+        "wind": "5 mph WSW",
         "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
@@ -137,10 +137,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "12 to 15 mph SW",
-        "conditions": "Rain Showers",
-        "precipitation": "85%"
+        "temp": 51,
+        "wind": "14 mph W",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "23%"
       }
     },
     {
@@ -152,8 +152,8 @@
       "weather": {
         "temp": 63,
         "wind": "6 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
