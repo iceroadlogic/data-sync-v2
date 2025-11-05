@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-04T22:19:46.843Z",
+  "lastUpdated": "2025-11-05T10:24:02.461Z",
   "games": [
     {
       "game_id": "401772944",
@@ -9,8 +9,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 37,
-        "wind": "3 to 8 mph WSW",
+        "temp": 36,
+        "wind": "6 to 13 mph WSW",
         "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "20 mph NNW",
-        "conditions": "Chance Rain",
-        "precipitation": "44%"
+        "temp": 38,
+        "wind": "15 mph NW",
+        "conditions": "Chance Rain And Snow",
+        "precipitation": "37%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "2 to 8 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "8%"
+        "temp": 83,
+        "wind": "2 to 8 mph WSW",
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "10%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "6 to 12 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "25%"
+        "wind": "6 to 12 mph W",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "19%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 to 10 mph SE",
+        "temp": 63,
+        "wind": "6 to 10 mph SE",
         "conditions": "Chance Light Rain",
-        "precipitation": "47%"
+        "precipitation": "50%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "2 to 7 mph SE",
+        "wind": "1 to 6 mph S",
         "conditions": "Sunny",
-        "precipitation": "10%"
+        "precipitation": "11%"
       }
     },
     {
@@ -112,9 +112,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "7 mph SE",
+        "wind": "5 mph ESE",
         "conditions": "Chance Light Rain",
-        "precipitation": "47%"
+        "precipitation": "25%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 to 9 mph S",
+        "temp": 68,
+        "wind": "5 to 12 mph SW",
         "conditions": "Chance Light Rain",
-        "precipitation": "48%"
+        "precipitation": "40%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "2 to 6 mph ENE",
+        "temp": 76,
+        "wind": "2 to 6 mph NE",
         "conditions": "Mostly Sunny",
-        "precipitation": "8%"
+        "precipitation": "5%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
+        "temp": 79,
         "wind": "0 to 5 mph WNW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "7 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "13%"
+        "wind": "6 mph W",
+        "conditions": "Partly Cloudy then Slight Chance Snow Showers",
+        "precipitation": "17%"
       }
     }
   ]
