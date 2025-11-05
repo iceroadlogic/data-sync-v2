@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-04T22:24:28.776Z",
+  "lastUpdated": "2025-11-05T06:38:05.217Z",
   "week": 10,
   "summary": {
-    "total_players": 764,
-    "questionable": 49,
+    "total_players": 763,
+    "questionable": 48,
     "doubtful": 1,
     "out": 14
   },
@@ -145,16 +145,6 @@
       "position": "RB",
       "team_abbr": "DET",
       "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7597",
-      "source_id": "4044144",
-      "player_name": "Kenny Yeboah",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     },
