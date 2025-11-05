@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-04T20:13:57.889Z",
+  "lastUpdated": "2025-11-05T12:23:36.882Z",
   "week": 10,
   "summary": {
-    "total_players": 764,
-    "ir": 76,
+    "total_players": 763,
+    "ir": 77,
     "suspended": 0
   },
   "ir": [
@@ -178,9 +178,9 @@
       "injury_description": null
     },
     {
-      "player_id": "7597",
-      "source_id": "4044144",
-      "player_name": "Kenny Yeboah",
+      "player_id": "8041",
+      "source_id": "4608362",
+      "player_name": "Shane Zylstra",
       "position": "TE",
       "team_abbr": "DET",
       "injury_status": "day-to-day",
@@ -188,11 +188,11 @@
       "injury_description": null
     },
     {
-      "player_id": "8041",
-      "source_id": "4608362",
-      "player_name": "Shane Zylstra",
+      "player_id": "9484",
+      "source_id": "4572680",
+      "player_name": "Tucker Kraft",
       "position": "TE",
-      "team_abbr": "DET",
+      "team_abbr": "GB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -762,6 +762,16 @@
       "source_id": "3916564",
       "player_name": "Tyree Jackson",
       "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11650",
+      "source_id": "4426948",
+      "player_name": "Luke McCaffrey",
+      "position": "WR",
       "team_abbr": "WAS",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
