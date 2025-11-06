@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-11-06T21:29:12.342Z",
+  "lastUpdated": "2025-11-06T21:39:51.514Z",
   "week": 10,
   "summary": {
-    "total_players": 765,
+    "total_players": 766,
     "questionable": 54,
     "doubtful": 1,
     "out": 17
@@ -133,6 +133,16 @@
       "source_id": "4808839",
       "player_name": "Isaiah Bond",
       "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12506",
+      "source_id": "5083076",
+      "player_name": "Harold Fannin Jr.",
+      "position": "TE",
       "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -372,16 +382,6 @@
       "player_id": "12715",
       "source_id": "4590292",
       "player_name": "Thomas Fidone II",
-      "position": "TE",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11597",
-      "source_id": "4429148",
-      "player_name": "Theo Johnson",
       "position": "TE",
       "team_abbr": "NYG",
       "injury_status": "active",
