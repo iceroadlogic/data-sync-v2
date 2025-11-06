@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-06T22:49:24.725Z",
+  "lastUpdated": "2025-11-06T23:14:25.477Z",
   "week": 10,
   "summary": {
     "total_players": 765,
@@ -249,6 +249,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "9493",
       "source_id": "4426515",
       "player_name": "Puka Nacua",
@@ -384,16 +394,6 @@
       "player_name": "Garrett Wilson",
       "position": "WR",
       "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4866",
-      "source_id": "3929630",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
