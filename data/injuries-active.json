@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-06T14:26:49.325Z",
+  "lastUpdated": "2025-11-06T21:13:48.554Z",
   "week": 10,
   "summary": {
-    "total_players": 764,
-    "questionable": 58,
+    "total_players": 765,
+    "questionable": 56,
     "doubtful": 1,
     "out": 17
   },
@@ -59,6 +59,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11157",
+      "source_id": "4360763",
+      "player_name": "Brycen Tremayne",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12519",
       "source_id": "4685278",
       "player_name": "Luther Burden III",
@@ -89,16 +99,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12534",
-      "source_id": "4608686",
-      "player_name": "Kyle Monangai",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
@@ -113,16 +113,6 @@
       "source_id": "4431299",
       "player_name": "Rome Odunze",
       "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -242,16 +232,6 @@
       "player_id": "11762",
       "source_id": "4429684",
       "player_name": "Anthony Gould",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6819",
-      "source_id": "4035687",
-      "player_name": "Michael Pittman Jr.",
       "position": "WR",
       "team_abbr": "IND",
       "injury_status": "active",
