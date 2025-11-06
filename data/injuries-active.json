@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-06T21:39:51.514Z",
+  "lastUpdated": "2025-11-06T21:48:47.060Z",
   "week": 10,
   "summary": {
-    "total_players": 766,
-    "questionable": 54,
+    "total_players": 765,
+    "questionable": 52,
     "doubtful": 1,
     "out": 17
   },
@@ -189,16 +189,6 @@
       "injury_description": null
     },
     {
-      "player_id": "5121",
-      "source_id": "3123075",
-      "player_name": "Braxton Berrios",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "6850",
       "source_id": "4040774",
       "player_name": "Harrison Bryant",
@@ -213,16 +203,6 @@
       "source_id": "3128720",
       "player_name": "Nick Chubb",
       "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5001",
-      "source_id": "3117256",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
