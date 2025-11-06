@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-05T20:13:38.948Z",
+  "lastUpdated": "2025-11-06T12:23:20.696Z",
   "week": 10,
   "summary": {
-    "total_players": 763,
-    "ir": 77,
+    "total_players": 764,
+    "ir": 78,
     "suspended": 0
   },
   "ir": [
@@ -22,6 +22,16 @@
       "source_id": "3045147",
       "player_name": "James Conner",
       "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5849",
+      "source_id": "3917315",
+      "player_name": "Kyler Murray",
+      "position": "QB",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
