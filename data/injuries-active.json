@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-06T23:29:35.021Z",
+  "lastUpdated": "2025-11-07T06:38:31.057Z",
   "week": 10,
   "summary": {
     "total_players": 765,
-    "questionable": 52,
+    "questionable": 54,
     "doubtful": 1,
-    "out": 17
+    "out": 19
   },
   "questionable": [
     {
@@ -269,21 +269,21 @@
       "injury_description": null
     },
     {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
-      "position": "WR",
-      "team_abbr": "LAC",
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
       "position": "WR",
-      "team_abbr": "LAR",
+      "team_abbr": "LAC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -419,6 +419,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8181",
+      "source_id": "4241961",
+      "player_name": "Connor Heyward",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6290",
       "source_id": "3914397",
       "player_name": "Scotty Miller",
@@ -462,6 +472,16 @@
       "player_id": "10867",
       "source_id": "4360405",
       "player_name": "Jake Bobo",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12497",
+      "source_id": "4597703",
+      "player_name": "Tory Horton",
       "position": "WR",
       "team_abbr": "SEA",
       "injury_status": "active",
@@ -583,6 +603,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11439",
+      "source_id": "4722893",
+      "player_name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "9494",
       "source_id": "4686472",
       "player_name": "Marvin Mims Jr.",
@@ -628,6 +658,16 @@
       "player_name": "Isiah Pacheco",
       "position": "RB",
       "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8139",
+      "source_id": "4361777",
+      "player_name": "Zamir White",
+      "position": "RB",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
