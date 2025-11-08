@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-07T22:23:45.038Z",
+  "lastUpdated": "2025-11-08T06:34:24.401Z",
   "week": 10,
   "summary": {
-    "total_players": 765,
-    "questionable": 28,
+    "total_players": 766,
+    "questionable": 30,
     "doubtful": 1,
-    "out": 35
+    "out": 36
   },
   "questionable": [
     {
@@ -119,6 +119,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11210",
+      "source_id": "4689334",
+      "player_name": "Malik Heath",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8167",
       "source_id": "4248528",
       "player_name": "Christian Watson",
@@ -143,6 +153,16 @@
       "source_id": "4431487",
       "player_name": "Savion Williams",
       "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8161",
+      "source_id": "4242512",
+      "player_name": "Malik Willis",
+      "position": "QB",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -309,6 +329,16 @@
       "position": "RB",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "13079",
+      "source_id": "5160110",
+      "player_name": "Jahdae Walker",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
