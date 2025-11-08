@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-07T22:19:25.460Z",
+  "lastUpdated": "2025-11-08T10:20:35.984Z",
   "games": [
     {
       "game_id": "401772944",
@@ -9,10 +9,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "6 mph NNE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "temp": 34,
+        "wind": "9 mph NNE",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "20 to 25 mph NW",
-        "conditions": "Chance Snow then Slight Chance Snow Showers",
-        "precipitation": "39%"
+        "temp": 36,
+        "wind": "20 to 25 mph NNW",
+        "conditions": "Rain And Snow Likely",
+        "precipitation": "64%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "wind": "2 to 8 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "13%"
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "22%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 14 mph WSW",
-        "conditions": "Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "precipitation": "26%"
+        "temp": 74,
+        "wind": "6 to 14 mph WSW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -85,8 +85,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "5 to 12 mph E",
+        "temp": 62,
+        "wind": "6 to 13 mph E",
         "conditions": "Light Rain",
         "precipitation": "79%"
       }
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 88,
-        "wind": "1 to 6 mph S",
-        "conditions": "Sunny",
-        "precipitation": "11%"
+        "wind": "1 to 7 mph SW",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "18%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
+        "temp": 63,
         "wind": "5 mph SE",
         "conditions": "Partly Sunny",
-        "precipitation": "12%"
+        "precipitation": "11%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "3 to 9 mph S",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "63%"
+        "temp": 67,
+        "wind": "3 to 8 mph S",
+        "conditions": "Light Rain Likely",
+        "precipitation": "65%"
       }
     },
     {
@@ -138,8 +138,8 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "2 to 7 mph N",
-        "conditions": "Sunny",
+        "wind": "2 to 6 mph NE",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "5 to 10 mph NNW",
+        "wind": "0 to 5 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -163,10 +163,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 24,
+        "temp": 23,
         "wind": "7 mph W",
         "conditions": "Mostly Cloudy then Slight Chance Light Snow",
-        "precipitation": "24%"
+        "precipitation": "16%"
       }
     }
   ]
