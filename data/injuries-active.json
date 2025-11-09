@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-11-09T19:36:18.515Z",
+  "lastUpdated": "2025-11-09T19:49:18.037Z",
   "week": 10,
   "summary": {
     "total_players": 766,
-    "questionable": 14,
-    "doubtful": 1,
-    "out": 55
+    "questionable": 11,
+    "doubtful": 0,
+    "out": 58
   },
   "questionable": [
-    {
-      "player_id": "11921",
-      "source_id": "4428811",
-      "player_name": "Xavier Weaver",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "4147",
       "source_id": "3116389",
@@ -127,41 +117,20 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
-    },
-    {
-      "player_id": "11603",
-      "source_id": "4576297",
-      "player_name": "AJ Barner",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4039",
-      "source_id": "2977187",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "12497",
-      "source_id": "4597703",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    }
-  ],
+  "doubtful": [],
   "out": [
+    {
+      "player_id": "11921",
+      "source_id": "4428811",
+      "player_name": "Xavier Weaver",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "11570",
       "source_id": "4690013",
@@ -647,6 +616,26 @@
       "source_id": "4360405",
       "player_name": "Jake Bobo",
       "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12497",
+      "source_id": "4597703",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
       "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Out",
