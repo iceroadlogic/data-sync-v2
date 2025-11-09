@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-09T22:52:35.865Z",
+  "lastUpdated": "2025-11-09T23:19:40.940Z",
   "games": [
     {
       "game_id": "401772944",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "8 mph E",
+        "wind": "7 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "8 mph WSW",
+        "wind": "7 mph SW",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "39%"
+        "precipitation": "30%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 88,
-        "wind": "6 mph S",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "26%"
+        "temp": 73,
+        "wind": "6 mph SW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "29%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "6 mph S",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "14%"
+        "temp": 42,
+        "wind": "6 to 10 mph W",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "79%"
       }
     },
     {
