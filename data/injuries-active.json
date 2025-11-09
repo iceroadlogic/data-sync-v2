@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-09T20:37:26.824Z",
+  "lastUpdated": "2025-11-09T20:49:42.547Z",
   "week": 10,
   "summary": {
     "total_players": 766,
-    "questionable": 7,
+    "questionable": 9,
     "doubtful": 0,
     "out": 63
   },
@@ -74,6 +74,26 @@
       "player_name": "KeAndre Lambert-Smith",
       "position": "WR",
       "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12508",
+      "source_id": "4689114",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8146",
+      "source_id": "4569618",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
