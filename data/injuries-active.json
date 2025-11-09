@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-11-09T20:15:53.910Z",
+  "lastUpdated": "2025-11-09T20:37:26.824Z",
   "week": 10,
   "summary": {
     "total_players": 766,
-    "questionable": 8,
+    "questionable": 7,
     "doubtful": 0,
-    "out": 62
+    "out": 63
   },
   "questionable": [
-    {
-      "player_id": "10236",
-      "source_id": "4385690",
-      "player_name": "Dalton Kincaid",
-      "position": "TE",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "4147",
       "source_id": "3116389",
@@ -127,6 +117,16 @@
       "player_name": "Devontez Walker",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10236",
+      "source_id": "4385690",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
