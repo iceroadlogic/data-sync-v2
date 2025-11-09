@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-09T23:38:56.540Z",
+  "lastUpdated": "2025-11-09T23:52:17.111Z",
   "games": [
     {
       "game_id": "401772944",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "8 mph E",
+        "wind": "7 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -51,10 +51,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "8 mph WSW",
+        "temp": 59,
+        "wind": "5 to 10 mph W",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "39%"
+        "precipitation": "32%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "12 mph WSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "10%"
+        "temp": 38,
+        "wind": "8 to 12 mph WNW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "14%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 88,
-        "wind": "7 mph S",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "31%"
+        "temp": 73,
+        "wind": "6 mph SW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "29%"
       }
     },
     {
