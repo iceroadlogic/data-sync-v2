@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-09T22:49:30.231Z",
+  "lastUpdated": "2025-11-09T23:14:02.209Z",
   "week": 10,
   "summary": {
     "total_players": 766,
     "questionable": 10,
     "doubtful": 0,
-    "out": 62
+    "out": 63
   },
   "questionable": [
     {
@@ -111,6 +111,16 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "4080",
+      "source_id": "3059722",
+      "player_name": "Zay Jones",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "11921",
       "source_id": "4428811",
