@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-09T18:29:58.960Z",
+  "lastUpdated": "2025-11-09T18:45:54.762Z",
   "games": [
     {
       "game_id": "401772944",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "5 to 8 mph E",
-        "conditions": "Mostly Sunny",
+        "wind": "5 to 8 mph SE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "2 to 7 mph NW",
+        "wind": "3 to 8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,8 +151,8 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "0 to 5 mph W",
-        "conditions": "Sunny",
+        "wind": "0 to 5 mph WNW",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
