@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2025-11-10T22:55:52.355Z",
+  "lastUpdated": "2025-11-10T23:26:22.926Z",
   "games": [
     {
       "game_id": "401772944",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "6 mph WNW",
+        "wind": "6 mph SW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 35,
-        "wind": "15 mph NW",
+        "wind": "15 mph WNW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -51,9 +51,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "14 mph NW",
-        "conditions": "Sunny",
+        "temp": 37,
+        "wind": "13 mph NNW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -64,10 +64,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "16 mph WNW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "4%"
+        "temp": 26,
+        "wind": "10 to 16 mph WNW",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "14%"
       }
     },
     {
@@ -85,9 +85,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "12 mph W",
-        "conditions": "Slight Chance Rain Showers",
+        "temp": 31,
+        "wind": "10 mph W",
+        "conditions": "Slight Chance Rain Showers then Partly Cloudy",
         "precipitation": "22%"
       }
     },
@@ -98,9 +98,9 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "17 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 48,
+        "wind": "14 to 17 mph NW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -112,7 +112,7 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "6 mph SE",
+        "wind": "5 mph SE",
         "conditions": "Chance Light Rain",
         "precipitation": "46%"
       }
@@ -124,10 +124,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "13 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 29,
+        "wind": "10 to 14 mph NW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -164,7 +164,7 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "3 to 7 mph W",
+        "wind": "6 mph W",
         "conditions": "Mostly Cloudy",
         "precipitation": "11%"
       }
