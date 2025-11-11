@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-10T23:22:47.593Z",
-  "week": 10,
+  "lastUpdated": "2025-11-11T06:39:10.682Z",
+  "week": 11,
   "summary": {
-    "total_players": 765,
+    "total_players": 766,
     "questionable": 11,
     "doubtful": 1,
-    "out": 43
+    "out": 47
   },
   "questionable": [
     {
@@ -59,29 +59,9 @@
       "injury_description": null
     },
     {
-      "player_id": "12501",
-      "source_id": "4701936",
-      "player_name": "Matthew Golden",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9486",
-      "source_id": "4428850",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12482",
-      "source_id": "4431487",
-      "player_name": "Savion Williams",
+      "player_id": "8121",
+      "source_id": "4361432",
+      "player_name": "Romeo Doubs",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -104,6 +84,26 @@
       "player_name": "Davante Adams",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12529",
+      "source_id": "4432710",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "3202",
+      "source_id": "3043275",
+      "player_name": "Austin Hooper",
+      "position": "TE",
+      "team_abbr": "NE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -143,9 +143,9 @@
       "injury_description": null
     },
     {
-      "player_id": "4080",
-      "source_id": "3059722",
-      "player_name": "Zay Jones",
+      "player_id": "11921",
+      "source_id": "4428811",
+      "player_name": "Xavier Weaver",
       "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
@@ -153,12 +153,12 @@
       "injury_description": null
     },
     {
-      "player_id": "11921",
-      "source_id": "4428811",
-      "player_name": "Xavier Weaver",
+      "player_id": "4080",
+      "source_id": "3059722",
+      "player_name": "Zay Jones",
       "position": "WR",
       "team_abbr": "ARI",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -258,6 +258,16 @@
       "player_name": "Jacob Saylors",
       "position": "RB",
       "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12501",
+      "source_id": "4701936",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -433,6 +443,26 @@
       "injury_description": null
     },
     {
+      "player_id": "6828",
+      "source_id": "4239934",
+      "player_name": "AJ Dillon",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8162",
+      "source_id": "4426875",
+      "player_name": "Sam Howell",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6290",
       "source_id": "3914397",
       "player_name": "Scotty Miller",
@@ -538,6 +568,16 @@
       "player_name": "Calvin Ridley",
       "position": "WR",
       "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8135",
+      "source_id": "4567156",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
