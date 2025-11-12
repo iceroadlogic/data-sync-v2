@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-12T10:24:21.736Z",
+  "lastUpdated": "2025-11-12T16:28:56.511Z",
   "games": [
     {
       "game_id": "401772945",
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "2 to 7 mph E",
+        "wind": "2 to 6 mph S",
         "conditions": "Sunny",
         "precipitation": "1%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "13 to 17 mph W",
+        "temp": 54,
+        "wind": "13 to 18 mph W",
         "conditions": "Light Rain",
-        "precipitation": "83%"
+        "precipitation": "88%"
       }
     },
     {
@@ -70,7 +70,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "5 to 12 mph SW",
+        "wind": "6 to 13 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -150,10 +150,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "3 to 7 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "29%"
+        "temp": 65,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Mostly Sunny then Chance Rain Showers",
+        "precipitation": "43%"
       }
     },
     {
