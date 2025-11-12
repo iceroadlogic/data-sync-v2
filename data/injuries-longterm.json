@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-11-11T20:13:10.726Z",
+  "lastUpdated": "2025-11-12T12:23:31.813Z",
   "week": 11,
   "summary": {
-    "total_players": 766,
+    "total_players": 767,
     "ir": 79,
-    "suspended": 0
+    "suspended": 1
   },
   "ir": [
     {
@@ -798,5 +798,16 @@
       "injury_description": null
     }
   ],
-  "suspended": []
+  "suspended": [
+    {
+      "player_id": "12787",
+      "source_id": "4568024",
+      "player_name": "Josh Williams",
+      "position": "RB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Suspension",
+      "injury_description": null
+    }
+  ]
 }
