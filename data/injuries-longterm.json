@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-12T12:23:31.813Z",
+  "lastUpdated": "2025-11-12T16:16:25.419Z",
   "week": 11,
   "summary": {
     "total_players": 767,
-    "ir": 79,
+    "ir": 78,
     "suspended": 1
   },
   "ir": [
@@ -603,16 +603,6 @@
       "player_name": "Johnny Wilson",
       "position": "WR",
       "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "12511",
-      "source_id": "4429955",
-      "player_name": "Will Howard",
-      "position": "QB",
-      "team_abbr": "PIT",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
