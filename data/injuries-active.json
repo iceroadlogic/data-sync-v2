@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-13T21:38:38.634Z",
+  "lastUpdated": "2025-11-13T21:49:07.913Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 59,
+    "questionable": 57,
     "doubtful": 2,
     "out": 20
   },
@@ -69,30 +69,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8131",
       "source_id": "4361050",
       "player_name": "Isaiah Likely",
       "position": "TE",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9511",
-      "source_id": "4596334",
-      "player_name": "Keaton Mitchell",
-      "position": "RB",
       "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
