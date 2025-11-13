@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-13T10:24:59.254Z",
+  "lastUpdated": "2025-11-13T16:26:35.599Z",
   "games": [
     {
       "game_id": "401772945",
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "2 to 6 mph SE",
+        "wind": "1 to 6 mph SW",
         "conditions": "Sunny",
         "precipitation": "1%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "14 to 20 mph W",
-        "conditions": "Light Rain",
-        "precipitation": "86%"
+        "temp": 50,
+        "wind": "13 to 18 mph NW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "69%"
       }
     },
     {
@@ -70,7 +70,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "6 to 12 mph W",
+        "wind": "6 to 13 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "3 to 7 mph ESE",
-        "conditions": "Mostly Sunny then Chance Rain Showers",
-        "precipitation": "36%"
+        "wind": "2 to 7 mph E",
+        "conditions": "Sunny then Chance Rain Showers",
+        "precipitation": "44%"
       }
     },
     {
