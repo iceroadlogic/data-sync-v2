@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-13T21:29:10.229Z",
+  "lastUpdated": "2025-11-13T21:38:38.634Z",
   "week": 11,
   "summary": {
     "total_players": 771,
     "questionable": 59,
     "doubtful": 2,
-    "out": 21
+    "out": 20
   },
   "questionable": [
     {
@@ -759,16 +759,6 @@
       "position": "RB",
       "team_abbr": "NYG",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "8146",
-      "source_id": "4569618",
-      "player_name": "Garrett Wilson",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
