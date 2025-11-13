@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-13T14:25:11.581Z",
+  "lastUpdated": "2025-11-13T21:14:15.937Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 60,
+    "questionable": 57,
     "doubtful": 2,
-    "out": 20
+    "out": 21
   },
   "questionable": [
     {
@@ -129,16 +129,6 @@
       "injury_description": null
     },
     {
-      "player_id": "6826",
-      "source_id": "4258595",
-      "player_name": "Cole Kmet",
-      "position": "TE",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
@@ -153,16 +143,6 @@
       "source_id": "4431299",
       "player_name": "Rome Odunze",
       "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -359,16 +339,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9758",
-      "source_id": "4432577",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7535",
       "source_id": "4239944",
       "player_name": "Hunter Long",
@@ -499,16 +469,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11565",
-      "source_id": "4433970",
-      "player_name": "J.J. McCarthy",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "5973",
       "source_id": "3921690",
       "player_name": "Josh Oliver",
@@ -607,6 +567,16 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
+    },
+    {
+      "player_id": "11596",
+      "source_id": "4690923",
+      "player_name": "Ben Sinnott",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
     }
   ],
   "doubtful": [
@@ -669,6 +639,16 @@
       "position": "QB",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9758",
+      "source_id": "4432577",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
