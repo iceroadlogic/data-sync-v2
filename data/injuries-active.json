@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-12T22:24:55.006Z",
+  "lastUpdated": "2025-11-13T06:38:50.754Z",
   "week": 11,
   "summary": {
-    "total_players": 768,
-    "questionable": 52,
+    "total_players": 771,
+    "questionable": 60,
     "doubtful": 2,
     "out": 20
   },
@@ -24,6 +24,16 @@
       "player_name": "Xavier Weaver",
       "position": "WR",
       "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4198",
+      "source_id": "3061612",
+      "player_name": "Jamal Agnew",
+      "position": "WR",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -249,6 +259,16 @@
       "injury_description": null
     },
     {
+      "player_id": "5154",
+      "source_id": "3122168",
+      "player_name": "Trent Sherfield Sr.",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "10859",
       "source_id": "4430027",
       "player_name": "Sam LaPorta",
@@ -269,11 +289,21 @@
       "injury_description": null
     },
     {
-      "player_id": "8121",
-      "source_id": "4361432",
-      "player_name": "Romeo Doubs",
-      "position": "WR",
-      "team_abbr": "GB",
+      "player_id": "11729",
+      "source_id": "4912274",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7891",
+      "source_id": "4242392",
+      "player_name": "Brock Wright",
+      "position": "TE",
+      "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -289,9 +319,39 @@
       "injury_description": null
     },
     {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6850",
       "source_id": "4040774",
       "player_name": "Harrison Bryant",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5001",
+      "source_id": "3117256",
+      "player_name": "Dalton Schultz",
       "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "active",
@@ -329,6 +389,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9487",
+      "source_id": "4432620",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8205",
       "source_id": "4361529",
       "player_name": "Isiah Pacheco",
@@ -349,9 +419,19 @@
       "injury_description": null
     },
     {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
+      "player_id": "9754",
+      "source_id": "4429025",
+      "player_name": "Quentin Johnston",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
       "position": "WR",
       "team_abbr": "LAC",
       "injury_status": "active",
@@ -362,6 +442,16 @@
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
       "position": "WR",
       "team_abbr": "LAR",
       "injury_status": "active",
@@ -474,16 +564,6 @@
       "player_name": "Brock Purdy",
       "position": "QB",
       "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10867",
-      "source_id": "4360405",
-      "player_name": "Jake Bobo",
-      "position": "WR",
-      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
