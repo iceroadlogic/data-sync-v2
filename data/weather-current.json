@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-14T10:24:09.437Z",
+  "lastUpdated": "2025-11-14T16:28:07.445Z",
   "games": [
     {
       "game_id": "401772945",
@@ -9,10 +9,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 31,
-        "wind": "6 mph NW",
-        "conditions": "Clear",
-        "precipitation": "2%"
+        "temp": 44,
+        "wind": "8 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -70,7 +70,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "7 to 13 mph W",
+        "wind": "8 to 14 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -150,10 +150,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 68,
+        "temp": 70,
         "wind": "2 to 7 mph ESE",
-        "conditions": "Mostly Sunny then Chance Rain Showers",
-        "precipitation": "41%"
+        "conditions": "Sunny then Chance Rain Showers",
+        "precipitation": "30%"
       }
     },
     {
