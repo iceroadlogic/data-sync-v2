@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-13T20:14:14.760Z",
+  "lastUpdated": "2025-11-14T12:23:51.644Z",
   "week": 11,
   "summary": {
-    "total_players": 771,
-    "ir": 80,
+    "total_players": 772,
+    "ir": 81,
     "suspended": 1
   },
   "ir": [
@@ -611,6 +611,16 @@
       "player_id": "4171",
       "source_id": "3115306",
       "player_name": "Josh Reynolds",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8146",
+      "source_id": "4569618",
+      "player_name": "Garrett Wilson",
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
