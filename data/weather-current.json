@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-13T23:26:34.919Z",
+  "lastUpdated": "2025-11-14T10:24:09.437Z",
   "games": [
     {
       "game_id": "401772945",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "10 mph NW",
-        "conditions": "Slight Chance Light Rain then Partly Cloudy",
-        "precipitation": "15%"
+        "wind": "6 mph NW",
+        "conditions": "Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
+        "temp": 83,
         "wind": "1 to 6 mph SW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 50,
-        "wind": "13 to 18 mph NW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "69%"
+        "wind": "13 to 18 mph W",
+        "conditions": "Chance Light Rain",
+        "precipitation": "46%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "10 to 17 mph W",
+        "temp": 56,
+        "wind": "12 to 18 mph W",
         "conditions": "Light Rain Likely",
-        "precipitation": "63%"
+        "precipitation": "47%"
       }
     },
     {
@@ -69,9 +69,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "6 to 13 mph W",
-        "conditions": "Patchy Fog then Sunny",
+        "temp": 78,
+        "wind": "7 to 13 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "10 to 14 mph W",
-        "conditions": "Rain Showers Likely then Rain And Snow Showers Likely",
-        "precipitation": "73%"
+        "temp": 42,
+        "wind": "17 to 22 mph W",
+        "conditions": "Chance Rain And Snow Showers",
+        "precipitation": "43%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "5 to 10 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "wind": "5 to 10 mph NNW",
+        "conditions": "Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 to 10 mph SSW",
+        "temp": 62,
+        "wind": "5 to 10 mph S",
         "conditions": "Chance Rain Showers",
-        "precipitation": "49%"
+        "precipitation": "43%"
       }
     },
     {
@@ -139,8 +139,8 @@
       "weather": {
         "temp": 47,
         "wind": "16 to 23 mph NW",
-        "conditions": "Chance Rain Showers then Partly Sunny",
-        "precipitation": "37%"
+        "conditions": "Chance Light Rain then Mostly Sunny",
+        "precipitation": "25%"
       }
     },
     {
@@ -166,7 +166,7 @@
         "temp": 38,
         "wind": "10 mph W",
         "conditions": "Mostly Clear",
-        "precipitation": "5%"
+        "precipitation": "2%"
       }
     },
     {
