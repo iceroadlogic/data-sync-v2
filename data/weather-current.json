@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-14T16:28:07.445Z",
+  "lastUpdated": "2025-11-14T22:20:03.369Z",
   "games": [
     {
       "game_id": "401772945",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "8 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "wind": "6 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -22,7 +22,7 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "wind": "1 to 6 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -35,10 +35,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "13 to 18 mph W",
-        "conditions": "Chance Light Rain",
-        "precipitation": "46%"
+        "temp": 48,
+        "wind": "13 to 18 mph NW",
+        "conditions": "Chance Light Rain then Mostly Sunny",
+        "precipitation": "42%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "12 to 18 mph W",
-        "conditions": "Light Rain Likely",
-        "precipitation": "47%"
+        "temp": 57,
+        "wind": "13 to 20 mph W",
+        "conditions": "Chance Rain Showers then Mostly Sunny",
+        "precipitation": "37%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 42,
-        "wind": "17 to 22 mph W",
-        "conditions": "Chance Rain And Snow Showers",
-        "precipitation": "43%"
+        "wind": "14 to 22 mph W",
+        "conditions": "Rain And Snow Showers Likely",
+        "precipitation": "59%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
+        "temp": 67,
         "wind": "5 to 10 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
+        "temp": 63,
         "wind": "5 to 10 mph S",
         "conditions": "Chance Rain Showers",
-        "precipitation": "43%"
+        "precipitation": "41%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "16 to 23 mph NW",
-        "conditions": "Chance Light Rain then Mostly Sunny",
-        "precipitation": "25%"
+        "temp": 46,
+        "wind": "17 to 23 mph NW",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "16%"
       }
     },
     {
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "2 to 7 mph ESE",
+        "wind": "2 to 6 mph ESE",
         "conditions": "Sunny then Chance Rain Showers",
-        "precipitation": "30%"
+        "precipitation": "29%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "10 mph W",
+        "temp": 37,
+        "wind": "10 to 15 mph W",
         "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
