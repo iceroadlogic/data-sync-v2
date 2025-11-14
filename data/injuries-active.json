@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-13T23:31:13.463Z",
+  "lastUpdated": "2025-11-14T06:38:52.000Z",
   "week": 11,
   "summary": {
-    "total_players": 771,
-    "questionable": 58,
+    "total_players": 772,
+    "questionable": 54,
     "doubtful": 2,
-    "out": 20
+    "out": 22
   },
   "questionable": [
     {
@@ -13,16 +13,6 @@
       "source_id": "4427728",
       "player_name": "Bam Knight",
       "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11921",
-      "source_id": "4428811",
-      "player_name": "Xavier Weaver",
-      "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -212,16 +202,6 @@
       "player_id": "9494",
       "source_id": "4686472",
       "player_name": "Marvin Mims Jr.",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5154",
-      "source_id": "3122168",
-      "player_name": "Trent Sherfield Sr.",
       "position": "WR",
       "team_abbr": "DEN",
       "injury_status": "active",
@@ -419,16 +399,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11623",
-      "source_id": "4569382",
-      "player_name": "Jordan Whittington",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7612",
       "source_id": "4043016",
       "player_name": "Dee Eskridge",
@@ -523,16 +493,6 @@
       "source_id": "4428209",
       "player_name": "Ricky Pearsall",
       "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8183",
-      "source_id": "4361741",
-      "player_name": "Brock Purdy",
-      "position": "QB",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -713,6 +673,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "3202",
       "source_id": "3043275",
       "player_name": "Austin Hooper",
@@ -749,6 +719,16 @@
       "position": "RB",
       "team_abbr": "NYG",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8219",
+      "source_id": "4241410",
+      "player_name": "Jelani Woods",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
