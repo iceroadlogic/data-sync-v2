@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-15T16:12:05.909Z",
+  "lastUpdated": "2025-11-15T20:12:03.777Z",
   "week": 11,
   "summary": {
     "total_players": 773,
-    "ir": 81,
+    "ir": 82,
     "suspended": 1
   },
   "ir": [
@@ -754,6 +754,16 @@
       "position": "WR",
       "team_abbr": "TB",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11959",
+      "source_id": "4362617",
+      "player_name": "Bryce Oliver",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
