@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-16T21:29:07.202Z",
+  "lastUpdated": "2025-11-16T21:39:39.009Z",
   "week": 11,
   "summary": {
     "total_players": 771,
     "questionable": 12,
     "doubtful": 0,
-    "out": 62
+    "out": 63
   },
   "questionable": [
     {
@@ -99,9 +99,9 @@
       "injury_description": null
     },
     {
-      "player_id": "12540",
-      "source_id": "4431268",
-      "player_name": "Chimere Dike",
+      "player_id": "12499",
+      "source_id": "4883647",
+      "player_name": "Elic Ayomanor",
       "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "active",
@@ -109,9 +109,9 @@
       "injury_description": null
     },
     {
-      "player_id": "4981",
-      "source_id": "3925357",
-      "player_name": "Calvin Ridley",
+      "player_id": "12540",
+      "source_id": "4431268",
+      "player_name": "Chimere Dike",
       "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "active",
@@ -707,6 +707,16 @@
       "player_name": "Bucky Irving",
       "position": "RB",
       "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4981",
+      "source_id": "3925357",
+      "player_name": "Calvin Ridley",
+      "position": "WR",
+      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
