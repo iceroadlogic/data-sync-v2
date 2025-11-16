@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-16T23:19:50.428Z",
+  "lastUpdated": "2025-11-16T23:31:38.190Z",
   "games": [
     {
       "game_id": "401772945",
@@ -9,10 +9,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "15 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "5%"
+        "temp": 30,
+        "wind": "13 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "6 mph W",
-        "conditions": "Sunny",
+        "temp": 63,
+        "wind": "5 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "21 mph W",
-        "conditions": "Slight Chance Rain And Snow Showers",
-        "precipitation": "19%"
+        "temp": 31,
+        "wind": "15 to 20 mph W",
+        "conditions": "Slight Chance Snow Showers then Mostly Cloudy",
+        "precipitation": "15%"
       }
     },
     {
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 to 10 mph NNW",
+        "wind": "5 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "8 mph E",
+        "wind": "8 mph ENE",
         "conditions": "Mostly Sunny",
         "precipitation": "4%"
       }
