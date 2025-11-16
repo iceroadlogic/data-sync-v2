@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-16T21:13:51.450Z",
+  "lastUpdated": "2025-11-16T21:29:07.202Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 11,
+    "questionable": 12,
     "doubtful": 0,
     "out": 62
   },
@@ -14,6 +14,16 @@
       "player_name": "Michael Penix Jr.",
       "position": "QB",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
