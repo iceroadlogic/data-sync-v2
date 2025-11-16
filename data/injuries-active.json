@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-16T16:43:16.863Z",
+  "lastUpdated": "2025-11-16T16:52:40.663Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 9,
+    "questionable": 7,
     "doubtful": 0,
-    "out": 47
+    "out": 52
   },
   "questionable": [
     {
@@ -14,26 +14,6 @@
       "player_name": "Bam Knight",
       "position": "RB",
       "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4198",
-      "source_id": "3061612",
-      "player_name": "Jamal Agnew",
-      "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7531",
-      "source_id": "4034948",
-      "player_name": "Feleipe Franks",
-      "position": "TE",
-      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -79,21 +59,21 @@
       "injury_description": null
     },
     {
-      "player_id": "11599",
-      "source_id": "4426496",
-      "player_name": "Cade Stover",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "2307",
+      "source_id": "2576980",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -157,6 +137,26 @@
       "player_name": "Elijah Moore",
       "position": "WR",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8170",
+      "source_id": "4361988",
+      "player_name": "James Mitchell",
+      "position": "TE",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5955",
+      "source_id": "3135321",
+      "player_name": "Hunter Renfrow",
+      "position": "WR",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -247,6 +247,26 @@
       "player_name": "Malik Heath",
       "position": "WR",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5121",
+      "source_id": "3123075",
+      "player_name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8129",
+      "source_id": "4360238",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -478,6 +498,16 @@
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
