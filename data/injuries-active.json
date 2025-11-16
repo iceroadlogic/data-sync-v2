@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-16T17:13:07.741Z",
+  "lastUpdated": "2025-11-16T17:29:49.253Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 6,
+    "questionable": 7,
     "doubtful": 0,
     "out": 53
   },
@@ -64,6 +64,16 @@
       "player_name": "Davante Adams",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12641",
+      "source_id": "4602667",
+      "player_name": "Jaylin Lane",
+      "position": "WR",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
