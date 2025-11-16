@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-16T23:31:38.190Z",
+  "lastUpdated": "2025-11-16T23:41:47.630Z",
   "games": [
     {
       "game_id": "401772945",
@@ -9,10 +9,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "13 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "4%"
+        "temp": 51,
+        "wind": "15 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "15 to 20 mph W",
+        "wind": "15 to 18 mph NW",
         "conditions": "Slight Chance Snow Showers then Mostly Cloudy",
         "precipitation": "15%"
       }
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 mph N",
+        "wind": "5 to 10 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
