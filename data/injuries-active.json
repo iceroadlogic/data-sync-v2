@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-16T18:45:19.437Z",
+  "lastUpdated": "2025-11-16T18:54:47.086Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 9,
+    "questionable": 10,
     "doubtful": 0,
     "out": 53
   },
@@ -64,6 +64,16 @@
       "player_name": "Brock Wright",
       "position": "TE",
       "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6804",
+      "source_id": "4036378",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
