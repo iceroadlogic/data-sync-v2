@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-16T22:49:31.731Z",
+  "lastUpdated": "2025-11-16T23:14:19.842Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 0,
     "out": 63
   },
@@ -109,6 +109,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11168",
+      "source_id": "4386544",
+      "player_name": "Xavier Smith",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "96",
       "source_id": "8439",
       "player_name": "Aaron Rodgers",
@@ -119,11 +129,11 @@
       "injury_description": null
     },
     {
-      "player_id": "12499",
-      "source_id": "4883647",
-      "player_name": "Elic Ayomanor",
-      "position": "WR",
-      "team_abbr": "TEN",
+      "player_id": "8228",
+      "source_id": "4569987",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
