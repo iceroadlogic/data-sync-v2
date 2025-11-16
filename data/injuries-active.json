@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-16T22:14:35.187Z",
+  "lastUpdated": "2025-11-16T22:33:20.160Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 13,
+    "questionable": 14,
     "doubtful": 0,
     "out": 63
   },
   "questionable": [
+    {
+      "player_id": "11199",
+      "source_id": "4362478",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "8112",
       "source_id": "4426502",
