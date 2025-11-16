@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-16T20:16:49.668Z",
+  "lastUpdated": "2025-11-16T20:39:19.432Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 6,
+    "questionable": 8,
     "doubtful": 0,
     "out": 65
   },
   "questionable": [
+    {
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "11237",
       "source_id": "4383429",
@@ -44,6 +54,16 @@
       "player_name": "Brock Wright",
       "position": "TE",
       "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12490",
+      "source_id": "4882093",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
