@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-15T20:12:03.777Z",
+  "lastUpdated": "2025-11-17T12:23:36.494Z",
   "week": 11,
   "summary": {
-    "total_players": 773,
-    "ir": 82,
+    "total_players": 771,
+    "ir": 84,
     "suspended": 1
   },
   "ir": [
@@ -178,11 +178,31 @@
       "injury_description": null
     },
     {
+      "player_id": "6806",
+      "source_id": "4241985",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "8249",
       "source_id": "4360231",
       "player_name": "Lucas Krull",
       "position": "TE",
       "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "10859",
+      "source_id": "4430027",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "team_abbr": "DET",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -238,9 +258,9 @@
       "injury_description": null
     },
     {
-      "player_id": "7568",
-      "source_id": "4362504",
-      "player_name": "Brevin Jordan",
+      "player_id": "6850",
+      "source_id": "4040774",
+      "player_name": "Harrison Bryant",
       "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "day-to-day",
@@ -248,9 +268,9 @@
       "injury_description": null
     },
     {
-      "player_id": "11599",
-      "source_id": "4426496",
-      "player_name": "Cade Stover",
+      "player_id": "7568",
+      "source_id": "4362504",
+      "player_name": "Brevin Jordan",
       "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "day-to-day",
@@ -758,16 +778,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11959",
-      "source_id": "4362617",
-      "player_name": "Bryce Oliver",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "9999",
       "source_id": "4361418",
       "player_name": "Will Levis",
@@ -782,6 +792,16 @@
       "source_id": "4429121",
       "player_name": "Kalel Mullings",
       "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11959",
+      "source_id": "4362617",
+      "player_name": "Bryce Oliver",
+      "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
