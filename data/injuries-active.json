@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-17T06:39:25.033Z",
+  "lastUpdated": "2025-11-17T14:27:00.550Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 0,
     "out": 66
   },
@@ -124,6 +124,16 @@
       "player_name": "Jaylen Warren",
       "position": "RB",
       "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12499",
+      "source_id": "4883647",
+      "player_name": "Elic Ayomanor",
+      "position": "WR",
+      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
