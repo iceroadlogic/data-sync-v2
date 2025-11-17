@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-17T16:16:28.085Z",
+  "lastUpdated": "2025-11-17T20:14:26.479Z",
   "week": 11,
   "summary": {
     "total_players": 771,
-    "ir": 84,
+    "ir": 85,
     "suspended": 1
   },
   "ir": [
@@ -74,6 +74,16 @@
       "position": "TE",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
