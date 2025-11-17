@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2025-11-17T16:29:39.804Z",
+  "lastUpdated": "2025-11-17T21:26:00.529Z",
   "games": [
     {
       "game_id": "401772945",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 42,
-        "wind": "16 to 20 mph W",
-        "conditions": "Mostly Cloudy",
+        "wind": "17 mph W",
+        "conditions": "Partly Sunny",
         "precipitation": "1%"
       }
     },
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "6 mph N",
+        "wind": "6 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -36,8 +36,8 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "9 to 15 mph W",
-        "conditions": "Mostly Sunny",
+        "wind": "12 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -48,8 +48,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "14 to 17 mph NW",
+        "temp": 47,
+        "wind": "16 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -70,7 +70,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "9 to 14 mph N",
+        "wind": "14 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 40,
-        "wind": "13 to 16 mph W",
+        "wind": "17 mph W",
         "conditions": "Mostly Cloudy",
-        "precipitation": "11%"
+        "precipitation": "9%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "wind": "5 mph E",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "10 to 15 mph SSE",
+        "wind": "15 mph SSW",
         "conditions": "Rain",
-        "precipitation": "84%"
+        "precipitation": "100%"
       }
     },
     {
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "14 to 17 mph NW",
+        "wind": "14 mph W",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "10 to 20 mph W",
+        "wind": "10 to 18 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -165,7 +165,7 @@
       "weather": {
         "temp": 48,
         "wind": "15 mph NW",
-        "conditions": "Partly Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
