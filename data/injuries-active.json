@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-11-18T14:27:29.420Z",
+  "lastUpdated": "2025-11-18T22:26:21.220Z",
   "week": 12,
   "summary": {
-    "total_players": 771,
-    "questionable": 38,
-    "doubtful": 1,
+    "total_players": 770,
+    "questionable": 34,
+    "doubtful": 2,
     "out": 17
   },
   "questionable": [
-    {
-      "player_id": "11199",
-      "source_id": "4362478",
-      "player_name": "Emari Demercado",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "11628",
       "source_id": "4432708",
@@ -144,36 +134,6 @@
       "player_name": "Josh Jacobs",
       "position": "RB",
       "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7569",
-      "source_id": "4258173",
-      "player_name": "Nico Collins",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5001",
-      "source_id": "3117256",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9758",
-      "source_id": "4432577",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -391,6 +351,16 @@
   ],
   "doubtful": [
     {
+      "player_id": "11199",
+      "source_id": "4362478",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
+    {
       "player_id": "8112",
       "source_id": "4426502",
       "player_name": "Drake London",
@@ -438,6 +408,16 @@
       "player_name": "Nate Adkins",
       "position": "TE",
       "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9758",
+      "source_id": "4432577",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -519,16 +499,6 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "4981",
-      "source_id": "3925357",
-      "player_name": "Calvin Ridley",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
