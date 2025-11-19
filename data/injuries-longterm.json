@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-18T20:14:42.095Z",
+  "lastUpdated": "2025-11-19T12:23:38.813Z",
   "week": 12,
   "summary": {
     "total_players": 771,
@@ -172,16 +172,6 @@
       "source_id": "4045163",
       "player_name": "Miles Sanders",
       "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11511",
-      "source_id": "4362489",
-      "player_name": "John Stephens Jr.",
-      "position": "TE",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -818,6 +808,16 @@
       "injury_description": null
     },
     {
+      "player_id": "4981",
+      "source_id": "3925357",
+      "player_name": "Calvin Ridley",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "4234",
       "source_id": "3121409",
       "player_name": "Noah Brown",
@@ -865,7 +865,7 @@
       "player_name": "Ja'Marr Chase",
       "position": "WR",
       "team_abbr": "CIN",
-      "injury_status": "active",
+      "injury_status": "news",
       "injury_designation": "Suspension",
       "injury_description": null
     },
