@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-18T22:20:58.364Z",
+  "lastUpdated": "2025-11-19T10:25:03.952Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,10 +25,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "7 mph W",
+        "temp": 51,
+        "wind": "5 to 8 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "5%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 67,
         "wind": "0 to 5 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "11%"
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "15%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "7 mph SW",
+        "wind": "3 to 7 mph WSW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "3%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "1 to 5 mph W",
-        "conditions": "Sunny",
-        "precipitation": "10%"
+        "temp": 60,
+        "wind": "2 to 6 mph SW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "1 to 6 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "wind": "2 to 6 mph W",
+        "conditions": "Slight Chance Light Rain then Mostly Sunny",
+        "precipitation": "16%"
       }
     },
     {
@@ -90,9 +90,9 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 53,
+        "temp": 55,
         "wind": "5 to 10 mph WSW",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "4%"
       }
     },
@@ -136,9 +136,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "0 to 5 mph NW",
+        "wind": "0 to 5 mph N",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -148,10 +148,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 to 8 mph W",
+        "temp": 64,
+        "wind": "2 to 6 mph NNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "1%"
       }
     }
   ]
