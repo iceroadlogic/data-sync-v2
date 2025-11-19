@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-19T16:15:58.665Z",
+  "lastUpdated": "2025-11-19T20:12:55.623Z",
   "week": 12,
   "summary": {
-    "total_players": 771,
-    "ir": 85,
+    "total_players": 772,
+    "ir": 84,
     "suspended": 2
   },
   "ir": [
@@ -78,19 +78,19 @@
       "injury_description": null
     },
     {
-      "player_id": "11559",
-      "source_id": "4360423",
-      "player_name": "Michael Penix Jr.",
+      "player_id": "11961",
+      "source_id": "4360230",
+      "player_name": "Emory Jones",
       "position": "QB",
       "team_abbr": "ATL",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
     {
-      "player_id": "11961",
-      "source_id": "4360230",
-      "player_name": "Emory Jones",
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
       "position": "QB",
       "team_abbr": "ATL",
       "injury_status": "day-to-day",
@@ -363,16 +363,6 @@
       "player_name": "Keaontay Ingram",
       "position": "RB",
       "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "10866",
-      "source_id": "4260394",
-      "player_name": "Aidan O'Connell",
-      "position": "QB",
-      "team_abbr": "LV",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
