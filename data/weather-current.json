@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-19T16:28:49.107Z",
+  "lastUpdated": "2025-11-19T22:20:36.352Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,10 +25,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "5 to 8 mph W",
+        "temp": 52,
+        "wind": "8 mph WSW",
         "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "precipitation": "3%"
       }
     },
     {
@@ -39,8 +39,8 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "0 to 5 mph NW",
-        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "wind": "0 to 5 mph NNW",
+        "conditions": "Slight Chance Rain Showers then Mostly Sunny",
         "precipitation": "15%"
       }
     },
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "3 to 7 mph WSW",
-        "conditions": "Sunny",
-        "precipitation": "3%"
+        "wind": "6 mph SW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
+        "temp": 59,
         "wind": "2 to 6 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "13%"
+        "precipitation": "12%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "2 to 6 mph W",
-        "conditions": "Slight Chance Light Rain then Mostly Sunny",
-        "precipitation": "16%"
+        "temp": 54,
+        "wind": "1 to 5 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -92,7 +92,7 @@
       "weather": {
         "temp": 55,
         "wind": "5 to 10 mph WSW",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "4%"
       }
     },
@@ -136,7 +136,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "0 to 5 mph N",
+        "wind": "0 to 5 mph NNE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
