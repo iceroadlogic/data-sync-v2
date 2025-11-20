@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T21:30:00.914Z",
+  "lastUpdated": "2025-11-20T21:39:20.677Z",
   "week": 12,
   "summary": {
     "total_players": 772,
@@ -123,16 +123,6 @@
       "source_id": "4912274",
       "player_name": "Sione Vaki",
       "position": "RB",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7891",
-      "source_id": "4242392",
-      "player_name": "Brock Wright",
-      "position": "TE",
       "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -344,6 +334,16 @@
       "player_name": "Darius Slayton",
       "position": "WR",
       "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7720",
+      "source_id": "4035537",
+      "player_name": "Kene Nwangwu",
+      "position": "RB",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
