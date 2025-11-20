@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-11-20T14:26:59.083Z",
+  "lastUpdated": "2025-11-20T21:14:15.131Z",
   "week": 12,
   "summary": {
-    "total_players": 771,
+    "total_players": 772,
     "questionable": 44,
     "doubtful": 2,
     "out": 21
@@ -49,16 +49,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "6012",
       "source_id": "4037457",
       "player_name": "Travis Homer",
@@ -69,9 +59,9 @@
       "injury_description": null
     },
     {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
+      "player_id": "10235",
+      "source_id": "4426386",
+      "player_name": "Roschon Johnson",
       "position": "RB",
       "team_abbr": "CHI",
       "injury_status": "active",
@@ -244,6 +234,16 @@
       "player_name": "Bhayshul Tuten",
       "position": "RB",
       "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8205",
+      "source_id": "4361529",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
