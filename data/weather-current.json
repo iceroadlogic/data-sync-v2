@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-20T16:28:20.258Z",
+  "lastUpdated": "2025-11-20T21:25:29.457Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,10 +25,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "8 mph W",
+        "temp": 51,
+        "wind": "6 mph W",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "0 to 5 mph NNE",
-        "conditions": "Areas Of Fog then Mostly Sunny",
-        "precipitation": "8%"
+        "wind": "0 to 5 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
+        "temp": 60,
         "wind": "2 to 6 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "9%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "1 to 6 mph SW",
+        "wind": "2 to 6 mph SW",
         "conditions": "Sunny",
-        "precipitation": "6%"
+        "precipitation": "3%"
       }
     },
     {
@@ -77,7 +77,7 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
+        "temp": 53,
         "wind": "1 to 7 mph W",
         "conditions": "Sunny",
         "precipitation": "2%"
@@ -93,7 +93,7 @@
         "temp": 55,
         "wind": "5 to 10 mph WSW",
         "conditions": "Sunny",
-        "precipitation": "5%"
+        "precipitation": "0%"
       }
     },
     {
@@ -135,7 +135,7 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 66,
         "wind": "5 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
