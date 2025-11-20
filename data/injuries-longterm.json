@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-19T20:12:55.623Z",
+  "lastUpdated": "2025-11-20T12:23:21.801Z",
   "week": 12,
   "summary": {
-    "total_players": 772,
-    "ir": 84,
+    "total_players": 771,
+    "ir": 85,
     "suspended": 2
   },
   "ir": [
@@ -402,6 +402,16 @@
       "source_id": "4360797",
       "player_name": "Tutu Atwell",
       "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "3271",
+      "source_id": "2573401",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
       "team_abbr": "LAR",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
