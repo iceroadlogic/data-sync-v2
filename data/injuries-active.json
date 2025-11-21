@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-20T23:30:29.630Z",
+  "lastUpdated": "2025-11-21T06:39:24.730Z",
   "week": 12,
   "summary": {
-    "total_players": 772,
-    "questionable": 44,
+    "total_players": 771,
+    "questionable": 41,
     "doubtful": 2,
-    "out": 21
+    "out": 23
   },
   "questionable": [
     {
@@ -379,40 +379,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4037",
-      "source_id": "3116165",
-      "player_name": "Chris Godwin Jr.",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "11584",
       "source_id": "4596448",
       "player_name": "Bucky Irving",
       "position": "RB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4892",
-      "source_id": "3052587",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "3200",
-      "source_id": "2976592",
-      "player_name": "Sterling Shepard",
-      "position": "WR",
       "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -493,6 +463,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11637",
+      "source_id": "4635008",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "10236",
       "source_id": "4385690",
       "player_name": "Dalton Kincaid",
@@ -548,6 +528,16 @@
       "player_name": "Nate Adkins",
       "position": "TE",
       "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5121",
+      "source_id": "3123075",
+      "player_name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
