@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-20T23:25:45.525Z",
+  "lastUpdated": "2025-11-21T10:22:15.959Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,9 +25,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "6 mph W",
-        "conditions": "Sunny",
+        "temp": 49,
+        "wind": "6 mph WSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "0 to 5 mph NE",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "wind": "0 to 5 mph NNE",
+        "conditions": "Patchy Fog then Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "2 to 6 mph SSW",
+        "temp": 62,
+        "wind": "2 to 7 mph SSW",
         "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "precipitation": "1%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "2 to 6 mph SW",
+        "wind": "2 to 6 mph W",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -77,8 +77,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "1 to 7 mph W",
+        "temp": 56,
+        "wind": "0 to 8 mph W",
         "conditions": "Sunny",
         "precipitation": "2%"
       }
@@ -90,8 +90,8 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "5 to 10 mph WSW",
+        "temp": 53,
+        "wind": "5 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -149,7 +149,7 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "2 to 6 mph NNW",
+        "wind": "2 to 6 mph N",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
