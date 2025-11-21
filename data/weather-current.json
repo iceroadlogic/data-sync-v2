@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-21T16:26:58.325Z",
+  "lastUpdated": "2025-11-21T22:20:47.893Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,9 +25,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "6 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 48,
+        "wind": "7 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -38,8 +38,8 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "0 to 5 mph NNE",
+        "temp": 65,
+        "wind": "0 to 5 mph N",
         "conditions": "Patchy Fog then Sunny",
         "precipitation": "0%"
       }
@@ -51,8 +51,8 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 to 7 mph SSW",
+        "temp": 61,
+        "wind": "2 to 6 mph SSW",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "2 to 6 mph W",
+        "temp": 57,
+        "wind": "5 mph W",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "0 to 8 mph W",
+        "temp": 57,
+        "wind": "0 to 9 mph W",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -90,8 +90,8 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "5 mph WSW",
+        "temp": 52,
+        "wind": "5 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -135,7 +135,7 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 67,
         "wind": "5 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
