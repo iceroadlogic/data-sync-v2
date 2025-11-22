@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-22T16:24:15.031Z",
+  "lastUpdated": "2025-11-22T22:19:25.561Z",
   "games": [
     {
       "game_id": "401772946",
@@ -39,8 +39,8 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "0 to 5 mph NW",
-        "conditions": "Sunny",
+        "wind": "0 to 5 mph NNW",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -51,9 +51,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "2 to 6 mph ESE",
-        "conditions": "Mostly Sunny",
+        "temp": 61,
+        "wind": "1 to 6 mph ESE",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "0 to 9 mph W",
+        "wind": "0 to 14 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "4%"
       }
     },
     {
@@ -136,9 +136,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 mph SE",
+        "wind": "5 mph SSE",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -148,8 +148,8 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 to 6 mph N",
+        "temp": 63,
+        "wind": "2 to 8 mph NW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
