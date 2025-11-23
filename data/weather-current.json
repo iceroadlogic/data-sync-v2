@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-23T20:52:09.252Z",
+  "lastUpdated": "2025-11-23T21:20:25.843Z",
   "games": [
     {
       "game_id": "401772946",
@@ -26,7 +26,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "7 mph WSW",
+        "wind": "6 mph WSW",
         "conditions": "Partly Sunny",
         "precipitation": "3%"
       }
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "3 to 7 mph S",
+        "wind": "7 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "5 mph NW",
+        "wind": "3 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -77,9 +77,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "13 mph W",
-        "conditions": "Mostly Sunny",
+        "temp": 61,
+        "wind": "8 to 12 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "5 mph WSW",
+        "wind": "5 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -135,9 +135,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 to 10 mph SSE",
-        "conditions": "Mostly Sunny",
+        "temp": 68,
+        "wind": "5 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
