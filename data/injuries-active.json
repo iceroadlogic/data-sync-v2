@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-11-23T19:36:38.936Z",
+  "lastUpdated": "2025-11-23T19:49:42.053Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 6,
+    "questionable": 5,
     "doubtful": 0,
-    "out": 52
+    "out": 56
   },
   "questionable": [
-    {
-      "player_id": "9480",
-      "source_id": "4430539",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "11168",
       "source_id": "4386544",
@@ -252,6 +242,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12472",
+      "source_id": "4601080",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11633",
       "source_id": "4428678",
       "player_name": "Jamari Thrash",
@@ -382,6 +382,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11644",
+      "source_id": "4391845",
+      "player_name": "Cody Schrader",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11631",
       "source_id": "4432773",
       "player_name": "Brian Thomas Jr.",
@@ -397,6 +407,26 @@
       "player_name": "Isiah Pacheco",
       "position": "RB",
       "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8139",
+      "source_id": "4361777",
+      "player_name": "Zamir White",
+      "position": "RB",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
