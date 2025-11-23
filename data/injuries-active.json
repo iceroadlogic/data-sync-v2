@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-23T19:12:31.592Z",
+  "lastUpdated": "2025-11-23T19:26:13.670Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 5,
+    "questionable": 6,
     "doubtful": 0,
     "out": 52
   },
@@ -34,6 +34,16 @@
       "player_name": "Alvin Kamara",
       "position": "RB",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
