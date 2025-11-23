@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-23T19:27:08.568Z",
+  "lastUpdated": "2025-11-23T19:38:50.743Z",
   "games": [
     {
       "game_id": "401772946",
@@ -40,7 +40,7 @@
       "weather": {
         "temp": 63,
         "wind": "0 mph ",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "3 to 7 mph S",
+        "wind": "7 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -148,10 +148,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 to 7 mph NW",
-        "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "0%"
+        "temp": 63,
+        "wind": "2 to 8 mph N",
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "1%"
       }
     }
   ]
