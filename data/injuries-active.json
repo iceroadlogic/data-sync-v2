@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-23T20:40:27.116Z",
+  "lastUpdated": "2025-11-23T20:50:07.236Z",
   "week": 12,
   "summary": {
     "total_players": 771,
     "questionable": 5,
     "doubtful": 0,
-    "out": 62
+    "out": 63
   },
   "questionable": [
     {
@@ -317,6 +317,16 @@
       "player_name": "Nate Adkins",
       "position": "TE",
       "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "3634",
+      "source_id": "2973405",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
