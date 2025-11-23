@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-23T22:15:09.174Z",
+  "lastUpdated": "2025-11-23T22:34:41.319Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 8,
+    "questionable": 9,
     "doubtful": 0,
     "out": 62
   },
@@ -54,6 +54,16 @@
       "player_name": "Xavier Smith",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4035",
+      "source_id": "3054850",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
