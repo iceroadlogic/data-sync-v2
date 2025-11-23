@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-22T22:19:25.561Z",
+  "lastUpdated": "2025-11-23T14:19:02.864Z",
   "games": [
     {
       "game_id": "401772946",
@@ -26,9 +26,9 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "6 to 9 mph W",
+        "wind": "5 to 9 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "3%"
       }
     },
     {
@@ -38,8 +38,8 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 5 mph NNW",
+        "temp": 64,
+        "wind": "0 mph ",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -51,8 +51,8 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "1 to 6 mph ESE",
+        "temp": 59,
+        "wind": "1 to 7 mph S",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -66,7 +66,7 @@
       "weather": {
         "temp": 56,
         "wind": "2 to 6 mph W",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "conditions": "Patchy Fog then Sunny",
         "precipitation": "0%"
       }
     },
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "0 to 14 mph W",
+        "wind": "3 to 13 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "1%"
       }
     },
     {
@@ -90,7 +90,7 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 53,
         "wind": "5 to 10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -135,10 +135,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "5 mph SSE",
+        "temp": 68,
+        "wind": "0 to 10 mph NNE",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -148,9 +148,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "2 to 8 mph NW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "temp": 62,
+        "wind": "2 to 7 mph NW",
+        "conditions": "Patchy Fog then Partly Sunny",
         "precipitation": "0%"
       }
     }
