@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-23T23:20:35.009Z",
+  "lastUpdated": "2025-11-23T23:31:58.639Z",
   "games": [
     {
       "game_id": "401772946",
@@ -64,9 +64,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
+        "temp": 33,
         "wind": "2 mph NW",
-        "conditions": "Sunny",
+        "conditions": "Partly Cloudy then Areas Of Fog",
         "precipitation": "0%"
       }
     },
@@ -77,9 +77,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 37,
-        "wind": "3 to 7 mph W",
-        "conditions": "Mostly Clear",
+        "temp": 61,
+        "wind": "8 to 12 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
