@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-23T22:49:16.681Z",
+  "lastUpdated": "2025-11-23T23:14:42.471Z",
   "week": 12,
   "summary": {
     "total_players": 771,
     "questionable": 9,
     "doubtful": 0,
-    "out": 62
+    "out": 63
   },
   "questionable": [
     {
@@ -487,6 +487,16 @@
       "player_name": "Isiah Pacheco",
       "position": "RB",
       "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9482",
+      "source_id": "4429086",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
