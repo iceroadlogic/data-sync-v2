@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-23T20:50:07.236Z",
+  "lastUpdated": "2025-11-23T21:14:38.601Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 5,
+    "questionable": 6,
     "doubtful": 0,
-    "out": 63
+    "out": 64
   },
   "questionable": [
     {
@@ -14,6 +14,16 @@
       "player_name": "Tahj Brooks",
       "position": "RB",
       "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7828",
+      "source_id": "4240472",
+      "player_name": "Noah Gray",
+      "position": "TE",
+      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -226,6 +236,16 @@
       "source_id": "4700712",
       "player_name": "Cam Grandy",
       "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "6801",
+      "source_id": "4239993",
+      "player_name": "Tee Higgins",
+      "position": "WR",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Out",
