@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-24T10:25:43.062Z",
+  "lastUpdated": "2025-11-24T16:24:32.275Z",
   "games": [
     {
       "game_id": "401772946",
@@ -25,10 +25,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "7 mph SSW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "temp": 50,
+        "wind": "7 to 10 mph SSW",
+        "conditions": "Mostly Cloudy then Chance Light Rain",
+        "precipitation": "27%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "0 mph ",
-        "conditions": "Patchy Fog",
-        "precipitation": "0%"
+        "temp": 69,
+        "wind": "5 mph SE",
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "5 mph SSE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "43%"
+        "temp": 53,
+        "wind": "7 mph SE",
+        "conditions": "Rain",
+        "precipitation": "78%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "0 mph ",
+        "temp": 56,
+        "wind": "6 mph SE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "4%"
       }
     },
     {
@@ -77,9 +77,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 37,
-        "wind": "5 mph NW",
-        "conditions": "Clear",
+        "temp": 56,
+        "wind": "1 to 6 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "5 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 53,
+        "wind": "10 mph S",
+        "conditions": "Cloudy",
+        "precipitation": "13%"
       }
     },
     {
@@ -135,9 +135,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "5 mph ENE",
-        "conditions": "Patchy Fog",
+        "temp": 68,
+        "wind": "5 to 10 mph E",
+        "conditions": "Patchy Fog then Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -149,8 +149,8 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "2 to 8 mph NW",
-        "conditions": "Mostly Sunny",
+        "wind": "3 to 8 mph NW",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     }
