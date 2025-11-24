@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-24T22:47:39.111Z",
+  "lastUpdated": "2025-11-24T23:22:42.513Z",
   "week": 12,
   "summary": {
     "total_players": 773,
-    "questionable": 17,
+    "questionable": 19,
     "doubtful": 0,
     "out": 36
   },
   "questionable": [
+    {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "19",
       "source_id": "11252",
@@ -93,6 +103,16 @@
       "source_id": "4240472",
       "player_name": "Noah Gray",
       "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10229",
+      "source_id": "4428331",
+      "player_name": "Rashee Rice",
+      "position": "WR",
       "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
