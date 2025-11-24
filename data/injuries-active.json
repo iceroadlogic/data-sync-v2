@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-24T21:29:10.016Z",
+  "lastUpdated": "2025-11-24T21:38:32.933Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 10,
+    "questionable": 14,
     "doubtful": 0,
     "out": 37
   },
@@ -13,6 +13,46 @@
       "source_id": "2973405",
       "player_name": "Kalif Raymond",
       "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11237",
+      "source_id": "4383429",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12535",
+      "source_id": "5123663",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11729",
+      "source_id": "4912274",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7891",
+      "source_id": "4242392",
+      "player_name": "Brock Wright",
+      "position": "TE",
       "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
