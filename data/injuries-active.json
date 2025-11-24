@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-23T23:49:14.349Z",
+  "lastUpdated": "2025-11-24T06:39:47.158Z",
   "week": 12,
   "summary": {
     "total_players": 771,
-    "questionable": 8,
+    "questionable": 10,
     "doubtful": 0,
-    "out": 64
+    "out": 65
   },
   "questionable": [
     {
@@ -49,11 +49,31 @@
       "injury_description": null
     },
     {
-      "player_id": "11168",
-      "source_id": "4386544",
-      "player_name": "Xavier Smith",
+      "player_id": "9482",
+      "source_id": "4429086",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4035",
+      "source_id": "3054850",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11306",
+      "source_id": "4427278",
+      "player_name": "Xavier Gipson",
       "position": "WR",
-      "team_abbr": "LAR",
+      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -69,10 +89,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4037",
-      "source_id": "3116165",
-      "player_name": "Chris Godwin Jr.",
-      "position": "WR",
+      "player_id": "4892",
+      "source_id": "3052587",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
       "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -482,16 +502,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9482",
-      "source_id": "4429086",
-      "player_name": "Michael Mayer",
-      "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "10866",
       "source_id": "4260394",
       "player_name": "Aidan O'Connell",
@@ -507,6 +517,36 @@
       "player_name": "Zamir White",
       "position": "RB",
       "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11168",
+      "source_id": "4386544",
+      "player_name": "Xavier Smith",
+      "position": "WR",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -557,16 +597,6 @@
       "player_name": "Tommy DeVito",
       "position": "QB",
       "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "4035",
-      "source_id": "3054850",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
