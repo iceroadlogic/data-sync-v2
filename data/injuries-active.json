@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-24T22:32:08.622Z",
+  "lastUpdated": "2025-11-24T22:47:39.111Z",
   "week": 12,
   "summary": {
     "total_players": 773,
     "questionable": 17,
     "doubtful": 0,
-    "out": 37
+    "out": 36
   },
   "questionable": [
     {
@@ -276,16 +276,6 @@
       "source_id": "4239993",
       "player_name": "Tee Higgins",
       "position": "WR",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "4147",
-      "source_id": "3116389",
-      "player_name": "Samaje Perine",
-      "position": "RB",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Out",
