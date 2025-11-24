@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-24T21:38:32.933Z",
+  "lastUpdated": "2025-11-24T21:46:37.406Z",
   "week": 12,
   "summary": {
-    "total_players": 771,
-    "questionable": 14,
+    "total_players": 772,
+    "questionable": 15,
     "doubtful": 0,
     "out": 37
   },
   "questionable": [
+    {
+      "player_id": "19",
+      "source_id": "11252",
+      "player_name": "Joe Flacco",
+      "position": "QB",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "3634",
       "source_id": "2973405",
