@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2025-11-24T22:55:24.625Z",
+  "lastUpdated": "2025-11-24T23:26:50.907Z",
   "games": [
     {
       "game_id": "401772946",
@@ -26,7 +26,7 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "8 mph SSW",
+        "wind": "7 mph SSW",
         "conditions": "Chance Light Rain",
         "precipitation": "27%"
       }
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 mph SE",
+        "wind": "5 mph ESE",
         "conditions": "Slight Chance Rain Showers",
         "precipitation": "24%"
       }
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "6 mph SE",
+        "wind": "5 mph ESE",
         "conditions": "Rain",
-        "precipitation": "86%"
+        "precipitation": "85%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
+        "temp": 47,
         "wind": "5 mph SE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "9%"
+        "conditions": "Rain",
+        "precipitation": "96%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "3 mph E",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 40,
+        "wind": "2 mph SE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
