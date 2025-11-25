@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-11-24T20:14:22.193Z",
-  "week": 12,
+  "lastUpdated": "2025-11-25T12:24:35.196Z",
+  "week": 13,
   "summary": {
-    "total_players": 771,
+    "total_players": 773,
     "ir": 85,
-    "suspended": 2
+    "suspended": 1
   },
   "ir": [
     {
@@ -859,16 +859,6 @@
     }
   ],
   "suspended": [
-    {
-      "player_id": "7564",
-      "source_id": "4362628",
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "team_abbr": "CIN",
-      "injury_status": "news",
-      "injury_designation": "Suspension",
-      "injury_description": null
-    },
     {
       "player_id": "12787",
       "source_id": "4568024",
