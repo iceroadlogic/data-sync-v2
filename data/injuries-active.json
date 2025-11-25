@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-24T23:22:42.513Z",
-  "week": 12,
+  "lastUpdated": "2025-11-25T06:40:20.269Z",
+  "week": 13,
   "summary": {
     "total_players": 773,
-    "questionable": 19,
-    "doubtful": 0,
-    "out": 36
+    "questionable": 21,
+    "doubtful": 1,
+    "out": 39
   },
   "questionable": [
     {
@@ -24,6 +24,26 @@
       "player_name": "Joe Flacco",
       "position": "QB",
       "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8137",
+      "source_id": "4426354",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8917",
+      "source_id": "3676833",
+      "player_name": "KaVontae Turpin",
+      "position": "WR",
+      "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -119,6 +139,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11624",
+      "source_id": "4683062",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12527",
       "source_id": "4890973",
       "player_name": "Ashton Jeanty",
@@ -169,16 +199,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12048",
-      "source_id": "4429835",
-      "player_name": "George Holani",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4892",
       "source_id": "3052587",
       "player_name": "Baker Mayfield",
@@ -199,7 +219,18 @@
       "injury_description": null
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    }
+  ],
   "out": [
     {
       "player_id": "11199",
@@ -257,6 +288,26 @@
       "player_name": "Curtis Samuel",
       "position": "WR",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8170",
+      "source_id": "4361988",
+      "player_name": "James Mitchell",
+      "position": "TE",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5955",
+      "source_id": "3135321",
+      "player_name": "Hunter Renfrow",
+      "position": "WR",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -412,16 +463,6 @@
       "injury_description": null
     },
     {
-      "player_id": "8205",
-      "source_id": "4361529",
-      "player_name": "Isiah Pacheco",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "11168",
       "source_id": "4386544",
       "player_name": "Xavier Smith",
@@ -477,6 +518,26 @@
       "player_name": "Aaron Rodgers",
       "position": "QB",
       "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
