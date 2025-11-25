@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-25T10:26:18.304Z",
+  "lastUpdated": "2025-11-25T16:30:38.929Z",
   "games": [
     {
       "game_id": "401772891",
@@ -26,7 +26,7 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "20 mph W",
+        "wind": "12 mph W",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -124,10 +124,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "10 mph SSE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "45%"
+        "temp": 50,
+        "wind": "10 mph WNW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "60%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "5 to 8 mph S",
-        "conditions": "Chance Light Snow then Chance Light Rain",
-        "precipitation": "38%"
+        "temp": 45,
+        "wind": "6 to 9 mph S",
+        "conditions": "Chance Rain And Snow then Rain And Snow Likely",
+        "precipitation": "60%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "8 mph SW",
+        "temp": 37,
+        "wind": "7 mph SW",
         "conditions": "Chance Light Rain",
-        "precipitation": "41%"
+        "precipitation": "48%"
       }
     }
   ]
