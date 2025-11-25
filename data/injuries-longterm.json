@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-25T16:16:05.448Z",
+  "lastUpdated": "2025-11-25T20:13:50.672Z",
   "week": 13,
   "summary": {
     "total_players": 773,
-    "ir": 85,
+    "ir": 86,
     "suspended": 1
   },
   "ir": [
@@ -284,6 +284,16 @@
       "position": "WR",
       "team_abbr": "HOU",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6427",
+      "source_id": "4061956",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
