@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-26T10:25:27.020Z",
+  "lastUpdated": "2025-11-26T16:28:53.488Z",
   "games": [
     {
       "game_id": "401772891",
@@ -124,10 +124,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "10 mph W",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "69%"
+        "temp": 47,
+        "wind": "10 mph WNW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "53%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "7 to 10 mph SW",
+        "temp": 43,
+        "wind": "9 to 14 mph SW",
         "conditions": "Chance Rain And Snow then Rain And Snow Likely",
-        "precipitation": "64%"
+        "precipitation": "65%"
       }
     },
     {
