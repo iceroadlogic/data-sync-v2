@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-25T22:21:54.621Z",
+  "lastUpdated": "2025-11-26T10:25:27.020Z",
   "games": [
     {
       "game_id": "401772891",
@@ -26,7 +26,7 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "14 mph W",
+        "wind": "10 to 14 mph W",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -40,7 +40,7 @@
       "weather": {
         "temp": 43,
         "wind": "15 to 20 mph W",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "9 to 13 mph E",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "21%"
+        "wind": "8 to 13 mph E",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "26%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 81,
+        "temp": 82,
         "wind": "8 mph E",
         "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "precipitation": "11%"
       }
     },
     {
@@ -86,9 +86,9 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "2 to 8 mph S",
-        "conditions": "Mostly Cloudy then Chance Light Rain",
-        "precipitation": "32%"
+        "wind": "3 to 10 mph S",
+        "conditions": "Cloudy then Slight Chance Light Rain",
+        "precipitation": "24%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "5 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "26%"
+        "temp": 50,
+        "wind": "3 mph NE",
+        "conditions": "Mostly Cloudy then Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "15 mph SW",
-        "conditions": "Rain And Snow then Rain And Snow Likely",
-        "precipitation": "78%"
+        "temp": 42,
+        "wind": "13 to 16 mph SW",
+        "conditions": "Rain And Snow",
+        "precipitation": "80%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "10 mph WNW",
+        "temp": 51,
+        "wind": "10 mph W",
         "conditions": "Rain Showers Likely",
-        "precipitation": "60%"
+        "precipitation": "69%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "3 mph ENE",
+        "temp": 47,
+        "wind": "2 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "10%"
+        "precipitation": "8%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 45,
-        "wind": "6 to 9 mph S",
+        "temp": 44,
+        "wind": "7 to 10 mph SW",
         "conditions": "Chance Rain And Snow then Rain And Snow Likely",
-        "precipitation": "60%"
+        "precipitation": "64%"
       }
     },
     {
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 mph ENE",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "wind": "5 mph ESE",
+        "conditions": "Patchy Fog then Partly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -176,10 +176,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 36,
+        "temp": 39,
         "wind": "5 mph W",
         "conditions": "Chance Light Rain",
-        "precipitation": "50%"
+        "precipitation": "51%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 28,
-        "wind": "6 mph W",
+        "temp": 29,
+        "wind": "6 mph NW",
         "conditions": "Chance Light Rain then Chance Light Snow",
-        "precipitation": "42%"
+        "precipitation": "48%"
       }
     }
   ]
