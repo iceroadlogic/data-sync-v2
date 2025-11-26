@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-26T16:28:53.488Z",
+  "lastUpdated": "2025-11-26T22:20:41.873Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,10 +25,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "10 to 14 mph W",
+        "temp": 29,
+        "wind": "12 mph W",
         "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "15 to 20 mph W",
+        "wind": "15 mph W",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "8 to 13 mph E",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "26%"
+        "wind": "9 to 13 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "28%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "8 mph E",
-        "conditions": "Mostly Sunny",
-        "precipitation": "11%"
+        "temp": 81,
+        "wind": "6 to 9 mph ESE",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
+        "temp": 50,
         "wind": "3 to 10 mph S",
-        "conditions": "Cloudy then Slight Chance Light Rain",
-        "precipitation": "24%"
+        "conditions": "Cloudy then Chance Rain Showers",
+        "precipitation": "32%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 50,
-        "wind": "3 mph NE",
-        "conditions": "Mostly Cloudy then Slight Chance Light Rain",
-        "precipitation": "18%"
+        "wind": "5 mph WNW",
+        "conditions": "Chance Light Rain",
+        "precipitation": "25%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "13 to 16 mph SW",
+        "temp": 40,
+        "wind": "18 mph SW",
         "conditions": "Rain And Snow",
-        "precipitation": "80%"
+        "precipitation": "87%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "2 mph NE",
+        "temp": 48,
+        "wind": "2 mph NNE",
         "conditions": "Partly Sunny",
-        "precipitation": "8%"
+        "precipitation": "4%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 mph ESE",
+        "temp": 64,
+        "wind": "0 to 5 mph ESE",
         "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "13%"
+        "precipitation": "9%"
       }
     },
     {
@@ -176,10 +176,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "5 mph W",
+        "temp": 35,
+        "wind": "6 mph W",
         "conditions": "Chance Light Rain",
-        "precipitation": "51%"
+        "precipitation": "47%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "6 mph NW",
-        "conditions": "Chance Light Rain then Chance Light Snow",
-        "precipitation": "48%"
+        "temp": 25,
+        "wind": "5 mph NW",
+        "conditions": "Chance Light Snow",
+        "precipitation": "31%"
       }
     }
   ]
