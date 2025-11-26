@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-26T16:15:28.451Z",
+  "lastUpdated": "2025-11-26T20:14:07.524Z",
   "week": 13,
   "summary": {
     "total_players": 769,
-    "ir": 86,
+    "ir": 85,
     "suspended": 1
   },
   "ir": [
@@ -133,16 +133,6 @@
       "player_name": "Roschon Johnson",
       "position": "RB",
       "team_abbr": "CHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "6770",
-      "source_id": "3915511",
-      "player_name": "Joe Burrow",
-      "position": "QB",
-      "team_abbr": "CIN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
