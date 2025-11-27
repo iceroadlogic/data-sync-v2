@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-27T16:27:20.550Z",
+  "lastUpdated": "2025-11-27T21:25:54.183Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,7 +25,7 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
+        "temp": 30,
         "wind": "9 to 13 mph W",
         "conditions": "Mostly Clear",
         "precipitation": "2%"
@@ -54,7 +54,7 @@
         "temp": 81,
         "wind": "12 mph E",
         "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "23%"
+        "precipitation": "19%"
       }
     },
     {
@@ -74,8 +74,8 @@
       "weather": {
         "temp": 82,
         "wind": "7 mph E",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
-        "precipitation": "20%"
+        "conditions": "Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "3 to 12 mph S",
-        "conditions": "Cloudy then Chance Light Rain",
-        "precipitation": "52%"
+        "temp": 48,
+        "wind": "2 to 12 mph S",
+        "conditions": "Light Rain Likely",
+        "precipitation": "66%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 50,
-        "wind": "5 mph NW",
+        "wind": "1 to 5 mph W",
         "conditions": "Chance Light Rain",
-        "precipitation": "39%"
+        "precipitation": "33%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 41,
-        "wind": "15 to 18 mph SW",
+        "temp": 40,
+        "wind": "17 to 21 mph SW",
         "conditions": "Rain And Snow",
-        "precipitation": "91%"
+        "precipitation": "98%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "10 mph WNW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "56%"
+        "temp": 47,
+        "wind": "10 mph NW",
+        "conditions": "Chance Rain Showers then Mostly Cloudy",
+        "precipitation": "42%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "9 to 14 mph S",
-        "conditions": "Rain And Snow Likely then Rain And Snow",
-        "precipitation": "88%"
+        "temp": 42,
+        "wind": "10 to 14 mph SW",
+        "conditions": "Rain And Snow",
+        "precipitation": "85%"
       }
     },
     {
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "0 to 5 mph ESE",
+        "wind": "0 to 5 mph SSE",
         "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "5%"
+        "precipitation": "1%"
       }
     },
     {
@@ -176,10 +176,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "7 mph W",
+        "temp": 32,
+        "wind": "8 mph W",
         "conditions": "Light Rain Likely",
-        "precipitation": "55%"
+        "precipitation": "61%"
       }
     },
     {
