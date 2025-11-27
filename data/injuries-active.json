@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-26T22:25:15.706Z",
+  "lastUpdated": "2025-11-27T06:40:12.990Z",
   "week": 13,
   "summary": {
-    "total_players": 768,
-    "questionable": 39,
+    "total_players": 769,
+    "questionable": 44,
     "doubtful": 2,
     "out": 17
   },
@@ -39,6 +39,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11921",
+      "source_id": "4428811",
+      "player_name": "Xavier Weaver",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "10236",
       "source_id": "4385690",
       "player_name": "Dalton Kincaid",
@@ -64,6 +74,26 @@
       "player_name": "Curtis Samuel",
       "position": "WR",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8143",
+      "source_id": "4372019",
+      "player_name": "Jerome Ford",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -159,21 +189,41 @@
       "injury_description": null
     },
     {
-      "player_id": "12527",
-      "source_id": "4890973",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
+      "player_id": "9482",
+      "source_id": "4429086",
+      "player_name": "Michael Mayer",
+      "position": "TE",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "9482",
-      "source_id": "4429086",
-      "player_name": "Michael Mayer",
-      "position": "TE",
+      "player_id": "10213",
+      "source_id": "4428718",
+      "player_name": "Tre Tucker",
+      "position": "WR",
       "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12509",
+      "source_id": "4686612",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12718",
+      "source_id": "4710855",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -309,20 +359,20 @@
       "injury_description": null
     },
     {
-      "player_id": "4037",
-      "source_id": "3116165",
-      "player_name": "Chris Godwin Jr.",
-      "position": "WR",
-      "team_abbr": "TB",
+      "player_id": "8151",
+      "source_id": "4567048",
+      "player_name": "Kenneth Walker III",
+      "position": "RB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "11584",
-      "source_id": "4596448",
-      "player_name": "Bucky Irving",
-      "position": "RB",
+      "player_id": "4037",
+      "source_id": "3116165",
+      "player_name": "Chris Godwin Jr.",
+      "position": "WR",
       "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
