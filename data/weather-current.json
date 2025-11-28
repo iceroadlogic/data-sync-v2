@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-28T10:25:06.034Z",
+  "lastUpdated": "2025-11-28T16:27:36.070Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,10 +25,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "13 mph W",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 43,
+        "wind": "14 to 17 mph W",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -39,8 +39,8 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "10 to 20 mph W",
-        "conditions": "Sunny",
+        "wind": "15 to 20 mph W",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "10 to 16 mph SW",
+        "temp": 44,
+        "wind": "12 to 18 mph SW",
         "conditions": "Rain And Snow",
-        "precipitation": "87%"
+        "precipitation": "83%"
       }
     },
     {
