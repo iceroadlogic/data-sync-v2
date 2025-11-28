@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-27T20:11:15.500Z",
+  "lastUpdated": "2025-11-28T12:22:59.887Z",
   "week": 13,
   "summary": {
     "total_players": 770,
-    "ir": 85,
+    "ir": 86,
     "suspended": 1
   },
   "ir": [
@@ -93,6 +93,16 @@
       "player_name": "Michael Penix Jr.",
       "position": "QB",
       "team_abbr": "ATL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5995",
+      "source_id": "4038441",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "team_abbr": "BAL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
