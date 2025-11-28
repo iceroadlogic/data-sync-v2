@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-27T23:25:44.519Z",
+  "lastUpdated": "2025-11-28T10:25:06.034Z",
   "games": [
     {
       "game_id": "401772891",
@@ -26,9 +26,9 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "9 to 13 mph W",
+        "wind": "13 mph W",
         "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "15 to 20 mph W",
+        "wind": "10 to 20 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -53,8 +53,8 @@
       "weather": {
         "temp": 81,
         "wind": "12 mph E",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "17%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "7 mph E",
-        "conditions": "Sunny",
-        "precipitation": "9%"
+        "wind": "7 mph ENE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "14%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "2 to 12 mph S",
-        "conditions": "Light Rain Likely",
-        "precipitation": "66%"
+        "temp": 49,
+        "wind": "2 to 10 mph S",
+        "conditions": "Rain Showers",
+        "precipitation": "77%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 50,
-        "wind": "1 to 5 mph W",
+        "wind": "1 to 5 mph SSW",
         "conditions": "Chance Light Rain",
-        "precipitation": "33%"
+        "precipitation": "32%"
       }
     },
     {
@@ -114,7 +114,7 @@
         "temp": 40,
         "wind": "17 to 21 mph SW",
         "conditions": "Rain And Snow",
-        "precipitation": "98%"
+        "precipitation": "99%"
       }
     },
     {
@@ -127,7 +127,7 @@
         "temp": 47,
         "wind": "10 mph NW",
         "conditions": "Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "42%"
+        "precipitation": "30%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
+        "temp": 46,
         "wind": "2 mph NE",
         "conditions": "Partly Sunny",
-        "precipitation": "7%"
+        "precipitation": "2%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "10 to 14 mph SW",
+        "temp": 43,
+        "wind": "10 to 16 mph SW",
         "conditions": "Rain And Snow",
-        "precipitation": "85%"
+        "precipitation": "87%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 5 mph SSE",
+        "temp": 66,
+        "wind": "0 to 5 mph SE",
         "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -176,10 +176,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 32,
+        "temp": 31,
         "wind": "8 mph W",
         "conditions": "Light Rain Likely",
-        "precipitation": "61%"
+        "precipitation": "68%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
-        "wind": "6 mph N",
+        "temp": 23,
+        "wind": "5 mph N",
         "conditions": "Mostly Cloudy",
-        "precipitation": "14%"
+        "precipitation": "12%"
       }
     }
   ]
