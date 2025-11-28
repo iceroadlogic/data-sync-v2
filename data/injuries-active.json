@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-27T23:30:16.414Z",
+  "lastUpdated": "2025-11-28T06:40:12.830Z",
   "week": 13,
   "summary": {
     "total_players": 770,
     "questionable": 32,
     "doubtful": 2,
-    "out": 20
+    "out": 24
   },
   "questionable": [
     {
@@ -353,6 +353,26 @@
   ],
   "out": [
     {
+      "player_id": "4574",
+      "source_id": "2972515",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7595",
+      "source_id": "4241424",
+      "player_name": "Tylan Wallace",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11583",
       "source_id": "4678008",
       "player_name": "Jonathon Brooks",
@@ -373,10 +393,30 @@
       "injury_description": null
     },
     {
+      "player_id": "6111",
+      "source_id": "3886812",
+      "player_name": "Jake Browning",
+      "position": "QB",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11640",
       "source_id": "4429033",
       "player_name": "Jermaine Burton",
       "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12062",
+      "source_id": "4700712",
+      "player_name": "Cam Grandy",
+      "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Out",
