@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-29T10:22:21.337Z",
+  "lastUpdated": "2025-11-29T16:25:22.392Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,10 +25,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 28,
-        "wind": "6 mph W",
-        "conditions": "Clear",
-        "precipitation": "0%"
+        "temp": 44,
+        "wind": "1 to 6 mph W",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -38,9 +38,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "10 mph W",
-        "conditions": "Clear",
+        "temp": 43,
+        "wind": "5 to 10 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "12 mph E",
+        "wind": "10 to 14 mph E",
         "conditions": "Mostly Sunny",
         "precipitation": "14%"
       }
@@ -99,7 +99,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "1 to 6 mph WNW",
+        "wind": "1 to 6 mph W",
         "conditions": "Chance Light Rain",
         "precipitation": "25%"
       }
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "6 to 10 mph W",
-        "conditions": "Light Rain Likely then Partly Cloudy",
-        "precipitation": "64%"
+        "wind": "6 to 9 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
