@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-28T22:24:11.067Z",
+  "lastUpdated": "2025-11-29T06:36:52.371Z",
   "week": 13,
   "summary": {
-    "total_players": 770,
-    "questionable": 18,
+    "total_players": 769,
+    "questionable": 14,
     "doubtful": 0,
-    "out": 34
+    "out": 36
   },
   "questionable": [
     {
@@ -59,36 +59,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4033",
-      "source_id": "3123076",
-      "player_name": "David Njoku",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11633",
-      "source_id": "4428678",
-      "player_name": "Jamari Thrash",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11433",
-      "source_id": "4383440",
-      "player_name": "Nate Adkins",
-      "position": "TE",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7547",
       "source_id": "4374302",
       "player_name": "Amon-Ra St. Brown",
@@ -99,20 +69,10 @@
       "injury_description": null
     },
     {
-      "player_id": "2374",
-      "source_id": "2577327",
-      "player_name": "Tyler Lockett",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9482",
-      "source_id": "4429086",
-      "player_name": "Michael Mayer",
-      "position": "TE",
+      "player_id": "8139",
+      "source_id": "4361777",
+      "player_name": "Zamir White",
+      "position": "RB",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -352,6 +312,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11433",
+      "source_id": "4383440",
+      "player_name": "Nate Adkins",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "3634",
       "source_id": "2973405",
       "player_name": "Kalif Raymond",
@@ -417,6 +387,16 @@
       "player_name": "Noah Gray",
       "position": "TE",
       "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9482",
+      "source_id": "4429086",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
