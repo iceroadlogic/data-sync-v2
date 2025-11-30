@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-30T16:44:08.102Z",
+  "lastUpdated": "2025-11-30T16:54:03.868Z",
   "week": 13,
   "summary": {
     "total_players": 768,
-    "questionable": 6,
+    "questionable": 4,
     "doubtful": 0,
-    "out": 47
+    "out": 54
   },
   "questionable": [
     {
@@ -47,26 +47,6 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
-    },
-    {
-      "player_id": "2505",
-      "source_id": "2576925",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8210",
-      "source_id": "4360635",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
     }
   ],
   "doubtful": [],
@@ -82,9 +62,29 @@
       "injury_description": null
     },
     {
+      "player_id": "5773",
+      "source_id": "3047876",
+      "player_name": "KhaDarel Hodge",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "8112",
       "source_id": "4426502",
       "player_name": "Drake London",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11806",
+      "source_id": "4428796",
+      "player_name": "Casey Washington",
       "position": "WR",
       "team_abbr": "ATL",
       "injury_status": "active",
@@ -402,6 +402,36 @@
       "injury_description": null
     },
     {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12500",
+      "source_id": "4889929",
+      "player_name": "Quinn Ewers",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11821",
       "source_id": "4567506",
       "player_name": "Tahj Washington",
@@ -507,6 +537,26 @@
       "player_name": "Sam Howell",
       "position": "QB",
       "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
