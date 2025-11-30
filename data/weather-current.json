@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-30T16:53:58.512Z",
+  "lastUpdated": "2025-11-30T17:19:59.852Z",
   "games": [
     {
       "game_id": "401772891",
@@ -54,7 +54,7 @@
         "temp": 81,
         "wind": "14 mph E",
         "conditions": "Slight Chance Rain Showers",
-        "precipitation": "19%"
+        "precipitation": "18%"
       }
     },
     {
@@ -111,9 +111,9 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
+        "temp": 40,
         "wind": "28 mph SW",
-        "conditions": "Cloudy",
+        "conditions": "Slight Chance Light Snow",
         "precipitation": "20%"
       }
     },
@@ -125,7 +125,7 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "10 mph NW",
+        "wind": "10 mph NNW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -153,7 +153,7 @@
         "temp": 44,
         "wind": "18 mph SW",
         "conditions": "Chance Light Rain",
-        "precipitation": "51%"
+        "precipitation": "31%"
       }
     },
     {
