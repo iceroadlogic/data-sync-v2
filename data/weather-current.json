@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-30T23:21:37.991Z",
+  "lastUpdated": "2025-11-30T23:40:51.946Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,10 +25,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "8 mph SW",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "18%"
+        "temp": 31,
+        "wind": "6 to 10 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "10 mph SW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "36%"
+        "temp": 32,
+        "wind": "10 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "12%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "13 mph E",
+        "wind": "14 mph E",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "26%"
+        "precipitation": "28%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
+        "temp": 65,
         "wind": "6 mph ENE",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "28 mph SW",
-        "conditions": "Slight Chance Light Snow",
-        "precipitation": "20%"
+        "temp": 28,
+        "wind": "10 to 25 mph NW",
+        "conditions": "Light Snow Likely",
+        "precipitation": "64%"
       }
     },
     {
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "17 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "wind": "16 to 20 mph SW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "53%"
       }
     },
     {
