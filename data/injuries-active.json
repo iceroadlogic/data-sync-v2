@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-11-30T16:54:03.868Z",
+  "lastUpdated": "2025-11-30T17:13:42.268Z",
   "week": 13,
   "summary": {
     "total_players": 768,
     "questionable": 4,
     "doubtful": 0,
-    "out": 54
+    "out": 55
   },
   "questionable": [
     {
@@ -107,6 +107,16 @@
       "player_name": "Tylan Wallace",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5955",
+      "source_id": "3135321",
+      "player_name": "Hunter Renfrow",
+      "position": "WR",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
