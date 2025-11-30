@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-30T20:50:03.936Z",
+  "lastUpdated": "2025-11-30T21:14:01.076Z",
   "week": 13,
   "summary": {
     "total_players": 768,
-    "questionable": 1,
+    "questionable": 2,
     "doubtful": 1,
-    "out": 69
+    "out": 68
   },
   "questionable": [
+    {
+      "player_id": "12469",
+      "source_id": "5081397",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "7547",
       "source_id": "4374302",
@@ -209,16 +219,6 @@
       "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "12469",
-      "source_id": "5081397",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
