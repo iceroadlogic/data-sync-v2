@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-11-30T22:49:36.205Z",
+  "lastUpdated": "2025-11-30T23:14:42.365Z",
   "week": 13,
   "summary": {
     "total_players": 768,
-    "questionable": 3,
+    "questionable": 4,
     "doubtful": 1,
     "out": 67
   },
@@ -34,6 +34,16 @@
       "player_name": "Parker Washington",
       "position": "WR",
       "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
