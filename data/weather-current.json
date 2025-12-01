@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-12-01T16:31:51.300Z",
+  "lastUpdated": "2025-12-01T21:24:59.673Z",
   "games": [
     {
       "game_id": "401772891",
@@ -25,9 +25,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "3 to 12 mph N",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "5 mph NE",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -38,9 +38,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "5 to 10 mph N",
-        "conditions": "Sunny",
+        "temp": 43,
+        "wind": "5 mph N",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "10 mph E",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
-        "precipitation": "19%"
+        "wind": "9 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "16%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "8 mph ENE",
+        "wind": "8 mph E",
         "conditions": "Mostly Sunny",
-        "precipitation": "9%"
+        "precipitation": "8%"
       }
     },
     {
@@ -85,9 +85,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "6 to 12 mph NW",
-        "conditions": "Sunny",
+        "temp": 43,
+        "wind": "8 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "5 to 10 mph ENE",
-        "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "wind": "6 mph ENE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -114,7 +114,7 @@
         "temp": 35,
         "wind": "5 mph SE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "3%"
       }
     },
     {
@@ -125,9 +125,9 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "0 to 5 mph ENE",
-        "conditions": "Partly Sunny then Slight Chance Rain Showers",
-        "precipitation": "24%"
+        "wind": "5 mph NE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "28%"
       }
     },
     {
@@ -138,9 +138,9 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "2 mph SE",
+        "wind": "2 mph S",
         "conditions": "Chance Light Rain",
-        "precipitation": "49%"
+        "precipitation": "37%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 36,
-        "wind": "3 mph E",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "temp": 35,
+        "wind": "5 mph E",
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -164,8 +164,8 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "0 to 5 mph WNW",
-        "conditions": "Mostly Sunny",
+        "wind": "5 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -176,9 +176,9 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "3 to 9 mph N",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "3 mph NE",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -189,10 +189,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 23,
+        "temp": 24,
         "wind": "3 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "4%"
+        "precipitation": "5%"
       }
     }
   ]
