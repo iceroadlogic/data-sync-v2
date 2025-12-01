@@ -1,6 +1,6 @@
 {
   "week": 13,
-  "lastUpdated": "2025-11-30T23:52:59.794Z",
+  "lastUpdated": "2025-12-01T10:26:51.268Z",
   "games": [
     {
       "game_id": "401772891",
@@ -26,9 +26,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "6 to 10 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "wind": "10 mph NW",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "10 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "12%"
+        "wind": "10 mph NW",
+        "conditions": "Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "6 to 10 mph NE",
-        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "27%"
+        "temp": 72,
+        "wind": "5 mph E",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "18%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "6 mph ENE",
+        "wind": "5 mph ENE",
         "conditions": "Partly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "0%"
       }
     },
     {
@@ -86,9 +86,9 @@
       "is_dome": false,
       "weather": {
         "temp": 34,
-        "wind": "12 mph W",
-        "conditions": "Chance Light Rain then Partly Cloudy",
-        "precipitation": "50%"
+        "wind": "10 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "2 to 9 mph NW",
-        "conditions": "Chance Light Rain then Mostly Cloudy",
-        "precipitation": "29%"
+        "temp": 34,
+        "wind": "10 mph NE",
+        "conditions": "Partly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -112,9 +112,9 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "10 to 25 mph NW",
-        "conditions": "Light Snow Likely",
-        "precipitation": "64%"
+        "wind": "13 mph N",
+        "conditions": "Partly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -124,9 +124,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "10 mph N",
-        "conditions": "Mostly Sunny",
+        "temp": 25,
+        "wind": "5 mph NE",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -137,10 +137,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "2 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "temp": 36,
+        "wind": "1 mph NE",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "24%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "16 to 20 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "53%"
+        "temp": 27,
+        "wind": "6 mph NW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -163,9 +163,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "5 mph SW",
-        "conditions": "Patchy Fog",
+        "temp": 52,
+        "wind": "0 to 5 mph ENE",
+        "conditions": "Cloudy",
         "precipitation": "0%"
       }
     },
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "6 to 9 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "wind": "9 mph NW",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -191,7 +191,7 @@
       "weather": {
         "temp": 23,
         "wind": "3 mph N",
-        "conditions": "Mostly Cloudy",
+        "conditions": "Partly Cloudy",
         "precipitation": "4%"
       }
     }
