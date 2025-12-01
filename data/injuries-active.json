@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-11-30T23:51:46.723Z",
+  "lastUpdated": "2025-12-01T06:42:44.397Z",
   "week": 13,
   "summary": {
     "total_players": 768,
-    "questionable": 4,
-    "doubtful": 1,
+    "questionable": 7,
+    "doubtful": 0,
     "out": 67
   },
   "questionable": [
+    {
+      "player_id": "7531",
+      "source_id": "4034948",
+      "player_name": "Feleipe Franks",
+      "position": "TE",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "12469",
       "source_id": "5081397",
@@ -39,6 +49,26 @@
       "injury_description": null
     },
     {
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6797",
+      "source_id": "4038941",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4199",
       "source_id": "3042519",
       "player_name": "Aaron Jones Sr.",
@@ -49,18 +79,7 @@
       "injury_description": null
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "7531",
-      "source_id": "4034948",
-      "player_name": "Feleipe Franks",
-      "position": "TE",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11199",
