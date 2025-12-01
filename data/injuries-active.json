@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-01T21:46:13.210Z",
+  "lastUpdated": "2025-12-01T22:01:41.028Z",
   "week": 13,
   "summary": {
     "total_players": 767,
-    "questionable": 9,
+    "questionable": 10,
     "doubtful": 0,
     "out": 28
   },
@@ -34,6 +34,16 @@
       "player_name": "Dylan Sampson",
       "position": "RB",
       "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8137",
+      "source_id": "4426354",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
