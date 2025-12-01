@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-11-29T20:13:00.528Z",
+  "lastUpdated": "2025-12-01T12:24:55.080Z",
   "week": 13,
   "summary": {
-    "total_players": 769,
+    "total_players": 768,
     "ir": 87,
     "suspended": 1
   },
@@ -458,16 +458,6 @@
       "injury_description": null
     },
     {
-      "player_id": "2505",
-      "source_id": "2576925",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "8230",
       "source_id": "4242431",
       "player_name": "Ty Chandler",
@@ -723,6 +713,16 @@
       "player_name": "Patrick Taylor Jr.",
       "position": "RB",
       "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
