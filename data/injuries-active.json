@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-01T23:23:59.304Z",
-  "week": 13,
+  "lastUpdated": "2025-12-02T06:41:16.232Z",
+  "week": 14,
   "summary": {
-    "total_players": 766,
-    "questionable": 11,
+    "total_players": 772,
+    "questionable": 13,
     "doubtful": 0,
-    "out": 28
+    "out": 31
   },
   "questionable": [
     {
@@ -104,6 +104,26 @@
       "player_name": "Aaron Jones Sr.",
       "position": "RB",
       "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6699",
+      "source_id": "4424106",
+      "player_name": "Gunner Olszewski",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11655",
+      "source_id": "4360516",
+      "player_name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -342,11 +362,41 @@
       "injury_description": null
     },
     {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "4035",
       "source_id": "3054850",
       "player_name": "Alvin Kamara",
       "position": "RB",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9497",
+      "source_id": "4692590",
+      "player_name": "Jalin Hyatt",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1234",
+      "source_id": "14881",
+      "player_name": "Russell Wilson",
+      "position": "QB",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
