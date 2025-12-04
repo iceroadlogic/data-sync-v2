@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-04T14:29:06.688Z",
+  "lastUpdated": "2025-12-04T21:15:01.719Z",
   "week": 14,
   "summary": {
     "total_players": 779,
-    "questionable": 45,
+    "questionable": 43,
     "doubtful": 0,
-    "out": 11
+    "out": 10
   },
   "questionable": [
     {
@@ -219,16 +219,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9500",
-      "source_id": "4688813",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "9487",
       "source_id": "4432620",
       "player_name": "Parker Washington",
@@ -379,16 +369,6 @@
       "injury_description": null
     },
     {
-      "player_id": "96",
-      "source_id": "8439",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7757",
       "source_id": "4035656",
       "player_name": "Ben Skowronek",
@@ -496,16 +476,6 @@
       "source_id": "2973405",
       "player_name": "Kalif Raymond",
       "position": "WR",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "7891",
-      "source_id": "4242392",
-      "player_name": "Brock Wright",
-      "position": "TE",
       "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Out",
