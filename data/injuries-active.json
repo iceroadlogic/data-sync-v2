@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-12-03T22:27:21.941Z",
+  "lastUpdated": "2025-12-04T06:40:32.866Z",
   "week": 14,
   "summary": {
-    "total_players": 777,
+    "total_players": 779,
     "questionable": 45,
     "doubtful": 0,
     "out": 11
@@ -19,9 +19,9 @@
       "injury_description": null
     },
     {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
+      "player_id": "5970",
+      "source_id": "4037235",
+      "player_name": "Greg Dortch",
       "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
@@ -29,11 +29,11 @@
       "injury_description": null
     },
     {
-      "player_id": "7531",
-      "source_id": "4034948",
-      "player_name": "Feleipe Franks",
-      "position": "TE",
-      "team_abbr": "ATL",
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -259,20 +259,20 @@
       "injury_description": null
     },
     {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
-      "position": "WR",
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "8139",
-      "source_id": "4361777",
-      "player_name": "Zamir White",
-      "position": "RB",
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -399,10 +399,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4943",
-      "source_id": "3912547",
-      "player_name": "Sam Darnold",
-      "position": "QB",
+      "player_id": "11603",
+      "source_id": "4576297",
+      "player_name": "AJ Barner",
+      "position": "TE",
       "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
