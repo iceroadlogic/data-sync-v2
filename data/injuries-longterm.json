@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-04T20:14:23.091Z",
+  "lastUpdated": "2025-12-05T12:24:37.513Z",
   "week": 14,
   "summary": {
-    "total_players": 779,
-    "ir": 87,
+    "total_players": 780,
+    "ir": 88,
     "suspended": 1
   },
   "ir": [
@@ -228,6 +228,16 @@
       "injury_description": null
     },
     {
+      "player_id": "7891",
+      "source_id": "4242392",
+      "player_name": "Brock Wright",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "8041",
       "source_id": "4608362",
       "player_name": "Shane Zylstra",
@@ -298,20 +308,20 @@
       "injury_description": null
     },
     {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "6918",
       "source_id": "4243315",
       "player_name": "Salvon Ahmed",
       "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6427",
+      "source_id": "4061956",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
