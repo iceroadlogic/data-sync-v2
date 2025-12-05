@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-04T23:27:14.149Z",
+  "lastUpdated": "2025-12-05T10:24:09.195Z",
   "games": [
     {
       "game_id": "401772947",
@@ -17,10 +17,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "1 to 6 mph W",
+        "temp": 43,
+        "wind": "1 to 5 mph E",
         "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "precipitation": "12%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "5 to 10 mph W",
-        "conditions": "Chance Light Snow",
-        "precipitation": "44%"
+        "temp": 35,
+        "wind": "5 to 13 mph SW",
+        "conditions": "Light Snow Likely",
+        "precipitation": "69%"
       }
     },
     {
@@ -59,10 +59,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "5 to 9 mph S",
+        "temp": 78,
+        "wind": "3 to 9 mph S",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "67%"
+        "precipitation": "60%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 41,
-        "wind": "6 mph NW",
+        "wind": "3 mph N",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "8%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 18,
-        "wind": "7 mph NNW",
+        "temp": 19,
+        "wind": "5 to 8 mph NNW",
         "conditions": "Slight Chance Light Snow then Mostly Sunny",
-        "precipitation": "16%"
+        "precipitation": "21%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "5 to 8 mph E",
-        "conditions": "Rain Showers",
-        "precipitation": "78%"
+        "temp": 66,
+        "wind": "6 mph NE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "69%"
       }
     },
     {
@@ -128,9 +128,9 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "2 to 6 mph NE",
-        "conditions": "Snow Showers Likely",
-        "precipitation": "66%"
+        "wind": "1 to 6 mph SE",
+        "conditions": "Slight Chance Snow Showers then Snow",
+        "precipitation": "80%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
-        "wind": "2 to 8 mph NE",
-        "conditions": "Mostly Cloudy",
+        "temp": 15,
+        "wind": "2 to 7 mph NE",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -153,9 +153,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
+        "temp": 74,
         "wind": "5 to 10 mph NNW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     }
