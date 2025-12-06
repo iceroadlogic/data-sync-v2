@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-06T14:22:42.595Z",
+  "lastUpdated": "2025-12-06T22:24:37.126Z",
   "week": 14,
   "summary": {
-    "total_players": 780,
-    "questionable": 11,
+    "total_players": 779,
+    "questionable": 12,
     "doubtful": 1,
-    "out": 24
+    "out": 23
   },
   "questionable": [
     {
@@ -52,6 +52,16 @@
       "player_id": "12501",
       "source_id": "4701936",
       "player_name": "Matthew Golden",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10222",
+      "source_id": "4362249",
+      "player_name": "Jayden Reed",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -109,12 +119,12 @@
       "injury_description": null
     },
     {
-      "player_id": "8119",
-      "source_id": "4361409",
-      "player_name": "Jahan Dotson",
+      "player_id": "4234",
+      "source_id": "3121409",
+      "player_name": "Noah Brown",
       "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     }
@@ -137,16 +147,6 @@
       "source_id": "4362478",
       "player_name": "Emari Demercado",
       "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "5970",
-      "source_id": "4037235",
-      "player_name": "Greg Dortch",
-      "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Out",
