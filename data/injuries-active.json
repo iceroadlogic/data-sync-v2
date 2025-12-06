@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-06T06:36:48.735Z",
+  "lastUpdated": "2025-12-06T14:22:42.595Z",
   "week": 14,
   "summary": {
     "total_players": 780,
     "questionable": 11,
     "doubtful": 1,
-    "out": 22
+    "out": 24
   },
   "questionable": [
     {
@@ -209,6 +209,26 @@
       "position": "QB",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12457",
+      "source_id": "4685279",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8117",
+      "source_id": "4249417",
+      "player_name": "Jalen Tolbert",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
