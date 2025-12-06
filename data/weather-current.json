@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-05T22:20:41.789Z",
+  "lastUpdated": "2025-12-06T10:21:31.820Z",
   "games": [
     {
       "game_id": "401772947",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "5 mph NE",
+        "wind": "1 to 5 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 35,
-        "wind": "5 to 13 mph SW",
-        "conditions": "Light Snow Likely",
-        "precipitation": "60%"
+        "wind": "5 to 12 mph SW",
+        "conditions": "Snow Showers Likely",
+        "precipitation": "61%"
       }
     },
     {
@@ -59,10 +59,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "5 to 8 mph S",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "53%"
+        "temp": 79,
+        "wind": "3 to 8 mph SSE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "56%"
       }
     },
     {
@@ -72,8 +72,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "5 mph W",
+        "temp": 41,
+        "wind": "6 mph W",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -86,8 +86,8 @@
       "is_dome": false,
       "weather": {
         "temp": 19,
-        "wind": "7 mph NNW",
-        "conditions": "Mostly Sunny",
+        "wind": "5 to 8 mph NNW",
+        "conditions": "Chance Snow Showers then Mostly Sunny",
         "precipitation": "13%"
       }
     },
@@ -98,10 +98,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 to 8 mph NE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "65%"
+        "temp": 63,
+        "wind": "3 to 7 mph NE",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "79%"
       }
     },
     {
@@ -127,10 +127,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "1 to 6 mph SW",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "83%"
+        "temp": 33,
+        "wind": "2 to 7 mph S",
+        "conditions": "Snow",
+        "precipitation": "86%"
       }
     },
     {
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 17,
-        "wind": "2 to 8 mph NE",
+        "wind": "2 to 8 mph ENE",
         "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -153,7 +153,7 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
+        "temp": 76,
         "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
