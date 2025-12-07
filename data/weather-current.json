@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-07T15:51:39.976Z",
+  "lastUpdated": "2025-12-07T16:26:19.866Z",
   "games": [
     {
       "game_id": "401772947",
@@ -60,7 +60,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "6 to 9 mph S",
+        "wind": "6 to 9 mph SSW",
         "conditions": "Partly Sunny then Chance Showers And Thunderstorms",
         "precipitation": "43%"
       }
@@ -85,10 +85,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 19,
-        "wind": "7 mph NNW",
+        "temp": 18,
+        "wind": "5 to 9 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -128,7 +128,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "3 to 8 mph W",
+        "wind": "5 to 8 mph W",
         "conditions": "Light Snow",
         "precipitation": "82%"
       }
