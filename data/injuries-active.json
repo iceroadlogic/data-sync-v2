@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-07T20:49:26.636Z",
+  "lastUpdated": "2025-12-07T21:13:23.715Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 9,
+    "questionable": 11,
     "doubtful": 0,
-    "out": 56
+    "out": 55
   },
   "questionable": [
+    {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "6786",
       "source_id": "4241389",
@@ -93,6 +103,16 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "1339",
+      "source_id": "15835",
+      "player_name": "Zach Ertz",
+      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -647,16 +667,6 @@
       "player_name": "Jalen Milroe",
       "position": "QB",
       "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "1339",
-      "source_id": "15835",
-      "player_name": "Zach Ertz",
-      "position": "TE",
-      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
