@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-07T19:38:23.472Z",
+  "lastUpdated": "2025-12-07T19:52:21.742Z",
   "games": [
     {
       "game_id": "401772947",
@@ -19,7 +19,7 @@
       "weather": {
         "temp": 43,
         "wind": "6 mph S",
-        "conditions": "Mostly Sunny",
+        "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
     },
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "12 mph NW",
+        "wind": "8 to 12 mph NW",
         "conditions": "Light Snow Likely",
-        "precipitation": "67%"
+        "precipitation": "74%"
       }
     },
     {
@@ -61,7 +61,7 @@
       "weather": {
         "temp": 80,
         "wind": "9 mph SSW",
-        "conditions": "Showers And Thunderstorms Likely",
+        "conditions": "Slight Chance Showers And Thunderstorms",
         "precipitation": "62%"
       }
     },
@@ -85,10 +85,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 18,
+        "temp": 19,
         "wind": "6 to 9 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -128,9 +128,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "12 mph W",
-        "conditions": "Snow Likely",
-        "precipitation": "64%"
+        "wind": "6 to 12 mph W",
+        "conditions": "Snow",
+        "precipitation": "82%"
       }
     },
     {
@@ -143,7 +143,7 @@
         "temp": 19,
         "wind": "2 to 7 mph ENE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
