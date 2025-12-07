@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-12-07T19:49:42.453Z",
+  "lastUpdated": "2025-12-07T20:17:04.080Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 11,
+    "questionable": 10,
     "doubtful": 0,
-    "out": 50
+    "out": 54
   },
   "questionable": [
-    {
-      "player_id": "11921",
-      "source_id": "4428811",
-      "player_name": "Xavier Weaver",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "6786",
       "source_id": "4241389",
@@ -29,21 +19,11 @@
       "injury_description": null
     },
     {
-      "player_id": "12501",
-      "source_id": "4701936",
-      "player_name": "Matthew Golden",
+      "player_id": "11762",
+      "source_id": "4429684",
+      "player_name": "Anthony Gould",
       "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10222",
-      "source_id": "4362249",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "team_abbr": "GB",
+      "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -117,6 +97,16 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
+    },
+    {
+      "player_id": "1339",
+      "source_id": "15835",
+      "player_name": "Zach Ertz",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
     }
   ],
   "doubtful": [],
@@ -135,6 +125,16 @@
       "player_id": "11628",
       "source_id": "4432708",
       "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11921",
+      "source_id": "4428811",
+      "player_name": "Xavier Weaver",
       "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "active",
@@ -208,6 +208,16 @@
       "position": "RB",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -457,6 +467,26 @@
       "player_name": "Zamir White",
       "position": "RB",
       "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
