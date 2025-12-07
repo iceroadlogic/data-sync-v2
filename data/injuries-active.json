@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-07T20:17:04.080Z",
+  "lastUpdated": "2025-12-07T20:40:01.882Z",
   "week": 14,
   "summary": {
     "total_players": 777,
     "questionable": 10,
     "doubtful": 0,
-    "out": 54
+    "out": 55
   },
   "questionable": [
+    {
+      "player_id": "9511",
+      "source_id": "4596334",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "6786",
       "source_id": "4241389",
@@ -93,16 +103,6 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "1339",
-      "source_id": "15835",
-      "player_name": "Zach Ertz",
-      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -647,6 +647,16 @@
       "player_name": "Jalen Milroe",
       "position": "QB",
       "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1339",
+      "source_id": "15835",
+      "player_name": "Zach Ertz",
+      "position": "TE",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
