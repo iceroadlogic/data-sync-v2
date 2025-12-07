@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-07T16:43:27.703Z",
+  "lastUpdated": "2025-12-07T16:53:01.456Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 9,
+    "questionable": 7,
     "doubtful": 0,
-    "out": 36
+    "out": 46
   },
   "questionable": [
     {
@@ -49,31 +49,11 @@
       "injury_description": null
     },
     {
-      "player_id": "9487",
-      "source_id": "4432620",
-      "player_name": "Parker Washington",
-      "position": "WR",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "6797",
       "source_id": "4038941",
       "player_name": "Justin Herbert",
       "position": "QB",
       "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7538",
-      "source_id": "4361259",
-      "player_name": "Zach Wilson",
-      "position": "QB",
-      "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -156,6 +136,16 @@
       "source_id": "2972515",
       "player_name": "Cooper Rush",
       "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11629",
+      "source_id": "4696882",
+      "player_name": "Devontez Walker",
+      "position": "WR",
       "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -332,6 +322,46 @@
       "injury_description": null
     },
     {
+      "player_id": "12471",
+      "source_id": "4874509",
+      "player_name": "DJ Giddens",
+      "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10220",
+      "source_id": "4362523",
+      "player_name": "Will Mallory",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4314",
+      "source_id": "3052096",
+      "player_name": "Johnny Mundt",
+      "position": "TE",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9487",
+      "source_id": "4432620",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11320",
       "source_id": "4372716",
       "player_name": "Nikko Remigio",
@@ -432,12 +462,52 @@
       "injury_description": null
     },
     {
+      "player_id": "6960",
+      "source_id": "2310331",
+      "player_name": "Tyler Johnson",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8219",
+      "source_id": "4241410",
+      "player_name": "Jelani Woods",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "8861",
       "source_id": "3929636",
       "player_name": "Irvin Charles",
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -458,6 +528,16 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
