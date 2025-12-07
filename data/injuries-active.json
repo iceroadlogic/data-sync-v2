@@ -1,23 +1,13 @@
 {
-  "lastUpdated": "2025-12-07T20:40:01.882Z",
+  "lastUpdated": "2025-12-07T20:49:26.636Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 10,
+    "questionable": 9,
     "doubtful": 0,
-    "out": 55
+    "out": 56
   },
   "questionable": [
-    {
-      "player_id": "9511",
-      "source_id": "4596334",
-      "player_name": "Keaton Mitchell",
-      "position": "RB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
     {
       "player_id": "6786",
       "source_id": "4241389",
@@ -167,6 +157,16 @@
       "player_name": "Casey Washington",
       "position": "WR",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9511",
+      "source_id": "4596334",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
