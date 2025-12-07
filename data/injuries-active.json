@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-07T19:12:36.437Z",
+  "lastUpdated": "2025-12-07T19:25:51.536Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 9,
+    "questionable": 12,
     "doubtful": 0,
     "out": 47
   },
@@ -69,6 +69,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9226",
+      "source_id": "4429160",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6699",
       "source_id": "4424106",
       "player_name": "Gunner Olszewski",
@@ -94,6 +104,26 @@
       "player_name": "Tyrod Taylor",
       "position": "QB",
       "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12521",
+      "source_id": "4678006",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
