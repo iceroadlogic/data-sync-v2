@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-07T14:51:56.352Z",
+  "lastUpdated": "2025-12-07T15:21:33.687Z",
   "games": [
     {
       "game_id": "401772947",
@@ -17,8 +17,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "1 to 6 mph SE",
+        "temp": 43,
+        "wind": "1 to 6 mph S",
         "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
@@ -38,10 +38,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "7 to 16 mph W",
-        "conditions": "Snow Showers Likely",
-        "precipitation": "69%"
+        "temp": 36,
+        "wind": "8 to 16 mph W",
+        "conditions": "Light Snow",
+        "precipitation": "82%"
       }
     },
     {
@@ -60,7 +60,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "6 to 9 mph S",
+        "wind": "6 to 9 mph SSW",
         "conditions": "Partly Sunny then Chance Showers And Thunderstorms",
         "precipitation": "43%"
       }
@@ -87,8 +87,8 @@
       "weather": {
         "temp": 19,
         "wind": "7 mph NNW",
-        "conditions": "Sunny",
-        "precipitation": "3%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "8 mph NE",
+        "wind": "5 to 8 mph NE",
         "conditions": "Rain Showers",
-        "precipitation": "97%"
+        "precipitation": "99%"
       }
     },
     {
@@ -128,7 +128,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "3 to 8 mph W",
+        "wind": "5 to 8 mph W",
         "conditions": "Light Snow",
         "precipitation": "82%"
       }
