@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-07T21:38:46.003Z",
+  "lastUpdated": "2025-12-07T21:49:42.170Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 14,
-    "doubtful": 0,
-    "out": 53
+    "questionable": 13,
+    "doubtful": 2,
+    "out": 52
   },
   "questionable": [
     {
@@ -43,16 +43,6 @@
       "source_id": "4429684",
       "player_name": "Anthony Gould",
       "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5870",
-      "source_id": "3917792",
-      "player_name": "Daniel Jones",
-      "position": "QB",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -119,6 +109,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12521",
       "source_id": "4678006",
       "player_name": "Elijah Arroyo",
@@ -137,6 +137,18 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
+    }
+  ],
+  "doubtful": [
+    {
+      "player_id": "5870",
+      "source_id": "3917792",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
     },
     {
       "player_id": "1339",
@@ -145,11 +157,10 @@
       "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
-      "injury_designation": "Questionable",
+      "injury_designation": "Doubtful",
       "injury_description": null
     }
   ],
-  "doubtful": [],
   "out": [
     {
       "player_id": "11199",
@@ -626,16 +637,6 @@
       "source_id": "4429955",
       "player_name": "Will Howard",
       "position": "QB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "9479",
-      "source_id": "4430802",
-      "player_name": "Darnell Washington",
-      "position": "TE",
       "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Out",
