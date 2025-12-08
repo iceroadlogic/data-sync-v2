@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-08T06:44:17.949Z",
+  "lastUpdated": "2025-12-08T14:30:04.534Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 15,
+    "questionable": 16,
     "doubtful": 2,
     "out": 55
   },
@@ -124,6 +124,16 @@
       "player_name": "Tyrod Taylor",
       "position": "QB",
       "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5846",
+      "source_id": "4047650",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
