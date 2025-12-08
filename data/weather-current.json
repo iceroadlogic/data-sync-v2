@@ -1,6 +1,6 @@
 {
   "week": 14,
-  "lastUpdated": "2025-12-08T10:25:46.129Z",
+  "lastUpdated": "2025-12-08T16:29:57.613Z",
   "games": [
     {
       "game_id": "401772947",
@@ -17,10 +17,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 28,
-        "wind": "10 mph N",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
+        "temp": 36,
+        "wind": "8 to 13 mph NE",
+        "conditions": "Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
-        "wind": "10 mph NE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "temp": 29,
+        "wind": "7 to 10 mph E",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -59,10 +59,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph ENE",
-        "conditions": "Scattered Rain Showers",
-        "precipitation": "52%"
+        "temp": 74,
+        "wind": "9 mph N",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -72,9 +72,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "15 mph NW",
-        "conditions": "Partly Cloudy",
+        "temp": 29,
+        "wind": "8 to 13 mph N",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -85,10 +85,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": -1,
-        "wind": "0 mph ",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "temp": 23,
+        "wind": "2 to 9 mph SSW",
+        "conditions": "Mostly Cloudy then Chance Snow Showers",
+        "precipitation": "7%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "6 mph N",
-        "conditions": "Cloudy",
-        "precipitation": "5%"
+        "temp": 63,
+        "wind": "10 mph N",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "14%"
       }
     },
     {
@@ -127,10 +127,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 9,
-        "wind": "5 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 21,
+        "wind": "3 mph E",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 19,
-        "wind": "2 mph SE",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 40,
+        "wind": "6 to 9 mph SSW",
+        "conditions": "Partly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -154,7 +154,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "5 to 10 mph NW",
+        "wind": "5 to 10 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
