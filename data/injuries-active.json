@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-08T21:01:31.572Z",
+  "lastUpdated": "2025-12-08T21:26:10.769Z",
   "week": 14,
   "summary": {
     "total_players": 777,
-    "questionable": 20,
+    "questionable": 22,
     "doubtful": 0,
     "out": 26
   },
@@ -119,12 +119,32 @@
       "injury_description": null
     },
     {
+      "player_id": "12507",
+      "source_id": "4685382",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6797",
       "source_id": "4038941",
       "player_name": "Justin Herbert",
       "position": "QB",
       "team_abbr": "LAC",
       "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8123",
+      "source_id": "4372071",
+      "player_name": "Hassan Haskins",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     },
