@@ -1,13 +1,33 @@
 {
-  "lastUpdated": "2025-12-08T21:34:01.553Z",
+  "lastUpdated": "2025-12-08T21:46:44.174Z",
   "week": 14,
   "summary": {
     "total_players": 776,
-    "questionable": 22,
+    "questionable": 24,
     "doubtful": 0,
     "out": 26
   },
   "questionable": [
+    {
+      "player_id": "5773",
+      "source_id": "3047876",
+      "player_name": "KhaDarel Hodge",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7553",
+      "source_id": "4360248",
+      "player_name": "Kyle Pitts Sr.",
+      "position": "TE",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "9511",
       "source_id": "4596334",
