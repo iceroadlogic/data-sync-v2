@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-06T20:12:53.212Z",
+  "lastUpdated": "2025-12-08T12:24:39.791Z",
   "week": 14,
   "summary": {
-    "total_players": 780,
-    "ir": 88,
+    "total_players": 777,
+    "ir": 87,
     "suspended": 1
   },
   "ir": [
@@ -22,6 +22,16 @@
       "source_id": "3045147",
       "player_name": "James Conner",
       "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5970",
+      "source_id": "4037235",
+      "player_name": "Greg Dortch",
+      "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -268,16 +278,6 @@
       "injury_description": null
     },
     {
-      "player_id": "10222",
-      "source_id": "4362249",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "6850",
       "source_id": "4040774",
       "player_name": "Harrison Bryant",
@@ -393,7 +393,7 @@
       "player_name": "Omarion Hampton",
       "position": "RB",
       "team_abbr": "LAC",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -843,16 +843,6 @@
       "player_name": "Calvin Ridley",
       "position": "WR",
       "team_abbr": "TEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "4234",
-      "source_id": "3121409",
-      "player_name": "Noah Brown",
-      "position": "WR",
-      "team_abbr": "WAS",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
