@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-09T14:29:44.238Z",
+  "lastUpdated": "2025-12-09T22:26:14.569Z",
   "week": 15,
   "summary": {
-    "total_players": 775,
+    "total_players": 779,
     "questionable": 39,
     "doubtful": 0,
-    "out": 11
+    "out": 10
   },
   "questionable": [
     {
@@ -448,16 +448,6 @@
       "position": "RB",
       "team_abbr": "HOU",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "5870",
-      "source_id": "3917792",
-      "player_name": "Daniel Jones",
-      "position": "QB",
-      "team_abbr": "IND",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
