@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-09T10:26:48.322Z",
+  "lastUpdated": "2025-12-09T16:29:15.273Z",
   "games": [
     {
       "game_id": "401772948",
@@ -95,10 +95,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "10 mph N",
+        "temp": 72,
+        "wind": "5 to 9 mph NW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "3%"
       }
     },
     {
@@ -155,8 +155,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 mph SW",
+        "temp": 61,
+        "wind": "5 mph WSW",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -189,10 +189,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 26,
-        "wind": "5 to 8 mph SW",
-        "conditions": "Mostly Cloudy then Slight Chance Light Snow",
-        "precipitation": "22%"
+        "temp": 18,
+        "wind": "7 mph SW",
+        "conditions": "Chance Light Snow",
+        "precipitation": "41%"
       }
     }
   ]
