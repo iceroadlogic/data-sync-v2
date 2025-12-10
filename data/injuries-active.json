@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-10T06:42:08.757Z",
+  "lastUpdated": "2025-12-10T14:30:14.529Z",
   "week": 15,
   "summary": {
     "total_players": 778,
     "questionable": 38,
     "doubtful": 0,
-    "out": 10
+    "out": 9
   },
   "questionable": [
     {
@@ -478,16 +478,6 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "1339",
-      "source_id": "15835",
-      "player_name": "Zach Ertz",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
