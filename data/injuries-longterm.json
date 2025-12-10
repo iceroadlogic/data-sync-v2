@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-09T20:13:08.229Z",
+  "lastUpdated": "2025-12-10T12:25:14.459Z",
   "week": 15,
   "summary": {
-    "total_players": 776,
-    "ir": 85,
+    "total_players": 778,
+    "ir": 87,
     "suspended": 1
   },
   "ir": [
@@ -178,6 +178,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8143",
+      "source_id": "4372019",
+      "player_name": "Jerome Ford",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "12738",
       "source_id": "4431562",
       "player_name": "Phil Mafah",
@@ -322,6 +332,16 @@
       "source_id": "4061956",
       "player_name": "Ashton Dulin",
       "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5870",
+      "source_id": "3917792",
+      "player_name": "Daniel Jones",
+      "position": "QB",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
