@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-11T10:27:26.231Z",
+  "lastUpdated": "2025-12-11T16:33:07.335Z",
   "games": [
     {
       "game_id": "401772948",
@@ -61,10 +61,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 14,
-        "wind": "8 mph NW",
-        "conditions": "Chance Light Snow then Mostly Sunny",
-        "precipitation": "30%"
+        "temp": 13,
+        "wind": "6 to 9 mph NW",
+        "conditions": "Slight Chance Light Snow then Mostly Sunny",
+        "precipitation": "21%"
       }
     },
     {
@@ -156,7 +156,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "5 mph SW",
+        "wind": "5 mph SSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
