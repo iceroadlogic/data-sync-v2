@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-11T16:33:07.335Z",
+  "lastUpdated": "2025-12-11T21:30:31.556Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,7 +9,7 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 47,
+        "temp": 45,
         "wind": "5 mph NNE",
         "conditions": "Clear",
         "precipitation": "0%"
@@ -22,10 +22,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 32,
-        "wind": "10 to 15 mph NW",
-        "conditions": "Snow Likely",
-        "precipitation": "71%"
+        "temp": 30,
+        "wind": "5 to 15 mph NW",
+        "conditions": "Snow",
+        "precipitation": "83%"
       }
     },
     {
@@ -35,7 +35,7 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
+        "temp": 21,
         "wind": "6 mph ENE",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -48,10 +48,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 12,
+        "temp": 13,
         "wind": "10 to 15 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "9%"
+        "precipitation": "2%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "5 to 13 mph NW",
+        "temp": 72,
+        "wind": "5 to 14 mph W",
         "conditions": "Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -108,10 +108,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 32,
+        "temp": 30,
         "wind": "6 to 14 mph NW",
         "conditions": "Light Snow Likely",
-        "precipitation": "59%"
+        "precipitation": "67%"
       }
     },
     {
@@ -130,8 +130,8 @@
       "is_dome": false,
       "weather": {
         "temp": 64,
-        "wind": "3 mph ENE",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "2 to 6 mph NW",
+        "conditions": "Areas Of Fog then Sunny",
         "precipitation": "1%"
       }
     },
@@ -144,8 +144,8 @@
       "weather": {
         "temp": 55,
         "wind": "10 mph S",
-        "conditions": "Light Rain Likely",
-        "precipitation": "73%"
+        "conditions": "Light Rain",
+        "precipitation": "81%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 15,
-        "wind": "8 mph SW",
+        "temp": 17,
+        "wind": "9 mph SW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "10%"
+        "precipitation": "5%"
       }
     }
   ]
