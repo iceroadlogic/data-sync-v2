@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-10T20:14:52.150Z",
+  "lastUpdated": "2025-12-11T12:26:38.988Z",
   "week": 15,
   "summary": {
     "total_players": 779,
-    "ir": 88,
+    "ir": 86,
     "suspended": 1
   },
   "ir": [
@@ -778,30 +778,10 @@
       "injury_description": null
     },
     {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "8484",
       "source_id": "4034779",
       "player_name": "Ko Kieft",
       "position": "TE",
-      "team_abbr": "TB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11618",
-      "source_id": "4430834",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
       "team_abbr": "TB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -848,20 +828,20 @@
       "injury_description": null
     },
     {
-      "player_id": "1339",
-      "source_id": "15835",
-      "player_name": "Zach Ertz",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "4663",
       "source_id": "3068267",
       "player_name": "Austin Ekeler",
       "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "1339",
+      "source_id": "15835",
+      "player_name": "Zach Ertz",
+      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
