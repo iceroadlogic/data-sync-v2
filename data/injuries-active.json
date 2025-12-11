@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-11T14:28:46.077Z",
+  "lastUpdated": "2025-12-11T21:16:57.155Z",
   "week": 15,
   "summary": {
     "total_players": 779,
-    "questionable": 56,
+    "questionable": 58,
     "doubtful": 2,
     "out": 12
   },
@@ -69,6 +69,16 @@
       "injury_description": null
     },
     {
+      "player_id": "3976",
+      "source_id": "3039707",
+      "player_name": "Mitchell Trubisky",
+      "position": "QB",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "6012",
       "source_id": "4037457",
       "player_name": "Travis Homer",
@@ -123,6 +133,16 @@
       "source_id": "5081397",
       "player_name": "Dylan Sampson",
       "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10444",
+      "source_id": "4369863",
+      "player_name": "Cedric Tillman",
+      "position": "WR",
       "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -519,9 +539,9 @@
       "injury_description": null
     },
     {
-      "player_id": "5846",
-      "source_id": "4047650",
-      "player_name": "DK Metcalf",
+      "player_id": "7757",
+      "source_id": "4035656",
+      "player_name": "Ben Skowronek",
       "position": "WR",
       "team_abbr": "PIT",
       "injury_status": "active",
