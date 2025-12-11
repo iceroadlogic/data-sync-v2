@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T21:16:57.155Z",
+  "lastUpdated": "2025-12-11T21:40:29.596Z",
   "week": 15,
   "summary": {
     "total_players": 779,
@@ -44,6 +44,16 @@
       "player_name": "Kyle Pitts Sr.",
       "position": "TE",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5012",
+      "source_id": "3116365",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -294,16 +304,6 @@
       "player_name": "Anthony Gould",
       "position": "WR",
       "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7523",
-      "source_id": "4360310",
-      "player_name": "Trevor Lawrence",
-      "position": "QB",
-      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
