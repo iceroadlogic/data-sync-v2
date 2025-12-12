@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-12T10:25:41.293Z",
+  "lastUpdated": "2025-12-12T16:27:49.582Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,9 +9,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "2 mph ENE",
-        "conditions": "Clear",
+        "temp": 72,
+        "wind": "3 mph S",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -96,7 +96,7 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "2 to 13 mph NW",
+        "wind": "3 to 13 mph NW",
         "conditions": "Sunny",
         "precipitation": "3%"
       }
@@ -155,9 +155,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "wind": "5 mph SSW",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
