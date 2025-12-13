@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-13T14:23:47.983Z",
+  "lastUpdated": "2025-12-13T22:25:11.821Z",
   "week": 15,
   "summary": {
-    "total_players": 781,
-    "questionable": 23,
+    "total_players": 779,
+    "questionable": 29,
     "doubtful": 0,
-    "out": 32
+    "out": 31
   },
   "questionable": [
     {
@@ -99,6 +99,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8041",
+      "source_id": "4608362",
+      "player_name": "Shane Zylstra",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -114,6 +124,26 @@
       "player_name": "Savion Williams",
       "position": "WR",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11435",
+      "source_id": "4887558",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6850",
+      "source_id": "4040774",
+      "player_name": "Harrison Bryant",
+      "position": "TE",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -162,6 +192,16 @@
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7562",
+      "source_id": "4360797",
+      "player_name": "Tutu Atwell",
       "position": "WR",
       "team_abbr": "LAR",
       "injury_status": "active",
@@ -225,6 +265,26 @@
       "position": "TE",
       "team_abbr": "PIT",
       "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4034",
+      "source_id": "3117251",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4189",
+      "source_id": "2975863",
+      "player_name": "Eric Saubert",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null
     },
@@ -528,16 +588,6 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "12521",
-      "source_id": "4678006",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
