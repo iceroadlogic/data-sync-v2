@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-12T22:27:01.756Z",
+  "lastUpdated": "2025-12-13T06:38:27.380Z",
   "week": 15,
   "summary": {
-    "total_players": 780,
-    "questionable": 24,
+    "total_players": 781,
+    "questionable": 23,
     "doubtful": 0,
     "out": 32
   },
@@ -139,16 +139,6 @@
       "injury_description": null
     },
     {
-      "player_id": "2749",
-      "source_id": "2576414",
-      "player_name": "Raheem Mostert",
-      "position": "RB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4995",
       "source_id": "4045305",
       "player_name": "Ian Thomas",
@@ -199,6 +189,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8583",
+      "source_id": "4250764",
+      "player_name": "Stone Smartt",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8125",
       "source_id": "4243389",
       "player_name": "Calvin Austin III",
@@ -224,16 +224,6 @@
       "player_name": "Darnell Washington",
       "position": "TE",
       "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4034",
-      "source_id": "3117251",
-      "player_name": "Christian McCaffrey",
-      "position": "RB",
-      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
