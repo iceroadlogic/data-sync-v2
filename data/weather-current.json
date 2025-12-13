@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-13T10:21:10.900Z",
+  "lastUpdated": "2025-12-13T16:25:52.189Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,9 +9,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "2 mph ENE",
-        "conditions": "Partly Cloudy",
+        "temp": 77,
+        "wind": "6 mph E",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -189,10 +189,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
+        "temp": 14,
         "wind": "5 to 9 mph SW",
         "conditions": "Partly Cloudy",
-        "precipitation": "4%"
+        "precipitation": "9%"
       }
     }
   ]
