@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-13T16:14:00.134Z",
+  "lastUpdated": "2025-12-13T20:12:39.290Z",
   "week": 15,
   "summary": {
-    "total_players": 781,
-    "ir": 86,
+    "total_players": 780,
+    "ir": 85,
     "suspended": 1
   },
   "ir": [
@@ -413,16 +413,6 @@
       "player_name": "Najee Harris",
       "position": "RB",
       "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "7562",
-      "source_id": "4360797",
-      "player_name": "Tutu Atwell",
-      "position": "WR",
-      "team_abbr": "LAR",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
