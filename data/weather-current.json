@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-13T16:25:52.189Z",
+  "lastUpdated": "2025-12-13T22:20:02.552Z",
   "games": [
     {
       "game_id": "401772948",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "6 mph E",
-        "conditions": "Partly Sunny",
+        "wind": "5 mph E",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 31,
         "wind": "5 to 15 mph NW",
-        "conditions": "Heavy Snow then Chance Snow Showers",
-        "precipitation": "85%"
+        "conditions": "Heavy Snow Likely then Partly Sunny",
+        "precipitation": "72%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "2 to 7 mph ENE",
+        "wind": "3 to 7 mph ENE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -51,7 +51,7 @@
         "temp": 13,
         "wind": "10 to 15 mph WNW",
         "conditions": "Sunny",
-        "precipitation": "4%"
+        "precipitation": "0%"
       }
     },
     {
@@ -61,7 +61,7 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 15,
+        "temp": 14,
         "wind": "6 to 9 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
@@ -74,10 +74,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "3 to 8 mph NW",
+        "temp": 31,
+        "wind": "3 to 9 mph NW",
         "conditions": "Light Snow",
-        "precipitation": "78%"
+        "precipitation": "77%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "3 to 14 mph W",
-        "conditions": "Patchy Fog then Mostly Sunny",
-        "precipitation": "1%"
+        "temp": 72,
+        "wind": "5 to 18 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -109,9 +109,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "5 to 13 mph NW",
-        "conditions": "Snow",
-        "precipitation": "76%"
+        "wind": "6 to 18 mph NW",
+        "conditions": "Snow then Partly Sunny",
+        "precipitation": "92%"
       }
     },
     {
@@ -129,8 +129,8 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph NW",
+        "temp": 61,
+        "wind": "2 to 6 mph NW",
         "conditions": "Areas Of Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -143,9 +143,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "9 mph S",
-        "conditions": "Light Rain",
-        "precipitation": "75%"
+        "wind": "6 to 9 mph S",
+        "conditions": "Chance Light Rain",
+        "precipitation": "48%"
       }
     },
     {
@@ -156,7 +156,7 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "5 mph SSW",
+        "wind": "5 mph SSE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -168,8 +168,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "0 to 10 mph N",
+        "temp": 70,
+        "wind": "0 to 10 mph WNW",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
