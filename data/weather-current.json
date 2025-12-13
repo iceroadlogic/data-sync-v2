@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-12T22:21:01.518Z",
+  "lastUpdated": "2025-12-13T10:21:10.900Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,9 +9,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "2 mph W",
-        "conditions": "Sunny",
+        "temp": 53,
+        "wind": "2 mph ENE",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 31,
         "wind": "5 to 15 mph NW",
-        "conditions": "Snow",
-        "precipitation": "95%"
+        "conditions": "Heavy Snow then Chance Snow Showers",
+        "precipitation": "85%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "6 mph ENE",
+        "wind": "2 to 7 mph ENE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -48,10 +48,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 14,
+        "temp": 13,
         "wind": "10 to 15 mph WNW",
         "conditions": "Sunny",
-        "precipitation": "10%"
+        "precipitation": "4%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 15,
-        "wind": "8 mph NW",
-        "conditions": "Slight Chance Light Snow then Mostly Sunny",
-        "precipitation": "15%"
+        "wind": "6 to 9 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -76,8 +76,8 @@
       "weather": {
         "temp": 30,
         "wind": "3 to 8 mph NW",
-        "conditions": "Light Snow Likely",
-        "precipitation": "63%"
+        "conditions": "Light Snow",
+        "precipitation": "78%"
       }
     },
     {
@@ -96,9 +96,9 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "3 to 13 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "2%"
+        "wind": "3 to 14 mph W",
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -109,9 +109,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "5 to 14 mph NW",
+        "wind": "5 to 13 mph NW",
         "conditions": "Snow",
-        "precipitation": "91%"
+        "precipitation": "76%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "6 to 9 mph S",
+        "wind": "9 mph S",
         "conditions": "Light Rain",
         "precipitation": "75%"
       }
@@ -155,7 +155,7 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 62,
         "wind": "5 mph SSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
@@ -169,7 +169,7 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "0 to 5 mph WNW",
+        "wind": "0 to 10 mph N",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -189,10 +189,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 13,
+        "temp": 16,
         "wind": "5 to 9 mph SW",
         "conditions": "Partly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "4%"
       }
     }
   ]
