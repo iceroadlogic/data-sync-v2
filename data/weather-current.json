@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-14T16:27:33.328Z",
+  "lastUpdated": "2025-12-14T16:47:24.365Z",
   "games": [
     {
       "game_id": "401772948",
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "10 to 15 mph NW",
-        "conditions": "Snow Likely And Areas Of Blowing Snow then Areas Of Blowing Snow",
-        "precipitation": "55%"
+        "wind": "15 mph NW",
+        "conditions": "Areas Of Blowing Snow",
+        "precipitation": "26%"
       }
     },
     {
@@ -96,8 +96,8 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "10 to 20 mph NW",
-        "conditions": "Mostly Sunny",
+        "wind": "15 to 20 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
     },
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "1 to 6 mph NW",
+        "wind": "1 to 5 mph NNW",
         "conditions": "Areas Of Fog then Mostly Sunny",
         "precipitation": "0%"
       }
@@ -189,10 +189,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 14,
+        "temp": 15,
         "wind": "5 to 8 mph SW",
         "conditions": "Partly Cloudy",
-        "precipitation": "9%"
+        "precipitation": "2%"
       }
     }
   ]
