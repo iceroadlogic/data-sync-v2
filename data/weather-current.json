@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-14T23:20:49.205Z",
+  "lastUpdated": "2025-12-14T23:40:32.683Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,9 +9,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "8 to 12 mph N",
-        "conditions": "Mostly Clear",
+        "temp": 77,
+        "wind": "10 mph NNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -22,9 +22,9 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 14,
-        "wind": "10 to 15 mph NW",
-        "conditions": "Mostly Clear",
+        "temp": 32,
+        "wind": "15 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "5 mph SSE",
+        "wind": "5 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -48,7 +48,7 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 12,
+        "temp": 11,
         "wind": "10 mph W",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
@@ -61,10 +61,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": -2,
-        "wind": "1 to 6 mph W",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 10,
+        "wind": "8 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -95,8 +95,8 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 37,
-        "wind": "16 to 21 mph N",
+        "temp": 39,
+        "wind": "15 to 20 mph N",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -108,9 +108,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
-        "wind": "14 to 21 mph NW",
-        "conditions": "Mostly Clear",
+        "temp": 31,
+        "wind": "18 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "13%"
       }
     },
@@ -156,7 +156,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 mph NNW",
+        "wind": "5 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
