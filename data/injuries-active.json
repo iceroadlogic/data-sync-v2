@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-14T19:37:27.707Z",
+  "lastUpdated": "2025-12-14T19:49:53.709Z",
   "week": 15,
   "summary": {
-    "total_players": 778,
-    "questionable": 14,
+    "total_players": 754,
+    "questionable": 15,
     "doubtful": 0,
-    "out": 53
+    "out": 52
   },
   "questionable": [
     {
@@ -23,6 +23,16 @@
       "source_id": "4036131",
       "player_name": "Noah Fant",
       "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10228",
+      "source_id": "4257188",
+      "player_name": "Charlie Jones",
+      "position": "WR",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -417,16 +427,6 @@
       "player_name": "Hunter Long",
       "position": "TE",
       "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "5848",
-      "source_id": "4241372",
-      "player_name": "Hollywood Brown",
-      "position": "WR",
-      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
