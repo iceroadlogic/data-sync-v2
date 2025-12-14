@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-14T20:52:24.456Z",
+  "lastUpdated": "2025-12-14T21:20:30.463Z",
   "games": [
     {
       "game_id": "401772948",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "10 mph NW",
+        "wind": "10 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 32,
         "wind": "15 mph NW",
-        "conditions": "Areas Of Blowing Snow",
-        "precipitation": "37%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "5 mph SSE",
+        "wind": "5 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 10,
-        "wind": "6 to 9 mph NW",
+        "wind": "8 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "6 to 13 mph N",
-        "conditions": "Light Snow Likely",
-        "precipitation": "72%"
+        "wind": "5 to 13 mph N",
+        "conditions": "Light Snow",
+        "precipitation": "82%"
       }
     },
     {
@@ -110,8 +110,8 @@
       "weather": {
         "temp": 31,
         "wind": "18 mph NW",
-        "conditions": "Slight Chance Snow Showers",
-        "precipitation": "18%"
+        "conditions": "Partly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "8 mph S",
+        "wind": "9 mph S",
         "conditions": "Chance Light Rain",
         "precipitation": "33%"
       }
@@ -155,8 +155,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph WSW",
+        "temp": 67,
+        "wind": "5 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -169,7 +169,7 @@
       "is_dome": false,
       "weather": {
         "temp": 64,
-        "wind": "10 mph WSW",
+        "wind": "5 mph WSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
