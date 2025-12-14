@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-14T18:22:20.004Z",
+  "lastUpdated": "2025-12-14T18:48:25.160Z",
   "week": 15,
   "summary": {
     "total_players": 778,
-    "questionable": 10,
+    "questionable": 12,
     "doubtful": 0,
     "out": 53
   },
   "questionable": [
+    {
+      "player_id": "8122",
+      "source_id": "4427728",
+      "player_name": "Bam Knight",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "8110",
       "source_id": "4242355",
@@ -104,6 +114,16 @@
       "player_name": "Eric Saubert",
       "position": "TE",
       "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4234",
+      "source_id": "3121409",
+      "player_name": "Noah Brown",
+      "position": "WR",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
