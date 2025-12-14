@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-14T14:52:09.151Z",
+  "lastUpdated": "2025-12-14T15:21:27.918Z",
   "games": [
     {
       "game_id": "401772948",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "2 to 10 mph NNW",
+        "wind": "3 to 10 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "10 to 15 mph NW",
-        "conditions": "Snow Likely And Areas Of Blowing Snow then Areas Of Blowing Snow",
-        "precipitation": "55%"
+        "wind": "15 mph NW",
+        "conditions": "Areas Of Blowing Snow",
+        "precipitation": "37%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "2 to 6 mph E",
+        "wind": "5 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -51,7 +51,7 @@
         "temp": 13,
         "wind": "10 to 15 mph WNW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "2 to 13 mph N",
+        "wind": "3 to 13 mph N",
         "conditions": "Light Snow",
-        "precipitation": "100%"
+        "precipitation": "88%"
       }
     },
     {
@@ -96,7 +96,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "10 to 20 mph NW",
+        "wind": "13 to 20 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
       }
@@ -108,10 +108,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "12 to 18 mph NW",
-        "conditions": "Light Snow Likely then Mostly Sunny",
-        "precipitation": "69%"
+        "temp": 31,
+        "wind": "10 to 16 mph NW",
+        "conditions": "Chance Light Snow",
+        "precipitation": "42%"
       }
     },
     {
@@ -145,7 +145,7 @@
         "temp": 55,
         "wind": "9 mph S",
         "conditions": "Chance Light Rain",
-        "precipitation": "46%"
+        "precipitation": "34%"
       }
     },
     {
@@ -156,7 +156,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "2 to 6 mph SSW",
+        "wind": "2 to 6 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
