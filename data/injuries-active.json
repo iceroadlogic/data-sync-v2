@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-14T17:49:38.630Z",
+  "lastUpdated": "2025-12-14T18:22:20.004Z",
   "week": 15,
   "summary": {
     "total_players": 778,
     "questionable": 10,
     "doubtful": 0,
-    "out": 52
+    "out": 53
   },
   "questionable": [
     {
@@ -216,6 +216,16 @@
       "source_id": "4037457",
       "player_name": "Travis Homer",
       "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11620",
+      "source_id": "4431299",
+      "player_name": "Rome Odunze",
+      "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Out",
