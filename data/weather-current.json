@@ -1,6 +1,6 @@
 {
   "week": 15,
-  "lastUpdated": "2025-12-14T17:33:37.782Z",
+  "lastUpdated": "2025-12-14T17:43:28.795Z",
   "games": [
     {
       "game_id": "401772948",
@@ -9,7 +9,7 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
+        "temp": 77,
         "wind": "7 to 10 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "10 to 15 mph NW",
-        "conditions": "Snow Likely And Areas Of Blowing Snow then Areas Of Blowing Snow",
-        "precipitation": "55%"
+        "wind": "15 mph NW",
+        "conditions": "Areas Of Blowing Snow",
+        "precipitation": "16%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "20 mph NW",
-        "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "temp": 73,
+        "wind": "12 to 16 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "8 mph S",
+        "wind": "9 mph S",
         "conditions": "Chance Light Rain",
         "precipitation": "33%"
       }
@@ -156,7 +156,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "3 mph S",
+        "wind": "5 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
