@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-14T23:49:38.145Z",
+  "lastUpdated": "2025-12-15T06:45:20.319Z",
   "week": 15,
   "summary": {
     "total_players": 778,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 0,
-    "out": 67
+    "out": 69
   },
   "questionable": [
     {
@@ -49,10 +49,10 @@
       "injury_description": null
     },
     {
-      "player_id": "8110",
-      "source_id": "4242355",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
+      "player_id": "11510",
+      "source_id": "4383396",
+      "player_name": "Hunter Luepke",
+      "position": "RB",
       "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -79,16 +79,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4046",
-      "source_id": "3139477",
-      "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8188",
       "source_id": "4362921",
       "player_name": "Tyquan Thornton",
@@ -109,6 +99,26 @@
       "injury_description": null
     },
     {
+      "player_id": "2133",
+      "source_id": "16800",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12476",
+      "source_id": "4682652",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "11834",
       "source_id": "4569559",
       "player_name": "Devaughn Vele",
@@ -119,10 +129,10 @@
       "injury_description": null
     },
     {
-      "player_id": "12502",
-      "source_id": "4686728",
-      "player_name": "Gunnar Helm",
-      "position": "TE",
+      "player_id": "6853",
+      "source_id": "3930066",
+      "player_name": "Van Jefferson",
+      "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -362,6 +372,26 @@
       "injury_description": null
     },
     {
+      "player_id": "12457",
+      "source_id": "4685279",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8117",
+      "source_id": "4249417",
+      "player_name": "Jalen Tolbert",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "12492",
       "source_id": "4600981",
       "player_name": "Pat Bryant",
@@ -502,6 +532,16 @@
       "injury_description": null
     },
     {
+      "player_id": "4046",
+      "source_id": "3139477",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "1373",
       "source_id": "15864",
       "player_name": "Geno Smith",
@@ -636,16 +676,6 @@
       "source_id": "4876006",
       "player_name": "Zaire Mitchell-Paden",
       "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
       "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Out",
