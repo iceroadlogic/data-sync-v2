@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-15T23:24:56.500Z",
-  "week": 15,
+  "lastUpdated": "2025-12-16T06:43:09.483Z",
+  "week": 16,
   "summary": {
-    "total_players": 777,
-    "questionable": 20,
+    "total_players": 778,
+    "questionable": 22,
     "doubtful": 0,
-    "out": 36
+    "out": 40
   },
   "questionable": [
     {
@@ -139,6 +139,36 @@
       "injury_description": null
     },
     {
+      "player_id": "3258",
+      "source_id": "2576399",
+      "player_name": "Nick Vannett",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12495",
+      "source_id": "4711533",
+      "player_name": "Ollie Gordon II",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12476",
       "source_id": "4682652",
       "player_name": "Devin Neal",
@@ -154,16 +184,6 @@
       "player_name": "Devaughn Vele",
       "position": "WR",
       "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8228",
-      "source_id": "4569987",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
-      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -452,6 +472,26 @@
       "injury_description": null
     },
     {
+      "player_id": "12500",
+      "source_id": "4889929",
+      "player_name": "Quinn Ewers",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11821",
+      "source_id": "4567506",
+      "player_name": "Tahj Washington",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -528,6 +568,26 @@
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
