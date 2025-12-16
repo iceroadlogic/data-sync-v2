@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-16T16:17:08.895Z",
+  "lastUpdated": "2025-12-16T20:15:14.299Z",
   "week": 16,
   "summary": {
-    "total_players": 778,
-    "ir": 83,
+    "total_players": 777,
+    "ir": 84,
     "suspended": 1
   },
   "ir": [
@@ -794,6 +794,16 @@
       "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4234",
+      "source_id": "3121409",
+      "player_name": "Noah Brown",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
