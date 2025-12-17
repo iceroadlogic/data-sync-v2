@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-16T20:15:14.299Z",
+  "lastUpdated": "2025-12-17T12:25:05.790Z",
   "week": 16,
   "summary": {
-    "total_players": 777,
-    "ir": 84,
+    "total_players": 776,
+    "ir": 85,
     "suspended": 1
   },
   "ir": [
@@ -52,6 +52,16 @@
       "source_id": "3059722",
       "player_name": "Zay Jones",
       "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8122",
+      "source_id": "4427728",
+      "player_name": "Bam Knight",
+      "position": "RB",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -803,7 +813,7 @@
       "player_name": "Noah Brown",
       "position": "WR",
       "team_abbr": "WAS",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
