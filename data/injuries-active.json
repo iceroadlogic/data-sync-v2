@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-16T22:25:38.482Z",
+  "lastUpdated": "2025-12-17T06:42:21.729Z",
   "week": 16,
   "summary": {
-    "total_players": 778,
-    "questionable": 45,
+    "total_players": 776,
+    "questionable": 48,
     "doubtful": 1,
     "out": 12
   },
@@ -59,16 +59,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11256",
-      "source_id": "4434153",
-      "player_name": "Tyson Bagent",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12519",
       "source_id": "4685278",
       "player_name": "Luther Burden III",
@@ -83,6 +73,16 @@
       "source_id": "4037457",
       "player_name": "Travis Homer",
       "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6826",
+      "source_id": "4258595",
+      "player_name": "Cole Kmet",
+      "position": "TE",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -179,6 +179,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11370",
+      "source_id": "3149687",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -192,6 +202,16 @@
       "player_id": "8167",
       "source_id": "4248528",
       "player_name": "Christian Watson",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -329,16 +349,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11623",
-      "source_id": "4569382",
-      "player_name": "Jordan Whittington",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12495",
       "source_id": "4711533",
       "player_name": "Ollie Gordon II",
@@ -414,6 +424,26 @@
       "player_name": "Tyrod Taylor",
       "position": "QB",
       "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9225",
+      "source_id": "4429013",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
