@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-18T22:51:40.992Z",
+  "lastUpdated": "2025-12-18T23:16:10.511Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 44,
+    "questionable": 42,
     "doubtful": 2,
     "out": 16
   },
@@ -209,16 +209,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4988",
-      "source_id": "3128720",
-      "player_name": "Nick Chubb",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12474",
       "source_id": "4429059",
       "player_name": "Woody Marks",
@@ -264,16 +254,6 @@
       "player_name": "Tyquan Thornton",
       "position": "WR",
       "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2374",
-      "source_id": "2577327",
-      "player_name": "Tyler Lockett",
-      "position": "WR",
-      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
