@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-18T06:41:52.240Z",
+  "lastUpdated": "2025-12-18T14:29:54.891Z",
   "week": 16,
   "summary": {
     "total_players": 780,
-    "questionable": 52,
+    "questionable": 51,
     "doubtful": 2,
     "out": 13
   },
@@ -54,16 +54,6 @@
       "player_name": "Lamar Jackson",
       "position": "QB",
       "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2197",
-      "source_id": "16731",
-      "player_name": "Brandin Cooks",
-      "position": "WR",
-      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
