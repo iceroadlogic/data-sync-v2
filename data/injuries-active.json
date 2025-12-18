@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-18T22:14:59.350Z",
+  "lastUpdated": "2025-12-18T22:26:58.550Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 45,
+    "questionable": 44,
     "doubtful": 2,
-    "out": 15
+    "out": 16
   },
   "questionable": [
     {
@@ -447,16 +447,6 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
-    },
-    {
-      "player_id": "11942",
-      "source_id": "4361088",
-      "player_name": "Colson Yankoff",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
     }
   ],
   "doubtful": [
@@ -627,6 +617,16 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11942",
+      "source_id": "4361088",
+      "player_name": "Colson Yankoff",
+      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
