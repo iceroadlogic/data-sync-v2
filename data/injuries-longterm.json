@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-17T20:14:43.335Z",
+  "lastUpdated": "2025-12-18T12:25:00.455Z",
   "week": 16,
   "summary": {
-    "total_players": 776,
-    "ir": 86,
+    "total_players": 780,
+    "ir": 85,
     "suspended": 1
   },
   "ir": [
@@ -153,7 +153,7 @@
       "player_name": "David Moore",
       "position": "WR",
       "team_abbr": "CAR",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -203,7 +203,7 @@
       "player_name": "Phil Mafah",
       "position": "RB",
       "team_abbr": "DAL",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -272,16 +272,6 @@
       "source_id": "4572680",
       "player_name": "Tucker Kraft",
       "position": "TE",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11581",
-      "source_id": "4429023",
-      "player_name": "MarShawn Lloyd",
-      "position": "RB",
       "team_abbr": "GB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -378,22 +368,12 @@
       "injury_description": null
     },
     {
-      "player_id": "4046",
-      "source_id": "3139477",
-      "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "12817",
       "source_id": "4431196",
       "player_name": "Jake Briningstool",
       "position": "TE",
       "team_abbr": "KC",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -402,6 +382,16 @@
       "source_id": "4362087",
       "player_name": "Keaontay Ingram",
       "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4046",
+      "source_id": "3139477",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
       "team_abbr": "KC",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -788,20 +778,20 @@
       "injury_description": null
     },
     {
-      "player_id": "9999",
-      "source_id": "4361418",
-      "player_name": "Will Levis",
-      "position": "QB",
-      "team_abbr": "TEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "11959",
       "source_id": "4362617",
       "player_name": "Bryce Oliver",
       "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9999",
+      "source_id": "4361418",
+      "player_name": "Will Levis",
+      "position": "QB",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
