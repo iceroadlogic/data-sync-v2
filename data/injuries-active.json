@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-18T21:49:25.587Z",
+  "lastUpdated": "2025-12-18T22:14:59.350Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 46,
+    "questionable": 45,
     "doubtful": 2,
-    "out": 16
+    "out": 15
   },
   "questionable": [
     {
@@ -54,16 +54,6 @@
       "player_name": "Kyle Pitts Sr.",
       "position": "TE",
       "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -589,16 +579,6 @@
       "position": "RB",
       "team_abbr": "NE",
       "injury_status": "practice-squad",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
