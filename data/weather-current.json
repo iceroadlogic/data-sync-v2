@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-17T22:21:36.054Z",
+  "lastUpdated": "2025-12-18T10:25:37.102Z",
   "games": [
     {
       "game_id": "401772949",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "8 to 15 mph S",
+        "wind": "9 to 18 mph S",
         "conditions": "Rain",
-        "precipitation": "98%"
+        "precipitation": "99%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "3 to 14 mph W",
+        "temp": 28,
+        "wind": "2 to 14 mph NW",
         "conditions": "Mostly Clear",
-        "precipitation": "3%"
+        "precipitation": "1%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
+        "temp": 50,
         "wind": "5 to 10 mph NNE",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "14%"
       }
     },
     {
@@ -71,8 +71,8 @@
       "weather": {
         "temp": 60,
         "wind": "7 mph WNW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "conditions": "Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -84,8 +84,8 @@
       "weather": {
         "temp": 47,
         "wind": "9 to 14 mph W",
-        "conditions": "Slight Chance Light Rain then Mostly Sunny",
-        "precipitation": "16%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "20 mph W",
+        "temp": 31,
+        "wind": "14 to 17 mph W",
         "conditions": "Slight Chance Light Snow then Partly Sunny",
-        "precipitation": "16%"
+        "precipitation": "20%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "6 to 10 mph W",
+        "temp": 49,
+        "wind": "6 to 16 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "7%"
+        "precipitation": "9%"
       }
     },
     {
@@ -169,7 +169,7 @@
         "temp": 70,
         "wind": "8 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "13%"
+        "precipitation": "10%"
       }
     },
     {
