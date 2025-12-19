@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-19T16:28:33.695Z",
+  "lastUpdated": "2025-12-19T22:21:49.724Z",
   "games": [
     {
       "game_id": "401772949",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "13 mph SSW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "74%"
+        "wind": "16 mph SSW",
+        "conditions": "Light Rain Likely",
+        "precipitation": "66%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 22,
+        "temp": 20,
         "wind": "10 to 20 mph SSW",
         "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "2%"
       }
     },
     {
@@ -38,7 +38,7 @@
         "temp": 28,
         "wind": "5 to 22 mph W",
         "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "2%"
       }
     },
     {
@@ -70,9 +70,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "6 mph NW",
+        "wind": "2 to 6 mph NW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -82,8 +82,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 45,
-        "wind": "8 to 15 mph W",
+        "temp": 44,
+        "wind": "8 to 14 mph W",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "15 to 18 mph W",
+        "wind": "14 to 18 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "precipitation": "5%"
       }
     },
     {
