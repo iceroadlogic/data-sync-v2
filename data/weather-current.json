@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-18T23:27:52.100Z",
+  "lastUpdated": "2025-12-19T10:24:55.115Z",
   "games": [
     {
       "game_id": "401772949",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "14 to 21 mph S",
-        "conditions": "Light Rain",
-        "precipitation": "84%"
+        "temp": 39,
+        "wind": "9 mph SW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "34%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 23,
+        "temp": 22,
         "wind": "10 to 20 mph SSW",
-        "conditions": "Mostly Cloudy",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -48,9 +48,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
+        "temp": 52,
         "wind": "5 to 10 mph NNE",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "3%"
       }
     },
@@ -69,10 +69,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
+        "temp": 60,
         "wind": "6 mph NW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "9 to 16 mph W",
+        "temp": 45,
+        "wind": "8 to 15 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "18 mph W",
+        "temp": 31,
+        "wind": "15 to 18 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "6%"
+        "precipitation": "4%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "6 to 14 mph W",
+        "temp": 49,
+        "wind": "6 to 15 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -167,9 +167,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "10 mph NE",
+        "wind": "9 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "8%"
+        "precipitation": "5%"
       }
     },
     {
