@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-12-18T20:13:42.638Z",
+  "lastUpdated": "2025-12-19T12:24:04.078Z",
   "week": 16,
   "summary": {
-    "total_players": 780,
+    "total_players": 785,
     "ir": 85,
     "suspended": 1
   },
@@ -528,6 +528,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12476",
+      "source_id": "4682652",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "9492",
       "source_id": "4426407",
       "player_name": "Trey Palmer",
@@ -742,16 +752,6 @@
       "source_id": "4427391",
       "player_name": "Kenny McIntosh",
       "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "8527",
-      "source_id": "4401805",
-      "player_name": "Dareke Young",
-      "position": "WR",
       "team_abbr": "SEA",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
