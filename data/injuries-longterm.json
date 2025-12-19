@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-19T16:15:27.718Z",
+  "lastUpdated": "2025-12-19T20:13:57.346Z",
   "week": 16,
   "summary": {
     "total_players": 785,
-    "ir": 85,
+    "ir": 86,
     "suspended": 1
   },
   "ir": [
@@ -504,6 +504,16 @@
       "position": "RB",
       "team_abbr": "NE",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11834",
+      "source_id": "4569559",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
