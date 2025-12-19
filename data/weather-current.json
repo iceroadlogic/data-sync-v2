@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-19T10:24:55.115Z",
+  "lastUpdated": "2025-12-19T16:28:33.695Z",
   "games": [
     {
       "game_id": "401772949",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "9 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "34%"
+        "temp": 44,
+        "wind": "13 mph SSW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "74%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
+        "temp": 28,
         "wind": "5 to 22 mph W",
-        "conditions": "Mostly Clear",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -48,10 +48,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 51,
         "wind": "5 to 10 mph NNE",
         "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "6 to 15 mph W",
+        "temp": 48,
+        "wind": "6 to 14 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -137,8 +137,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "5 mph ESE",
+        "temp": 59,
+        "wind": "5 mph SE",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
