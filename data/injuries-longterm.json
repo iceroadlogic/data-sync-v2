@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-19T20:13:57.346Z",
+  "lastUpdated": "2025-12-20T12:21:41.497Z",
   "week": 16,
   "summary": {
     "total_players": 785,
-    "ir": 86,
+    "ir": 88,
     "suspended": 1
   },
   "ir": [
@@ -93,6 +93,16 @@
       "player_name": "Travis Vokolek",
       "position": "TE",
       "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5773",
+      "source_id": "3047876",
+      "player_name": "KhaDarel Hodge",
+      "position": "WR",
+      "team_abbr": "ATL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -272,6 +282,16 @@
       "source_id": "4572680",
       "player_name": "Tucker Kraft",
       "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11581",
+      "source_id": "4429023",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
       "team_abbr": "GB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -508,16 +528,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11834",
-      "source_id": "4569559",
-      "player_name": "Devaughn Vele",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "11748",
       "source_id": "4427985",
       "player_name": "Bub Means",
@@ -571,6 +581,16 @@
       "player_id": "11619",
       "source_id": "4430637",
       "player_name": "Ja'Lynn Polk",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11834",
+      "source_id": "4569559",
+      "player_name": "Devaughn Vele",
       "position": "WR",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
