@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-21T21:20:42.401Z",
+  "lastUpdated": "2025-12-21T21:40:34.135Z",
   "games": [
     {
       "game_id": "401772949",
@@ -10,8 +10,8 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "9 to 13 mph S",
-        "conditions": "Rain Showers",
+        "wind": "13 mph SSW",
+        "conditions": "Rain",
         "precipitation": "91%"
       }
     },
@@ -83,7 +83,7 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "15 mph NW",
+        "wind": "16 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -137,8 +137,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "3 to 7 mph WSW",
+        "temp": 68,
+        "wind": "6 mph SW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
