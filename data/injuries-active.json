@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-21T21:49:53.266Z",
+  "lastUpdated": "2025-12-21T22:15:48.661Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 11,
+    "questionable": 13,
     "doubtful": 2,
     "out": 71
   },
@@ -29,6 +29,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11433",
+      "source_id": "4383440",
+      "player_name": "Nate Adkins",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8121",
       "source_id": "4361432",
       "player_name": "Romeo Doubs",
@@ -43,6 +53,16 @@
       "source_id": "4379401",
       "player_name": "John FitzPatrick",
       "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5850",
+      "source_id": "4047365",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
