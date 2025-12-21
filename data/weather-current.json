@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-21T19:52:06.549Z",
+  "lastUpdated": "2025-12-21T20:25:05.982Z",
   "games": [
     {
       "game_id": "401772949",
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "12 to 15 mph NW",
+        "wind": "14 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -48,7 +48,7 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 57,
         "wind": "5 to 10 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "10 to 15 mph W",
+        "wind": "10 to 14 mph W",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "12 to 16 mph NW",
+        "wind": "12 to 15 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
