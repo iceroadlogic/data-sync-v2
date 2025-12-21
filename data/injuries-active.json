@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-20T22:24:54.743Z",
+  "lastUpdated": "2025-12-21T14:15:03.978Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 21,
+    "questionable": 20,
     "doubtful": 0,
-    "out": 34
+    "out": 35
   },
   "questionable": [
     {
@@ -39,26 +39,6 @@
       "injury_description": null
     },
     {
-      "player_id": "6826",
-      "source_id": "4258595",
-      "player_name": "Cole Kmet",
-      "position": "TE",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "6801",
       "source_id": "4239993",
       "player_name": "Tee Higgins",
@@ -79,29 +59,9 @@
       "injury_description": null
     },
     {
-      "player_id": "11370",
-      "source_id": "3149687",
-      "player_name": "Chris Brooks",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5850",
-      "source_id": "4047365",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8167",
-      "source_id": "4248528",
-      "player_name": "Christian Watson",
+      "player_id": "8121",
+      "source_id": "4361432",
+      "player_name": "Romeo Doubs",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -109,10 +69,20 @@
       "injury_description": null
     },
     {
-      "player_id": "9486",
-      "source_id": "4428850",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
+      "player_id": "8500",
+      "source_id": "4379401",
+      "player_name": "John FitzPatrick",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6804",
+      "source_id": "4036378",
+      "player_name": "Jordan Love",
+      "position": "QB",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -217,6 +187,26 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
+    },
+    {
+      "player_id": "12641",
+      "source_id": "4602667",
+      "player_name": "Jaylin Lane",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "2307",
+      "source_id": "2576980",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
     }
   ],
   "doubtful": [],
@@ -236,6 +226,16 @@
       "source_id": "4685278",
       "player_name": "Luther Burden III",
       "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
       "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -417,7 +417,7 @@
       "player_name": "Gavin Bartholomew",
       "position": "TE",
       "team_abbr": "MIN",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null
     },
