@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-21T22:52:14.150Z",
+  "lastUpdated": "2025-12-21T23:21:18.336Z",
   "games": [
     {
       "game_id": "401772949",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "12 mph SSW",
+        "wind": "12 mph S",
         "conditions": "Rain",
         "precipitation": "91%"
       }
@@ -35,9 +35,9 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "13 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 20,
+        "wind": "2 to 12 mph NW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -69,9 +69,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "6 mph N",
-        "conditions": "Partly Sunny",
+        "temp": 29,
+        "wind": "7 mph NNE",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "10 to 14 mph W",
+        "wind": "12 mph W",
         "conditions": "Sunny",
         "precipitation": "1%"
       }
@@ -116,9 +116,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "12 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 27,
+        "wind": "1 to 12 mph NW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
