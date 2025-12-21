@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-21T20:17:41.994Z",
+  "lastUpdated": "2025-12-21T20:41:14.513Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 7,
+    "questionable": 8,
     "doubtful": 0,
     "out": 75
   },
   "questionable": [
+    {
+      "player_id": "12062",
+      "source_id": "4700712",
+      "player_name": "Cam Grandy",
+      "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "8121",
       "source_id": "4361432",
