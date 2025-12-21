@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-21T20:51:07.050Z",
+  "lastUpdated": "2025-12-21T21:15:01.783Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 8,
-    "doubtful": 0,
-    "out": 75
+    "questionable": 9,
+    "doubtful": 3,
+    "out": 71
   },
   "questionable": [
     {
@@ -14,6 +14,16 @@
       "player_name": "Cam Grandy",
       "position": "TE",
       "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11783",
+      "source_id": "5083754",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -59,21 +69,21 @@
       "injury_description": null
     },
     {
-      "player_id": "5985",
-      "source_id": "3843945",
-      "player_name": "Foster Moreau",
-      "position": "TE",
-      "team_abbr": "NO",
+      "player_id": "11565",
+      "source_id": "4433970",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "12641",
-      "source_id": "4602667",
-      "player_name": "Jaylin Lane",
-      "position": "WR",
-      "team_abbr": "WAS",
+      "player_id": "5985",
+      "source_id": "3843945",
+      "player_name": "Foster Moreau",
+      "position": "TE",
+      "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -89,7 +99,38 @@
       "injury_description": null
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "12512",
+      "source_id": "4685702",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
+    {
+      "player_id": "6011",
+      "source_id": "4038524",
+      "player_name": "Gardner Minshew",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
+    {
+      "player_id": "12641",
+      "source_id": "4602667",
+      "player_name": "Jaylin Lane",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    }
+  ],
   "out": [
     {
       "player_id": "12897",
@@ -232,16 +273,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12512",
-      "source_id": "4685702",
-      "player_name": "Quinshon Judkins",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "4033",
       "source_id": "3123076",
       "player_name": "David Njoku",
@@ -286,16 +317,6 @@
       "source_id": "4685279",
       "player_name": "Jaydon Blue",
       "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11783",
-      "source_id": "5083754",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
       "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -417,16 +438,6 @@
       "player_name": "Bhayshul Tuten",
       "position": "RB",
       "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "6011",
-      "source_id": "4038524",
-      "player_name": "Gardner Minshew",
-      "position": "QB",
-      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -576,16 +587,6 @@
       "source_id": "4360569",
       "player_name": "Jordan Mason",
       "position": "RB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11565",
-      "source_id": "4433970",
-      "player_name": "J.J. McCarthy",
-      "position": "QB",
       "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Out",
