@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-21T21:31:26.734Z",
+  "lastUpdated": "2025-12-21T21:49:53.266Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 10,
+    "questionable": 11,
     "doubtful": 2,
     "out": 71
   },
@@ -52,6 +52,16 @@
       "player_id": "6804",
       "source_id": "4036378",
       "player_name": "Jordan Love",
+      "position": "QB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8161",
+      "source_id": "4242512",
+      "player_name": "Malik Willis",
       "position": "QB",
       "team_abbr": "GB",
       "injury_status": "active",
