@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-21T16:44:53.712Z",
+  "lastUpdated": "2025-12-21T16:55:33.987Z",
   "week": 16,
   "summary": {
     "total_players": 783,
     "questionable": 11,
     "doubtful": 0,
-    "out": 47
+    "out": 53
   },
   "questionable": [
     {
@@ -402,6 +402,36 @@
       "injury_description": null
     },
     {
+      "player_id": "6768",
+      "source_id": "4241479",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11821",
+      "source_id": "4567506",
+      "player_name": "Tahj Washington",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7496",
+      "source_id": "3929785",
+      "player_name": "Nick Westbrook-Ikhine",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -437,6 +467,36 @@
       "player_name": "Zaire Mitchell-Paden",
       "position": "TE",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9497",
+      "source_id": "4692590",
+      "player_name": "Jalin Hyatt",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11421",
+      "source_id": "4369466",
+      "player_name": "Ryan Miller",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1234",
+      "source_id": "14881",
+      "player_name": "Russell Wilson",
+      "position": "QB",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
