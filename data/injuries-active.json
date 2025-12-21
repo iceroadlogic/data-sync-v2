@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-21T18:22:39.790Z",
+  "lastUpdated": "2025-12-21T18:48:20.680Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 11,
+    "questionable": 13,
     "doubtful": 0,
-    "out": 54
+    "out": 55
   },
   "questionable": [
     {
@@ -99,6 +99,26 @@
       "injury_description": null
     },
     {
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8408",
+      "source_id": "4360569",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12641",
       "source_id": "4602667",
       "player_name": "Jaylin Lane",
@@ -121,6 +141,16 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "11210",
+      "source_id": "4689334",
+      "player_name": "Malik Heath",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "11637",
       "source_id": "4635008",
