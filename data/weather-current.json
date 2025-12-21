@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-21T23:41:08.734Z",
+  "lastUpdated": "2025-12-21T23:51:53.989Z",
   "games": [
     {
       "game_id": "401772949",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "13 mph SSW",
+        "wind": "12 mph SSW",
         "conditions": "Rain",
         "precipitation": "91%"
       }
@@ -69,9 +69,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "7 mph NNE",
-        "conditions": "Mostly Clear",
+        "temp": 61,
+        "wind": "6 mph N",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "6 mph SW",
+        "wind": "6 mph WSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
