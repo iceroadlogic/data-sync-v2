@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-21T22:15:48.661Z",
+  "lastUpdated": "2025-12-21T22:41:35.423Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 13,
+    "questionable": 14,
     "doubtful": 2,
     "out": 71
   },
@@ -84,6 +84,16 @@
       "player_name": "Malik Willis",
       "position": "QB",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "2374",
+      "source_id": "2577327",
+      "player_name": "Tyler Lockett",
+      "position": "WR",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
