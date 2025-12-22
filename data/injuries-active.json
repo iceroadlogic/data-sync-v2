@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-21T23:49:39.474Z",
+  "lastUpdated": "2025-12-22T06:44:30.818Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 14,
+    "questionable": 19,
     "doubtful": 2,
-    "out": 71
+    "out": 75
   },
   "questionable": [
+    {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "12062",
       "source_id": "4700712",
@@ -33,6 +43,16 @@
       "source_id": "4383440",
       "player_name": "Nate Adkins",
       "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12492",
+      "source_id": "4600981",
+      "player_name": "Pat Bryant",
+      "position": "WR",
       "team_abbr": "DEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -129,6 +149,36 @@
       "injury_description": null
     },
     {
+      "player_id": "9504",
+      "source_id": "4429022",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9501",
+      "source_id": "4427095",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12529",
+      "source_id": "4432710",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "5985",
       "source_id": "3843945",
       "player_name": "Foster Moreau",
@@ -198,6 +248,26 @@
       "player_name": "Casey Washington",
       "position": "WR",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4574",
+      "source_id": "2972515",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7595",
+      "source_id": "4241424",
+      "player_name": "Tylan Wallace",
+      "position": "WR",
+      "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -639,6 +709,26 @@
       "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12542",
+      "source_id": "4695193",
+      "player_name": "Efton Chism III",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
