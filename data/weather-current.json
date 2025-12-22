@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-22T10:24:34.057Z",
+  "lastUpdated": "2025-12-22T16:28:35.085Z",
   "games": [
     {
       "game_id": "401772949",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 41,
-        "wind": "9 mph S",
-        "conditions": "Chance Light Rain",
-        "precipitation": "41%"
+        "temp": 48,
+        "wind": "9 to 14 mph S",
+        "conditions": "Rain",
+        "precipitation": "94%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "10 mph S",
-        "conditions": "Cloudy",
-        "precipitation": "12%"
+        "temp": 43,
+        "wind": "10 to 15 mph S",
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "13%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 20,
-        "wind": "2 mph NW",
-        "conditions": "Clear",
-        "precipitation": "0%"
+        "temp": 44,
+        "wind": "5 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "6%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "5 mph E",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 58,
+        "wind": "10 to 15 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "8%"
       }
     },
     {
@@ -69,9 +69,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "5 mph NNE",
-        "conditions": "Clear",
+        "temp": 54,
+        "wind": "5 mph ESE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -82,10 +82,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 26,
-        "wind": "7 mph W",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 39,
+        "wind": "8 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 23,
-        "wind": "6 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 39,
+        "wind": "10 mph S",
+        "conditions": "Mostly Cloudy then Chance Light Snow",
+        "precipitation": "37%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "3 mph W",
-        "conditions": "Clear",
-        "precipitation": "0%"
+        "temp": 43,
+        "wind": "5 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -137,9 +137,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 41,
-        "wind": "12 mph SW",
-        "conditions": "Mostly Clear",
+        "temp": 73,
+        "wind": "8 to 13 mph W",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -166,10 +166,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "9 mph NE",
-        "conditions": "Mostly Clear",
-        "precipitation": "13%"
+        "temp": 79,
+        "wind": "17 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
