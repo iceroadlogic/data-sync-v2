@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "lastUpdated": "2025-12-22T22:57:01.027Z",
+  "lastUpdated": "2025-12-22T23:27:50.614Z",
   "games": [
     {
       "game_id": "401772949",
@@ -35,10 +35,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "3 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "temp": 36,
+        "wind": "3 to 7 mph S",
+        "conditions": "Mostly Cloudy then Slight Chance Light Snow",
+        "precipitation": "42%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "3 mph ESE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 38,
+        "wind": "5 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 41,
-        "wind": "8 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "8%"
+        "temp": 31,
+        "wind": "5 to 8 mph SW",
+        "conditions": "Mostly Cloudy then Light Snow Likely",
+        "precipitation": "68%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "10 mph SE",
-        "conditions": "Chance Rain And Snow",
-        "precipitation": "33%"
+        "temp": 35,
+        "wind": "12 mph S",
+        "conditions": "Chance Light Snow then Light Rain",
+        "precipitation": "87%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
+        "temp": 34,
         "wind": "3 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "conditions": "Mostly Cloudy then Chance Light Snow",
+        "precipitation": "40%"
       }
     },
     {
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "8 mph W",
+        "wind": "8 mph WSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -166,10 +166,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "17 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "temp": 71,
+        "wind": "13 to 16 mph E",
+        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
