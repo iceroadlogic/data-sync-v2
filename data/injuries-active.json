@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-22T21:01:24.134Z",
+  "lastUpdated": "2025-12-22T21:29:17.615Z",
   "week": 16,
   "summary": {
     "total_players": 781,
-    "questionable": 19,
+    "questionable": 18,
     "doubtful": 1,
-    "out": 34
+    "out": 33
   },
   "questionable": [
     {
@@ -63,16 +63,6 @@
       "source_id": "4361432",
       "player_name": "Romeo Doubs",
       "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8500",
-      "source_id": "4379401",
-      "player_name": "John FitzPatrick",
-      "position": "TE",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -537,16 +527,6 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11942",
-      "source_id": "4361088",
-      "player_name": "Colson Yankoff",
-      "position": "TE",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Out",
