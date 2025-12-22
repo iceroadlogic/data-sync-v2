@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-22T22:01:37.362Z",
+  "lastUpdated": "2025-12-22T22:27:15.910Z",
   "week": 16,
   "summary": {
     "total_players": 781,
-    "questionable": 19,
+    "questionable": 21,
     "doubtful": 0,
     "out": 33
   },
@@ -49,6 +49,16 @@
       "injury_description": null
     },
     {
+      "player_id": "7588",
+      "source_id": "4361579",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "11433",
       "source_id": "4383440",
       "player_name": "Nate Adkins",
@@ -64,6 +74,16 @@
       "player_name": "Pat Bryant",
       "position": "WR",
       "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7547",
+      "source_id": "4374302",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
