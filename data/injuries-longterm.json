@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2025-12-20T20:12:25.070Z",
+  "lastUpdated": "2025-12-22T12:25:27.404Z",
   "week": 16,
   "summary": {
-    "total_players": 785,
+    "total_players": 783,
     "ir": 88,
     "suspended": 1
   },
@@ -163,7 +163,7 @@
       "player_name": "David Moore",
       "position": "WR",
       "team_abbr": "CAR",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -213,7 +213,7 @@
       "player_name": "Phil Mafah",
       "position": "RB",
       "team_abbr": "DAL",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -393,7 +393,7 @@
       "player_name": "Jake Briningstool",
       "position": "TE",
       "team_abbr": "KC",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -808,20 +808,20 @@
       "injury_description": null
     },
     {
-      "player_id": "11959",
-      "source_id": "4362617",
-      "player_name": "Bryce Oliver",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "9999",
       "source_id": "4361418",
       "player_name": "Will Levis",
       "position": "QB",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11959",
+      "source_id": "4362617",
+      "player_name": "Bryce Oliver",
+      "position": "WR",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
