@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-22T22:34:03.307Z",
+  "lastUpdated": "2025-12-22T22:50:21.485Z",
   "week": 16,
   "summary": {
     "total_players": 781,
-    "questionable": 22,
+    "questionable": 23,
     "doubtful": 0,
     "out": 33
   },
@@ -42,6 +42,16 @@
       "player_id": "11783",
       "source_id": "5083754",
       "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8917",
+      "source_id": "3676833",
+      "player_name": "KaVontae Turpin",
       "position": "WR",
       "team_abbr": "DAL",
       "injury_status": "active",
