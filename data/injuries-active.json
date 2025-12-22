@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-22T21:29:17.615Z",
+  "lastUpdated": "2025-12-22T21:39:07.820Z",
   "week": 16,
   "summary": {
     "total_players": 781,
-    "questionable": 18,
+    "questionable": 19,
     "doubtful": 1,
     "out": 33
   },
@@ -14,6 +14,16 @@
       "player_name": "Lamar Jackson",
       "position": "QB",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4984",
+      "source_id": "3918298",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
