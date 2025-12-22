@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-22T06:44:30.818Z",
+  "lastUpdated": "2025-12-22T14:28:19.326Z",
   "week": 16,
   "summary": {
     "total_players": 783,
-    "questionable": 19,
+    "questionable": 20,
     "doubtful": 2,
     "out": 75
   },
@@ -184,6 +184,16 @@
       "player_name": "Foster Moreau",
       "position": "TE",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8125",
+      "source_id": "4243389",
+      "player_name": "Calvin Austin III",
+      "position": "WR",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
