@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-12-22T21:47:01.333Z",
+  "lastUpdated": "2025-12-22T22:01:37.362Z",
   "week": 16,
   "summary": {
     "total_players": 781,
     "questionable": 19,
-    "doubtful": 1,
+    "doubtful": 0,
     "out": 33
   },
   "questionable": [
@@ -199,18 +199,7 @@
       "injury_description": null
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "12641",
-      "source_id": "4602667",
-      "player_name": "Jaylin Lane",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11210",
