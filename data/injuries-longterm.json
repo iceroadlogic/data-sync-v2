@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-22T20:13:56.241Z",
-  "week": 16,
+  "lastUpdated": "2025-12-23T12:25:09.629Z",
+  "week": 17,
   "summary": {
-    "total_players": 783,
-    "ir": 88,
+    "total_players": 782,
+    "ir": 91,
     "suspended": 1
   },
   "ir": [
@@ -278,6 +278,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8500",
+      "source_id": "4379401",
+      "player_name": "John FitzPatrick",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "9484",
       "source_id": "4572680",
       "player_name": "Tucker Kraft",
@@ -411,6 +421,16 @@
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6011",
+      "source_id": "4038524",
+      "player_name": "Gardner Minshew",
       "position": "QB",
       "team_abbr": "KC",
       "injury_status": "day-to-day",
@@ -878,6 +898,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12641",
+      "source_id": "4602667",
+      "player_name": "Jaylin Lane",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "11650",
       "source_id": "4426948",
       "player_name": "Luke McCaffrey",
@@ -890,11 +920,11 @@
   ],
   "suspended": [
     {
-      "player_id": "12787",
-      "source_id": "4568024",
-      "player_name": "Josh Williams",
-      "position": "RB",
-      "team_abbr": "TB",
+      "player_id": "5846",
+      "source_id": "4047650",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "team_abbr": "PIT",
       "injury_status": "news",
       "injury_designation": "Suspension",
       "injury_description": null
