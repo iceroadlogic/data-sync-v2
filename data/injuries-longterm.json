@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-23T20:13:36.119Z",
+  "lastUpdated": "2025-12-24T12:24:11.314Z",
   "week": 17,
   "summary": {
-    "total_players": 782,
-    "ir": 92,
+    "total_players": 786,
+    "ir": 91,
     "suspended": 1
   },
   "ir": [
@@ -493,16 +493,6 @@
       "player_name": "Alexander Mattison",
       "position": "RB",
       "team_abbr": "MIA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "8230",
-      "source_id": "4242431",
-      "player_name": "Ty Chandler",
-      "position": "RB",
-      "team_abbr": "MIN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
