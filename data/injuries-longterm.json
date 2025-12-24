@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-24T16:15:39.446Z",
+  "lastUpdated": "2025-12-24T20:13:38.520Z",
   "week": 17,
   "summary": {
     "total_players": 786,
-    "ir": 91,
+    "ir": 92,
     "suspended": 1
   },
   "ir": [
@@ -444,6 +444,16 @@
       "position": "QB",
       "team_abbr": "KC",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11604",
+      "source_id": "4432665",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
