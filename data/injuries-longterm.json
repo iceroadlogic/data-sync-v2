@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-24T20:13:38.520Z",
+  "lastUpdated": "2025-12-25T12:23:46.812Z",
   "week": 17,
   "summary": {
-    "total_players": 786,
-    "ir": 92,
+    "total_players": 787,
+    "ir": 95,
     "suspended": 1
   },
   "ir": [
@@ -448,12 +448,32 @@
       "injury_description": null
     },
     {
+      "player_id": "10229",
+      "source_id": "4428331",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8188",
+      "source_id": "4362921",
+      "player_name": "Tyquan Thornton",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "11604",
       "source_id": "4432665",
       "player_name": "Brock Bowers",
       "position": "TE",
       "team_abbr": "LV",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
@@ -692,6 +712,16 @@
       "source_id": "4685247",
       "player_name": "Braelon Allen",
       "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7591",
+      "source_id": "4362887",
+      "player_name": "Justin Fields",
+      "position": "QB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
