@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-24T22:26:39.687Z",
+  "lastUpdated": "2025-12-25T06:42:14.933Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 50,
+    "questionable": 49,
     "doubtful": 0,
-    "out": 19
+    "out": 18
   },
   "questionable": [
     {
@@ -219,16 +219,6 @@
       "injury_description": null
     },
     {
-      "player_id": "5001",
-      "source_id": "3117256",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8207",
       "source_id": "4429676",
       "player_name": "Tyler Goodson",
@@ -289,10 +279,10 @@
       "injury_description": null
     },
     {
-      "player_id": "2374",
-      "source_id": "2577327",
-      "player_name": "Tyler Lockett",
-      "position": "WR",
+      "player_id": "2749",
+      "source_id": "2576414",
+      "player_name": "Raheem Mostert",
+      "position": "RB",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -399,6 +389,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11895",
+      "source_id": "4573697",
+      "player_name": "Mason Tipton",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "12498",
       "source_id": "4808766",
       "player_name": "Mason Taylor",
@@ -423,16 +423,6 @@
       "source_id": "4047646",
       "player_name": "A.J. Brown",
       "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10210",
-      "source_id": "4372026",
-      "player_name": "Cameron Latu",
-      "position": "TE",
       "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -646,16 +636,6 @@
       "source_id": "3929636",
       "player_name": "Irvin Charles",
       "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "7591",
-      "source_id": "4362887",
-      "player_name": "Justin Fields",
-      "position": "QB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Out",
