@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-24T22:21:23.601Z",
+  "lastUpdated": "2025-12-25T10:24:35.124Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,10 +9,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
+        "temp": 54,
         "wind": "5 to 8 mph W",
-        "conditions": "Chance Rain Showers then Partly Sunny",
-        "precipitation": "26%"
+        "conditions": "Scattered Rain Showers then Partly Sunny",
+        "precipitation": "37%"
       }
     },
     {
@@ -32,7 +32,7 @@
       "weather": {
         "temp": 48,
         "wind": "7 mph SW",
-        "conditions": "Partly Cloudy",
+        "conditions": "Mostly Cloudy then Patchy Fog",
         "precipitation": "2%"
       }
     },
@@ -43,10 +43,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
+        "temp": 46,
         "wind": "2 to 7 mph NW",
         "conditions": "Chance Light Rain",
-        "precipitation": "45%"
+        "precipitation": "42%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "1 mph ENE",
-        "conditions": "Cloudy",
-        "precipitation": "9%"
+        "temp": 29,
+        "wind": "1 mph WSW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "5%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "0 to 5 mph W",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "61%"
+        "temp": 49,
+        "wind": "0 to 10 mph WNW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "54%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
+        "temp": 51,
         "wind": "3 mph SSW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "7 to 15 mph S",
-        "conditions": "Light Rain",
-        "precipitation": "80%"
+        "temp": 55,
+        "wind": "8 to 13 mph S",
+        "conditions": "Rain",
+        "precipitation": "86%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "2 to 6 mph W",
-        "conditions": "Chance Light Rain",
-        "precipitation": "44%"
+        "temp": 37,
+        "wind": "5 mph W",
+        "conditions": "Mostly Cloudy then Chance Light Rain",
+        "precipitation": "39%"
       }
     },
     {
@@ -130,9 +130,9 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "10 to 15 mph W",
+        "wind": "5 to 15 mph SSW",
         "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "37%"
+        "precipitation": "31%"
       }
     },
     {
@@ -142,8 +142,8 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "5 mph NE",
+        "temp": 81,
+        "wind": "1 to 5 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -163,10 +163,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "5 to 9 mph S",
-        "conditions": "Rain Showers",
-        "precipitation": "82%"
+        "temp": 43,
+        "wind": "7 mph S",
+        "conditions": "Light Rain",
+        "precipitation": "77%"
       }
     },
     {
@@ -177,7 +177,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "6 mph N",
+        "wind": "6 mph NNE",
         "conditions": "Patchy Frost then Sunny",
         "precipitation": "0%"
       }
