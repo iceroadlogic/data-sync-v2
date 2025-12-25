@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-25T22:36:36.439Z",
+  "lastUpdated": "2025-12-25T22:51:24.258Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 44,
+    "questionable": 45,
     "doubtful": 1,
     "out": 22
   },
@@ -183,6 +183,16 @@
       "source_id": "4036378",
       "player_name": "Jordan Love",
       "position": "QB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8167",
+      "source_id": "4248528",
+      "player_name": "Christian Watson",
+      "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Questionable",
