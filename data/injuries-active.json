@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-25T22:15:06.957Z",
+  "lastUpdated": "2025-12-25T22:26:34.215Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 47,
+    "questionable": 46,
     "doubtful": 0,
     "out": 22
   },
@@ -19,9 +19,9 @@
       "injury_description": null
     },
     {
-      "player_id": "11210",
-      "source_id": "4689334",
-      "player_name": "Malik Heath",
+      "player_id": "8112",
+      "source_id": "4426502",
+      "player_name": "Drake London",
       "position": "WR",
       "team_abbr": "ATL",
       "injury_status": "active",
@@ -29,10 +29,10 @@
       "injury_description": null
     },
     {
-      "player_id": "8112",
-      "source_id": "4426502",
-      "player_name": "Drake London",
-      "position": "WR",
+      "player_id": "8227",
+      "source_id": "4374045",
+      "player_name": "Teagan Quitoriano",
+      "position": "TE",
       "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -423,16 +423,6 @@
       "source_id": "4243389",
       "player_name": "Calvin Austin III",
       "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8228",
-      "source_id": "4569987",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
       "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
