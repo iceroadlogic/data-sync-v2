@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-25T23:32:59.585Z",
+  "lastUpdated": "2025-12-26T06:41:33.683Z",
   "week": 17,
   "summary": {
     "total_players": 786,
-    "questionable": 45,
+    "questionable": 46,
     "doubtful": 1,
-    "out": 22
+    "out": 23
   },
   "questionable": [
     {
@@ -174,6 +174,16 @@
       "player_name": "Javonte Williams",
       "position": "RB",
       "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7547",
+      "source_id": "4374302",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -569,6 +579,16 @@
       "position": "RB",
       "team_abbr": "HOU",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8129",
+      "source_id": "4360238",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
