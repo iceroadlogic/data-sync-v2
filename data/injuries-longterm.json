@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-25T20:14:22.780Z",
+  "lastUpdated": "2025-12-26T12:23:47.061Z",
   "week": 17,
   "summary": {
-    "total_players": 787,
-    "ir": 95,
+    "total_players": 786,
+    "ir": 96,
     "suspended": 1
   },
   "ir": [
@@ -442,6 +442,16 @@
       "source_id": "4038524",
       "player_name": "Gardner Minshew",
       "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11320",
+      "source_id": "4372716",
+      "player_name": "Nikko Remigio",
+      "position": "WR",
       "team_abbr": "KC",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
