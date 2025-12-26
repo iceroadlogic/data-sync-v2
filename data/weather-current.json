@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-26T10:24:16.505Z",
+  "lastUpdated": "2025-12-26T16:26:36.905Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,10 +9,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "6 mph NE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "temp": 34,
+        "wind": "5 to 8 mph SE",
+        "conditions": "Mostly Cloudy then Chance Sleet",
+        "precipitation": "39%"
       }
     },
     {
@@ -30,9 +30,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "6 mph WNW",
-        "conditions": "Patchy Fog",
+        "temp": 65,
+        "wind": "2 to 6 mph NNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -46,7 +46,7 @@
         "temp": 44,
         "wind": "2 to 7 mph NW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "6%"
+        "precipitation": "8%"
       }
     },
     {
@@ -56,9 +56,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 31,
-        "wind": "3 mph SW",
-        "conditions": "Mostly Cloudy",
+        "temp": 33,
+        "wind": "1 to 5 mph NNW",
+        "conditions": "Cloudy",
         "precipitation": "4%"
       }
     },
@@ -90,8 +90,8 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "5 mph SW",
+        "temp": 50,
+        "wind": "6 mph SSW",
         "conditions": "Mostly Cloudy",
         "precipitation": "10%"
       }
@@ -176,10 +176,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "6 mph NNE",
-        "conditions": "Patchy Frost then Sunny",
-        "precipitation": "1%"
+        "temp": 53,
+        "wind": "2 to 6 mph NNE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
