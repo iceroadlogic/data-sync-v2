@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-26T22:21:24.593Z",
+  "lastUpdated": "2025-12-27T10:21:48.992Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,10 +9,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "7 mph SE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "46%"
+        "temp": 35,
+        "wind": "5 mph NW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -30,9 +30,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "2 mph N",
-        "conditions": "Sunny",
+        "temp": 44,
+        "wind": "6 mph SE",
+        "conditions": "Areas Of Fog",
         "precipitation": "0%"
       }
     },
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "2 to 8 mph NW",
-        "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "20%"
+        "wind": "2 mph N",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -57,8 +57,8 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "2 mph W",
-        "conditions": "Cloudy then Patchy Fog",
+        "wind": "3 mph SSE",
+        "conditions": "Cloudy",
         "precipitation": "0%"
       }
     },
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "5 to 10 mph NW",
-        "conditions": "Rain Showers Likely then Mostly Cloudy",
-        "precipitation": "61%"
+        "wind": "5 mph NW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "2 to 6 mph SW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "7%"
+        "temp": 49,
+        "wind": "5 mph W",
+        "conditions": "Patchy Fog",
+        "precipitation": "0%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "9 to 14 mph S",
+        "temp": 59,
+        "wind": "8 to 14 mph S",
         "conditions": "Rain",
-        "precipitation": "96%"
+        "precipitation": "94%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 39,
-        "wind": "5 mph W",
-        "conditions": "Mostly Cloudy then Chance Light Rain",
-        "precipitation": "27%"
+        "wind": "1 to 5 mph W",
+        "conditions": "Mostly Cloudy then Slight Chance Rain And Snow",
+        "precipitation": "15%"
       }
     },
     {
@@ -131,8 +131,8 @@
       "weather": {
         "temp": 76,
         "wind": "5 to 15 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "11%"
+        "conditions": "Partly Sunny then Chance Rain Showers",
+        "precipitation": "41%"
       }
     },
     {
@@ -142,10 +142,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "1 to 6 mph NE",
+        "temp": 81,
+        "wind": "5 mph NE",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "6 mph SE",
-        "conditions": "Rain",
-        "precipitation": "94%"
+        "temp": 48,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Rain And Snow",
+        "precipitation": "86%"
       }
     },
     {
@@ -176,7 +176,7 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
+        "temp": 54,
         "wind": "2 to 6 mph NNE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
