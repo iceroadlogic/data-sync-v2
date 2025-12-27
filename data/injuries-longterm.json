@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-26T20:13:22.624Z",
+  "lastUpdated": "2025-12-27T12:21:53.102Z",
   "week": 17,
   "summary": {
-    "total_players": 786,
-    "ir": 96,
+    "total_players": 787,
+    "ir": 97,
     "suspended": 1
   },
   "ir": [
@@ -602,6 +602,16 @@
       "source_id": "4599739",
       "player_name": "Kendre Miller",
       "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "5985",
+      "source_id": "3843945",
+      "player_name": "Foster Moreau",
+      "position": "TE",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
