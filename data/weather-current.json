@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-27T16:26:37.075Z",
+  "lastUpdated": "2025-12-27T22:20:23.845Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,9 +9,9 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "7 to 12 mph N",
-        "conditions": "Partly Sunny",
+        "temp": 42,
+        "wind": "8 mph NE",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "9 mph S",
+        "wind": "8 mph SSW",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -43,10 +43,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "5 mph E",
+        "temp": 53,
+        "wind": "5 mph SE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -56,8 +56,8 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "6 to 9 mph SSE",
+        "temp": 39,
+        "wind": "8 mph SSE",
         "conditions": "Cloudy",
         "precipitation": "4%"
       }
@@ -78,8 +78,8 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "5 to 10 mph NW",
-        "conditions": "Mostly Sunny",
+        "wind": "5 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "2 to 7 mph NNW",
+        "wind": "2 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -103,8 +103,8 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "8 to 14 mph S",
+        "temp": 60,
+        "wind": "9 to 15 mph S",
         "conditions": "Rain",
         "precipitation": "94%"
       }
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 39,
-        "wind": "1 to 5 mph W",
-        "conditions": "Mostly Cloudy then Slight Chance Rain And Snow",
-        "precipitation": "15%"
+        "wind": "5 mph W",
+        "conditions": "Partly Sunny then Chance Light Rain",
+        "precipitation": "29%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
+        "temp": 75,
         "wind": "5 to 15 mph SSW",
-        "conditions": "Partly Sunny then Chance Rain Showers",
-        "precipitation": "41%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -145,7 +145,7 @@
         "temp": 81,
         "wind": "5 mph NE",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
+        "temp": 50,
         "wind": "2 to 6 mph SE",
-        "conditions": "Rain And Snow",
-        "precipitation": "86%"
+        "conditions": "Cloudy then Rain",
+        "precipitation": "95%"
       }
     },
     {
@@ -176,9 +176,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "2 to 6 mph NE",
-        "conditions": "Sunny",
+        "temp": 56,
+        "wind": "2 to 6 mph W",
+        "conditions": "Patchy Fog then Sunny",
         "precipitation": "0%"
       }
     },
