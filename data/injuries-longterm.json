@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-27T16:13:58.697Z",
+  "lastUpdated": "2025-12-27T20:14:00.830Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "ir": 97,
+    "ir": 98,
     "suspended": 1
   },
   "ir": [
@@ -338,20 +338,30 @@
       "injury_description": null
     },
     {
-      "player_id": "6918",
-      "source_id": "4243315",
-      "player_name": "Salvon Ahmed",
-      "position": "RB",
+      "player_id": "11762",
+      "source_id": "4429684",
+      "player_name": "Anthony Gould",
+      "position": "WR",
       "team_abbr": "IND",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
     {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
+      "player_id": "8489",
+      "source_id": "4722908",
+      "player_name": "Drew Ogletree",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6918",
+      "source_id": "4243315",
+      "player_name": "Salvon Ahmed",
+      "position": "RB",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
