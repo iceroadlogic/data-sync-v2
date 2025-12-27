@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-26T22:26:45.495Z",
+  "lastUpdated": "2025-12-27T06:40:06.249Z",
   "week": 17,
   "summary": {
-    "total_players": 786,
-    "questionable": 25,
+    "total_players": 787,
+    "questionable": 27,
     "doubtful": 2,
     "out": 35
   },
@@ -139,6 +139,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "8161",
       "source_id": "4242512",
       "player_name": "Malik Willis",
@@ -164,6 +174,16 @@
       "player_name": "Bhayshul Tuten",
       "position": "RB",
       "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12483",
+      "source_id": "4603186",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
