@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2025-12-28T20:18:28.142Z",
+  "lastUpdated": "2025-12-28T20:42:36.082Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 14,
+    "questionable": 16,
     "doubtful": 1,
     "out": 70
   },
   "questionable": [
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "8112",
       "source_id": "4426502",
@@ -124,6 +134,16 @@
       "player_name": "Jack Stoll",
       "position": "TE",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11571",
+      "source_id": "4695404",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
