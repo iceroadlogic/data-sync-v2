@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-28T21:51:53.392Z",
+  "lastUpdated": "2025-12-28T22:22:52.425Z",
   "games": [
     {
       "game_id": "401772710",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 42,
-        "wind": "10 mph S",
+        "wind": "9 mph S",
         "conditions": "Cloudy",
-        "precipitation": "14%"
+        "precipitation": "13%"
       }
     },
     {
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "13 to 18 mph NW",
+        "wind": "15 to 18 mph NW",
         "conditions": "Chance Light Snow",
         "precipitation": "46%"
       }
@@ -105,8 +105,8 @@
       "weather": {
         "temp": 61,
         "wind": "17 mph S",
-        "conditions": "Light Rain Likely",
-        "precipitation": "64%"
+        "conditions": "Chance Light Rain",
+        "precipitation": "51%"
       }
     },
     {
@@ -119,7 +119,7 @@
         "temp": 34,
         "wind": "5 mph S",
         "conditions": "Chance Freezing Rain",
-        "precipitation": "36%"
+        "precipitation": "50%"
       }
     },
     {
@@ -130,8 +130,8 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "15 to 20 mph SSW",
-        "conditions": "Partly Sunny",
+        "wind": "15 mph SSW",
+        "conditions": "Mostly Cloudy",
         "precipitation": "8%"
       }
     },
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 53,
-        "wind": "6 mph SE",
-        "conditions": "Rain Showers",
-        "precipitation": "97%"
+        "wind": "7 mph SE",
+        "conditions": "Rain",
+        "precipitation": "88%"
       }
     },
     {
