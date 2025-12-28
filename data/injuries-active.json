@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T14:52:22.900Z",
+  "lastUpdated": "2025-12-28T15:15:45.335Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 24,
+    "questionable": 25,
     "doubtful": 1,
     "out": 40
   },
@@ -44,6 +44,16 @@
       "player_name": "Dawson Knox",
       "position": "TE",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12526",
+      "source_id": "4685472",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
