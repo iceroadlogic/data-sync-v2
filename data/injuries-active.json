@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T23:39:30.233Z",
+  "lastUpdated": "2025-12-28T23:50:53.763Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 18,
+    "questionable": 19,
     "doubtful": 2,
     "out": 67
   },
@@ -104,6 +104,16 @@
       "player_name": "Malik Willis",
       "position": "QB",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
