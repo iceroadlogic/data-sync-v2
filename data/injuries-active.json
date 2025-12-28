@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T20:42:36.082Z",
+  "lastUpdated": "2025-12-28T20:53:26.489Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 16,
+    "questionable": 17,
     "doubtful": 1,
     "out": 70
   },
@@ -142,6 +142,16 @@
       "player_id": "11571",
       "source_id": "4695404",
       "player_name": "Isaiah Davis",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
       "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "active",
