@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-28T21:15:20.223Z",
+  "lastUpdated": "2025-12-28T21:32:10.214Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 19,
-    "doubtful": 1,
-    "out": 68
+    "questionable": 20,
+    "doubtful": 2,
+    "out": 65
   },
   "questionable": [
     {
@@ -24,6 +24,16 @@
       "player_name": "Drake London",
       "position": "WR",
       "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11600",
+      "source_id": "4431588",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -119,16 +129,6 @@
       "injury_description": null
     },
     {
-      "player_id": "7526",
-      "source_id": "4372016",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "13075",
       "source_id": "4430656",
       "player_name": "Myles Price",
@@ -197,6 +197,16 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
+    },
+    {
+      "player_id": "6853",
+      "source_id": "3930066",
+      "player_name": "Van Jefferson",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
     }
   ],
   "doubtful": [
@@ -206,6 +216,16 @@
       "player_name": "Davante Adams",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
+    {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Doubtful",
       "injury_description": null
@@ -267,16 +287,6 @@
       "source_id": "3135321",
       "player_name": "Hunter Renfrow",
       "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11600",
-      "source_id": "4431588",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
       "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -813,16 +823,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9479",
-      "source_id": "4430802",
-      "player_name": "Darnell Washington",
-      "position": "TE",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "6803",
       "source_id": "4360438",
       "player_name": "Brandon Aiyuk",
@@ -858,16 +858,6 @@
       "player_name": "Sterling Shepard",
       "position": "WR",
       "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "6853",
-      "source_id": "3930066",
-      "player_name": "Van Jefferson",
-      "position": "WR",
-      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
