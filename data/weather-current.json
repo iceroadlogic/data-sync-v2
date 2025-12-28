@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-27T22:20:23.845Z",
+  "lastUpdated": "2025-12-28T14:22:13.597Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,10 +9,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "8 mph NE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "temp": 44,
+        "wind": "3 to 9 mph S",
+        "conditions": "Cloudy then Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "8 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 61,
+        "wind": "9 to 22 mph NW",
+        "conditions": "Slight Chance Light Rain then Slight Chance Light Snow",
+        "precipitation": "21%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "5 mph SE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "temp": 69,
+        "wind": "6 to 14 mph S",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "34%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "8 mph SSE",
-        "conditions": "Cloudy",
-        "precipitation": "4%"
+        "temp": 38,
+        "wind": "5 to 10 mph NE",
+        "conditions": "Areas Of Fog then Rain",
+        "precipitation": "99%"
       }
     },
     {
@@ -77,8 +77,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "5 mph W",
+        "temp": 67,
+        "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "2 mph N",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 54,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "24%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "9 to 15 mph S",
+        "temp": 61,
+        "wind": "12 to 16 mph S",
         "conditions": "Rain",
-        "precipitation": "94%"
+        "precipitation": "99%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "5 mph W",
-        "conditions": "Partly Sunny then Chance Light Rain",
-        "precipitation": "29%"
+        "temp": 38,
+        "wind": "1 to 5 mph SW",
+        "conditions": "Mostly Cloudy then Chance Light Rain",
+        "precipitation": "38%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 15 mph SSW",
+        "temp": 74,
+        "wind": "10 to 20 mph SSW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "10%"
+        "precipitation": "6%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "5 mph NE",
+        "wind": "2 to 6 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -163,10 +163,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "2 to 6 mph SE",
-        "conditions": "Cloudy then Rain",
-        "precipitation": "95%"
+        "temp": 45,
+        "wind": "6 mph SE",
+        "conditions": "Rain",
+        "precipitation": "96%"
       }
     },
     {
