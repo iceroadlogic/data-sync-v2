@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-28T19:28:18.275Z",
+  "lastUpdated": "2025-12-28T19:38:58.700Z",
   "week": 17,
   "summary": {
     "total_players": 787,
     "questionable": 20,
     "doubtful": 1,
-    "out": 58
+    "out": 59
   },
   "questionable": [
     {
@@ -778,6 +778,16 @@
       "player_name": "Sterling Shepard",
       "position": "WR",
       "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "6853",
+      "source_id": "3930066",
+      "player_name": "Van Jefferson",
+      "position": "WR",
+      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
