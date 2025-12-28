@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-28T19:52:21.252Z",
+  "lastUpdated": "2025-12-28T20:26:52.363Z",
   "games": [
     {
       "game_id": "401772710",
@@ -12,7 +12,7 @@
         "temp": 42,
         "wind": "9 mph S",
         "conditions": "Slight Chance Light Rain",
-        "precipitation": "17%"
+        "precipitation": "18%"
       }
     },
     {
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "8 to 24 mph NW",
+        "wind": "14 to 24 mph NW",
         "conditions": "Chance Light Snow",
         "precipitation": "54%"
       }
@@ -56,10 +56,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 37,
-        "wind": "12 mph NNE",
+        "temp": 36,
+        "wind": "5 to 9 mph NNE",
         "conditions": "Rain",
-        "precipitation": "99%"
+        "precipitation": "100%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 mph WNW",
+        "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "3 mph SSE",
+        "wind": "5 mph SE",
         "conditions": "Slight Chance Light Rain",
         "precipitation": "22%"
       }
@@ -106,7 +106,7 @@
         "temp": 61,
         "wind": "17 mph S",
         "conditions": "Light Rain Likely",
-        "precipitation": "77%"
+        "precipitation": "71%"
       }
     },
     {
@@ -166,7 +166,7 @@
         "temp": 53,
         "wind": "6 mph SE",
         "conditions": "Rain Showers",
-        "precipitation": "99%"
+        "precipitation": "98%"
       }
     },
     {
@@ -177,8 +177,8 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "2 to 6 mph NW",
-        "conditions": "Sunny",
+        "wind": "2 to 6 mph WNW",
+        "conditions": "Patchy Fog then Sunny",
         "precipitation": "0%"
       }
     },
