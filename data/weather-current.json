@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-28T18:52:41.300Z",
+  "lastUpdated": "2025-12-28T19:18:43.169Z",
   "games": [
     {
       "game_id": "401772710",
@@ -12,7 +12,7 @@
         "temp": 42,
         "wind": "9 mph S",
         "conditions": "Slight Chance Light Rain",
-        "precipitation": "18%"
+        "precipitation": "17%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "21 to 26 mph NW",
-        "conditions": "Chance Light Snow",
-        "precipitation": "37%"
+        "wind": "15 to 25 mph NW",
+        "conditions": "Light Snow Likely",
+        "precipitation": "69%"
       }
     },
     {
@@ -57,7 +57,7 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "7 to 12 mph NNE",
+        "wind": "12 mph NNE",
         "conditions": "Rain",
         "precipitation": "99%"
       }
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 mph NNW",
+        "wind": "5 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "5 mph SE",
+        "wind": "3 mph SSE",
         "conditions": "Slight Chance Light Rain",
         "precipitation": "22%"
       }
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "14 to 17 mph S",
+        "wind": "17 mph S",
         "conditions": "Light Rain Likely",
-        "precipitation": "83%"
+        "precipitation": "77%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "5 mph E",
+        "wind": "5 mph SE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -177,8 +177,8 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "2 to 6 mph WNW",
-        "conditions": "Patchy Fog then Sunny",
+        "wind": "2 to 6 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
