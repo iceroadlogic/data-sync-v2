@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T18:50:24.529Z",
+  "lastUpdated": "2025-12-28T19:13:17.537Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 19,
+    "questionable": 21,
     "doubtful": 1,
     "out": 57
   },
@@ -119,16 +119,6 @@
       "injury_description": null
     },
     {
-      "player_id": "6819",
-      "source_id": "4035687",
-      "player_name": "Michael Pittman Jr.",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12483",
       "source_id": "4603186",
       "player_name": "Jack Bech",
@@ -159,6 +149,16 @@
       "injury_description": null
     },
     {
+      "player_id": "7526",
+      "source_id": "4372016",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "13075",
       "source_id": "4430656",
       "player_name": "Myles Price",
@@ -179,6 +179,16 @@
       "injury_description": null
     },
     {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4217",
       "source_id": "3040151",
       "player_name": "George Kittle",
@@ -194,6 +204,16 @@
       "player_name": "Ricky Pearsall",
       "position": "WR",
       "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8676",
+      "source_id": "4032473",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
