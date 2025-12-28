@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-27T22:25:37.746Z",
+  "lastUpdated": "2025-12-28T14:15:45.715Z",
   "week": 17,
   "summary": {
     "total_players": 787,
     "questionable": 24,
-    "doubtful": 2,
-    "out": 37
+    "doubtful": 1,
+    "out": 40
   },
   "questionable": [
     {
@@ -119,19 +119,9 @@
       "injury_description": null
     },
     {
-      "player_id": "8167",
-      "source_id": "4248528",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12482",
-      "source_id": "4431487",
-      "player_name": "Savion Williams",
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
       "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
@@ -179,6 +169,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8123",
+      "source_id": "4372071",
+      "player_name": "Hassan Haskins",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "13075",
       "source_id": "4430656",
       "player_name": "Myles Price",
@@ -199,10 +199,10 @@
       "injury_description": null
     },
     {
-      "player_id": "12529",
-      "source_id": "4432710",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
+      "player_id": "12045",
+      "source_id": "4361100",
+      "player_name": "Jack Westover",
+      "position": "TE",
       "team_abbr": "NE",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -251,16 +251,6 @@
   ],
   "doubtful": [
     {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    },
-    {
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
@@ -272,6 +262,26 @@
     }
   ],
   "out": [
+    {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7595",
+      "source_id": "4241424",
+      "player_name": "Tylan Wallace",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "11583",
       "source_id": "4678008",
@@ -397,6 +407,16 @@
       "source_id": "4036378",
       "player_name": "Jordan Love",
       "position": "QB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
       "team_abbr": "GB",
       "injury_status": "active",
       "injury_designation": "Out",
