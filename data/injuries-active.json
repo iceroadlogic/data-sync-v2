@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T17:33:43.341Z",
+  "lastUpdated": "2025-12-28T17:50:21.021Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 15,
+    "questionable": 16,
     "doubtful": 1,
     "out": 56
   },
@@ -42,6 +42,16 @@
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6271",
+      "source_id": "3917914",
+      "player_name": "Olamide Zaccheaus",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
