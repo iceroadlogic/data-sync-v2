@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-28T21:32:10.214Z",
+  "lastUpdated": "2025-12-28T21:49:38.482Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 20,
+    "questionable": 18,
     "doubtful": 2,
-    "out": 65
+    "out": 67
   },
   "questionable": [
     {
@@ -24,16 +24,6 @@
       "player_name": "Drake London",
       "position": "WR",
       "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11600",
-      "source_id": "4431588",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -197,16 +187,6 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
-    },
-    {
-      "player_id": "6853",
-      "source_id": "3930066",
-      "player_name": "Van Jefferson",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
     }
   ],
   "doubtful": [
@@ -287,6 +267,16 @@
       "source_id": "3135321",
       "player_name": "Hunter Renfrow",
       "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11600",
+      "source_id": "4431588",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
       "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Out",
@@ -858,6 +848,16 @@
       "player_name": "Sterling Shepard",
       "position": "WR",
       "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "6853",
+      "source_id": "3930066",
+      "player_name": "Van Jefferson",
+      "position": "WR",
+      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
