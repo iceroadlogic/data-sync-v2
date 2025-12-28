@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-28T17:14:49.866Z",
+  "lastUpdated": "2025-12-28T17:33:43.341Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 1,
     "out": 56
   },
@@ -34,6 +34,16 @@
       "player_name": "Dawson Knox",
       "position": "TE",
       "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
