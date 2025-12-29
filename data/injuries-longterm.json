@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-27T20:14:00.830Z",
+  "lastUpdated": "2025-12-29T12:26:38.695Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "ir": 98,
+    "ir": 100,
     "suspended": 1
   },
   "ir": [
@@ -338,30 +338,20 @@
       "injury_description": null
     },
     {
-      "player_id": "11762",
-      "source_id": "4429684",
-      "player_name": "Anthony Gould",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "8489",
-      "source_id": "4722908",
-      "player_name": "Drew Ogletree",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "6918",
       "source_id": "4243315",
       "player_name": "Salvon Ahmed",
       "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11762",
+      "source_id": "4429684",
+      "player_name": "Anthony Gould",
+      "position": "WR",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -382,6 +372,16 @@
       "source_id": "4249030",
       "player_name": "D.J. Montgomery",
       "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8489",
+      "source_id": "4722908",
+      "player_name": "Drew Ogletree",
+      "position": "TE",
       "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -528,6 +528,16 @@
       "injury_description": null
     },
     {
+      "player_id": "7612",
+      "source_id": "4043016",
+      "player_name": "Dee Eskridge",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "3321",
       "source_id": "3116406",
       "player_name": "Tyreek Hill",
@@ -572,6 +582,16 @@
       "source_id": "4360294",
       "player_name": "Antonio Gibson",
       "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4177",
+      "source_id": "2991662",
+      "player_name": "Mack Hollins",
+      "position": "WR",
       "team_abbr": "NE",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
