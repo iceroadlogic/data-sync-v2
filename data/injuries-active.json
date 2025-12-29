@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-28T23:50:53.763Z",
+  "lastUpdated": "2025-12-29T06:45:59.461Z",
   "week": 17,
   "summary": {
     "total_players": 787,
-    "questionable": 19,
-    "doubtful": 2,
-    "out": 67
+    "questionable": 15,
+    "doubtful": 3,
+    "out": 72
   },
   "questionable": [
     {
@@ -29,19 +29,9 @@
       "injury_description": null
     },
     {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6271",
-      "source_id": "3917914",
-      "player_name": "Olamide Zaccheaus",
+      "player_id": "12519",
+      "source_id": "4685278",
+      "player_name": "Luther Burden III",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
@@ -109,16 +99,6 @@
       "injury_description": null
     },
     {
-      "player_id": "1373",
-      "source_id": "15864",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8123",
       "source_id": "4372071",
       "player_name": "Hassan Haskins",
@@ -169,26 +149,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4217",
-      "source_id": "3040151",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11638",
-      "source_id": "4428209",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8676",
       "source_id": "4032473",
       "player_name": "Rashid Shaheed",
@@ -200,6 +160,16 @@
     }
   ],
   "doubtful": [
+    {
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
     {
       "player_id": "2133",
       "source_id": "16800",
@@ -303,9 +273,29 @@
       "injury_description": null
     },
     {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "11620",
       "source_id": "4431299",
       "player_name": "Rome Odunze",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "6271",
+      "source_id": "3917914",
+      "player_name": "Olamide Zaccheaus",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
@@ -818,6 +808,36 @@
       "player_name": "Kaleb Johnson",
       "position": "RB",
       "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11651",
+      "source_id": "4372561",
+      "player_name": "Isaac Guerendo",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
