@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-29T22:56:40.552Z",
+  "lastUpdated": "2025-12-29T23:27:37.632Z",
   "games": [
     {
       "game_id": "401772710",
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 26,
-        "wind": "12 mph NW",
+        "wind": "8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -43,10 +43,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "16 mph W",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "8%"
+        "temp": 19,
+        "wind": "8 to 14 mph W",
+        "conditions": "Chance Snow Showers then Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -57,8 +57,8 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "20 to 24 mph NW",
-        "conditions": "Mostly Sunny",
+        "wind": "16 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "1%"
       }
     },
@@ -90,9 +90,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "12 mph NNW",
-        "conditions": "Mostly Cloudy",
+        "temp": 26,
+        "wind": "6 to 13 mph WNW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -105,8 +105,8 @@
       "weather": {
         "temp": 30,
         "wind": "35 mph W",
-        "conditions": "Light Snow Likely And Areas Of Blowing Snow",
-        "precipitation": "67%"
+        "conditions": "Light Snow And Areas Of Blowing Snow",
+        "precipitation": "77%"
       }
     },
     {
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "16 mph W",
+        "wind": "17 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 34,
-        "wind": "10 to 15 mph NW",
+        "wind": "10 to 15 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 45,
-        "wind": "36 mph W",
+        "wind": "36 mph SW",
         "conditions": "Snow Showers And Blowing Snow",
-        "precipitation": "84%"
+        "precipitation": "87%"
       }
     },
     {
