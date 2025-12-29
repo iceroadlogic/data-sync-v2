@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-12-29T21:47:48.452Z",
+  "lastUpdated": "2025-12-29T22:02:00.103Z",
   "week": 17,
   "summary": {
     "total_players": 788,
     "questionable": 16,
     "doubtful": 3,
-    "out": 44
+    "out": 43
   },
   "questionable": [
     {
@@ -437,16 +437,6 @@
       "source_id": "4362477",
       "player_name": "Derius Davis",
       "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "6797",
-      "source_id": "4038941",
-      "player_name": "Justin Herbert",
-      "position": "QB",
       "team_abbr": "LAC",
       "injury_status": "active",
       "injury_designation": "Out",
