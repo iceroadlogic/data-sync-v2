@@ -1,6 +1,6 @@
 {
   "week": 17,
-  "lastUpdated": "2025-12-29T16:28:25.149Z",
+  "lastUpdated": "2025-12-29T21:27:06.816Z",
   "games": [
     {
       "game_id": "401772710",
@@ -9,10 +9,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "20 to 28 mph W",
-        "conditions": "Chance Rain Showers then Mostly Sunny",
-        "precipitation": "60%"
+        "temp": 57,
+        "wind": "23 to 26 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 26,
-        "wind": "10 to 14 mph NW",
+        "wind": "12 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -43,8 +43,8 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "18 mph W",
+        "temp": 30,
+        "wind": "17 mph W",
         "conditions": "Mostly Cloudy",
         "precipitation": "8%"
       }
@@ -57,9 +57,9 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "20 to 30 mph NW",
-        "conditions": "Patchy Blowing Snow",
-        "precipitation": "11%"
+        "wind": "20 to 25 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -78,8 +78,8 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "10 to 15 mph NNE",
-        "conditions": "Sunny",
+        "wind": "10 to 15 mph N",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "17 mph WNW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "temp": 63,
+        "wind": "17 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -105,8 +105,8 @@
       "weather": {
         "temp": 30,
         "wind": "35 mph W",
-        "conditions": "Light Snow",
-        "precipitation": "88%"
+        "conditions": "Light Snow And Areas Of Blowing Snow",
+        "precipitation": "77%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "10 to 22 mph SW",
-        "conditions": "Light Rain",
-        "precipitation": "94%"
+        "temp": 47,
+        "wind": "17 mph W",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -129,8 +129,8 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 36,
-        "wind": "15 mph WNW",
+        "temp": 34,
+        "wind": "10 to 15 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 45,
-        "wind": "37 mph SW",
+        "wind": "36 mph SW",
         "conditions": "Snow Showers And Blowing Snow",
-        "precipitation": "94%"
+        "precipitation": "87%"
       }
     },
     {
@@ -177,7 +177,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "2 to 6 mph WNW",
+        "wind": "8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
