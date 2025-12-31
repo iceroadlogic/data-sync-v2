@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2025-12-30T22:21:39.228Z",
+  "lastUpdated": "2025-12-31T10:23:52.942Z",
   "games": [
     {
       "game_id": "401772962",
@@ -26,9 +26,9 @@
       "is_dome": false,
       "weather": {
         "temp": 17,
-        "wind": "6 mph W",
-        "conditions": "Slight Chance Snow Showers",
-        "precipitation": "18%"
+        "wind": "5 mph W",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "28%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "7 mph NW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "5%"
+        "wind": "6 mph NW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 21,
-        "wind": "5 mph W",
+        "temp": 20,
+        "wind": "5 mph WNW",
         "conditions": "Partly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 22,
+        "temp": 23,
         "wind": "0 to 5 mph NW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "5%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "6 to 9 mph W",
+        "temp": 55,
+        "wind": "7 to 12 mph W",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "67%"
+        "precipitation": "70%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "6 to 9 mph SSE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "66%"
+        "temp": 49,
+        "wind": "7 to 12 mph S",
+        "conditions": "Rain Likely",
+        "precipitation": "74%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "5 to 8 mph W",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "39%"
+        "wind": "5 to 8 mph SW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "61%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 12,
+        "temp": 14,
         "wind": "6 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "6%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "13%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "5 mph SSE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "51%"
+        "temp": 54,
+        "wind": "5 to 10 mph SE",
+        "conditions": "Light Rain Likely",
+        "precipitation": "63%"
       }
     },
     {
@@ -158,9 +158,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "6 mph SW",
-        "conditions": "Partly Cloudy",
+        "temp": 37,
+        "wind": "6 mph WSW",
+        "conditions": "Mostly Cloudy",
         "precipitation": "1%"
       }
     },
@@ -171,9 +171,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
+        "temp": 17,
         "wind": "3 mph W",
-        "conditions": "Partly Cloudy",
+        "conditions": "Mostly Cloudy",
         "precipitation": "5%"
       }
     },
@@ -184,10 +184,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
-        "wind": "2 mph NE",
+        "temp": 21,
+        "wind": "2 mph N",
         "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "1%"
       }
     }
   ]
