@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T16:15:36.614Z",
+  "lastUpdated": "2025-12-31T20:13:32.588Z",
   "week": 18,
   "summary": {
     "total_players": 790,
-    "ir": 99,
+    "ir": 100,
     "suspended": 1
   },
   "ir": [
@@ -794,6 +794,16 @@
       "position": "WR",
       "team_abbr": "PHI",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
