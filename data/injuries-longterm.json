@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T20:13:32.588Z",
+  "lastUpdated": "2026-01-01T12:24:38.090Z",
   "week": 18,
   "summary": {
-    "total_players": 790,
-    "ir": 100,
+    "total_players": 794,
+    "ir": 101,
     "suspended": 1
   },
   "ir": [
@@ -162,6 +162,16 @@
       "source_id": "4212909",
       "player_name": "David Moore",
       "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11600",
+      "source_id": "4431588",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -798,16 +808,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9479",
-      "source_id": "4430802",
-      "player_name": "Darnell Washington",
-      "position": "TE",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "6074",
       "source_id": "3912092",
       "player_name": "Donald Parham Jr.",
@@ -822,6 +822,16 @@
       "source_id": "4036419",
       "player_name": "Skylar Thompson",
       "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "9479",
+      "source_id": "4430802",
+      "player_name": "Darnell Washington",
+      "position": "TE",
       "team_abbr": "PIT",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
