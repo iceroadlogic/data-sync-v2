@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T21:49:27.846Z",
+  "lastUpdated": "2026-01-01T22:15:30.927Z",
   "week": 18,
   "summary": {
     "total_players": 794,
-    "questionable": 61,
+    "questionable": 62,
     "doubtful": 3,
     "out": 14
   },
@@ -12,6 +12,16 @@
       "player_id": "8112",
       "source_id": "4426502",
       "player_name": "Drake London",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7090",
+      "source_id": "4040655",
+      "player_name": "Darnell Mooney",
       "position": "WR",
       "team_abbr": "ATL",
       "injury_status": "active",
