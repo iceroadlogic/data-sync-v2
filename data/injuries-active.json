@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T21:32:34.586Z",
+  "lastUpdated": "2026-01-01T21:49:27.846Z",
   "week": 18,
   "summary": {
     "total_players": 794,
-    "questionable": 64,
+    "questionable": 61,
     "doubtful": 3,
     "out": 14
   },
@@ -33,26 +33,6 @@
       "source_id": "4360939",
       "player_name": "Rashod Bateman",
       "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8127",
-      "source_id": "4241263",
-      "player_name": "Charlie Kolar",
-      "position": "TE",
       "team_abbr": "BAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -392,16 +372,6 @@
       "player_id": "4199",
       "source_id": "3042519",
       "player_name": "Aaron Jones Sr.",
-      "position": "RB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8408",
-      "source_id": "4360569",
-      "player_name": "Jordan Mason",
       "position": "RB",
       "team_abbr": "MIN",
       "injury_status": "active",
