@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T22:38:06.973Z",
+  "lastUpdated": "2026-01-01T22:52:31.479Z",
   "week": 18,
   "summary": {
     "total_players": 794,
-    "questionable": 62,
+    "questionable": 60,
     "doubtful": 3,
     "out": 14
   },
@@ -143,16 +143,6 @@
       "source_id": "4242355",
       "player_name": "Jake Ferguson",
       "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11783",
-      "source_id": "5083754",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
       "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -573,16 +563,6 @@
       "source_id": "3040151",
       "player_name": "George Kittle",
       "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4034",
-      "source_id": "3117251",
-      "player_name": "Christian McCaffrey",
-      "position": "RB",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
