@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-02T14:28:17.458Z",
+  "lastUpdated": "2026-01-02T22:27:55.879Z",
   "week": 18,
   "summary": {
-    "total_players": 794,
-    "questionable": 60,
-    "doubtful": 3,
-    "out": 14
+    "total_players": 795,
+    "questionable": 23,
+    "doubtful": 4,
+    "out": 32
   },
   "questionable": [
     {
@@ -49,29 +49,9 @@
       "injury_description": null
     },
     {
-      "player_id": "4984",
-      "source_id": "3918298",
-      "player_name": "Josh Allen",
-      "position": "QB",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "10236",
       "source_id": "4385690",
       "player_name": "Dalton Kincaid",
-      "position": "TE",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5906",
-      "source_id": "3930086",
-      "player_name": "Dawson Knox",
       "position": "TE",
       "team_abbr": "BUF",
       "injury_status": "active",
@@ -89,81 +69,11 @@
       "injury_description": null
     },
     {
-      "player_id": "9224",
-      "source_id": "4362238",
-      "player_name": "Chase Brown",
-      "position": "RB",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12062",
       "source_id": "4700712",
       "player_name": "Cam Grandy",
       "position": "TE",
       "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10228",
-      "source_id": "4257188",
-      "player_name": "Charlie Jones",
-      "position": "WR",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12506",
-      "source_id": "5083076",
-      "player_name": "Harold Fannin Jr.",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4033",
-      "source_id": "3123076",
-      "player_name": "David Njoku",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8110",
-      "source_id": "4242355",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "7588",
-      "source_id": "4361579",
-      "player_name": "Javonte Williams",
-      "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12492",
-      "source_id": "4600981",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "team_abbr": "DEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -179,46 +89,6 @@
       "injury_description": null
     },
     {
-      "player_id": "5850",
-      "source_id": "4047365",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10222",
-      "source_id": "4362249",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9486",
-      "source_id": "4428850",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12482",
-      "source_id": "4431487",
-      "player_name": "Savion Williams",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8161",
       "source_id": "4242512",
       "player_name": "Malik Willis",
@@ -229,30 +99,10 @@
       "injury_description": null
     },
     {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4098",
-      "source_id": "3059915",
-      "player_name": "Kareem Hunt",
+      "player_id": "8205",
+      "source_id": "4361529",
+      "player_name": "Isiah Pacheco",
       "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11624",
-      "source_id": "4683062",
-      "player_name": "Xavier Worthy",
-      "position": "WR",
       "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -269,40 +119,10 @@
       "injury_description": null
     },
     {
-      "player_id": "10234",
-      "source_id": "4362477",
-      "player_name": "Derius Davis",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12507",
-      "source_id": "4685382",
-      "player_name": "Omarion Hampton",
-      "position": "RB",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8123",
       "source_id": "4372071",
       "player_name": "Hassan Haskins",
       "position": "RB",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6797",
-      "source_id": "4038941",
-      "player_name": "Justin Herbert",
-      "position": "QB",
       "team_abbr": "LAC",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -339,81 +159,11 @@
       "injury_description": null
     },
     {
-      "player_id": "9226",
-      "source_id": "4429160",
-      "player_name": "De'Von Achane",
-      "position": "RB",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7526",
       "source_id": "4372016",
       "player_name": "Jaylen Waddle",
       "position": "WR",
       "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2505",
-      "source_id": "2576925",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5844",
-      "source_id": "4036133",
-      "player_name": "T.J. Hockenson",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4199",
-      "source_id": "3042519",
-      "player_name": "Aaron Jones Sr.",
-      "position": "RB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "13075",
-      "source_id": "4430656",
-      "player_name": "Myles Price",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9504",
-      "source_id": "4429022",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "3214",
-      "source_id": "3046439",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "team_abbr": "NE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -429,40 +179,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4035",
-      "source_id": "3054850",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8799",
-      "source_id": "4876006",
-      "player_name": "Zaire Mitchell-Paden",
-      "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "11562",
       "source_id": "4426339",
       "player_name": "Spencer Rattler",
       "position": "QB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11895",
-      "source_id": "4573697",
-      "player_name": "Mason Tipton",
-      "position": "WR",
       "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -479,50 +199,10 @@
       "injury_description": null
     },
     {
-      "player_id": "11597",
-      "source_id": "4429148",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8126",
-      "source_id": "4569587",
-      "player_name": "Wan'Dale Robinson",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11571",
-      "source_id": "4695404",
-      "player_name": "Isaiah Davis",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8155",
       "source_id": "4427366",
       "player_name": "Breece Hall",
       "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12498",
-      "source_id": "4808766",
-      "player_name": "Mason Taylor",
-      "position": "TE",
       "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -534,36 +214,6 @@
       "player_name": "Tyrod Taylor",
       "position": "QB",
       "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8219",
-      "source_id": "4241410",
-      "player_name": "Jelani Woods",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5022",
-      "source_id": "3121023",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8125",
-      "source_id": "4243389",
-      "player_name": "Calvin Austin III",
-      "position": "WR",
-      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -587,29 +237,29 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
-    },
-    {
-      "player_id": "12502",
-      "source_id": "4686728",
-      "player_name": "Gunnar Helm",
-      "position": "TE",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
     }
   ],
   "doubtful": [
+    {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
+    {
+      "player_id": "11624",
+      "source_id": "4683062",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null
+    },
     {
       "player_id": "1373",
       "source_id": "15864",
@@ -621,21 +271,11 @@
       "injury_description": null
     },
     {
-      "player_id": "8144",
-      "source_id": "4361370",
-      "player_name": "Chris Olave",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    },
-    {
-      "player_id": "2307",
-      "source_id": "2576980",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "team_abbr": "WAS",
+      "player_id": "9226",
+      "source_id": "4429160",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Doubtful",
       "injury_description": null
@@ -643,22 +283,22 @@
   ],
   "out": [
     {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "11583",
       "source_id": "4678008",
       "player_name": "Jonathon Brooks",
       "position": "RB",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10228",
+      "source_id": "4257188",
+      "player_name": "Charlie Jones",
+      "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -673,12 +313,52 @@
       "injury_description": null
     },
     {
+      "player_id": "12506",
+      "source_id": "5083076",
+      "player_name": "Harold Fannin Jr.",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "4017",
       "source_id": "3122840",
       "player_name": "Deshaun Watson",
       "position": "QB",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "7588",
+      "source_id": "4361579",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -703,6 +383,56 @@
       "injury_description": null
     },
     {
+      "player_id": "10220",
+      "source_id": "4362523",
+      "player_name": "Will Mallory",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12507",
+      "source_id": "4685382",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5844",
+      "source_id": "4036133",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "13075",
+      "source_id": "4430656",
+      "player_name": "Myles Price",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -723,11 +453,71 @@
       "injury_description": null
     },
     {
-      "player_id": "7946",
-      "source_id": "4034862",
-      "player_name": "Jack Stoll",
-      "position": "TE",
+      "player_id": "4035",
+      "source_id": "3054850",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8144",
+      "source_id": "4361370",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11597",
+      "source_id": "4429148",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8126",
+      "source_id": "4569587",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11571",
+      "source_id": "4695404",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12498",
+      "source_id": "4808766",
+      "player_name": "Mason Taylor",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "8219",
+      "source_id": "4241410",
+      "player_name": "Jelani Woods",
+      "position": "TE",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
@@ -739,6 +529,16 @@
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5022",
+      "source_id": "3121023",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
@@ -763,6 +563,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12502",
+      "source_id": "4686728",
+      "player_name": "Gunnar Helm",
+      "position": "TE",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6853",
       "source_id": "3930066",
       "player_name": "Van Jefferson",
@@ -776,6 +586,16 @@
       "player_id": "11566",
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "2307",
+      "source_id": "2576980",
+      "player_name": "Marcus Mariota",
       "position": "QB",
       "team_abbr": "WAS",
       "injury_status": "active",
