@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-01T23:28:06.926Z",
+  "lastUpdated": "2026-01-02T10:23:55.431Z",
   "games": [
     {
       "game_id": "401772962",
@@ -38,10 +38,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 24,
+        "temp": 25,
         "wind": "3 mph NW",
-        "conditions": "Cloudy",
-        "precipitation": "12%"
+        "conditions": "Cloudy then Slight Chance Light Snow",
+        "precipitation": "23%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 21,
-        "wind": "5 mph WNW",
+        "temp": 20,
+        "wind": "5 mph NW",
         "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -66,8 +66,8 @@
       "weather": {
         "temp": 25,
         "wind": "0 mph ",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "10%"
+        "conditions": "Slight Chance Light Snow",
+        "precipitation": "21%"
       }
     },
     {
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "9 to 13 mph W",
+        "wind": "7 to 12 mph W",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "65%"
+        "precipitation": "62%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "9 to 16 mph SSE",
+        "temp": 51,
+        "wind": "9 to 16 mph S",
         "conditions": "Rain",
-        "precipitation": "96%"
+        "precipitation": "93%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "6 to 9 mph WSW",
+        "wind": "5 to 9 mph SW",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "77%"
+        "precipitation": "80%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 19,
+        "temp": 18,
         "wind": "1 to 5 mph W",
-        "conditions": "Mostly Cloudy then Slight Chance Light Snow",
-        "precipitation": "18%"
+        "conditions": "Mostly Cloudy then Chance Light Snow",
+        "precipitation": "26%"
       }
     },
     {
@@ -139,8 +139,8 @@
       "weather": {
         "temp": 57,
         "wind": "5 to 10 mph SE",
-        "conditions": "Rain Likely",
-        "precipitation": "71%"
+        "conditions": "Rain",
+        "precipitation": "79%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 18,
+        "temp": 20,
         "wind": "2 mph NW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "9%"
+        "conditions": "Slight Chance Light Snow",
+        "precipitation": "17%"
       }
     },
     {
