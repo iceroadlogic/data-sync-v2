@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-02T16:15:01.784Z",
+  "lastUpdated": "2026-01-02T20:13:46.831Z",
   "week": 18,
   "summary": {
     "total_players": 794,
-    "ir": 101,
+    "ir": 105,
     "suspended": 1
   },
   "ir": [
@@ -518,6 +518,16 @@
       "injury_description": null
     },
     {
+      "player_id": "2505",
+      "source_id": "2576925",
+      "player_name": "Darren Waller",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "12866",
       "source_id": "4431044",
       "player_name": "Jalin Conyers",
@@ -614,6 +624,36 @@
       "position": "RB",
       "team_abbr": "NE",
       "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8799",
+      "source_id": "4876006",
+      "player_name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7946",
+      "source_id": "4034862",
+      "player_name": "Jack Stoll",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11895",
+      "source_id": "4573697",
+      "player_name": "Mason Tipton",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
