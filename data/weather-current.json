@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-02T22:21:49.134Z",
+  "lastUpdated": "2026-01-03T10:22:28.613Z",
   "games": [
     {
       "game_id": "401772962",
@@ -27,8 +27,8 @@
       "weather": {
         "temp": 21,
         "wind": "6 mph W",
-        "conditions": "Snow Showers",
-        "precipitation": "81%"
+        "conditions": "Light Snow",
+        "precipitation": "89%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
-        "wind": "6 mph W",
-        "conditions": "Slight Chance Snow Showers",
-        "precipitation": "37%"
+        "temp": 26,
+        "wind": "3 mph W",
+        "conditions": "Very Light Snow Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 20,
-        "wind": "5 to 10 mph NW",
+        "wind": "5 mph NW",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 26,
-        "wind": "0 mph ",
-        "conditions": "Slight Chance Light Snow",
-        "precipitation": "19%"
+        "wind": "0 to 5 mph W",
+        "conditions": "Cloudy then Slight Chance Light Snow",
+        "precipitation": "20%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "6 to 13 mph W",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "70%"
+        "temp": 54,
+        "wind": "6 to 12 mph W",
+        "conditions": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
+        "precipitation": "62%"
       }
     },
     {
@@ -92,8 +92,8 @@
       "weather": {
         "temp": 50,
         "wind": "10 to 16 mph SSE",
-        "conditions": "Rain",
-        "precipitation": "93%"
+        "conditions": "Rain Showers",
+        "precipitation": "92%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "5 to 9 mph SW",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "70%"
+        "temp": 63,
+        "wind": "3 to 9 mph SW",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "81%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 19,
+        "temp": 20,
         "wind": "3 mph W",
         "conditions": "Mostly Cloudy then Chance Light Snow",
-        "precipitation": "39%"
+        "precipitation": "34%"
       }
     },
     {
@@ -139,8 +139,8 @@
       "weather": {
         "temp": 56,
         "wind": "5 to 10 mph SSE",
-        "conditions": "Rain",
-        "precipitation": "79%"
+        "conditions": "Rain then Chance Showers And Thunderstorms",
+        "precipitation": "90%"
       }
     },
     {
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 20,
-        "wind": "2 mph NW",
-        "conditions": "Slight Chance Light Snow",
-        "precipitation": "19%"
+        "wind": "2 mph W",
+        "conditions": "Chance Light Snow",
+        "precipitation": "30%"
       }
     },
     {
@@ -187,7 +187,7 @@
         "temp": 22,
         "wind": "2 mph N",
         "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     }
   ]
