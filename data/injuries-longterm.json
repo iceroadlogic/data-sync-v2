@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-02T20:13:46.831Z",
+  "lastUpdated": "2026-01-03T12:22:27.097Z",
   "week": 18,
   "summary": {
-    "total_players": 794,
-    "ir": 105,
+    "total_players": 795,
+    "ir": 106,
     "suspended": 1
   },
   "ir": [
@@ -41,6 +41,16 @@
       "player_id": "7812",
       "source_id": "4360739",
       "player_name": "Simi Fehoko",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
       "position": "WR",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
@@ -518,16 +528,6 @@
       "injury_description": null
     },
     {
-      "player_id": "2505",
-      "source_id": "2576925",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "12866",
       "source_id": "4431044",
       "player_name": "Jalin Conyers",
@@ -562,6 +562,16 @@
       "source_id": "4048244",
       "player_name": "Alexander Mattison",
       "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "2505",
+      "source_id": "2576925",
+      "player_name": "Darren Waller",
+      "position": "TE",
       "team_abbr": "MIA",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -628,36 +638,6 @@
       "injury_description": null
     },
     {
-      "player_id": "8799",
-      "source_id": "4876006",
-      "player_name": "Zaire Mitchell-Paden",
-      "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "7946",
-      "source_id": "4034862",
-      "player_name": "Jack Stoll",
-      "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11895",
-      "source_id": "4573697",
-      "player_name": "Mason Tipton",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
       "player_id": "11748",
       "source_id": "4427985",
       "player_name": "Bub Means",
@@ -672,6 +652,16 @@
       "source_id": "4599739",
       "player_name": "Kendre Miller",
       "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "8799",
+      "source_id": "4876006",
+      "player_name": "Zaire Mitchell-Paden",
+      "position": "TE",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -721,6 +711,26 @@
       "player_id": "11619",
       "source_id": "4430637",
       "player_name": "Ja'Lynn Polk",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7946",
+      "source_id": "4034862",
+      "player_name": "Jack Stoll",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11895",
+      "source_id": "4573697",
+      "player_name": "Mason Tipton",
       "position": "WR",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
