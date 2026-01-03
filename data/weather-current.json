@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-03T10:22:28.613Z",
+  "lastUpdated": "2026-01-03T16:26:54.793Z",
   "games": [
     {
       "game_id": "401772962",
@@ -26,7 +26,7 @@
       "is_dome": false,
       "weather": {
         "temp": 21,
-        "wind": "6 mph W",
+        "wind": "8 mph W",
         "conditions": "Light Snow",
         "precipitation": "89%"
       }
@@ -54,7 +54,7 @@
         "temp": 20,
         "wind": "5 mph NW",
         "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "6 to 12 mph W",
-        "conditions": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
-        "precipitation": "62%"
+        "temp": 55,
+        "wind": "6 to 13 mph NW",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "87%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "3 to 9 mph SW",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "81%"
+        "wind": "2 to 9 mph SW",
+        "conditions": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
+        "precipitation": "60%"
       }
     },
     {
@@ -118,7 +118,7 @@
       "weather": {
         "temp": 20,
         "wind": "3 mph W",
-        "conditions": "Mostly Cloudy then Chance Light Snow",
+        "conditions": "Cloudy then Chance Light Snow",
         "precipitation": "34%"
       }
     },
@@ -139,8 +139,8 @@
       "weather": {
         "temp": 56,
         "wind": "5 to 10 mph SSE",
-        "conditions": "Rain then Chance Showers And Thunderstorms",
-        "precipitation": "90%"
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "89%"
       }
     },
     {
@@ -158,10 +158,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 36,
-        "wind": "3 to 8 mph WSW",
+        "temp": 37,
+        "wind": "3 to 9 mph WSW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -173,8 +173,8 @@
       "weather": {
         "temp": 20,
         "wind": "2 mph W",
-        "conditions": "Chance Light Snow",
-        "precipitation": "30%"
+        "conditions": "Chance Snow Showers",
+        "precipitation": "14%"
       }
     },
     {
