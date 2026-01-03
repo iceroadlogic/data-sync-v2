@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-03T16:14:08.187Z",
+  "lastUpdated": "2026-01-03T20:13:21.888Z",
   "week": 18,
   "summary": {
     "total_players": 795,
-    "ir": 106,
+    "ir": 105,
     "suspended": 1
   },
   "ir": [
@@ -238,9 +238,9 @@
       "injury_description": null
     },
     {
-      "player_id": "12738",
-      "source_id": "4431562",
-      "player_name": "Phil Mafah",
+      "player_id": "6151",
+      "source_id": "4045163",
+      "player_name": "Miles Sanders",
       "position": "RB",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
@@ -248,9 +248,9 @@
       "injury_description": null
     },
     {
-      "player_id": "6151",
-      "source_id": "4045163",
-      "player_name": "Miles Sanders",
+      "player_id": "7588",
+      "source_id": "4361579",
+      "player_name": "Javonte Williams",
       "position": "RB",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
@@ -513,16 +513,6 @@
       "player_name": "Najee Harris",
       "position": "RB",
       "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "3271",
-      "source_id": "2573401",
-      "player_name": "Tyler Higbee",
-      "position": "TE",
-      "team_abbr": "LAR",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -978,20 +968,20 @@
       "injury_description": null
     },
     {
-      "player_id": "9999",
-      "source_id": "4361418",
-      "player_name": "Will Levis",
-      "position": "QB",
+      "player_id": "6853",
+      "source_id": "3930066",
+      "player_name": "Van Jefferson",
+      "position": "WR",
       "team_abbr": "TEN",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
     {
-      "player_id": "11959",
-      "source_id": "4362617",
-      "player_name": "Bryce Oliver",
-      "position": "WR",
+      "player_id": "9999",
+      "source_id": "4361418",
+      "player_name": "Will Levis",
+      "position": "QB",
       "team_abbr": "TEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
