@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-02T22:27:55.879Z",
+  "lastUpdated": "2026-01-03T06:40:09.569Z",
   "week": 18,
   "summary": {
     "total_players": 795,
     "questionable": 23,
-    "doubtful": 4,
-    "out": 32
+    "doubtful": 3,
+    "out": 33
   },
   "questionable": [
     {
@@ -261,16 +261,6 @@
       "injury_description": null
     },
     {
-      "player_id": "1373",
-      "source_id": "15864",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null
-    },
-    {
       "player_id": "9226",
       "source_id": "4429160",
       "player_name": "De'Von Achane",
@@ -388,6 +378,16 @@
       "player_name": "Will Mallory",
       "position": "TE",
       "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
