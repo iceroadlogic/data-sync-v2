@@ -1,13 +1,23 @@
 {
-  "lastUpdated": "2026-01-04T23:16:01.680Z",
+  "lastUpdated": "2026-01-04T23:40:25.185Z",
   "week": 18,
   "summary": {
     "total_players": 795,
-    "questionable": 7,
+    "questionable": 8,
     "doubtful": 0,
     "out": 70
   },
   "questionable": [
+    {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
     {
       "player_id": "11623",
       "source_id": "4569382",
