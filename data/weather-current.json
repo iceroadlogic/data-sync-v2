@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-04T23:22:50.275Z",
+  "lastUpdated": "2026-01-04T23:42:45.586Z",
   "games": [
     {
       "game_id": "401772962",
@@ -38,10 +38,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "10 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 24,
+        "wind": "2 to 8 mph NW",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "12 mph NE",
+        "wind": "13 mph NE",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
@@ -93,7 +93,7 @@
         "temp": 56,
         "wind": "7 mph SSE",
         "conditions": "Rain Showers",
-        "precipitation": "93%"
+        "precipitation": "94%"
       }
     },
     {
@@ -116,9 +116,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
+        "temp": 12,
         "wind": "7 mph NW",
-        "conditions": "Partly Sunny",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -159,7 +159,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "7 to 14 mph NW",
+        "wind": "9 mph NNW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -172,7 +172,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "5 mph W",
+        "wind": "3 to 8 mph W",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
