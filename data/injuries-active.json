@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-04T22:16:09.773Z",
+  "lastUpdated": "2026-01-04T22:43:22.670Z",
   "week": 18,
   "summary": {
     "total_players": 795,
-    "questionable": 6,
+    "questionable": 7,
     "doubtful": 0,
     "out": 70
   },
@@ -14,6 +14,16 @@
       "player_name": "Jordan Whittington",
       "position": "WR",
       "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11610",
+      "source_id": "4569603",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
