@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-04T18:50:20.339Z",
+  "lastUpdated": "2026-01-04T19:12:53.472Z",
   "week": 18,
   "summary": {
     "total_players": 795,
     "questionable": 15,
     "doubtful": 3,
-    "out": 52
+    "out": 53
   },
   "questionable": [
     {
@@ -34,6 +34,16 @@
       "player_name": "Amon-Ra St. Brown",
       "position": "WR",
       "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11631",
+      "source_id": "4432773",
+      "player_name": "Brian Thomas Jr.",
+      "position": "WR",
+      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -144,16 +154,6 @@
       "player_name": "Brock Purdy",
       "position": "QB",
       "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12522",
-      "source_id": "4688380",
-      "player_name": "Cam Ward",
-      "position": "QB",
-      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -687,6 +687,16 @@
       "source_id": "4686728",
       "player_name": "Gunnar Helm",
       "position": "TE",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12522",
+      "source_id": "4688380",
+      "player_name": "Cam Ward",
+      "position": "QB",
       "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Out",
