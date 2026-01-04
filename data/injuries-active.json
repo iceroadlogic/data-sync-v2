@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-04T23:40:25.185Z",
+  "lastUpdated": "2026-01-04T23:51:23.393Z",
   "week": 18,
   "summary": {
     "total_players": 795,
-    "questionable": 8,
+    "questionable": 9,
     "doubtful": 0,
     "out": 70
   },
@@ -64,6 +64,16 @@
       "player_name": "Taysom Hill",
       "position": "QB",
       "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8177",
+      "source_id": "4241374",
+      "player_name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
