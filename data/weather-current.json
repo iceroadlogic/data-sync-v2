@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-04T16:28:44.321Z",
+  "lastUpdated": "2026-01-04T16:48:13.985Z",
   "games": [
     {
       "game_id": "401772962",
@@ -25,10 +25,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "6 to 9 mph W",
-        "conditions": "Slight Chance Snow Showers",
-        "precipitation": "24%"
+        "temp": 29,
+        "wind": "9 to 13 mph W",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "30%"
       }
     },
     {
@@ -118,8 +118,8 @@
       "weather": {
         "temp": 30,
         "wind": "6 mph NW",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
