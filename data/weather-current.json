@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-04T17:52:06.667Z",
+  "lastUpdated": "2026-01-04T18:33:09.855Z",
   "games": [
     {
       "game_id": "401772962",
@@ -28,7 +28,7 @@
         "temp": 29,
         "wind": "9 to 13 mph W",
         "conditions": "Chance Snow Showers",
-        "precipitation": "28%"
+        "precipitation": "36%"
       }
     },
     {
@@ -38,8 +38,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "7 to 12 mph NW",
+        "temp": 36,
+        "wind": "8 to 12 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "5 to 10 mph SSW",
+        "wind": "5 to 10 mph S",
         "conditions": "Partly Sunny",
         "precipitation": "5%"
       }
@@ -66,7 +66,7 @@
       "weather": {
         "temp": 37,
         "wind": "5 to 10 mph NW",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "7 mph NNE",
+        "wind": "7 mph N",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "6 mph NW",
+        "wind": "7 mph NW",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "5 to 10 mph S",
+        "wind": "10 mph S",
         "conditions": "Showers And Thunderstorms",
         "precipitation": "78%"
       }
@@ -159,7 +159,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "7 to 13 mph NW",
+        "wind": "7 to 13 mph WNW",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -172,7 +172,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "3 to 8 mph W",
+        "wind": "6 mph W",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
