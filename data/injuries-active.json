@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-03T22:26:33.154Z",
+  "lastUpdated": "2026-01-04T14:15:13.216Z",
   "week": 18,
   "summary": {
     "total_players": 795,
-    "questionable": 23,
+    "questionable": 22,
     "doubtful": 4,
-    "out": 31
+    "out": 35
   },
   "questionable": [
     {
@@ -219,20 +219,10 @@
       "injury_description": null
     },
     {
-      "player_id": "4217",
-      "source_id": "3040151",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11638",
-      "source_id": "4428209",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
+      "player_id": "8183",
+      "source_id": "4361741",
+      "player_name": "Brock Purdy",
+      "position": "QB",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -533,6 +523,26 @@
       "injury_description": null
     },
     {
+      "player_id": "11651",
+      "source_id": "4372561",
+      "player_name": "Isaac Guerendo",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11638",
+      "source_id": "4428209",
+      "player_name": "Ricky Pearsall",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6803",
       "source_id": "4360438",
       "player_name": "Brandon Aiyuk",
@@ -549,6 +559,26 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "13151",
+      "source_id": "4569547",
+      "player_name": "Nick Kallerup",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
