@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "lastUpdated": "2026-01-04T23:42:45.586Z",
+  "lastUpdated": "2026-01-04T23:52:31.299Z",
   "games": [
     {
       "game_id": "401772962",
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "13 mph NE",
+        "wind": "12 mph NE",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
@@ -92,7 +92,7 @@
       "weather": {
         "temp": 56,
         "wind": "7 mph SSE",
-        "conditions": "Rain Showers",
+        "conditions": "Showers And Thunderstorms",
         "precipitation": "94%"
       }
     },
@@ -103,9 +103,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "7 mph N",
-        "conditions": "Mostly Sunny",
+        "temp": 57,
+        "wind": "3 to 7 mph NE",
+        "conditions": "Partly Cloudy then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -159,7 +159,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "9 mph NNW",
+        "wind": "7 to 14 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -172,7 +172,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "3 to 8 mph W",
+        "wind": "6 mph W",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
@@ -184,10 +184,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "3 mph S",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 29,
+        "wind": "2 mph SE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "2%"
       }
     }
   ]
