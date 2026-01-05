@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-01-05T16:17:42.200Z",
+  "lastUpdated": "2026-01-05T20:15:36.632Z",
   "week": 1,
   "summary": {
     "total_players": 795,
     "ir": 109,
-    "suspended": 1
+    "suspended": 0
   },
   "ir": [
     {
@@ -1098,16 +1098,5 @@
       "injury_description": null
     }
   ],
-  "suspended": [
-    {
-      "player_id": "5846",
-      "source_id": "4047650",
-      "player_name": "DK Metcalf",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "news",
-      "injury_designation": "Suspension",
-      "injury_description": null
-    }
-  ]
+  "suspended": []
 }
