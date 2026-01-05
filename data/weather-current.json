@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-01-05T16:29:02.277Z",
+  "lastUpdated": "2026-01-05T21:30:39.360Z",
   "games": [
     {
       "game_id": "401772510",
@@ -11,8 +11,8 @@
       "weather": {
         "temp": 38,
         "wind": "5 mph S",
-        "conditions": "Cloudy",
-        "precipitation": "14%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "5 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "wind": "5 mph SW",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "3 mph SW",
-        "conditions": "Cloudy then Slight Chance Light Snow",
-        "precipitation": "23%"
+        "wind": "3 mph S",
+        "conditions": "Slight Chance Light Snow",
+        "precipitation": "24%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 34,
-        "wind": "6 mph S",
-        "conditions": "Slight Chance Light Snow",
-        "precipitation": "20%"
+        "wind": "7 mph S",
+        "conditions": "Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "6 to 9 mph S",
+        "wind": "7 mph S",
         "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -74,8 +74,8 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "8 to 13 mph SW",
+        "temp": 40,
+        "wind": "10 mph SW",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -106,7 +106,7 @@
         "temp": 70,
         "wind": "8 mph NW",
         "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "precipitation": "4%"
       }
     },
     {
@@ -126,8 +126,8 @@
       "weather": {
         "temp": 45,
         "wind": "3 mph S",
-        "conditions": "Slight Chance Light Rain then Mostly Cloudy",
-        "precipitation": "21%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "5%"
       }
     },
     {
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "8 to 20 mph WSW",
+        "wind": "20 mph W",
         "conditions": "Sunny",
         "precipitation": "3%"
       }
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "5 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "wind": "5 mph SW",
+        "conditions": "Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -163,10 +163,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "2 mph WSW",
+        "temp": 34,
+        "wind": "3 mph S",
         "conditions": "Mostly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "0%"
       }
     },
     {
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "6 mph SW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "13%"
+        "wind": "2 to 7 mph SW",
+        "conditions": "Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -189,10 +189,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "5 to 10 mph SW",
+        "temp": 42,
+        "wind": "5 mph SW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     }
   ]
