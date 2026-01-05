@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-05T06:50:07.150Z",
+  "lastUpdated": "2026-01-05T14:32:12.436Z",
   "week": 1,
   "summary": {
     "total_players": 795,
     "questionable": 10,
     "doubtful": 0,
-    "out": 74
+    "out": 72
   },
   "questionable": [
     {
@@ -111,26 +111,6 @@
   ],
   "doubtful": [],
   "out": [
-    {
-      "player_id": "11210",
-      "source_id": "4689334",
-      "player_name": "Malik Heath",
-      "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11806",
-      "source_id": "4428796",
-      "player_name": "Casey Washington",
-      "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
     {
       "player_id": "7571",
       "source_id": "4360939",
