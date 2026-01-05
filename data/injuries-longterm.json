@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-03T20:13:21.888Z",
-  "week": 18,
+  "lastUpdated": "2026-01-05T12:27:05.038Z",
+  "week": 1,
   "summary": {
     "total_players": 795,
-    "ir": 105,
+    "ir": 109,
     "suspended": 1
   },
   "ir": [
@@ -332,6 +332,16 @@
       "source_id": "4429023",
       "player_name": "MarShawn Lloyd",
       "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
       "team_abbr": "GB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -788,6 +798,16 @@
       "injury_description": null
     },
     {
+      "player_id": "8126",
+      "source_id": "4569587",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
       "player_id": "12481",
       "source_id": "4696981",
       "player_name": "Cam Skattebo",
@@ -801,6 +821,16 @@
       "player_id": "11576",
       "source_id": "4685247",
       "player_name": "Braelon Allen",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11571",
+      "source_id": "4695404",
+      "player_name": "Isaiah Davis",
       "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
@@ -822,6 +852,16 @@
       "source_id": "3115306",
       "player_name": "Josh Reynolds",
       "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12498",
+      "source_id": "4808766",
+      "player_name": "Mason Taylor",
+      "position": "TE",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -973,7 +1013,7 @@
       "player_name": "Van Jefferson",
       "position": "WR",
       "team_abbr": "TEN",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
