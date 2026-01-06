@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-05T23:25:30.815Z",
+  "lastUpdated": "2026-01-06T06:45:04.985Z",
   "week": 1,
   "summary": {
-    "total_players": 795,
-    "questionable": 42,
+    "total_players": 793,
+    "questionable": 43,
     "doubtful": 0,
     "out": 10
   },
@@ -14,6 +14,16 @@
       "player_name": "Rashod Bateman",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6039",
+      "source_id": "3915411",
+      "player_name": "Ty Johnson",
+      "position": "RB",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
