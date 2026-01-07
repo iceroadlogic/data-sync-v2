@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-06T22:28:40.359Z",
+  "lastUpdated": "2026-01-07T06:44:01.521Z",
   "week": 1,
   "summary": {
-    "total_players": 794,
-    "questionable": 43,
+    "total_players": 797,
+    "questionable": 45,
     "doubtful": 0,
     "out": 10
   },
@@ -29,9 +29,29 @@
       "injury_description": null
     },
     {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "11620",
       "source_id": "4431299",
       "player_name": "Rome Odunze",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "13079",
+      "source_id": "5160110",
+      "player_name": "Jahdae Walker",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
