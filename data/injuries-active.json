@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-07T14:31:45.651Z",
+  "lastUpdated": "2026-01-07T22:28:19.391Z",
   "week": 1,
   "summary": {
     "total_players": 797,
-    "questionable": 45,
+    "questionable": 46,
     "doubtful": 0,
     "out": 10
   },
@@ -29,6 +29,26 @@
       "injury_description": null
     },
     {
+      "player_id": "10236",
+      "source_id": "4385690",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
@@ -42,16 +62,6 @@
       "player_id": "11620",
       "source_id": "4431299",
       "player_name": "Rome Odunze",
-      "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "13079",
-      "source_id": "5160110",
-      "player_name": "Jahdae Walker",
       "position": "WR",
       "team_abbr": "CHI",
       "injury_status": "active",
