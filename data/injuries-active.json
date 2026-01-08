@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-07T22:28:19.391Z",
+  "lastUpdated": "2026-01-08T06:44:00.069Z",
   "week": 1,
   "summary": {
-    "total_players": 797,
-    "questionable": 46,
+    "total_players": 800,
+    "questionable": 47,
     "doubtful": 0,
     "out": 10
   },
@@ -414,6 +414,16 @@
       "player_name": "Dallas Goedert",
       "position": "TE",
       "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
