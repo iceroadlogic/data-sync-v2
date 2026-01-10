@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-01-10T16:26:43.172Z",
+  "lastUpdated": "2026-01-10T22:21:11.357Z",
   "games": [
     {
       "game_id": "401772510",
@@ -12,7 +12,7 @@
         "temp": 47,
         "wind": "5 mph E",
         "conditions": "Rain",
-        "precipitation": "99%"
+        "precipitation": "96%"
       }
     },
     {
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "5 mph NNW",
+        "wind": "5 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -36,8 +36,8 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "3 mph NE",
-        "conditions": "Cloudy then Chance Light Rain",
+        "wind": "3 mph E",
+        "conditions": "Chance Light Rain",
         "precipitation": "36%"
       }
     },
@@ -48,10 +48,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 45,
-        "wind": "7 mph NE",
+        "temp": 44,
+        "wind": "8 mph E",
         "conditions": "Rain",
-        "precipitation": "96%"
+        "precipitation": "98%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "8 mph E",
-        "conditions": "Rain",
-        "precipitation": "99%"
+        "temp": 49,
+        "wind": "6 mph E",
+        "conditions": "Rain Likely",
+        "precipitation": "68%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 45,
-        "wind": "6 to 10 mph SE",
-        "conditions": "Rain",
-        "precipitation": "96%"
+        "wind": "8 mph W",
+        "conditions": "Rain Showers",
+        "precipitation": "81%"
       }
     },
     {
@@ -104,8 +104,8 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "12 mph SW",
-        "conditions": "Mostly Sunny",
+        "wind": "10 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -125,9 +125,9 @@
       "is_dome": false,
       "weather": {
         "temp": 50,
-        "wind": "9 mph S",
-        "conditions": "Mostly Cloudy then Chance Light Rain",
-        "precipitation": "44%"
+        "wind": "6 mph SSE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "26%"
       }
     },
     {
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 45,
-        "wind": "5 to 13 mph WNW",
+        "wind": "5 to 8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "5 mph NNW",
+        "wind": "5 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "6 to 13 mph WNW",
-        "conditions": "Snow",
-        "precipitation": "99%"
+        "wind": "14 mph W",
+        "conditions": "Slight Chance Light Snow",
+        "precipitation": "21%"
       }
     },
     {
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "7 mph E",
-        "conditions": "Mostly Cloudy then Rain Likely",
-        "precipitation": "72%"
+        "wind": "6 mph E",
+        "conditions": "Rain",
+        "precipitation": "87%"
       }
     },
     {
@@ -190,9 +190,9 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "10 to 15 mph WNW",
-        "conditions": "Rain And Snow then Rain And Snow Likely",
-        "precipitation": "100%"
+        "wind": "15 mph W",
+        "conditions": "Isolated Snow Showers",
+        "precipitation": "16%"
       }
     }
   ]
