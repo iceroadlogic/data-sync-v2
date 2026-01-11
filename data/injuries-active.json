@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T19:12:56.863Z",
+  "lastUpdated": "2026-01-11T19:27:51.781Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 36,
+    "questionable": 37,
     "doubtful": 0,
     "out": 19
   },
@@ -14,6 +14,16 @@
       "player_name": "Rashod Bateman",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11377",
+      "source_id": "4241476",
+      "player_name": "Tyrell Shavers",
+      "position": "WR",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
