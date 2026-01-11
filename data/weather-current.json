@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-01-11T14:52:39.741Z",
+  "lastUpdated": "2026-01-11T15:23:21.220Z",
   "games": [
     {
       "game_id": "401772510",
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "5 to 12 mph NW",
+        "wind": "6 to 12 mph NW",
         "conditions": "Isolated Rain Showers then Partly Sunny",
-        "precipitation": "17%"
+        "precipitation": "16%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "8 to 15 mph W",
+        "wind": "9 to 15 mph W",
         "conditions": "Mostly Sunny then Chance Snow Showers",
         "precipitation": "25%"
       }
@@ -76,8 +76,8 @@
       "weather": {
         "temp": 34,
         "wind": "23 mph W",
-        "conditions": "Snow Showers Likely And Patchy Blowing Snow",
-        "precipitation": "72%"
+        "conditions": "Snow Showers And Patchy Blowing Snow",
+        "precipitation": "76%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "10 to 17 mph NW",
-        "conditions": "Chance Rain Showers then Partly Sunny",
-        "precipitation": "33%"
+        "wind": "14 to 17 mph NW",
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "24%"
       }
     },
     {
@@ -177,7 +177,7 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "16 to 26 mph W",
+        "wind": "20 to 26 mph W",
         "conditions": "Snow And Areas Of Blowing Snow then Snow Showers Likely And Areas Of Blowing Snow",
         "precipitation": "75%"
       }
@@ -190,9 +190,9 @@
       "is_dome": false,
       "weather": {
         "temp": 34,
-        "wind": "10 to 25 mph WNW",
+        "wind": "10 to 20 mph WNW",
         "conditions": "Scattered Snow Showers then Partly Sunny",
-        "precipitation": "16%"
+        "precipitation": "8%"
       }
     }
   ]
