@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-01-11T18:33:26.772Z",
+  "lastUpdated": "2026-01-11T18:52:47.859Z",
   "games": [
     {
       "game_id": "401772510",
@@ -76,7 +76,7 @@
       "weather": {
         "temp": 32,
         "wind": "23 mph W",
-        "conditions": "Chance Snow Showers And Patchy Blowing Snow",
+        "conditions": "Snow Showers",
         "precipitation": "76%"
       }
     },
@@ -125,7 +125,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "9 mph SSE",
+        "wind": "9 mph S",
         "conditions": "Light Rain",
         "precipitation": "90%"
       }
@@ -138,7 +138,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "7 mph SSW",
+        "wind": "6 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -189,7 +189,7 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 34,
+        "temp": 33,
         "wind": "10 to 15 mph WNW",
         "conditions": "Partly Sunny",
         "precipitation": "1%"
