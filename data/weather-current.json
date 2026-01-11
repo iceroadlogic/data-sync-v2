@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-01-11T17:36:03.711Z",
+  "lastUpdated": "2026-01-11T17:52:20.970Z",
   "games": [
     {
       "game_id": "401772510",
@@ -11,8 +11,8 @@
       "weather": {
         "temp": 46,
         "wind": "10 to 15 mph W",
-        "conditions": "Chance Rain And Snow Showers",
-        "precipitation": "29%"
+        "conditions": "Scattered Rain And Snow Showers",
+        "precipitation": "33%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "7 to 12 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "9%"
+        "wind": "6 to 12 mph NW",
+        "conditions": "Isolated Rain Showers then Partly Sunny",
+        "precipitation": "16%"
       }
     },
     {
@@ -49,8 +49,8 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "10 to 15 mph W",
-        "conditions": "Chance Snow Showers",
+        "wind": "9 to 15 mph W",
+        "conditions": "Mostly Sunny then Chance Snow Showers",
         "precipitation": "25%"
       }
     },
@@ -62,8 +62,8 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "12 to 21 mph W",
-        "conditions": "Chance Rain And Snow Showers",
+        "wind": "9 to 21 mph W",
+        "conditions": "Mostly Sunny then Chance Rain And Snow Showers",
         "precipitation": "50%"
       }
     },
@@ -106,7 +106,7 @@
         "temp": 65,
         "wind": "17 mph NW",
         "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -125,7 +125,7 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "9 mph S",
+        "wind": "9 mph SSE",
         "conditions": "Light Rain",
         "precipitation": "90%"
       }
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "26 mph W",
-        "conditions": "Snow Showers Likely And Areas Of Blowing Snow",
-        "precipitation": "68%"
+        "wind": "22 to 26 mph W",
+        "conditions": "Blowing Snow",
+        "precipitation": "70%"
       }
     },
     {
