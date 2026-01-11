@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-11T22:52:53.773Z",
+  "lastUpdated": "2026-01-11T23:15:58.828Z",
   "week": 1,
   "summary": {
     "total_players": 801,
     "questionable": 35,
     "doubtful": 0,
-    "out": 24
+    "out": 25
   },
   "questionable": [
     {
@@ -556,6 +556,16 @@
       "source_id": "4372561",
       "player_name": "Isaac Guerendo",
       "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
