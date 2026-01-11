@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-11T23:39:50.114Z",
+  "lastUpdated": "2026-01-11T23:50:56.598Z",
   "week": 1,
   "summary": {
     "total_players": 801,
     "questionable": 35,
     "doubtful": 0,
-    "out": 25
+    "out": 26
   },
   "questionable": [
     {
@@ -467,6 +467,16 @@
       "player_name": "Hunter Long",
       "position": "TE",
       "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5133",
+      "source_id": "3915486",
+      "player_name": "Tyler Conklin",
+      "position": "TE",
+      "team_abbr": "LAC",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
