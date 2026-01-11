@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T14:36:53.698Z",
+  "lastUpdated": "2026-01-11T14:51:26.089Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 35,
+    "questionable": 36,
     "doubtful": 0,
     "out": 16
   },
@@ -114,6 +114,16 @@
       "player_name": "Omarion Hampton",
       "position": "RB",
       "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "421",
+      "source_id": "12483",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
