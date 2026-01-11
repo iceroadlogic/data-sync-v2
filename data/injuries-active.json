@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T18:23:47.621Z",
+  "lastUpdated": "2026-01-11T18:50:10.253Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 35,
+    "questionable": 36,
     "doubtful": 0,
     "out": 19
   },
@@ -64,6 +64,16 @@
       "player_name": "Will Mallory",
       "position": "TE",
       "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9487",
+      "source_id": "4432620",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "team_abbr": "JAX",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
