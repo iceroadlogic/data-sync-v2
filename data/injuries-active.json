@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-11T20:18:50.404Z",
+  "lastUpdated": "2026-01-11T20:42:48.135Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 36,
+    "questionable": 35,
     "doubtful": 0,
-    "out": 21
+    "out": 24
   },
   "questionable": [
     {
@@ -319,16 +319,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11638",
-      "source_id": "4428209",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12502",
       "source_id": "4686728",
       "player_name": "Gunnar Helm",
@@ -557,6 +547,36 @@
       "player_name": "Sam Howell",
       "position": "QB",
       "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11651",
+      "source_id": "4372561",
+      "player_name": "Isaac Guerendo",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11638",
+      "source_id": "4428209",
+      "player_name": "Ricky Pearsall",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
