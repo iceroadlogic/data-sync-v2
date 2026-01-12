@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-12T21:32:48.555Z",
+  "lastUpdated": "2026-01-12T21:49:50.403Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 33,
+    "questionable": 34,
     "doubtful": 0,
     "out": 16
   },
@@ -14,6 +14,16 @@
       "player_name": "Rashod Bateman",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10236",
+      "source_id": "4385690",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
