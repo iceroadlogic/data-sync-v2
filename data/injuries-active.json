@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-12T06:48:33.577Z",
+  "lastUpdated": "2026-01-12T14:33:10.024Z",
   "week": 1,
   "summary": {
     "total_players": 801,
     "questionable": 33,
     "doubtful": 0,
-    "out": 28
+    "out": 16
   },
   "questionable": [
     {
@@ -362,26 +362,6 @@
       "injury_description": null
     },
     {
-      "player_id": "1737",
-      "source_id": "15168",
-      "player_name": "Case Keenum",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "13079",
-      "source_id": "5160110",
-      "player_name": "Jahdae Walker",
-      "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "11592",
       "source_id": "4427834",
       "player_name": "Erick All Jr.",
@@ -432,56 +412,6 @@
       "injury_description": null
     },
     {
-      "player_id": "7587",
-      "source_id": "4361577",
-      "player_name": "Dyami Brown",
-      "position": "WR",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "7535",
-      "source_id": "4239944",
-      "player_name": "Hunter Long",
-      "position": "TE",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "13202",
-      "source_id": "4569372",
-      "player_name": "Dalevon Campbell",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "5133",
-      "source_id": "3915486",
-      "player_name": "Tyler Conklin",
-      "position": "TE",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "10857",
-      "source_id": "4259553",
-      "player_name": "Stetson Bennett IV",
-      "position": "QB",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "12487",
       "source_id": "4570037",
       "player_name": "Terrance Ferguson",
@@ -512,16 +442,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11292",
-      "source_id": "4240391",
-      "player_name": "Tommy DeVito",
-      "position": "QB",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "6659",
       "source_id": "4421446",
       "player_name": "Craig Reynolds",
@@ -542,36 +462,6 @@
       "injury_description": null
     },
     {
-      "player_id": "6828",
-      "source_id": "4239934",
-      "player_name": "AJ Dillon",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "8162",
-      "source_id": "4426875",
-      "player_name": "Sam Howell",
-      "position": "QB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11651",
-      "source_id": "4372561",
-      "player_name": "Isaac Guerendo",
-      "position": "RB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
       "player_id": "4217",
       "source_id": "3040151",
       "player_name": "George Kittle",
@@ -585,16 +475,6 @@
       "player_id": "11638",
       "source_id": "4428209",
       "player_name": "Ricky Pearsall",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "12634",
-      "source_id": "4431466",
-      "player_name": "Jordan Watkins",
       "position": "WR",
       "team_abbr": "SF",
       "injury_status": "active",
