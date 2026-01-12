@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-11T23:50:56.598Z",
+  "lastUpdated": "2026-01-12T06:48:33.577Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "questionable": 35,
+    "questionable": 33,
     "doubtful": 0,
-    "out": 26
+    "out": 28
   },
   "questionable": [
     {
@@ -109,16 +109,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12507",
-      "source_id": "4685382",
-      "player_name": "Omarion Hampton",
-      "position": "RB",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "421",
       "source_id": "12483",
       "player_name": "Matthew Stafford",
@@ -214,16 +204,6 @@
       "player_name": "Myles Price",
       "position": "WR",
       "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9504",
-      "source_id": "4429022",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "team_abbr": "NE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -472,6 +452,16 @@
       "injury_description": null
     },
     {
+      "player_id": "13202",
+      "source_id": "4569372",
+      "player_name": "Dalevon Campbell",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "5133",
       "source_id": "3915486",
       "player_name": "Tyler Conklin",
@@ -518,6 +508,16 @@
       "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
