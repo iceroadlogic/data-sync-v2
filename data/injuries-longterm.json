@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-10T20:13:39.900Z",
+  "lastUpdated": "2026-01-12T12:28:13.268Z",
   "week": 1,
   "summary": {
     "total_players": 801,
-    "ir": 108,
+    "ir": 110,
     "suspended": 0
   },
   "ir": [
@@ -153,6 +153,16 @@
       "player_name": "Dayton Wade",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
@@ -512,6 +522,16 @@
       "source_id": "4241457",
       "player_name": "Najee Harris",
       "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
       "team_abbr": "LAC",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
