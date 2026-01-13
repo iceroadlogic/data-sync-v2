@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-13T14:32:57.389Z",
+  "lastUpdated": "2026-01-13T22:29:40.861Z",
   "week": 2,
   "summary": {
-    "total_players": 759,
-    "questionable": 41,
+    "total_players": 761,
+    "questionable": 40,
     "doubtful": 0,
-    "out": 11
+    "out": 12
   },
   "questionable": [
     {
@@ -33,16 +33,6 @@
       "source_id": "4385690",
       "player_name": "Dalton Kincaid",
       "position": "TE",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11377",
-      "source_id": "4241476",
-      "player_name": "Tyrell Shavers",
-      "position": "WR",
       "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -421,6 +411,16 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "11377",
+      "source_id": "4241476",
+      "player_name": "Tyrell Shavers",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
     {
       "player_id": "11583",
       "source_id": "4678008",
