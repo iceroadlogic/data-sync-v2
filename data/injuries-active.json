@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-12T23:21:27.971Z",
-  "week": 1,
+  "lastUpdated": "2026-01-13T06:44:24.629Z",
+  "week": 2,
   "summary": {
-    "total_players": 792,
-    "questionable": 35,
+    "total_players": 759,
+    "questionable": 36,
     "doubtful": 0,
-    "out": 16
+    "out": 21
   },
   "questionable": [
     {
@@ -79,10 +79,20 @@
       "injury_description": null
     },
     {
-      "player_id": "7585",
-      "source_id": "4242546",
-      "player_name": "Davis Mills",
-      "position": "QB",
+      "player_id": "7569",
+      "source_id": "4258173",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5374",
+      "source_id": "3118892",
+      "player_name": "Justin Watson",
+      "position": "WR",
       "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -412,6 +422,26 @@
       "injury_description": null
     },
     {
+      "player_id": "5121",
+      "source_id": "3123075",
+      "player_name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12705",
+      "source_id": "4426335",
+      "player_name": "Graham Mertz",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -478,6 +508,36 @@
       "position": "WR",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12504",
+      "source_id": "4819231",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
