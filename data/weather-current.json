@@ -1,199 +1,174 @@
 {
-  "week": 1,
-  "lastUpdated": "2026-01-12T23:25:02.009Z",
+  "week": 2,
+  "lastUpdated": "2026-01-13T10:26:29.826Z",
   "games": [
     {
-      "game_id": "401772510",
-      "home_team": "PHI",
-      "away_team": "DAL",
-      "stadium": "Lincoln Financial Field",
+      "game_id": "401772936",
+      "home_team": "GB",
+      "away_team": "WAS",
+      "stadium": "Lambeau Field",
+      "is_dome": false,
+      "weather": {
+        "temp": 28,
+        "wind": "8 mph SSW",
+        "conditions": "Chance Drizzle",
+        "precipitation": "33%"
+      }
+    },
+    {
+      "game_id": "401772834",
+      "home_team": "DAL",
+      "away_team": "NYG",
+      "stadium": "AT&T Stadium",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401772725",
+      "home_team": "CIN",
+      "away_team": "JAX",
+      "stadium": "Paycor Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 32,
+        "wind": "6 mph S",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401772724",
+      "home_team": "TEN",
+      "away_team": "LAR",
+      "stadium": "Nissan Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 32,
+        "wind": "5 mph S",
+        "conditions": "Clear",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401772833",
+      "home_team": "NO",
+      "away_team": "SF",
+      "stadium": "Caesars Superdome",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401772728",
+      "home_team": "MIA",
+      "away_team": "NE",
+      "stadium": "Hard Rock Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 68,
+        "wind": "5 mph NE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "40%"
+      }
+    },
+    {
+      "game_id": "401772835",
+      "home_team": "DET",
+      "away_team": "CHI",
+      "stadium": "Ford Field",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401772726",
+      "home_team": "BAL",
+      "away_team": "CLE",
+      "stadium": "M&T Bank Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 29,
+        "wind": "1 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401772836",
+      "home_team": "PIT",
+      "away_team": "SEA",
+      "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
         "temp": 30,
+        "wind": "8 mph S",
+        "conditions": "Clear",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401772727",
+      "home_team": "NYJ",
+      "away_team": "BUF",
+      "stadium": "MetLife Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 32,
         "wind": "5 mph SW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
     {
-      "game_id": "401772714",
-      "home_team": "LAC",
-      "away_team": "KC",
-      "stadium": "SoFi Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 79,
-        "wind": "10 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772720",
-      "home_team": "NE",
-      "away_team": "LV",
-      "stadium": "Gillette Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 28,
-        "wind": "7 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "3%"
-      }
-    },
-    {
-      "game_id": "401772721",
-      "home_team": "NYJ",
-      "away_team": "PIT",
-      "stadium": "MetLife Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 32,
-        "wind": "6 to 9 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772827",
-      "home_team": "WAS",
-      "away_team": "NYG",
-      "stadium": "Northwest Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 30,
-        "wind": "1 to 6 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401772829",
-      "home_team": "CLE",
-      "away_team": "CIN",
-      "stadium": "Cleveland Browns Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 31,
-        "wind": "10 to 15 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
-      }
-    },
-    {
-      "game_id": "401772830",
-      "home_team": "ATL",
-      "away_team": "TB",
-      "stadium": "Mercedes-Benz Stadium",
-      "is_dome": true,
-      "weather": null
-    },
-    {
-      "game_id": "401772719",
+      "game_id": "401772729",
       "home_team": "IND",
-      "away_team": "MIA",
+      "away_team": "DEN",
       "stadium": "Lucas Oil Stadium",
       "is_dome": true,
       "weather": null
     },
     {
-      "game_id": "401772828",
-      "home_team": "JAX",
+      "game_id": "401772730",
+      "home_team": "ARI",
       "away_team": "CAR",
-      "stadium": "TIAA Bank Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 45,
-        "wind": "8 to 15 mph N",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
-      }
-    },
-    {
-      "game_id": "401772718",
-      "home_team": "NO",
-      "away_team": "ARI",
-      "stadium": "Caesars Superdome",
+      "stadium": "State Farm Stadium",
       "is_dome": true,
       "weather": null
     },
     {
-      "game_id": "401772831",
-      "home_team": "SEA",
-      "away_team": "SF",
-      "stadium": "Lumen Field",
+      "game_id": "401772837",
+      "home_team": "KC",
+      "away_team": "PHI",
+      "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "12 mph S",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "16%"
-      }
-    },
-    {
-      "game_id": "401772832",
-      "home_team": "DEN",
-      "away_team": "TEN",
-      "stadium": "Empower Field at Mile High",
-      "is_dome": false,
-      "weather": {
-        "temp": 60,
-        "wind": "5 mph W",
-        "conditions": "Mostly Sunny",
+        "temp": 40,
+        "wind": "7 mph SW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
     {
-      "game_id": "401772723",
-      "home_team": "LAR",
-      "away_team": "HOU",
-      "stadium": "SoFi Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 79,
-        "wind": "10 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
+      "game_id": "401772919",
+      "home_team": "MIN",
+      "away_team": "ATL",
+      "stadium": "U.S. Bank Stadium",
+      "is_dome": true,
+      "weather": null
     },
     {
-      "game_id": "401772722",
-      "home_team": "GB",
-      "away_team": "DET",
-      "stadium": "Lambeau Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 38,
-        "wind": "6 mph SSW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
-      }
+      "game_id": "401772715",
+      "home_team": "HOU",
+      "away_team": "TB",
+      "stadium": "NRG Stadium",
+      "is_dome": true,
+      "weather": null
     },
     {
-      "game_id": "401772918",
-      "home_team": "BUF",
-      "away_team": "BAL",
-      "stadium": "Highmark Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 31,
-        "wind": "8 to 15 mph SW",
-        "conditions": "Slight Chance Snow Showers then Cloudy",
-        "precipitation": "18%"
-      }
-    },
-    {
-      "game_id": "401772810",
-      "home_team": "CHI",
-      "away_team": "MIN",
-      "stadium": "Soldier Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 44,
-        "wind": "10 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
-      }
+      "game_id": "401772811",
+      "home_team": "LV",
+      "away_team": "LAC",
+      "stadium": "Allegiant Stadium",
+      "is_dome": true,
+      "weather": null
     }
   ]
 }
