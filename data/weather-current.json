@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-13T16:34:17.904Z",
+  "lastUpdated": "2026-01-13T22:24:06.498Z",
   "games": [
     {
       "game_id": "401772936",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 41,
+        "temp": 45,
         "wind": "15 mph W",
         "conditions": "Mostly Cloudy",
-        "precipitation": "11%"
+        "precipitation": "12%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "10 to 14 mph SW",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 53,
+        "wind": "12 mph SW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "10 to 15 mph SW",
+        "wind": "15 mph SSW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "8 mph NE",
+        "temp": 76,
+        "wind": "7 mph NE",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "46%"
+        "precipitation": "32%"
       }
     },
     {
@@ -85,9 +85,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "8 mph S",
-        "conditions": "Mostly Sunny",
+        "temp": 50,
+        "wind": "7 mph S",
+        "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
     },
@@ -112,9 +112,9 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "9 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "wind": "9 mph S",
+        "conditions": "Partly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "6 to 9 mph W",
-        "conditions": "Partly Sunny then Chance Rain Showers",
-        "precipitation": "10%"
+        "temp": 59,
+        "wind": "8 mph WNW",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
