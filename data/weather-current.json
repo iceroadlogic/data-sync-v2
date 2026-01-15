@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-15T22:58:01.066Z",
+  "lastUpdated": "2026-01-15T23:29:31.039Z",
   "games": [
     {
       "game_id": "401772936",
@@ -30,10 +30,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "7 mph W",
-        "conditions": "Scattered Snow Showers",
-        "precipitation": "1%"
+        "temp": 21,
+        "wind": "2 to 6 mph SW",
+        "conditions": "Scattered Snow Showers then Slight Chance Light Snow",
+        "precipitation": "16%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "16 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "7%"
+        "temp": 42,
+        "wind": "8 to 14 mph NW",
+        "conditions": "Clear",
+        "precipitation": "4%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "15 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "temp": 21,
+        "wind": "8 to 17 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "2%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 20,
-        "wind": "14 mph W",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "38%"
+        "temp": 15,
+        "wind": "6 to 14 mph W",
+        "conditions": "Slight Chance Snow Showers then Mostly Cloudy",
+        "precipitation": "19%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "15 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 23,
+        "wind": "13 to 16 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
