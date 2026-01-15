@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T20:13:03.855Z",
+  "lastUpdated": "2026-01-15T12:26:11.021Z",
   "week": 2,
   "summary": {
-    "total_players": 763,
-    "ir": 110,
+    "total_players": 764,
+    "ir": 112,
     "suspended": 0
   },
   "ir": [
@@ -171,6 +171,16 @@
       "player_id": "4082",
       "source_id": "3121427",
       "player_name": "Curtis Samuel",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11377",
+      "source_id": "4241476",
+      "player_name": "Tyrell Shavers",
       "position": "WR",
       "team_abbr": "BUF",
       "injury_status": "day-to-day",
@@ -932,6 +942,16 @@
       "source_id": "4575665",
       "player_name": "Jacob Cowing",
       "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
