@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-15T16:37:27.193Z",
+  "lastUpdated": "2026-01-15T21:30:13.028Z",
   "games": [
     {
       "game_id": "401772936",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "7 mph WSW",
-        "conditions": "Partly Sunny then Chance Light Snow",
-        "precipitation": "34%"
+        "wind": "7 mph SSW",
+        "conditions": "Chance Light Snow",
+        "precipitation": "31%"
       }
     },
     {
@@ -30,9 +30,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 28,
-        "wind": "9 to 13 mph NW",
-        "conditions": "Partly Sunny",
+        "temp": 29,
+        "wind": "9 mph NW",
+        "conditions": "Chance Snow Showers",
         "precipitation": "4%"
       }
     },
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "17 mph W",
-        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
-        "precipitation": "35%"
+        "wind": "17 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 23,
-        "wind": "14 to 17 mph W",
-        "conditions": "Snow Showers",
-        "precipitation": "79%"
+        "temp": 20,
+        "wind": "15 mph W",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "38%"
       }
     },
     {
@@ -114,7 +114,7 @@
         "temp": 42,
         "wind": "16 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "precipitation": "0%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "5 to 12 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "temp": 41,
+        "wind": "10 mph SSW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
