@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-15T10:27:13.909Z",
+  "lastUpdated": "2026-01-15T16:37:27.193Z",
   "games": [
     {
       "game_id": "401772936",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 10,
-        "wind": "8 mph NW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 23,
+        "wind": "7 mph WSW",
+        "conditions": "Partly Sunny then Chance Light Snow",
+        "precipitation": "34%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 19,
-        "wind": "12 mph NW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "11%"
+        "temp": 28,
+        "wind": "9 to 13 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 23,
-        "wind": "10 mph NW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "temp": 35,
+        "wind": "5 to 10 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "6 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "7%"
+        "temp": 74,
+        "wind": "17 mph W",
+        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
+        "precipitation": "35%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
+        "temp": 35,
         "wind": "17 mph W",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "9%"
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 18,
-        "wind": "17 mph W",
+        "temp": 23,
+        "wind": "14 to 17 mph W",
         "conditions": "Snow Showers",
-        "precipitation": "88%"
+        "precipitation": "79%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "6 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "28%"
+        "temp": 42,
+        "wind": "16 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 20,
-        "wind": "2 mph WNW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "temp": 44,
+        "wind": "5 to 12 mph SSW",
+        "conditions": "Partly Sunny",
+        "precipitation": "1%"
       }
     },
     {
