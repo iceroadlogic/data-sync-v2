@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T21:16:47.136Z",
+  "lastUpdated": "2026-01-15T21:42:33.513Z",
   "week": 2,
   "summary": {
     "total_players": 764,
@@ -249,16 +249,6 @@
       "injury_description": null
     },
     {
-      "player_id": "3214",
-      "source_id": "3046439",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "4381",
       "source_id": "2468609",
       "player_name": "Taysom Hill",
@@ -354,6 +344,16 @@
       "player_name": "Ricky Pearsall",
       "position": "WR",
       "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4943",
+      "source_id": "3912547",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
