@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-15T23:16:22.944Z",
+  "lastUpdated": "2026-01-16T06:44:09.327Z",
   "week": 2,
   "summary": {
-    "total_players": 764,
-    "questionable": 39,
+    "total_players": 765,
+    "questionable": 40,
     "doubtful": 0,
     "out": 10
   },
@@ -154,6 +154,16 @@
       "player_name": "Geno Smith",
       "position": "QB",
       "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "1837",
+      "source_id": "16760",
+      "player_name": "Jimmy Garoppolo",
+      "position": "QB",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
