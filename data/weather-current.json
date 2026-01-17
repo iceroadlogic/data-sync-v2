@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-17T16:25:12.037Z",
+  "lastUpdated": "2026-01-17T22:20:53.516Z",
   "games": [
     {
       "game_id": "401772936",
@@ -12,7 +12,7 @@
         "temp": 29,
         "wind": "9 mph WNW",
         "conditions": "Scattered Snow Showers",
-        "precipitation": "50%"
+        "precipitation": "47%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "12 mph W",
+        "wind": "9 mph W",
         "conditions": "Slight Chance Snow Showers",
-        "precipitation": "16%"
+        "precipitation": "15%"
       }
     },
     {
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "5 to 10 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "8%"
+        "wind": "10 mph W",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "6 mph SE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "8%"
+        "wind": "5 mph E",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -86,9 +86,9 @@
       "is_dome": false,
       "weather": {
         "temp": 45,
-        "wind": "3 to 8 mph SW",
-        "conditions": "Rain And Snow then Chance Rain And Snow",
-        "precipitation": "77%"
+        "wind": "3 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 39,
-        "wind": "9 to 13 mph SW",
-        "conditions": "Mostly Cloudy then Slight Chance Snow Showers",
-        "precipitation": "24%"
+        "wind": "7 mph SW",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "27%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "8 mph SW",
-        "conditions": "Light Snow Likely",
-        "precipitation": "78%"
+        "temp": 40,
+        "wind": "6 mph SW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 18,
-        "wind": "12 to 17 mph NW",
+        "wind": "15 mph NW",
         "conditions": "Scattered Snow Showers",
-        "precipitation": "23%"
+        "precipitation": "10%"
       }
     },
     {
