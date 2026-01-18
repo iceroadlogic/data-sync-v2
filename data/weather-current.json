@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-18T15:22:42.166Z",
+  "lastUpdated": "2026-01-18T15:42:16.095Z",
   "games": [
     {
       "game_id": "401772936",
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 26,
-        "wind": "7 to 12 mph SW",
+        "wind": "8 to 12 mph SW",
         "conditions": "Chance Snow Showers",
-        "precipitation": "14%"
+        "precipitation": "10%"
       }
     },
     {
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "3 to 12 mph W",
+        "wind": "6 to 12 mph W",
         "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
         "precipitation": "39%"
       }
@@ -85,10 +85,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 36,
-        "wind": "2 to 8 mph N",
-        "conditions": "Rain And Snow Likely",
-        "precipitation": "65%"
+        "temp": 37,
+        "wind": "5 to 8 mph N",
+        "conditions": "Patchy Fog",
+        "precipitation": "41%"
       }
     },
     {
@@ -99,7 +99,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "6 to 9 mph W",
+        "wind": "9 mph W",
         "conditions": "Partly Sunny",
         "precipitation": "3%"
       }
@@ -111,10 +111,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
+        "temp": 32,
         "wind": "2 to 6 mph N",
-        "conditions": "Snow",
-        "precipitation": "88%"
+        "conditions": "Light Snow",
+        "precipitation": "85%"
       }
     },
     {
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 40,
-        "wind": "12 to 15 mph WSW",
+        "wind": "9 to 15 mph WSW",
         "conditions": "Chance Snow Showers then Chance Rain Showers",
-        "precipitation": "14%"
+        "precipitation": "13%"
       }
     },
     {
