@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-18T17:42:36.942Z",
+  "lastUpdated": "2026-01-18T17:52:18.136Z",
   "games": [
     {
       "game_id": "401772936",
@@ -30,9 +30,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 26,
-        "wind": "12 mph SW",
-        "conditions": "Chance Snow Showers",
+        "temp": 28,
+        "wind": "7 mph SW",
+        "conditions": "Sunny",
         "precipitation": "9%"
       }
     },
@@ -86,8 +86,8 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "8 mph NW",
-        "conditions": "Chance Rain And Snow",
+        "wind": "5 to 8 mph N",
+        "conditions": "Slight Chance Light Rain then Chance Rain And Snow",
         "precipitation": "41%"
       }
     },
@@ -99,7 +99,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "8 mph W",
+        "wind": "3 to 8 mph W",
         "conditions": "Slight Chance Light Snow",
         "precipitation": "20%"
       }
