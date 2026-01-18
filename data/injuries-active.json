@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-17T22:26:38.402Z",
+  "lastUpdated": "2026-01-18T14:14:58.661Z",
   "week": 2,
   "summary": {
     "total_players": 765,
-    "questionable": 37,
+    "questionable": 38,
     "doubtful": 0,
-    "out": 15
+    "out": 19
   },
   "questionable": [
     {
@@ -72,6 +72,16 @@
       "player_id": "12492",
       "source_id": "4600981",
       "player_name": "Pat Bryant",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11627",
+      "source_id": "4431280",
+      "player_name": "Troy Franklin",
       "position": "WR",
       "team_abbr": "DEN",
       "injury_status": "active",
@@ -319,20 +329,20 @@
       "injury_description": null
     },
     {
-      "player_id": "11638",
-      "source_id": "4428209",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
+      "player_id": "8698",
+      "source_id": "4259147",
+      "player_name": "Jake Tonges",
+      "position": "TE",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
     {
-      "player_id": "4943",
-      "source_id": "3912547",
-      "player_name": "Sam Darnold",
-      "position": "QB",
+      "player_id": "9753",
+      "source_id": "4426385",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
       "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -442,6 +452,16 @@
       "injury_description": null
     },
     {
+      "player_id": "11563",
+      "source_id": "4426338",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "7569",
       "source_id": "4258173",
       "player_name": "Nico Collins",
@@ -512,6 +532,26 @@
       "injury_description": null
     },
     {
+      "player_id": "11651",
+      "source_id": "4372561",
+      "player_name": "Isaac Guerendo",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6803",
       "source_id": "4360438",
       "player_name": "Brandon Aiyuk",
@@ -528,6 +568,16 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
