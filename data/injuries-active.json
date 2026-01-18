@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-18T21:14:48.442Z",
+  "lastUpdated": "2026-01-18T21:32:05.243Z",
   "week": 2,
   "summary": {
     "total_players": 765,
     "questionable": 39,
     "doubtful": 0,
-    "out": 21
+    "out": 22
   },
   "questionable": [
     {
@@ -99,10 +99,10 @@
       "injury_description": null
     },
     {
-      "player_id": "5001",
-      "source_id": "3117256",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
+      "player_id": "12474",
+      "source_id": "4429059",
+      "player_name": "Woody Marks",
+      "position": "RB",
       "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -486,6 +486,16 @@
       "source_id": "4426335",
       "player_name": "Graham Mertz",
       "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "5001",
+      "source_id": "3117256",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Out",
