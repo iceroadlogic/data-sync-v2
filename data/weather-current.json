@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-01-18T19:51:56.244Z",
+  "lastUpdated": "2026-01-18T20:25:58.160Z",
   "games": [
     {
       "game_id": "401772936",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 13,
-        "wind": "10 mph WSW",
-        "conditions": "Chance Light Snow",
-        "precipitation": "52%"
+        "wind": "8 to 12 mph WSW",
+        "conditions": "Light Snow Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -44,7 +44,7 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "5 mph WSW",
+        "wind": "5 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -66,8 +66,8 @@
       "weather": {
         "temp": 82,
         "wind": "16 mph W",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "39%"
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "23%"
       }
     },
     {
@@ -101,7 +101,7 @@
         "temp": 25,
         "wind": "8 mph W",
         "conditions": "Slight Chance Light Snow",
-        "precipitation": "18%"
+        "precipitation": "20%"
       }
     },
     {
@@ -112,7 +112,7 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "6 mph N",
+        "wind": "2 to 6 mph N",
         "conditions": "Rain And Snow",
         "precipitation": "85%"
       }
@@ -141,7 +141,7 @@
       "is_dome": false,
       "weather": {
         "temp": 40,
-        "wind": "9 to 14 mph WNW",
+        "wind": "10 to 14 mph WNW",
         "conditions": "Chance Rain Showers",
         "precipitation": "13%"
       }
