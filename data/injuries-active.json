@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-18T18:22:36.683Z",
+  "lastUpdated": "2026-01-18T18:49:13.294Z",
   "week": 2,
   "summary": {
     "total_players": 765,
     "questionable": 38,
     "doubtful": 0,
-    "out": 19
+    "out": 21
   },
   "questionable": [
     {
@@ -472,6 +472,16 @@
       "injury_description": null
     },
     {
+      "player_id": "12705",
+      "source_id": "4426335",
+      "player_name": "Graham Mertz",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "5374",
       "source_id": "3118892",
       "player_name": "Justin Watson",
@@ -508,6 +518,16 @@
       "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
