@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T20:43:00.533Z",
+  "lastUpdated": "2026-01-18T20:53:40.535Z",
   "week": 2,
   "summary": {
     "total_players": 765,
-    "questionable": 38,
+    "questionable": 39,
     "doubtful": 0,
     "out": 21
   },
@@ -94,6 +94,16 @@
       "player_name": "Dontayvion Wicks",
       "position": "WR",
       "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "5001",
+      "source_id": "3117256",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
