@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-19T14:35:32.392Z",
+  "lastUpdated": "2026-01-19T21:01:27.683Z",
   "week": 3,
   "summary": {
     "total_players": 766,
-    "questionable": 42,
+    "questionable": 41,
     "doubtful": 0,
-    "out": 11
+    "out": 12
   },
   "questionable": [
     {
@@ -379,16 +379,6 @@
       "injury_description": null
     },
     {
-      "player_id": "9753",
-      "source_id": "4426385",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12502",
       "source_id": "4686728",
       "player_name": "Gunnar Helm",
@@ -538,6 +528,16 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "9753",
+      "source_id": "4426385",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
