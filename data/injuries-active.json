@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T23:50:59.501Z",
-  "week": 2,
+  "lastUpdated": "2026-01-19T06:50:10.655Z",
+  "week": 3,
   "summary": {
     "total_players": 766,
-    "questionable": 38,
+    "questionable": 39,
     "doubtful": 0,
     "out": 27
   },
@@ -14,6 +14,16 @@
       "player_name": "Rashod Bateman",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12517",
+      "source_id": "4723086",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
