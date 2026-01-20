@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-20T16:38:34.529Z",
+  "lastUpdated": "2026-01-20T22:24:40.543Z",
   "games": [
     {
       "game_id": "401772937",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 16,
-        "wind": "18 to 22 mph W",
-        "conditions": "Snow Showers And Areas Of Blowing Snow",
-        "precipitation": "97%"
+        "wind": "16 mph W",
+        "conditions": "Snow Showers And Patchy Blowing Snow",
+        "precipitation": "95%"
       }
     },
     {
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 38,
-        "wind": "0 to 5 mph SSE",
+        "wind": "5 mph SSE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 16,
-        "wind": "12 to 15 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "wind": "12 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -48,8 +48,8 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "5 mph WNW",
+        "temp": 45,
+        "wind": "2 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 29,
-        "wind": "8 to 12 mph W",
+        "wind": "8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -74,9 +74,9 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "12 to 15 mph N",
-        "conditions": "Mostly Sunny",
+        "temp": 60,
+        "wind": "10 mph N",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -88,7 +88,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "10 mph NE",
+        "wind": "9 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -100,8 +100,8 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 23,
-        "wind": "10 to 15 mph W",
+        "temp": 24,
+        "wind": "10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -114,8 +114,8 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "10 mph W",
-        "conditions": "Mostly Sunny",
+        "wind": "7 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -135,8 +135,8 @@
       "is_dome": false,
       "weather": {
         "temp": 49,
-        "wind": "5 mph NNE",
-        "conditions": "Patchy Fog then Partly Sunny",
+        "wind": "5 mph N",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -147,9 +147,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 mph NNW",
-        "conditions": "Mostly Sunny",
+        "temp": 76,
+        "wind": "5 mph WSW",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -160,10 +160,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 24,
-        "wind": "10 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "temp": 21,
+        "wind": "10 mph SSW",
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -173,10 +173,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 65,
         "wind": "3 mph NW",
-        "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "1%"
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -187,7 +187,7 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "10 to 15 mph W",
+        "wind": "9 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -200,7 +200,7 @@
       "is_dome": false,
       "weather": {
         "temp": 27,
-        "wind": "9 to 14 mph W",
+        "wind": "9 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
