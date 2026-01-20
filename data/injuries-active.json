@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-19T23:26:13.408Z",
+  "lastUpdated": "2026-01-20T06:48:40.752Z",
   "week": 3,
   "summary": {
     "total_players": 766,
-    "questionable": 41,
+    "questionable": 42,
     "doubtful": 0,
     "out": 12
   },
@@ -374,6 +374,16 @@
       "player_name": "Jake Tonges",
       "position": "TE",
       "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4943",
+      "source_id": "3912547",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
