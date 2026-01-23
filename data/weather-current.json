@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-22T23:30:10.910Z",
+  "lastUpdated": "2026-01-23T10:27:18.697Z",
   "games": [
     {
       "game_id": "401772937",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 7,
-        "wind": "15 to 20 mph W",
-        "conditions": "Light Snow And Patchy Blowing Snow then Snow Showers And Patchy Blowing Snow",
-        "precipitation": "99%"
+        "temp": 11,
+        "wind": "20 mph W",
+        "conditions": "Heavy Snow And Areas Of Blowing Snow",
+        "precipitation": "96%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 46,
+        "temp": 29,
         "wind": "5 mph NNE",
-        "conditions": "Sunny",
+        "conditions": "Cloudy",
         "precipitation": "0%"
       }
     },
@@ -35,10 +35,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 6,
-        "wind": "14 to 20 mph W",
-        "conditions": "Mostly Cloudy then Slight Chance Snow Showers",
-        "precipitation": "16%"
+        "temp": 12,
+        "wind": "16 mph W",
+        "conditions": "Chance Light Snow",
+        "precipitation": "29%"
       }
     },
     {
@@ -50,8 +50,8 @@
       "weather": {
         "temp": 38,
         "wind": "2 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "32%"
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "19%"
       }
     },
     {
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 30,
-        "wind": "2 to 8 mph NW",
+        "wind": "2 mph W",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 53,
-        "wind": "2 to 6 mph NE",
-        "conditions": "Partly Cloudy then Areas Of Fog",
-        "precipitation": "1%"
+        "wind": "1 mph N",
+        "conditions": "Areas Of Fog",
+        "precipitation": "0%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "5 mph NE",
-        "conditions": "Partly Cloudy",
-        "precipitation": "2%"
+        "temp": 59,
+        "wind": "2 mph NE",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 27,
-        "wind": "5 to 10 mph W",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "wind": "5 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 20,
-        "wind": "7 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 21,
+        "wind": "6 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -134,10 +134,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "2 mph SSE",
-        "conditions": "Partly Sunny",
-        "precipitation": "10%"
+        "temp": 32,
+        "wind": "2 mph NNE",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -147,10 +147,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 mph WSW",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "20%"
+        "temp": 52,
+        "wind": "0 mph ",
+        "conditions": "Patchy Fog",
+        "precipitation": "7%"
       }
     },
     {
@@ -160,10 +160,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 26,
-        "wind": "20 mph WNW",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "5%"
+        "temp": -8,
+        "wind": "20 mph NW",
+        "conditions": "Scattered Snow Showers",
+        "precipitation": "10%"
       }
     },
     {
@@ -173,10 +173,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "6 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "2%"
+        "temp": 41,
+        "wind": "2 mph NW",
+        "conditions": "Widespread Fog",
+        "precipitation": "0%"
       }
     },
     {
@@ -187,9 +187,9 @@
       "is_dome": false,
       "weather": {
         "temp": 26,
-        "wind": "8 to 12 mph W",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "wind": "6 mph W",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -200,7 +200,7 @@
       "is_dome": false,
       "weather": {
         "temp": 29,
-        "wind": "2 to 8 mph W",
+        "wind": "2 mph W",
         "conditions": "Partly Cloudy",
         "precipitation": "1%"
       }
