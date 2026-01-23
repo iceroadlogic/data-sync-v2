@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-23T16:33:04.526Z",
+  "lastUpdated": "2026-01-23T22:19:56.816Z",
   "games": [
     {
       "game_id": "401772937",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 14,
-        "wind": "18 to 23 mph W",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "50%"
+        "wind": "18 mph W",
+        "conditions": "Slight Chance Snow Showers",
+        "precipitation": "19%"
       }
     },
     {
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 40,
-        "wind": "15 mph NNE",
+        "wind": "15 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 14,
-        "wind": "14 to 18 mph NW",
-        "conditions": "Slight Chance Light Snow then Partly Sunny",
-        "precipitation": "21%"
+        "wind": "14 mph NW",
+        "conditions": "Slight Chance Light Snow",
+        "precipitation": "20%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "5 mph ENE",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "18%"
+        "wind": "2 mph NE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -61,8 +61,8 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "9 to 13 mph NW",
+        "temp": 43,
+        "wind": "12 mph NW",
         "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "2 to 6 mph NNW",
+        "wind": "6 mph NW",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -100,8 +100,8 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "15 to 20 mph W",
+        "temp": 40,
+        "wind": "20 mph W",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -115,8 +115,8 @@
       "weather": {
         "temp": 30,
         "wind": "10 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -148,9 +148,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 to 10 mph SW",
-        "conditions": "Patchy Fog then Mostly Sunny",
-        "precipitation": "4%"
+        "wind": "10 mph WSW",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -161,9 +161,9 @@
       "is_dome": false,
       "weather": {
         "temp": 0,
-        "wind": "15 to 20 mph NW",
+        "wind": "15 mph NW",
         "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "precipitation": "0%"
       }
     },
     {
@@ -174,8 +174,8 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "0 to 9 mph NW",
-        "conditions": "Widespread Fog then Mostly Sunny",
+        "wind": "8 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -186,10 +186,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "12 to 15 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "temp": 38,
+        "wind": "18 mph W",
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -199,8 +199,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "12 to 16 mph W",
+        "temp": 41,
+        "wind": "13 mph NW",
         "conditions": "Mostly Cloudy",
         "precipitation": "3%"
       }
