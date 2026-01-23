@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-23T16:18:36.359Z",
+  "lastUpdated": "2026-01-23T20:15:48.043Z",
   "week": 3,
   "summary": {
     "total_players": 758,
-    "ir": 111,
+    "ir": 110,
     "suspended": 0
   },
   "ir": [
@@ -968,22 +968,12 @@
       "injury_description": null
     },
     {
-      "player_id": "12521",
-      "source_id": "4678006",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "12048",
-      "source_id": "4429835",
-      "player_name": "George Holani",
+      "player_id": "9753",
+      "source_id": "4426385",
+      "player_name": "Zach Charbonnet",
       "position": "RB",
       "team_abbr": "SEA",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     },
