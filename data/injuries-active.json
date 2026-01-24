@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-24T14:26:39.884Z",
+  "lastUpdated": "2026-01-24T22:26:56.001Z",
   "week": 3,
   "summary": {
-    "total_players": 759,
-    "questionable": 42,
+    "total_players": 758,
+    "questionable": 43,
     "doubtful": 0,
-    "out": 11
+    "out": 10
   },
   "questionable": [
     {
@@ -289,6 +289,16 @@
       "injury_description": null
     },
     {
+      "player_id": "4177",
+      "source_id": "2991662",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "4381",
       "source_id": "2468609",
       "player_name": "Taysom Hill",
@@ -458,16 +468,6 @@
       "position": "QB",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
-    {
-      "player_id": "11563",
-      "source_id": "4426338",
-      "player_name": "Bo Nix",
-      "position": "QB",
-      "team_abbr": "DEN",
-      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     },
