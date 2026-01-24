@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-24T16:27:17.653Z",
+  "lastUpdated": "2026-01-24T22:21:14.224Z",
   "games": [
     {
       "game_id": "401772937",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 11,
-        "wind": "5 mph SW",
-        "conditions": "Mostly Cloudy then Chance Snow Showers",
-        "precipitation": "54%"
+        "wind": "2 mph W",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "42%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
+        "temp": 29,
         "wind": "10 mph NE",
-        "conditions": "Snow",
-        "precipitation": "100%"
+        "conditions": "Sleet",
+        "precipitation": "94%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 12,
-        "wind": "2 to 6 mph N",
+        "wind": "5 mph NE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "6%"
+        "precipitation": "8%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "12 mph ENE",
-        "conditions": "Cloudy then Slight Chance Light Rain",
-        "precipitation": "19%"
+        "temp": 35,
+        "wind": "10 mph ENE",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "15%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "5 to 8 mph N",
+        "wind": "5 mph NE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "6%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "15 mph NE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "temp": 64,
+        "wind": "16 mph NE",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "18%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 81,
-        "wind": "7 mph E",
+        "temp": 80,
+        "wind": "6 mph E",
         "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "precipitation": "4%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 19,
-        "wind": "5 to 10 mph N",
+        "wind": "5 mph N",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -113,9 +113,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 14,
-        "wind": "6 to 9 mph NW",
-        "conditions": "Sunny",
+        "temp": 13,
+        "wind": "6 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -148,9 +148,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 to 10 mph SSW",
-        "conditions": "Patchy Drizzle then Partly Sunny",
-        "precipitation": "1%"
+        "wind": "5 to 10 mph WSW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -160,10 +160,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 10,
-        "wind": "5 mph SSE",
-        "conditions": "Cloudy then Slight Chance Snow",
-        "precipitation": "24%"
+        "temp": 9,
+        "wind": "5 mph E",
+        "conditions": "Chance Snow",
+        "precipitation": "37%"
       }
     },
     {
@@ -174,7 +174,7 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "6 to 13 mph NNW",
+        "wind": "8 to 12 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -186,9 +186,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 19,
-        "wind": "7 to 10 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 18,
+        "wind": "7 mph N",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -200,9 +200,9 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "7 mph N",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "3%"
+        "wind": "5 mph NE",
+        "conditions": "Cloudy",
+        "precipitation": "4%"
       }
     }
   ]
