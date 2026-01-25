@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T15:43:17.915Z",
+  "lastUpdated": "2026-01-25T15:53:19.557Z",
   "games": [
     {
       "game_id": "401772937",
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 29,
-        "wind": "3 to 7 mph NE",
+        "wind": "3 to 7 mph NNE",
         "conditions": "Sleet then Freezing Rain Likely",
         "precipitation": "90%"
       }
@@ -63,7 +63,7 @@
       "weather": {
         "temp": 30,
         "wind": "10 mph NE",
-        "conditions": "Heavy Snow then Sleet",
+        "conditions": "Sleet",
         "precipitation": "100%"
       }
     },
@@ -75,8 +75,8 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "8 to 17 mph S",
-        "conditions": "Patchy Fog then Partly Sunny",
+        "wind": "7 to 15 mph S",
+        "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
     },
@@ -88,7 +88,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "10 to 14 mph S",
+        "wind": "14 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -114,7 +114,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "2 to 6 mph NE",
+        "wind": "6 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "100%"
       }
@@ -174,7 +174,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "0 to 6 mph NW",
+        "wind": "0 to 6 mph NNW",
         "conditions": "Mostly Cloudy",
         "precipitation": "1%"
       }
@@ -186,7 +186,7 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
+        "temp": 22,
         "wind": "8 to 16 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "100%"
@@ -199,9 +199,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
+        "temp": 29,
         "wind": "9 to 13 mph NE",
-        "conditions": "Heavy Snow",
+        "conditions": "Sleet",
         "precipitation": "100%"
       }
     }
