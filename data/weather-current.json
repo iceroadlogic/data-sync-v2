@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T16:30:07.556Z",
+  "lastUpdated": "2026-01-25T16:50:26.556Z",
   "games": [
     {
       "game_id": "401772937",
@@ -49,8 +49,8 @@
       "is_dome": false,
       "weather": {
         "temp": 29,
-        "wind": "3 to 7 mph NNE",
-        "conditions": "Freezing Rain Likely",
+        "wind": "3 to 7 mph NE",
+        "conditions": "Sleet then Freezing Rain Likely",
         "precipitation": "90%"
       }
     },
@@ -187,7 +187,7 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "10 to 16 mph NE",
+        "wind": "8 to 16 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "100%"
       }
