@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T20:55:28.241Z",
+  "lastUpdated": "2026-01-25T21:22:24.489Z",
   "games": [
     {
       "game_id": "401772937",
@@ -12,7 +12,7 @@
         "temp": 16,
         "wind": "8 mph E",
         "conditions": "Heavy Snow",
-        "precipitation": "97%"
+        "precipitation": "95%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 34,
         "wind": "10 mph NW",
-        "conditions": "Slight Chance Sleet",
-        "precipitation": "18%"
+        "conditions": "Chance Sleet",
+        "precipitation": "26%"
       }
     },
     {
@@ -61,7 +61,7 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
+        "temp": 25,
         "wind": "10 mph NE",
         "conditions": "Sleet",
         "precipitation": "94%"
@@ -135,7 +135,7 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "2 mph NW",
+        "wind": "2 mph NNW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -148,7 +148,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 to 10 mph NW",
+        "wind": "10 mph W",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -162,8 +162,8 @@
       "weather": {
         "temp": 20,
         "wind": "15 mph N",
-        "conditions": "Snow",
-        "precipitation": "84%"
+        "conditions": "Snow Likely",
+        "precipitation": "72%"
       }
     },
     {
@@ -187,7 +187,7 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "9 to 15 mph NE",
+        "wind": "15 mph NE",
         "conditions": "Snow",
         "precipitation": "100%"
       }
@@ -199,8 +199,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 27,
-        "wind": "9 to 13 mph NE",
+        "temp": 25,
+        "wind": "12 mph NE",
         "conditions": "Freezing Spray",
         "precipitation": "94%"
       }
