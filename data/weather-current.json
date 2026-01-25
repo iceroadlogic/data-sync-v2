@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T22:54:33.502Z",
+  "lastUpdated": "2026-01-25T23:23:55.408Z",
   "games": [
     {
       "game_id": "401772937",
@@ -9,8 +9,8 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
-        "wind": "8 mph E",
+        "temp": 12,
+        "wind": "3 to 8 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "95%"
       }
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 34,
         "wind": "10 mph NW",
-        "conditions": "Freezing Rain",
-        "precipitation": "77%"
+        "conditions": "Chance Sleet",
+        "precipitation": "26%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 21,
-        "wind": "9 mph NE",
+        "temp": 13,
+        "wind": "12 mph NW",
         "conditions": "Heavy Snow",
-        "precipitation": "95%"
+        "precipitation": "99%"
       }
     },
     {
@@ -49,9 +49,9 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "3 mph NW",
-        "conditions": "Freezing Rain",
-        "precipitation": "91%"
+        "wind": "6 mph WSW",
+        "conditions": "Freezing Rain then Patchy Fog",
+        "precipitation": "83%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
-        "wind": "8 mph NE",
-        "conditions": "Sleet",
-        "precipitation": "94%"
+        "temp": 19,
+        "wind": "2 to 7 mph NW",
+        "conditions": "Sleet then Mostly Cloudy",
+        "precipitation": "91%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 80,
+        "temp": 59,
         "wind": "15 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "52%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 81,
-        "wind": "14 mph SSW",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 61,
+        "wind": "7 to 10 mph SSW",
+        "conditions": "Patchy Fog",
+        "precipitation": "56%"
       }
     },
     {
@@ -100,10 +100,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 28,
-        "wind": "10 mph NE",
-        "conditions": "Sleet",
-        "precipitation": "100%"
+        "temp": 23,
+        "wind": "5 to 10 mph N",
+        "conditions": "Sleet then Slight Chance Light Snow",
+        "precipitation": "99%"
       }
     },
     {
@@ -113,8 +113,8 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "7 mph NE",
+        "temp": 19,
+        "wind": "8 to 14 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "100%"
       }
@@ -162,8 +162,8 @@
       "weather": {
         "temp": 20,
         "wind": "15 mph NNW",
-        "conditions": "Snow Likely",
-        "precipitation": "62%"
+        "conditions": "Snow Showers",
+        "precipitation": "86%"
       }
     },
     {
@@ -186,9 +186,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
-        "wind": "15 mph NE",
-        "conditions": "Snow",
+        "temp": 21,
+        "wind": "7 to 16 mph NE",
+        "conditions": "Light Snow Likely",
         "precipitation": "100%"
       }
     },
@@ -199,9 +199,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
-        "wind": "9 mph NE",
-        "conditions": "Freezing Spray",
+        "temp": 20,
+        "wind": "1 to 8 mph NW",
+        "conditions": "Freezing Spray then Mostly Cloudy",
         "precipitation": "94%"
       }
     }
