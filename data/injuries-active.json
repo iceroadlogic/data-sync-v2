@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-25T21:50:22.320Z",
+  "lastUpdated": "2026-01-25T22:16:43.741Z",
   "week": 3,
   "summary": {
     "total_players": 758,
     "questionable": 42,
     "doubtful": 0,
-    "out": 13
+    "out": 19
   },
   "questionable": [
     {
@@ -492,6 +492,46 @@
       "injury_description": null
     },
     {
+      "player_id": "7562",
+      "source_id": "4360797",
+      "player_name": "Tutu Atwell",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "10857",
+      "source_id": "4259553",
+      "player_name": "Stetson Bennett IV",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11569",
+      "source_id": "4710341",
+      "player_name": "Jarquez Hunter",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "3258",
+      "source_id": "2576399",
+      "player_name": "Nick Vannett",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -558,6 +598,26 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12521",
+      "source_id": "4678006",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
