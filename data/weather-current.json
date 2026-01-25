@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T17:20:56.703Z",
+  "lastUpdated": "2026-01-25T17:43:48.033Z",
   "games": [
     {
       "game_id": "401772937",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 17,
-        "wind": "7 mph E",
+        "temp": 16,
+        "wind": "9 mph E",
         "conditions": "Heavy Snow",
-        "precipitation": "100%"
+        "precipitation": "97%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
-        "wind": "3 to 7 mph NNE",
-        "conditions": "Sleet then Freezing Rain Likely",
-        "precipitation": "90%"
+        "temp": 28,
+        "wind": "6 mph NNE",
+        "conditions": "Freezing Rain",
+        "precipitation": "91%"
       }
     },
     {
@@ -77,7 +77,7 @@
         "temp": 80,
         "wind": "15 mph SW",
         "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "precipitation": "3%"
       }
     },
     {
@@ -135,7 +135,7 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "2 mph N",
+        "wind": "2 mph NNW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
