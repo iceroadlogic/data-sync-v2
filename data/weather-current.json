@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T17:52:32.702Z",
+  "lastUpdated": "2026-01-25T18:34:35.822Z",
   "games": [
     {
       "game_id": "401772937",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 16,
-        "wind": "9 mph E",
+        "wind": "8 mph E",
         "conditions": "Heavy Snow",
         "precipitation": "97%"
       }
@@ -25,7 +25,7 @@
         "temp": 34,
         "wind": "10 mph NW",
         "conditions": "Freezing Rain",
-        "precipitation": "79%"
+        "precipitation": "77%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "6 mph NNE",
+        "wind": "5 mph NNE",
         "conditions": "Freezing Rain",
         "precipitation": "91%"
       }
@@ -61,7 +61,7 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
+        "temp": 27,
         "wind": "10 mph NE",
         "conditions": "Sleet",
         "precipitation": "99%"
@@ -76,7 +76,7 @@
       "weather": {
         "temp": 80,
         "wind": "15 mph SW",
-        "conditions": "Partly Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "3%"
       }
     },
@@ -88,7 +88,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "14 mph S",
+        "wind": "14 mph SSW",
         "conditions": "Sunny",
         "precipitation": "1%"
       }
@@ -113,8 +113,8 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 25,
-        "wind": "6 mph NE",
+        "temp": 29,
+        "wind": "7 mph NE",
         "conditions": "Heavy Snow",
         "precipitation": "100%"
       }
@@ -149,7 +149,7 @@
       "weather": {
         "temp": 67,
         "wind": "5 to 10 mph NW",
-        "conditions": "Partly Sunny",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -187,8 +187,8 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "12 to 16 mph NE",
-        "conditions": "Heavy Snow",
+        "wind": "15 mph NE",
+        "conditions": "Snow",
         "precipitation": "100%"
       }
     },
@@ -199,9 +199,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 29,
+        "temp": 27,
         "wind": "9 to 13 mph NE",
-        "conditions": "Sleet",
+        "conditions": "Freezing Spray",
         "precipitation": "99%"
       }
     }
