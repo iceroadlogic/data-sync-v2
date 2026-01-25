@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-01-25T22:23:51.648Z",
+  "lastUpdated": "2026-01-25T22:46:25.894Z",
   "games": [
     {
       "game_id": "401772937",
@@ -12,7 +12,7 @@
         "temp": 16,
         "wind": "8 mph E",
         "conditions": "Heavy Snow",
-        "precipitation": "97%"
+        "precipitation": "95%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 34,
         "wind": "10 mph NW",
-        "conditions": "Slight Chance Sleet",
-        "precipitation": "18%"
+        "conditions": "Freezing Rain",
+        "precipitation": "77%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 21,
-        "wind": "10 mph NE",
+        "wind": "9 mph NE",
         "conditions": "Heavy Snow",
-        "precipitation": "100%"
+        "precipitation": "95%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "5 mph NNE",
+        "wind": "3 mph NW",
         "conditions": "Freezing Rain",
         "precipitation": "91%"
       }
@@ -62,7 +62,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "10 mph NE",
+        "wind": "8 mph NE",
         "conditions": "Sleet",
         "precipitation": "94%"
       }
@@ -101,7 +101,7 @@
       "is_dome": false,
       "weather": {
         "temp": 28,
-        "wind": "10 to 15 mph NE",
+        "wind": "10 mph NE",
         "conditions": "Sleet",
         "precipitation": "100%"
       }
@@ -161,9 +161,9 @@
       "is_dome": false,
       "weather": {
         "temp": 20,
-        "wind": "15 mph N",
+        "wind": "15 mph NNW",
         "conditions": "Snow Likely",
-        "precipitation": "72%"
+        "precipitation": "62%"
       }
     },
     {
@@ -174,7 +174,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "2 to 6 mph NNW",
+        "wind": "6 mph NW",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
@@ -187,7 +187,7 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "9 to 15 mph NE",
+        "wind": "15 mph NE",
         "conditions": "Snow",
         "precipitation": "100%"
       }
@@ -200,7 +200,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "12 mph NE",
+        "wind": "9 mph NE",
         "conditions": "Freezing Spray",
         "precipitation": "94%"
       }
