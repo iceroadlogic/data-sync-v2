@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-25T23:51:48.355Z",
-  "week": 3,
+  "lastUpdated": "2026-01-26T06:49:36.492Z",
+  "week": 4,
   "summary": {
-    "total_players": 758,
-    "questionable": 42,
+    "total_players": 759,
+    "questionable": 43,
     "doubtful": 0,
     "out": 19
   },
@@ -194,6 +194,16 @@
       "player_name": "Geno Smith",
       "position": "QB",
       "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "team_abbr": "LAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
