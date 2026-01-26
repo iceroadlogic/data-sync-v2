@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T20:13:11.586Z",
-  "week": 3,
+  "lastUpdated": "2026-01-26T12:28:22.028Z",
+  "week": 4,
   "summary": {
     "total_players": 759,
     "ir": 110,
@@ -272,6 +272,16 @@
       "source_id": "4360231",
       "player_name": "Lucas Krull",
       "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11563",
+      "source_id": "4426338",
+      "player_name": "Bo Nix",
+      "position": "QB",
       "team_abbr": "DEN",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -612,16 +622,6 @@
       "source_id": "4360294",
       "player_name": "Antonio Gibson",
       "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "4177",
-      "source_id": "2991662",
-      "player_name": "Mack Hollins",
-      "position": "WR",
       "team_abbr": "NE",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
