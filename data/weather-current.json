@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-27T16:32:33.240Z",
+  "lastUpdated": "2026-01-27T22:24:45.250Z",
   "games": [
     {
       "game_id": "401772938",
@@ -17,10 +17,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 18,
-        "wind": "15 mph SW",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "52%"
+        "temp": 17,
+        "wind": "14 mph W",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 21,
-        "wind": "8 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "11%"
+        "wind": "8 mph SW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 16,
-        "wind": "16 to 20 mph SW",
-        "conditions": "Snow Showers Likely And Areas Of Blowing Snow then Light Snow And Areas Of Blowing Snow",
-        "precipitation": "81%"
+        "wind": "16 mph SW",
+        "conditions": "Snow Showers Likely",
+        "precipitation": "73%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 20,
-        "wind": "9 to 13 mph SW",
-        "conditions": "Partly Sunny then Chance Snow Showers",
-        "precipitation": "6%"
+        "wind": "10 mph SW",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "3%"
       }
     },
     {
@@ -85,8 +85,8 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "6 to 9 mph N",
+        "temp": 56,
+        "wind": "6 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,8 +107,8 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "0 to 5 mph WNW",
-        "conditions": "Sunny",
+        "wind": "5 mph W",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -120,9 +120,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 to 14 mph S",
-        "conditions": "Partly Sunny then Slight Chance Light Rain",
-        "precipitation": "18%"
+        "wind": "10 mph S",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "22%"
       }
     },
     {
@@ -140,9 +140,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 30,
-        "wind": "5 to 8 mph NNW",
-        "conditions": "Sunny",
+        "temp": 29,
+        "wind": "7 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -162,7 +162,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "15 mph N",
+        "wind": "13 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
