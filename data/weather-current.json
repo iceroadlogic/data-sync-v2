@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-28T16:39:32.705Z",
+  "lastUpdated": "2026-01-28T22:28:38.272Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 15,
-        "wind": "10 mph SW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "8%"
+        "wind": "9 mph W",
+        "conditions": "Slight Chance Snow Showers",
+        "precipitation": "24%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 21,
-        "wind": "3 to 9 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "wind": "5 mph W",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 13,
-        "wind": "13 to 17 mph SW",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "25%"
+        "wind": "13 mph SW",
+        "conditions": "Light Snow Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -73,9 +73,9 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "7 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "wind": "7 mph SW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -85,8 +85,8 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "9 mph NNW",
+        "temp": 59,
+        "wind": "8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,8 +107,8 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "5 to 10 mph NE",
-        "conditions": "Partly Sunny",
+        "wind": "5 mph WSW",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -120,8 +120,8 @@
       "is_dome": false,
       "weather": {
         "temp": 64,
-        "wind": "2 to 9 mph NNW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "8 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
     },
@@ -140,8 +140,8 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "3 to 7 mph SW",
+        "temp": 35,
+        "wind": "2 mph WSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -162,9 +162,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "12 mph N",
-        "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "28%"
+        "wind": "10 mph NW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "33%"
       }
     },
     {
@@ -174,8 +174,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "7 mph W",
+        "temp": 48,
+        "wind": "6 mph NNW",
         "conditions": "Mostly Cloudy",
         "precipitation": "1%"
       }
