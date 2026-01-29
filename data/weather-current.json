@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-29T16:45:48.812Z",
+  "lastUpdated": "2026-01-29T21:36:56.978Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 17,
-        "wind": "6 to 9 mph W",
+        "wind": "8 mph W",
         "conditions": "Chance Snow Showers",
-        "precipitation": "3%"
+        "precipitation": "10%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 22,
-        "wind": "9 mph NW",
+        "wind": "6 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 13,
-        "wind": "9 mph W",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "39%"
+        "wind": "12 mph W",
+        "conditions": "Light Snow Likely",
+        "precipitation": "58%"
       }
     },
     {
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "6 mph NE",
+        "wind": "5 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,7 +107,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "5 to 10 mph NW",
+        "wind": "5 to 10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -120,7 +120,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "2 to 6 mph NW",
+        "wind": "6 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 24,
-        "wind": "6 to 9 mph NE",
-        "conditions": "Cloudy then Scattered Snow Showers",
-        "precipitation": "12%"
+        "temp": 25,
+        "wind": "7 mph NNE",
+        "conditions": "Slight Chance Snow Showers",
+        "precipitation": "3%"
       }
     },
     {
@@ -162,9 +162,9 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "12 mph NE",
+        "wind": "10 mph NE",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -175,8 +175,8 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "3 to 14 mph WNW",
-        "conditions": "Sunny",
+        "wind": "10 to 15 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     }
