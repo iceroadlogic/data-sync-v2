@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-29T22:38:12.591Z",
+  "lastUpdated": "2026-01-29T23:02:50.391Z",
   "games": [
     {
       "game_id": "401772938",
@@ -17,9 +17,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 17,
-        "wind": "6 mph W",
-        "conditions": "Chance Snow Showers",
+        "temp": -8,
+        "wind": "1 to 6 mph W",
+        "conditions": "Chance Snow Showers then Partly Cloudy",
         "precipitation": "10%"
       }
     },
@@ -30,9 +30,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
-        "wind": "6 mph W",
-        "conditions": "Mostly Sunny",
+        "temp": 1,
+        "wind": "8 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -51,10 +51,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 13,
-        "wind": "10 mph W",
-        "conditions": "Light Snow Likely",
-        "precipitation": "58%"
+        "temp": -5,
+        "wind": "6 to 9 mph W",
+        "conditions": "Light Snow Likely then Chance Snow Showers",
+        "precipitation": "61%"
       }
     },
     {
@@ -72,9 +72,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 22,
-        "wind": "8 mph W",
-        "conditions": "Mostly Sunny",
+        "temp": 7,
+        "wind": "7 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -85,9 +85,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "3 mph NE",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "3 mph NNE",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -141,7 +141,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "7 mph NNE",
+        "wind": "6 mph NNE",
         "conditions": "Slight Chance Snow Showers",
         "precipitation": "0%"
       }
@@ -161,10 +161,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "9 mph NE",
-        "conditions": "Sunny",
-        "precipitation": "2%"
+        "temp": 61,
+        "wind": "3 to 7 mph NE",
+        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "21%"
       }
     },
     {
@@ -175,7 +175,7 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "10 to 14 mph NW",
+        "wind": "13 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
