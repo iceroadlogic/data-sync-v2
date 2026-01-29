@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-28T22:34:54.486Z",
+  "lastUpdated": "2026-01-29T06:58:19.687Z",
   "week": 4,
   "summary": {
     "total_players": 758,
-    "questionable": 44,
+    "questionable": 48,
     "doubtful": 0,
     "out": 10
   },
@@ -299,6 +299,16 @@
       "injury_description": null
     },
     {
+      "player_id": "4177",
+      "source_id": "2991662",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
       "player_id": "11564",
       "source_id": "4431452",
       "player_name": "Drake Maye",
@@ -404,6 +414,36 @@
       "player_name": "Jake Tonges",
       "position": "TE",
       "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10867",
+      "source_id": "4360405",
+      "player_name": "Jake Bobo",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4943",
+      "source_id": "3912547",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "4189",
+      "source_id": "2975863",
+      "player_name": "Eric Saubert",
+      "position": "TE",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
