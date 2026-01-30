@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-30T10:36:25.592Z",
+  "lastUpdated": "2026-01-30T16:41:36.483Z",
   "games": [
     {
       "game_id": "401772938",
@@ -17,9 +17,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": -7,
-        "wind": "1 mph W",
-        "conditions": "Chance Snow Showers",
+        "temp": 15,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -30,10 +30,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 0,
-        "wind": "8 mph W",
-        "conditions": "Clear",
-        "precipitation": "0%"
+        "temp": 14,
+        "wind": "12 mph W",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": -4,
-        "wind": "6 mph W",
-        "conditions": "Chance Snow Showers",
-        "precipitation": "25%"
+        "temp": 9,
+        "wind": "8 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
@@ -72,9 +72,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 7,
-        "wind": "7 mph W",
-        "conditions": "Clear",
+        "temp": 20,
+        "wind": "14 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -85,9 +85,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "2 mph NNE",
-        "conditions": "Partly Cloudy",
+        "temp": 70,
+        "wind": "6 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -106,9 +106,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "5 mph NE",
-        "conditions": "Mostly Clear",
+        "temp": 84,
+        "wind": "5 to 10 mph NNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -119,9 +119,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "2 mph S",
-        "conditions": "Mostly Cloudy",
+        "temp": 69,
+        "wind": "5 mph NNE",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -140,10 +140,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 13,
-        "wind": "2 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "temp": 21,
+        "wind": "6 to 13 mph N",
+        "conditions": "Partly Sunny then Chance Snow Showers",
+        "precipitation": "12%"
       }
     },
     {
@@ -161,10 +161,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "2 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "10%"
+        "temp": 70,
+        "wind": "6 mph NW",
+        "conditions": "Mostly Cloudy then Chance Rain Showers",
+        "precipitation": "25%"
       }
     },
     {
@@ -174,10 +174,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 24,
-        "wind": "6 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
+        "temp": 49,
+        "wind": "7 mph NNW",
+        "conditions": "Sunny",
+        "precipitation": "7%"
       }
     }
   ]
