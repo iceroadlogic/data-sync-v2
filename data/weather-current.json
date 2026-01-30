@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-01-30T16:41:36.483Z",
+  "lastUpdated": "2026-01-30T22:27:42.720Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,7 +18,7 @@
       "is_dome": false,
       "weather": {
         "temp": 15,
-        "wind": "3 to 8 mph NW",
+        "wind": "5 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -31,8 +31,8 @@
       "is_dome": false,
       "weather": {
         "temp": 14,
-        "wind": "12 mph W",
-        "conditions": "Sunny",
+        "wind": "8 mph W",
+        "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
     },
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 9,
-        "wind": "8 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "wind": "9 mph W",
+        "conditions": "Slight Chance Snow Showers",
+        "precipitation": "19%"
       }
     },
     {
@@ -72,9 +72,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 20,
-        "wind": "14 mph W",
-        "conditions": "Sunny",
+        "temp": 19,
+        "wind": "13 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -85,9 +85,9 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "6 mph SW",
-        "conditions": "Sunny",
+        "temp": 69,
+        "wind": "6 mph W",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -106,8 +106,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "5 to 10 mph NNW",
+        "temp": 85,
+        "wind": "10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -120,7 +120,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 mph NNE",
+        "wind": "5 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -141,8 +141,8 @@
       "is_dome": false,
       "weather": {
         "temp": 21,
-        "wind": "6 to 13 mph N",
-        "conditions": "Partly Sunny then Chance Snow Showers",
+        "wind": "15 mph N",
+        "conditions": "Chance Snow Showers",
         "precipitation": "12%"
       }
     },
@@ -162,9 +162,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "6 mph NW",
-        "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "25%"
+        "wind": "5 mph NW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "12%"
       }
     },
     {
@@ -174,8 +174,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "7 mph NNW",
+        "temp": 52,
+        "wind": "6 mph NNE",
         "conditions": "Sunny",
         "precipitation": "7%"
       }
