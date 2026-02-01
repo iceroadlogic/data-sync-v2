@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-01T20:30:54.751Z",
+  "lastUpdated": "2026-02-01T20:51:25.728Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,7 +18,7 @@
       "is_dome": false,
       "weather": {
         "temp": 19,
-        "wind": "9 mph NW",
+        "wind": "7 to 10 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -32,7 +32,7 @@
       "weather": {
         "temp": 23,
         "wind": "13 mph N",
-        "conditions": "Partly Sunny",
+        "conditions": "Mostly Cloudy",
         "precipitation": "1%"
       }
     },
@@ -51,10 +51,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 15,
-        "wind": "13 mph SW",
-        "conditions": "Slight Chance Snow Showers",
-        "precipitation": "21%"
+        "temp": 17,
+        "wind": "6 mph W",
+        "conditions": "Chance Snow Showers",
+        "precipitation": "32%"
       }
     },
     {
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "12 mph NW",
+        "wind": "13 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,7 +107,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "5 to 10 mph NNW",
+        "wind": "5 to 10 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -120,8 +120,8 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 to 8 mph NW",
-        "conditions": "Mostly Sunny",
+        "wind": "7 to 12 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -142,7 +142,7 @@
       "weather": {
         "temp": 39,
         "wind": "6 to 12 mph WSW",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
     },
@@ -175,8 +175,8 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 mph NE",
-        "conditions": "Sunny",
+        "wind": "3 mph NE",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     }
