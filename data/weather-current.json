@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-01T17:51:50.604Z",
+  "lastUpdated": "2026-02-01T18:39:31.663Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 19,
-        "wind": "10 mph NW",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "wind": "7 to 10 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "14 mph N",
-        "conditions": "Cloudy",
-        "precipitation": "2%"
+        "wind": "10 to 14 mph N",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 17,
-        "wind": "5 to 9 mph NW",
+        "wind": "6 mph W",
         "conditions": "Chance Snow Showers",
-        "precipitation": "38%"
+        "precipitation": "40%"
       }
     },
     {
@@ -73,7 +73,7 @@
       "is_dome": false,
       "weather": {
         "temp": 24,
-        "wind": "15 to 20 mph N",
+        "wind": "15 to 18 mph NW",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -107,7 +107,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "5 to 10 mph NNW",
+        "wind": "5 to 10 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -120,8 +120,8 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "5 to 12 mph NW",
-        "conditions": "Patchy Fog then Partly Sunny",
+        "wind": "6 to 12 mph NW",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -142,8 +142,8 @@
       "weather": {
         "temp": 39,
         "wind": "6 to 13 mph WSW",
-        "conditions": "Sunny",
-        "precipitation": "5%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -162,7 +162,7 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "12 to 17 mph NW",
+        "wind": "14 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
