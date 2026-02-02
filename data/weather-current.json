@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-02T00:00:53.790Z",
+  "lastUpdated": "2026-02-02T10:46:49.460Z",
   "games": [
     {
       "game_id": "401772938",
@@ -17,9 +17,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 1,
-        "wind": "6 mph W",
-        "conditions": "Partly Cloudy",
+        "temp": 0,
+        "wind": "5 mph S",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -31,8 +31,8 @@
       "is_dome": false,
       "weather": {
         "temp": 8,
-        "wind": "7 to 13 mph NW",
-        "conditions": "Mostly Cloudy",
+        "wind": "6 mph NW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -51,9 +51,9 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 2,
-        "wind": "5 mph SW",
-        "conditions": "Mostly Cloudy",
+        "temp": 4,
+        "wind": "7 mph SW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -73,8 +73,8 @@
       "is_dome": false,
       "weather": {
         "temp": 11,
-        "wind": "9 to 13 mph NW",
-        "conditions": "Partly Cloudy",
+        "wind": "7 mph NW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -86,8 +86,8 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "6 mph N",
-        "conditions": "Mostly Clear",
+        "wind": "5 mph NNE",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -106,9 +106,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "5 mph W",
-        "conditions": "Sunny",
+        "temp": 56,
+        "wind": "0 mph ",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -119,9 +119,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "8 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 42,
+        "wind": "5 mph WNW",
+        "conditions": "Areas Of Fog",
         "precipitation": "0%"
       }
     },
@@ -141,7 +141,7 @@
       "is_dome": false,
       "weather": {
         "temp": 23,
-        "wind": "5 mph WSW",
+        "wind": "2 mph W",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -174,9 +174,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "3 mph NE",
-        "conditions": "Sunny",
+        "temp": 35,
+        "wind": "6 mph SW",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     }
