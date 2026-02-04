@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-04T16:52:09.739Z",
+  "lastUpdated": "2026-02-04T22:30:06.054Z",
   "games": [
     {
       "game_id": "401772938",
@@ -18,7 +18,7 @@
       "is_dome": false,
       "weather": {
         "temp": 25,
-        "wind": "3 to 7 mph N",
+        "wind": "5 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -31,7 +31,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "8 to 13 mph NW",
+        "wind": "8 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 20,
-        "wind": "6 mph W",
-        "conditions": "Partly Sunny",
-        "precipitation": "6%"
+        "wind": "10 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -73,8 +73,8 @@
       "is_dome": false,
       "weather": {
         "temp": 33,
-        "wind": "10 mph NW",
-        "conditions": "Sunny",
+        "wind": "6 mph NW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 to 8 mph SSW",
+        "wind": "6 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,7 +107,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "5 to 10 mph NW",
+        "wind": "10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -120,7 +120,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "5 mph N",
+        "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "7 mph NNW",
+        "wind": "6 mph NW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "5%"
       }
     },
     {
@@ -164,7 +164,7 @@
         "temp": 74,
         "wind": "6 mph SE",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "3%"
       }
     },
     {
@@ -174,8 +174,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "6 mph SSE",
+        "temp": 53,
+        "wind": "5 mph SSE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
