@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-08T17:29:21.380Z",
+  "lastUpdated": "2026-02-08T17:54:05.548Z",
   "games": [
     {
       "game_id": "401772938",
@@ -17,7 +17,7 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 18,
+        "temp": 17,
         "wind": "7 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
@@ -30,10 +30,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 18,
-        "wind": "12 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "temp": 17,
+        "wind": "10 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 mph NW",
+        "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
