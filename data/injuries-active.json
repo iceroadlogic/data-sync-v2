@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-08T21:49:34.530Z",
+  "lastUpdated": "2026-02-08T22:21:50.966Z",
   "week": 4,
   "summary": {
     "total_players": 758,
     "questionable": 41,
     "doubtful": 0,
-    "out": 10
+    "out": 14
   },
   "questionable": [
     {
@@ -482,6 +482,26 @@
       "injury_description": null
     },
     {
+      "player_id": "12542",
+      "source_id": "4695193",
+      "player_name": "Efton Chism III",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "11292",
+      "source_id": "4240391",
+      "player_name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
       "player_id": "6659",
       "source_id": "4421446",
       "player_name": "Craig Reynolds",
@@ -518,6 +538,26 @@
       "position": "QB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "13151",
+      "source_id": "4569547",
+      "player_name": "Nick Kallerup",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null
     }
