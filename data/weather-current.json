@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-02-08T17:54:05.548Z",
+  "lastUpdated": "2026-02-08T18:41:33.253Z",
   "games": [
     {
       "game_id": "401772938",
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 7,
-        "wind": "3 to 7 mph NW",
-        "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "wind": "7 mph NW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "5%"
       }
     },
     {
@@ -72,8 +72,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 16,
-        "wind": "15 to 18 mph NW",
+        "temp": 17,
+        "wind": "15 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 mph NNW",
+        "wind": "5 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -107,7 +107,7 @@
       "is_dome": false,
       "weather": {
         "temp": 81,
-        "wind": "5 to 10 mph NNW",
+        "wind": "5 to 10 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -141,7 +141,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "7 mph NW",
+        "wind": "5 to 9 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -161,10 +161,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
+        "temp": 73,
         "wind": "10 mph E",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
