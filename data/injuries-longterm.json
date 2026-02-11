@@ -1,112 +1,12 @@
 {
-  "lastUpdated": "2026-02-11T16:54:29.472Z",
+  "lastUpdated": "2026-02-11T20:29:33.474Z",
   "week": 0,
   "summary": {
     "total_players": 760,
-    "ir": 110,
+    "ir": 100,
     "suspended": 0
   },
   "ir": [
-    {
-      "player_id": "11589",
-      "source_id": "4429275",
-      "player_name": "Trey Benson",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "4137",
-      "source_id": "3045147",
-      "player_name": "James Conner",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "5970",
-      "source_id": "4037235",
-      "player_name": "Greg Dortch",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "7812",
-      "source_id": "4360739",
-      "player_name": "Simi Fehoko",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "4080",
-      "source_id": "3059722",
-      "player_name": "Zay Jones",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "8122",
-      "source_id": "4427728",
-      "player_name": "Bam Knight",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "5849",
-      "source_id": "3917315",
-      "player_name": "Kyler Murray",
-      "position": "QB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11716",
-      "source_id": "4696700",
-      "player_name": "Tip Reiman",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11381",
-      "source_id": "4259324",
-      "player_name": "Travis Vokolek",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
     {
       "player_id": "5773",
       "source_id": "3047876",
