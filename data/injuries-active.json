@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-17T22:39:50.919Z",
+  "lastUpdated": "2026-02-18T07:09:52.941Z",
   "week": 0,
   "summary": {
-    "total_players": 759,
-    "questionable": 158,
+    "total_players": 754,
+    "questionable": 157,
     "doubtful": 0,
-    "out": 2
+    "out": 1
   },
   "questionable": [
     {
@@ -113,16 +113,6 @@
       "source_id": "3047876",
       "player_name": "KhaDarel Hodge",
       "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11961",
-      "source_id": "4360230",
-      "player_name": "Emory Jones",
-      "position": "QB",
       "team_abbr": "ATL",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
@@ -1591,16 +1581,6 @@
   ],
   "doubtful": [],
   "out": [
-    {
-      "player_id": "6659",
-      "source_id": "4421446",
-      "player_name": "Craig Reynolds",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "practice-squad",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
     {
       "player_id": "6803",
       "source_id": "4360438",
