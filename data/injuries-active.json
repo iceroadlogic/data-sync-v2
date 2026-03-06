@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T14:43:36.464Z",
+  "lastUpdated": "2026-03-06T22:36:33.425Z",
   "week": 0,
   "summary": {
-    "total_players": 752,
-    "questionable": 153,
+    "total_players": 750,
+    "questionable": 150,
     "doubtful": 0,
     "out": 1
   },
@@ -329,16 +329,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4017",
-      "source_id": "3122840",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "7588",
       "source_id": "4361579",
       "player_name": "Javonte Williams",
@@ -539,16 +529,6 @@
       "injury_description": null
     },
     {
-      "player_id": "4018",
-      "source_id": "3116385",
-      "player_name": "Joe Mixon",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "10220",
       "source_id": "4362523",
       "player_name": "Will Mallory",
@@ -723,16 +703,6 @@
       "source_id": "2576414",
       "player_name": "Raheem Mostert",
       "position": "RB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "1373",
-      "source_id": "15864",
-      "player_name": "Geno Smith",
-      "position": "QB",
       "team_abbr": "LV",
       "injury_status": "active",
       "injury_designation": "Questionable",
