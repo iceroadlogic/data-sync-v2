@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-07T22:31:00.807Z",
+  "lastUpdated": "2026-03-08T14:21:19.326Z",
   "week": 0,
   "summary": {
     "total_players": 750,
-    "questionable": 150,
+    "questionable": 149,
     "doubtful": 0,
     "out": 1
   },
@@ -805,16 +805,6 @@
       "position": "TE",
       "team_abbr": "MIA",
       "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "5844",
-      "source_id": "4036133",
-      "player_name": "T.J. Hockenson",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
     },
