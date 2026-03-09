@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-09T14:59:05.491Z",
+  "lastUpdated": "2026-03-09T21:19:58.310Z",
   "week": 0,
   "summary": {
     "total_players": 748,
-    "questionable": 149,
+    "questionable": 144,
     "doubtful": 0,
     "out": 1
   },
@@ -369,16 +369,6 @@
       "injury_description": null
     },
     {
-      "player_id": "6806",
-      "source_id": "4241985",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "team_abbr": "DEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "8249",
       "source_id": "4360231",
       "player_name": "Lucas Krull",
@@ -652,16 +642,6 @@
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "6011",
-      "source_id": "4038524",
-      "player_name": "Gardner Minshew",
       "position": "QB",
       "team_abbr": "KC",
       "injury_status": "day-to-day",
@@ -1049,16 +1029,6 @@
       "injury_description": null
     },
     {
-      "player_id": "11597",
-      "source_id": "4429148",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12889",
       "source_id": "4431210",
       "player_name": "Beaux Collins",
@@ -1102,16 +1072,6 @@
       "player_id": "11632",
       "source_id": "4595348",
       "player_name": "Malik Nabers",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8126",
-      "source_id": "4569587",
-      "player_name": "Wan'Dale Robinson",
       "position": "WR",
       "team_abbr": "NYG",
       "injury_status": "day-to-day",
@@ -1422,16 +1382,6 @@
       "player_id": "11566",
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "2307",
-      "source_id": "2576980",
-      "player_name": "Marcus Mariota",
       "position": "QB",
       "team_abbr": "WAS",
       "injury_status": "active",
