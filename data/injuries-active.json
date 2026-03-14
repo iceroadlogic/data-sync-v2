@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T06:58:28.729Z",
+  "lastUpdated": "2026-03-14T14:35:52.139Z",
   "week": 0,
   "summary": {
     "total_players": 748,
@@ -263,16 +263,6 @@
       "source_id": "2580216",
       "player_name": "DeAndre Carter",
       "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8143",
-      "source_id": "4372019",
-      "player_name": "Jerome Ford",
-      "position": "RB",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
@@ -1213,6 +1203,16 @@
       "source_id": "4426348",
       "player_name": "Jayden Daniels",
       "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8143",
+      "source_id": "4372019",
+      "player_name": "Jerome Ford",
+      "position": "RB",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
