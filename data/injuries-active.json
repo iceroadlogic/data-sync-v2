@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-20T15:21:23.655Z",
+  "lastUpdated": "2026-04-20T21:35:00.290Z",
   "week": 0,
   "summary": {
     "total_players": 675,
-    "questionable": 95,
+    "questionable": 96,
     "doubtful": 0,
     "out": 1
   },
@@ -403,6 +403,16 @@
       "source_id": "4362523",
       "player_name": "Will Mallory",
       "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
