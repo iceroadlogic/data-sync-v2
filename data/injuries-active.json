@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-30T08:31:16.537Z",
+  "lastUpdated": "2026-04-30T15:50:05.702Z",
   "week": 0,
   "summary": {
     "total_players": 860,
-    "questionable": 89,
+    "questionable": 90,
     "doubtful": 0,
     "out": 1
   },
@@ -663,6 +663,16 @@
       "source_id": "4696981",
       "player_name": "Cam Skattebo",
       "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6149",
+      "source_id": "3916945",
+      "player_name": "Darius Slayton",
+      "position": "WR",
       "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Questionable",
