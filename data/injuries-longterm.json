@@ -1,11 +1,22 @@
 {
-  "lastUpdated": "2026-05-04T17:21:56.109Z",
+  "lastUpdated": "2026-05-04T20:58:31.628Z",
   "week": 0,
   "summary": {
-    "total_players": 867,
-    "ir": 0,
+    "total_players": 868,
+    "ir": 1,
     "suspended": 0
   },
-  "ir": [],
+  "ir": [
+    {
+      "player_id": "9489",
+      "source_id": "4361426",
+      "player_name": "Justin Shorter",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    }
+  ],
   "suspended": []
 }
