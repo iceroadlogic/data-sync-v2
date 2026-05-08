@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-08T15:28:04.792Z",
+  "lastUpdated": "2026-05-08T23:01:18.847Z",
   "week": 0,
   "summary": {
-    "total_players": 871,
-    "questionable": 89,
+    "total_players": 877,
+    "questionable": 86,
     "doubtful": 0,
     "out": 1
   },
@@ -199,16 +199,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12492",
-      "source_id": "4600981",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "11627",
       "source_id": "4431280",
       "player_name": "Troy Franklin",
@@ -373,16 +363,6 @@
       "source_id": "4360078",
       "player_name": "Alec Pierce",
       "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "9229",
-      "source_id": "4429084",
-      "player_name": "Anthony Richardson Sr.",
-      "position": "QB",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -702,16 +682,6 @@
       "player_id": "11571",
       "source_id": "4695404",
       "player_name": "Isaiah Davis",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8155",
-      "source_id": "4427366",
-      "player_name": "Breece Hall",
       "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "active",
