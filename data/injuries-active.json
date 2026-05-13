@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-13T08:52:56.137Z",
+  "lastUpdated": "2026-05-13T16:25:23.849Z",
   "week": 0,
   "summary": {
     "total_players": 886,
-    "questionable": 86,
+    "questionable": 87,
     "doubtful": 0,
     "out": 1
   },
@@ -774,6 +774,16 @@
       "player_name": "Kenny McIntosh",
       "position": "RB",
       "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11584",
+      "source_id": "4596448",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
