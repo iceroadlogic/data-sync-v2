@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-19T23:11:00.892Z",
+  "lastUpdated": "2026-05-20T09:47:26.756Z",
   "week": 0,
   "summary": {
     "total_players": 883,
-    "questionable": 51,
+    "questionable": 53,
     "doubtful": 0,
     "out": 1
   },
@@ -34,6 +34,16 @@
       "player_name": "Dayton Wade",
       "position": "WR",
       "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
@@ -133,6 +143,16 @@
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
       "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10229",
+      "source_id": "4428331",
+      "player_name": "Rashee Rice",
+      "position": "WR",
       "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
