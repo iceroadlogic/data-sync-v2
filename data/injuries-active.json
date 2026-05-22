@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-21T23:57:34.749Z",
+  "lastUpdated": "2026-05-22T09:40:02.018Z",
   "week": 0,
   "summary": {
     "total_players": 884,
-    "questionable": 48,
+    "questionable": 49,
     "doubtful": 0,
     "out": 1
   },
@@ -293,6 +293,16 @@
       "source_id": "4590292",
       "player_name": "Thomas Fidone II",
       "position": "TE",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "9497",
+      "source_id": "4692590",
+      "player_name": "Jalin Hyatt",
+      "position": "WR",
       "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Questionable",
