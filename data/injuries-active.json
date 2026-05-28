@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-28T23:22:55.490Z",
+  "lastUpdated": "2026-05-28T23:50:36.135Z",
   "week": 0,
   "summary": {
     "total_players": 884,
-    "questionable": 44,
+    "questionable": 45,
     "doubtful": 0,
     "out": 1
   },
@@ -83,6 +83,16 @@
       "source_id": "4366031",
       "player_name": "Tank Dell",
       "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "7568",
+      "source_id": "4362504",
+      "player_name": "Brevin Jordan",
+      "position": "TE",
       "team_abbr": "HOU",
       "injury_status": "active",
       "injury_designation": "Questionable",
