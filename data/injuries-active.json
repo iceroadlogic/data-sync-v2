@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-01T19:22:00.671Z",
+  "lastUpdated": "2026-06-01T22:54:05.160Z",
   "week": 0,
   "summary": {
-    "total_players": 887,
+    "total_players": 890,
     "questionable": 45,
     "doubtful": 0,
-    "out": 2
+    "out": 1
   },
   "questionable": [
     {
@@ -461,16 +461,6 @@
   ],
   "doubtful": [],
   "out": [
-    {
-      "player_id": "6699",
-      "source_id": "4424106",
-      "player_name": "Gunner Olszewski",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null
-    },
     {
       "player_id": "6803",
       "source_id": "4360438",
