@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-01T22:30:05.853Z",
+  "lastUpdated": "2026-06-02T15:59:28.326Z",
   "week": 0,
   "summary": {
     "total_players": 890,
-    "ir": 3,
+    "ir": 2,
     "suspended": 0
   },
   "ir": [
@@ -23,16 +23,6 @@
       "player_name": "Julian Hill",
       "position": "TE",
       "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "6699",
-      "source_id": "4424106",
-      "player_name": "Gunner Olszewski",
-      "position": "WR",
-      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
