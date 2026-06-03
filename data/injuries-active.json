@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-02T23:52:41.667Z",
+  "lastUpdated": "2026-06-03T11:12:18.850Z",
   "week": 0,
   "summary": {
-    "total_players": 889,
-    "questionable": 46,
+    "total_players": 890,
+    "questionable": 47,
     "doubtful": 0,
     "out": 1
   },
@@ -54,6 +54,16 @@
       "player_name": "Tetairoa McMillan",
       "position": "WR",
       "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "11592",
+      "source_id": "4427834",
+      "player_name": "Erick All Jr.",
+      "position": "TE",
+      "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
