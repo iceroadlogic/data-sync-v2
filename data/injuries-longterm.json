@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-02T22:16:59.066Z",
+  "lastUpdated": "2026-06-03T16:16:36.866Z",
   "week": 0,
   "summary": {
     "total_players": 890,
-    "ir": 2,
+    "ir": 1,
     "suspended": 0
   },
   "ir": [
@@ -14,16 +14,6 @@
       "position": "WR",
       "team_abbr": "LV",
       "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null
-    },
-    {
-      "player_id": "11371",
-      "source_id": "4365395",
-      "player_name": "Julian Hill",
-      "position": "TE",
-      "team_abbr": "NE",
-      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null
     }
