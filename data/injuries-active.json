@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-03T11:12:18.850Z",
+  "lastUpdated": "2026-06-03T18:24:42.639Z",
   "week": 0,
   "summary": {
     "total_players": 890,
-    "questionable": 47,
+    "questionable": 44,
     "doubtful": 0,
     "out": 1
   },
@@ -119,16 +119,6 @@
       "injury_description": null
     },
     {
-      "player_id": "5001",
-      "source_id": "3117256",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "5870",
       "source_id": "3917792",
       "player_name": "Daniel Jones",
@@ -189,16 +179,6 @@
       "injury_description": null
     },
     {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "9226",
       "source_id": "4429160",
       "player_name": "De'Von Achane",
@@ -253,16 +233,6 @@
       "source_id": "4876006",
       "player_name": "Zaire Mitchell-Paden",
       "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
       "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Questionable",
