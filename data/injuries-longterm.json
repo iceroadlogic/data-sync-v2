@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-03T22:23:33.724Z",
+  "lastUpdated": "2026-06-04T14:34:43.771Z",
   "week": 0,
   "summary": {
-    "total_players": 890,
-    "ir": 1,
+    "total_players": 892,
+    "ir": 3,
     "suspended": 0
   },
   "ir": [
@@ -13,6 +13,26 @@
       "player_name": "Justin Shorter",
       "position": "WR",
       "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "11371",
+      "source_id": "4365395",
+      "player_name": "Julian Hill",
+      "position": "TE",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null
+    },
+    {
+      "player_id": "6699",
+      "source_id": "4424106",
+      "player_name": "Gunner Olszewski",
+      "position": "WR",
+      "team_abbr": "NYG",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null
