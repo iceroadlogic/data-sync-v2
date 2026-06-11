@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-11T17:38:37.273Z",
+  "lastUpdated": "2026-06-11T22:48:04.607Z",
   "week": 0,
   "summary": {
-    "total_players": 894,
-    "questionable": 46,
+    "total_players": 896,
+    "questionable": 45,
     "doubtful": 0,
     "out": 1
   },
@@ -49,16 +49,6 @@
       "injury_description": null
     },
     {
-      "player_id": "7670",
-      "source_id": "4242433",
-      "player_name": "Joshua Palmer",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
       "player_id": "12526",
       "source_id": "4685472",
       "player_name": "Tetairoa McMillan",
@@ -83,6 +73,16 @@
       "source_id": "5083076",
       "player_name": "Harold Fannin Jr.",
       "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "6783",
+      "source_id": "4241463",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
       "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
@@ -452,16 +452,6 @@
       "player_id": "12533",
       "source_id": "4575131",
       "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "8143",
-      "source_id": "4372019",
-      "player_name": "Jerome Ford",
       "position": "RB",
       "team_abbr": "WAS",
       "injury_status": "active",
