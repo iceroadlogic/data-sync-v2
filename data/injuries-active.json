@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-15T18:42:57.528Z",
+  "lastUpdated": "2026-06-15T22:52:41.854Z",
   "week": 0,
   "summary": {
     "total_players": 897,
-    "questionable": 45,
+    "questionable": 46,
     "doubtful": 0,
     "out": 1
   },
@@ -114,6 +114,16 @@
       "player_name": "Jonathan Mingo",
       "position": "WR",
       "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "12489",
+      "source_id": "4568490",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "team_abbr": "DEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
