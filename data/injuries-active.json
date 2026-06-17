@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-17T11:08:30.686Z",
+  "lastUpdated": "2026-06-17T17:11:22.212Z",
   "week": 0,
   "summary": {
     "total_players": 900,
-    "questionable": 47,
+    "questionable": 48,
     "doubtful": 0,
     "out": 1
   },
@@ -34,6 +34,16 @@
       "player_name": "Tip Reiman",
       "position": "TE",
       "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "8112",
+      "source_id": "4426502",
+      "player_name": "Drake London",
+      "position": "WR",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
