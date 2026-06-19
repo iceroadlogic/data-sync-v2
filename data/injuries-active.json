@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-19T10:48:23.993Z",
+  "lastUpdated": "2026-06-19T16:34:54.803Z",
   "week": 0,
   "summary": {
-    "total_players": 906,
-    "questionable": 47,
+    "total_players": 876,
+    "questionable": 44,
     "doubtful": 0,
     "out": 1
   },
@@ -224,36 +224,6 @@
       "player_name": "Travis Hunter",
       "position": "WR",
       "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "4046",
-      "source_id": "3139477",
-      "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "10229",
-      "source_id": "4428331",
-      "player_name": "Rashee Rice",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null
-    },
-    {
-      "player_id": "11624",
-      "source_id": "4683062",
-      "player_name": "Xavier Worthy",
-      "position": "WR",
-      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
