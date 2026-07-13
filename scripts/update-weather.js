@@ -24,7 +24,7 @@ async function getCurrentNFLWeek() {
 
     // Fallback to calculation if API fails
     const now = new Date();
-    const seasonStart = new Date('2025-09-03T00:00:00Z');
+    const seasonStart = new Date('2026-09-09T00:00:00Z');
     const daysSinceStart = Math.floor((now - seasonStart) / (1000 * 60 * 60 * 24));
     return Math.min(Math.floor(daysSinceStart / 7) + 1, 18);
   }
