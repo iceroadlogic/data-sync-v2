@@ -52,7 +52,11 @@ async function fetchWeek(season, week) {
       venue: {
         name: venue.fullName || 'TBD',
         city: address.city || '',
-        state: address.state || '',
+        // App convention: state "XX" marks international games (the NFL
+        // Schedule screen's Int'l filter keys on it).
+        state: address.country && address.country !== 'USA'
+          ? 'XX'
+          : (address.state || ''),
       },
       status: 'scheduled',
     };
