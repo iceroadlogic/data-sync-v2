@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-17T15:18:32.624Z",
+  "lastUpdated": "2026-07-17T22:55:06.721Z",
   "week": 0,
   "summary": {
-    "total_players": 896,
-    "questionable": 46,
+    "total_players": 898,
+    "questionable": 47,
     "doubtful": 0,
     "out": 1
   },
@@ -64,6 +64,16 @@
       "player_name": "Tetairoa McMillan",
       "position": "WR",
       "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null
+    },
+    {
+      "player_id": "10235",
+      "source_id": "4426386",
+      "player_name": "Roschon Johnson",
+      "position": "RB",
+      "team_abbr": "CHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null
