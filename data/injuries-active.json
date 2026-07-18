@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-18T15:00:36.980Z",
+  "lastUpdated": "2026-07-18T22:56:20.248Z",
   "week": 0,
   "summary": {
     "total_players": 900,
     "questionable": 58,
     "doubtful": 0,
-    "out": 1
+    "out": 2
   },
   "questionable": [
     {
@@ -777,6 +777,19 @@
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-08-01",
       "injury_comment": "In a video posted to Instagram Wednesday, Aiyuk (knee) said that if the 49ers released him, he'd sign with the Commanders \"tomorrow,\" ESPN.com reports."
+    },
+    {
+      "player_id": "13432",
+      "source_id": "4699678",
+      "player_name": "Khalil Dinkins",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "The 49ers placed Dinkins (undisclosed) on the active/non-football injury list Saturday."
     }
   ]
 }
