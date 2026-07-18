@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T20:42:44.645Z",
+  "lastUpdated": "2026-07-18T06:40:33.665Z",
   "week": 0,
   "summary": {
     "total_players": 898,
@@ -15,7 +15,10 @@
       "team_abbr": "LV",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
-      "injury_description": null
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Shorter (undisclosed) was placed on the reserve/injured list by the Raiders on Monday."
     },
     {
       "player_id": "11371",
@@ -25,7 +28,10 @@
       "team_abbr": "NE",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
-      "injury_description": null
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Patriots placed Hill (knee) on IR on Monday, Evan Lazar of the team's official site reports."
     },
     {
       "player_id": "6699",
@@ -35,7 +41,10 @@
       "team_abbr": "NYG",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
-      "injury_description": null
+      "injury_description": null,
+      "injury_detail": "Achilles",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Olszewski (Achilles) was placed on injured reserve by the Giants on Monday, Dan Salomone of the team's official site reports."
     }
   ],
   "suspended": []

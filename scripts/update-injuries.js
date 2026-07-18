@@ -35,6 +35,44 @@ async function loadPlayerMapping() {
   }
 }
 
+// ESPN's dedicated injuries API — one request for the whole league.
+// Richer than the roster feed: injury type ("Knee - Meniscus"), an
+// estimated return date, and a beat-writer comment per injury.
+async function fetchInjuryDetails() {
+  try {
+    console.log('Fetching ESPN injury details (return dates, comments)...');
+    const url = 'https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/injuries';
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} for injuries feed`);
+    }
+    const data = await response.json();
+
+    // ESPN athlete id -> { detail, returnDate, comment }. The feed's
+    // athlete object carries no bare id — extract it from the player
+    // link (/id/12345/) or the headshot filename.
+    const detailsById = {};
+    (data.injuries || []).forEach(team => {
+      (team.injuries || []).forEach(injury => {
+        const link = injury.athlete?.links?.[0]?.href || '';
+        const headshot = injury.athlete?.headshot?.href || '';
+        const athleteId = (link.match(/\/id\/(\d+)/) || headshot.match(/\/full\/(\d+)\.png/) || [])[1];
+        if (!athleteId) return;
+        detailsById[athleteId] = {
+          detail: injury.details?.type || null,
+          returnDate: injury.details?.returnDate || null,
+          comment: injury.shortComment || null
+        };
+      });
+    });
+    console.log(`Injury details for ${Object.keys(detailsById).length} players`);
+    return detailsById;
+  } catch (error) {
+    console.error('Error fetching injury details:', error.message);
+    return {};   // enrichment is optional — the base pipeline still works
+  }
+}
+
 async function fetchTeamInjuryData(teamId, teamAbbr) {
   try {
     console.log(`Fetching injury data for ${teamAbbr}...`);
@@ -80,7 +118,7 @@ async function fetchTeamInjuryData(teamId, teamAbbr) {
   }
 }
 
-function categorizeInjuries(players, playerMapping) {
+function categorizeInjuries(players, playerMapping, injuryDetails = {}) {
   const active = {
     questionable: [],
     doubtful: [],
@@ -100,6 +138,7 @@ function categorizeInjuries(players, playerMapping) {
       return;
     }
 
+    const details = injuryDetails[player.espn_id] || {};
     const injuryData = {
       player_id: mappedPlayer.player_id,
       source_id: player.espn_id,
@@ -108,7 +147,12 @@ function categorizeInjuries(players, playerMapping) {
       team_abbr: player.team,
       injury_status: player.status,
       injury_designation: player.injury?.status || null,
-      injury_description: player.injury?.details || null
+      injury_description: player.injury?.details || null,
+      // Enrichment from ESPN's dedicated injuries feed (nullable — the
+      // feed doesn't cover every roster-flagged player)
+      injury_detail: details.detail || null,
+      est_return_date: details.returnDate || null,
+      injury_comment: details.comment || null
     };
 
     // Categorize based on status and designation
@@ -141,6 +185,9 @@ async function updateInjuryData() {
   const playerMapping = await loadPlayerMapping();
   console.log(`Loaded mapping for ${Object.keys(playerMapping).length} players`);
 
+  // One-shot league-wide injury details (return dates, comments)
+  const injuryDetails = await fetchInjuryDetails();
+
   const allPlayers = [];
   let successCount = 0;
   let errorCount = 0;
@@ -165,7 +212,7 @@ async function updateInjuryData() {
   console.log(`Total players found: ${allPlayers.length}`);
 
   // Categorize injuries into active and long-term
-  const { active, longTerm } = categorizeInjuries(allPlayers, playerMapping);
+  const { active, longTerm } = categorizeInjuries(allPlayers, playerMapping, injuryDetails);
 
   const currentWeek = await getCurrentNFLWeek();
   const timestamp = new Date().toISOString();
