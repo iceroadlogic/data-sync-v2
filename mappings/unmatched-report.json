@@ -1,0 +1,610 @@
+{
+  "generated": "2026-07-18T06:52:44.015Z",
+  "unmatched_sleeper": [
+    {
+      "player_id": "138",
+      "name": "Ben Roethlisberger",
+      "position": "QB",
+      "team": "PIT",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "812",
+      "name": "Lee Smith",
+      "position": "TE",
+      "team": "ATL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "829",
+      "name": "Andy Dalton",
+      "position": "QB",
+      "team": "PHI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1408",
+      "name": "Le'Veon Bell",
+      "position": "RB",
+      "team": "TB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1592",
+      "name": "Darren Fells",
+      "position": "TE",
+      "team": "TB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1604",
+      "name": "Nick Williams",
+      "position": "WR",
+      "team": "DEN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1642",
+      "name": "Levine Toilolo",
+      "position": "TE",
+      "team": "NYG",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1706",
+      "name": "Jack Doyle",
+      "position": "TE",
+      "team": "IND",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1979",
+      "name": "Blake Bortles",
+      "position": "QB",
+      "team": "NO",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "1984",
+      "name": "Allen Hurns",
+      "position": "WR",
+      "team": "MIA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "2118",
+      "name": "Eric Ebron",
+      "position": "TE",
+      "team": "PIT",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "2152",
+      "name": "Teddy Bridgewater",
+      "position": "QB",
+      "team": "DET",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "2944",
+      "name": "Matt LaCosse",
+      "position": "TE",
+      "team": "NE",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "3239",
+      "name": "Bronson Kaufusi",
+      "position": "TE",
+      "team": "GB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "3309",
+      "name": "Wendell Smallwood",
+      "position": "RB",
+      "team": "WAS",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "3333",
+      "name": "Temarrick Hemingway",
+      "position": "TE",
+      "team": "WAS",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "3668",
+      "name": "Joshua Perkins",
+      "position": "TE",
+      "team": "NYJ",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "3868",
+      "name": "Jalen Richard",
+      "position": "RB",
+      "team": "LV",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4263",
+      "name": "Elijah McGuire",
+      "position": "RB",
+      "team": "KC",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4349",
+      "name": "Taquan Mizzell",
+      "position": "RB",
+      "team": "NYG",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4490",
+      "name": "Wyatt Houston",
+      "position": "TE",
+      "team": "CAR",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4683",
+      "name": "Aaron Bailey",
+      "position": "QB",
+      "team": "BAL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4744",
+      "name": "Barrett Burns",
+      "position": "TE",
+      "team": "BAL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4922",
+      "name": "Garrett Scantling",
+      "position": "WR",
+      "team": "ATL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4924",
+      "name": "Zach Terrell",
+      "position": "QB",
+      "team": "BAL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4926",
+      "name": "Nick Schuessler",
+      "position": "QB",
+      "team": "PIT",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4930",
+      "name": "Franko House",
+      "position": "TE",
+      "team": "CHI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4936",
+      "name": "Skyler Howard",
+      "position": "QB",
+      "team": "SEA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "4937",
+      "name": "Al Riles",
+      "position": "WR",
+      "team": "IND",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "5004",
+      "name": "Ito Smith",
+      "position": "RB",
+      "team": "DAL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "5223",
+      "name": "Caleb Scott",
+      "position": "WR",
+      "team": "TEN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "5638",
+      "name": "Shaq Roland",
+      "position": "WR",
+      "team": "CHI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "5744",
+      "name": "Eldridge Massington",
+      "position": "WR",
+      "team": "NO",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "5957",
+      "name": "Isaac Nauta",
+      "position": "TE",
+      "team": "GB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6016",
+      "name": "Dax Raymond",
+      "position": "TE",
+      "team": "PIT",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6147",
+      "name": "Clayton Thorson",
+      "position": "QB",
+      "team": "NYG",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6167",
+      "name": "Jordan Scarlett",
+      "position": "RB",
+      "team": "MIA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6175",
+      "name": "Kerrith Whyte",
+      "position": "RB",
+      "team": "GB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6323",
+      "name": "Andrew Beck",
+      "position": "RB",
+      "team": "NYJ",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6465",
+      "name": "Thomas Ives",
+      "position": "WR",
+      "team": "CHI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6540",
+      "name": "DeAndre Thompkins",
+      "position": "WR",
+      "team": "GB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6866",
+      "name": "KJ Hill",
+      "position": "WR",
+      "team": "LAC",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "6992",
+      "name": "Michael Warren",
+      "position": "RB",
+      "team": "DET",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7048",
+      "name": "Benny LeMay",
+      "position": "RB",
+      "team": "CLE",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7093",
+      "name": "Adrian Killins",
+      "position": "RB",
+      "team": "DEN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7103",
+      "name": "Tavien Feaster",
+      "position": "RB",
+      "team": "ARI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7149",
+      "name": "Tommy Stevens",
+      "position": "TE",
+      "team": "NYG",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7204",
+      "name": "Reggie Gilliam",
+      "position": "RB",
+      "team": "NE",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7262",
+      "name": "Jalen Morton",
+      "position": "QB",
+      "team": "IND",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "7618",
+      "name": "Micah Simon",
+      "position": "WR",
+      "team": "CAR",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "8088",
+      "name": "Kalif Jackson",
+      "position": "TE",
+      "team": "MIA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "8122",
+      "name": "Zonovan Knight",
+      "position": "RB",
+      "team": "ARI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "8181",
+      "name": "Connor Heyward",
+      "position": "TE",
+      "team": "LV",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "11068",
+      "name": "Mitch Tinsley",
+      "position": "WR",
+      "team": "CIN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "11210",
+      "name": "Malik Heath",
+      "position": "WR",
+      "team": "ATL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "11280",
+      "name": "Brady Russell",
+      "position": "TE",
+      "team": "SEA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "11381",
+      "name": "Travis Vokolek",
+      "position": "TE",
+      "team": "ARI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12045",
+      "name": "Jack Westover",
+      "position": "TE",
+      "team": "NE",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12267",
+      "name": "Qadir Ismail",
+      "position": "WR",
+      "team": "CHI",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12460",
+      "name": "Antwane Wells",
+      "position": "WR",
+      "team": "ATL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12656",
+      "name": "Robbie Ouzts",
+      "position": "RB",
+      "team": "SEA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12792",
+      "name": "Garrett Greene",
+      "position": "QB",
+      "team": "TB",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12892",
+      "name": "Da'Quan Felton",
+      "position": "WR",
+      "team": "NYJ",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "12981",
+      "name": "Gee Scott",
+      "position": "TE",
+      "team": "NYJ",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13034",
+      "name": "Tyrone Broden",
+      "position": "WR",
+      "team": "SEA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13324",
+      "name": "Matt Hibner",
+      "position": "TE",
+      "team": "BAL",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13433",
+      "name": "Riley Nowakowski",
+      "position": "TE",
+      "team": "PIT",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13438",
+      "name": "DeaMonte Trayanum",
+      "position": "RB",
+      "team": "NYJ",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13516",
+      "name": "Max Bredeson",
+      "position": "TE",
+      "team": "MIN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13603",
+      "name": "Gregory Desrosiers",
+      "position": "RB",
+      "team": "LAC",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13608",
+      "name": "Jerand Bradley",
+      "position": "WR",
+      "team": "LAC",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13780",
+      "name": "Terion Stewart",
+      "position": "RB",
+      "team": "KC",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13923",
+      "name": "Joshua Pitsenberger",
+      "position": "RB",
+      "team": "HOU",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "14008",
+      "name": "Rodney Hammond",
+      "position": "RB",
+      "team": "DEN",
+      "ambiguous_espn_candidates": 0
+    }
+  ],
+  "unmatched_espn_sample": [
+    {
+      "espn_id": "4427728",
+      "name": "Bam Knight",
+      "position": "RB",
+      "team": "ARI"
+    },
+    {
+      "espn_id": "4696062",
+      "name": "Juice Wells Jr.",
+      "position": "WR",
+      "team": "ATL"
+    },
+    {
+      "espn_id": "4432260",
+      "name": "Matthew Hibner",
+      "position": "TE",
+      "team": "BAL"
+    },
+    {
+      "espn_id": "4379769",
+      "name": "Qadir Ismail",
+      "position": "TE",
+      "team": "CHI"
+    },
+    {
+      "espn_id": "4690070",
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "team": "CIN"
+    },
+    {
+      "espn_id": "3116136",
+      "name": "Justin Jackson",
+      "position": "RB",
+      "team": "DET"
+    },
+    {
+      "espn_id": "5094042",
+      "name": "Josh Pitsenberger",
+      "position": "RB",
+      "team": "HOU"
+    },
+    {
+      "espn_id": "4565184",
+      "name": "Jerand Bradley",
+      "position": "TE",
+      "team": "LAC"
+    },
+    {
+      "espn_id": "4691889",
+      "name": "Greg Desrosiers Jr.",
+      "position": "RB",
+      "team": "LAC"
+    },
+    {
+      "espn_id": "3115328",
+      "name": "Jalen Hurd",
+      "position": "WR",
+      "team": "NE"
+    },
+    {
+      "espn_id": "4429115",
+      "name": "Gee Scott Jr.",
+      "position": "WR",
+      "team": "NYJ"
+    },
+    {
+      "espn_id": "4430893",
+      "name": "Chip Trayanum",
+      "position": "RB",
+      "team": "NYJ"
+    },
+    {
+      "espn_id": "4694237",
+      "name": "Max Hurleman",
+      "position": "RB",
+      "team": "PIT"
+    },
+    {
+      "espn_id": "4429847",
+      "name": "Garrett Greene",
+      "position": "WR",
+      "team": "TB"
+    }
+  ],
+  "unmatched_espn_total": 14
+}
