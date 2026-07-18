@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-18T06:40:33.665Z",
+  "lastUpdated": "2026-07-18T08:02:02.806Z",
   "week": 0,
   "summary": {
-    "total_players": 898,
-    "questionable": 47,
+    "total_players": 900,
+    "questionable": 58,
     "doubtful": 0,
     "out": 1
   },
@@ -72,6 +72,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
       "injury_comment": "Penix (ACL) said Tuesday at mandatory minicamp that \"the expectation\" is for him to participate in 11-on-11 drills during training camp, though he will first need to gain clearance from team doctors, Will McFadden of the Falcons' official site reports."
+    },
+    {
+      "player_id": "2549",
+      "source_id": "2511109",
+      "player_name": "Trevor Siemian",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Siemian (undisclosed) won't practice Wednesday but will return for training camp, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "12526",
@@ -178,6 +191,19 @@
       "injury_comment": "Cowboys coach Brian Schottenheimer said Tuesday that Prescott will be limited at mandatory minicamp due to knee soreness, Tommy Yarrish of the Cowboys' official site reports."
     },
     {
+      "player_id": "12735",
+      "source_id": "4432208",
+      "player_name": "Caleb Lohner",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Lohner is expected to miss two weeks after undergoing a lower-body procedure, Mike Klis of 9News Denver reports."
+    },
+    {
       "player_id": "11563",
       "source_id": "4426338",
       "player_name": "Bo Nix",
@@ -256,6 +282,32 @@
       "injury_comment": "Jordan is progressing in his rehab from the torn patellar tendon he suffered during training camp last year, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
+      "player_id": "13307",
+      "source_id": "4695705",
+      "player_name": "Marlin Klein",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Klein was sidelined at the Texans' OTAs during the week after tweaking his hamstring, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
+      "player_id": "13261",
+      "source_id": "4878842",
+      "player_name": "Layne Pryor",
+      "position": "TE",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Pryor didn't practice Wednesday due to a quadriceps injury, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
       "player_id": "5870",
       "source_id": "3917792",
       "player_name": "Daniel Jones",
@@ -293,6 +345,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-08-01",
       "injury_comment": "Though Hunter (knee) is on track to participate in training camp, Ryan O'Halloran of The Florida Times-Union relays that the CB/WR's snaps will likely be managed early on."
+    },
+    {
+      "player_id": "10219",
+      "source_id": "4362619",
+      "player_name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Rodriguez, who underwent a procedure on his left foot following an injury he sustained earlier in the Jaguars' offseason program, is expected to be ready for the start of training camp, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "4046",
@@ -360,6 +425,32 @@
       "injury_comment": "Dolphins head coach Jeff Hafley said Wednesday that Achane (shoulder) has been limited to individual drills at mandatory minicamp, Chris Perkins of the South Florida Sun Sentinel reports."
     },
     {
+      "player_id": "13311",
+      "source_id": "4869961",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Dolphins head coach Jeff Hafley said Wednesday at OTAs that the team has  not designated \"a timetable\" for Bell (ACL) to retake the field, C. Isaiah Smalls II of the Miami Herald reports."
+    },
+    {
+      "player_id": "13296",
+      "source_id": "4869645",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Dolphins coach Jeff Hafley said Thursday that Douglas \"tweaked something\" during Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
+    },
+    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -425,6 +516,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13281",
+      "source_id": "4880281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Saints quarterback Tyler Shough said in June that Tyson (undisclosed) should be \"firing on all cylinders\" later this summer, ESPN.com's Katherine Terrell reports."
+    },
+    {
       "player_id": "12889",
       "source_id": "4431210",
       "player_name": "Beaux Collins",
@@ -488,6 +592,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13303",
+      "source_id": "4685413",
+      "player_name": "Cade Klubnik",
+      "position": "QB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Klubnik is dealing with back tightness and won't practice Wednesday, Rich Cimini of ESPN.com reports."
+    },
+    {
+      "player_id": "13330",
+      "source_id": "5083315",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Sadiq (abdomen) is expected to be ready for training camp, Rich Cimini of ESPN.com reports."
+    },
+    {
+      "player_id": "13349",
+      "source_id": "4431574",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Stowers appears to have a lower-body injury and isn't doing much at Wednesday's practice, Jeff McLane of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "11651",
