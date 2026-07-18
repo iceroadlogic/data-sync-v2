@@ -1,12 +1,38 @@
 {
-  "lastUpdated": "2026-07-18T06:40:33.665Z",
+  "lastUpdated": "2026-07-18T12:51:28.782Z",
   "week": 0,
   "summary": {
-    "total_players": 898,
-    "ir": 3,
+    "total_players": 900,
+    "ir": 5,
     "suspended": 0
   },
   "ir": [
+    {
+      "player_id": "13412",
+      "source_id": "4685441",
+      "player_name": "Kendrick Law",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Lions placed Law (knee) on the reserve/injured list Wednesday."
+    },
+    {
+      "player_id": "13898",
+      "source_id": "4433901",
+      "player_name": "Corey Rucker",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Rucker (undisclosed) was placed on the reserve/injured list Wednesday."
+    },
     {
       "player_id": "9489",
       "source_id": "4361426",
