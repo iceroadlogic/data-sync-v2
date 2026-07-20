@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-20T15:55:46.916Z",
+  "lastUpdated": "2026-07-20T21:53:24.952Z",
   "week": 0,
   "summary": {
     "total_players": 900,
-    "questionable": 58,
+    "questionable": 57,
     "doubtful": 0,
-    "out": 2
+    "out": 3
   },
   "questionable": [
     {
@@ -240,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Kraft (knee) said Wednesday that he expects to play Week 1 without any playing-time restrictions, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Kraft (ACL) is likely to begin the first practice of training camp on July 29 on the PUP list, though the tight end expects to be a full-go for Week 1, Jason Wilde of Channel 3000 reports."
     },
     {
       "player_id": "9481",
@@ -604,7 +604,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Klubnik is dealing with back tightness and won't practice Wednesday, Rich Cimini of ESPN.com reports."
+      "injury_comment": "Jets coaches have been impressed by the skill set and approach of Klubnik (back) as the rookie enters training camp competing for the No. 2 job, Rich Cimini of ESPN reports."
     },
     {
       "player_id": "13330",
@@ -724,19 +724,6 @@
       "injury_comment": "Coach Mike Macdonald said Wednesday that Horton (shin) is expected to return to the practice field during training camp, Brady Henderson of ESPN.com reports."
     },
     {
-      "player_id": "10216",
-      "source_id": "4427391",
-      "player_name": "Kenny McIntosh",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "McIntosh (knee) is not participating in Seattle's OTAs but is hopeful to return in time for training camp, Bob Condotta of the Seattle Times reports."
-    },
-    {
       "player_id": "11584",
       "source_id": "4596448",
       "player_name": "Bucky Irving",
@@ -747,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Irving (shoulder) was on the field for Thursday's OTA."
+      "injury_comment": "During his annual youth football camp, Irving (shoulder) told Mark Skol, Jr. of FOX13News on Sunday  that he will be good to go for training camp."
     },
     {
       "player_id": "8484",
@@ -788,8 +775,21 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-13",
+      "est_return_date": "2026-08-01",
       "injury_comment": "The 49ers placed Dinkins (undisclosed) on the active/non-football injury list Saturday."
+    },
+    {
+      "player_id": "10216",
+      "source_id": "4427391",
+      "player_name": "Kenny McIntosh",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Seahawks placed McIntosh (ACL) on the active/PUP list Monday, John Boyle of the team's official site reports."
     }
   ]
 }
