@@ -21,6 +21,7 @@ whenever it's regenerated.)
 | `data/injuries-active.json` | Current-week injury designations | `scripts/update-injuries.js` | Hourly + 15-min bursts around games |
 | `data/injuries-longterm.json` | IR/PUP/long-term statuses | same script (longterm mode) | 3×/day Mon–Sat |
 | `data/injuries.json` | Legacy combined file | same | — |
+| `data/injury-history.json` | Append-only injury designation timeline (dated `Healthy→Q→O→…` transitions per Sleeper player id) | `scripts/injury-history.js`, driven by `update-injuries.js` | Every injury sync (all three injury workflows commit it) |
 | `data/weather-current.json` | Weather for the current week's outdoor games | `scripts/update-weather.js` | Hourly + game-day bursts. Offseason: `{week: 0, games: []}` (correct behavior) |
 | `data/schedule.json` | Full season schedule, 272 games | `scripts/generate-schedule.js` — **run manually once per year** | Yearly (see runbook) |
 | `data/stadiums.json` | Venue metadata (dome/outdoor etc.) | hand-maintained | Rarely |
@@ -56,6 +57,24 @@ These ran unattended for 6+ months (Jan–Jul 2026) without failure.
    (`seasonStart` — the Wednesday before the opener; primary source is
    Sleeper's `/v1/state/nfl` so the fallback rarely matters).
 5. Commit + push this repo (deploys via Pages).
+
+## Injury-history recorder
+
+`data/injury-history.json` carries its own baseline: each player's
+current recorded state is his last transition's `to`. Every injury sync
+diffs the fresh fetch against that baseline and appends dated
+transitions — but ONLY from a healthy run (all 32 teams answered, ≥600
+players mapped); a degraded fetch is skipped so it can never write
+false "recovered" entries. The file was seeded by
+`scripts/backfill-injury-history.js`, which replays the repo's own cron
+commits (rerunnable — it rebuilds from scratch); recorded since
+2025-10-03. Semantics mirror the injuries files exactly: weekly "Out"
+entries for healthy-scratch QB3s are the feed's truth, and the
+games-actually-missed layer (computed from Sleeper weekly stats) is a
+separate, later concern. Rare failure mode: two injury workflows
+landing in the same minute can rebase-conflict on this file — the job
+fails, and the next run self-heals (transitions re-derive against the
+last committed baseline).
 
 ## History note
 

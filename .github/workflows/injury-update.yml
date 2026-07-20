@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/injuries-active.json
+          git add data/injuries-active.json data/injury-history.json
           git stash --include-untracked -- data/injuries-longterm.json
           if git diff --staged --quiet; then
             echo "No changes to commit"

@@ -1,5 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
+const injuryHistory = require('./injury-history');
 
 // NFL team abbreviations and IDs
 const NFL_TEAMS = [
@@ -251,6 +252,25 @@ async function updateInjuryData() {
 
   await fs.writeFile(activePath, JSON.stringify(activeData, null, 2));
   await fs.writeFile(longTermPath, JSON.stringify(longTermData, null, 2));
+
+  // Append designation transitions to the injury-history timeline.
+  // Only from a healthy run: every team answered and the mapping held —
+  // a degraded fetch must never write false "recovered" transitions.
+  const teamsSeen = new Set(allPlayers.map(p => p.team));
+  const mappedCount = allPlayers.filter(p => playerMapping[p.espn_id]).length;
+  if (teamsSeen.size === NFL_TEAMS.length && mappedCount >= 600) {
+    const history = await injuryHistory.loadHistory();
+    const state = injuryHistory.designationState(activeData, longTermData);
+    const appended = injuryHistory.applySnapshot(history, state, timestamp.slice(0, 10), () => true);
+    if (appended > 0) {
+      history.lastUpdated = timestamp;
+      if (!history.recordedSince) history.recordedSince = timestamp.slice(0, 10);
+      await injuryHistory.saveHistory(history);
+    }
+    console.log(`Injury history: ${appended} transition(s) recorded`);
+  } else {
+    console.log(`Injury history: SKIPPED (teams ${teamsSeen.size}/${NFL_TEAMS.length}, mapped ${mappedCount}) — degraded run`);
+  }
 
   console.log('\n=== Injury Data Update Summary ===');
   console.log('Active Injuries (injuries-active.json):');
