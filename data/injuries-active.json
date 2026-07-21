@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-21T15:47:11.197Z",
+  "lastUpdated": "2026-07-21T23:02:50.517Z",
   "week": 0,
   "summary": {
     "total_players": 900,
-    "questionable": 57,
+    "questionable": 54,
     "doubtful": 0,
-    "out": 3
+    "out": 6
   },
   "questionable": [
     {
@@ -98,19 +98,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-01",
       "injury_comment": "The Panthers expect McMillan (ankle) to be ready for the start of training camp, Mike Kaye of The Charlotte Observer reports."
-    },
-    {
-      "player_id": "10235",
-      "source_id": "4426386",
-      "player_name": "Roschon Johnson",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Johnson (thumb) looks like the early favorite to land the third spot on Chicago's running back depth chart, Mike Moraitis of SI.com reports."
     },
     {
       "player_id": "11592",
@@ -215,19 +202,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-01",
       "injury_comment": "Nix (ankle) is expected to be good to go for the start of training camp, Sean Keeler of The Denver Post reports."
-    },
-    {
-      "player_id": "10859",
-      "source_id": "4430027",
-      "player_name": "Sam LaPorta",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "LaPorta (back) is expected to be full go for training camp after he was limited during OTAs and minicamp while rehabbing from back surgery, Tim Twentyman of the Lions' official site reports."
     },
     {
       "player_id": "9484",
@@ -423,19 +397,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-01",
       "injury_comment": "Dolphins head coach Jeff Hafley said Wednesday that Achane (shoulder) has been limited to individual drills at mandatory minicamp, Chris Perkins of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "13311",
-      "source_id": "4869961",
-      "player_name": "Chris Bell",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Dolphins head coach Jeff Hafley said Wednesday at OTAs that the team has  not designated \"a timetable\" for Bell (ACL) to retake the field, C. Isaiah Smalls II of the Miami Herald reports."
     },
     {
       "player_id": "13296",
@@ -752,6 +713,45 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "13311",
+      "source_id": "4869961",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list on Tuesday."
+    },
+    {
+      "player_id": "12984",
+      "source_id": "4596545",
+      "player_name": "CJ Dippre",
+      "position": "TE",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "out"
+    },
+    {
+      "player_id": "12412",
+      "source_id": "4427600",
+      "player_name": "Terrell Jennings",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Jennings will open up training camp on the active/non-football injury list, Mike Reiss of ESPN.com reports."
+    },
     {
       "player_id": "6803",
       "source_id": "4360438",

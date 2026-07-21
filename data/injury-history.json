@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T20:57:52.208Z",
+  "lastUpdated": "2026-07-21T23:02:50.517Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15822,6 +15822,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "DET"
+        },
+        {
+          "date": "2026-07-21",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21116,6 +21121,19 @@
         }
       ]
     },
+    "12412": {
+      "name": "Terrell Jennings",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-07-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "NE"
+        }
+      ]
+    },
     "12455": {
       "name": "Brashard Smith",
       "position": "RB",
@@ -25284,6 +25302,19 @@
           "date": "2026-05-28",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "12984": {
+      "name": "CJ Dippre",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-07-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "NE"
         }
       ]
     },
