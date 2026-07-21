@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T21:00:41.784Z",
+  "lastUpdated": "2026-07-21T20:57:52.208Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15384,6 +15384,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "CHI"
+        },
+        {
+          "date": "2026-07-21",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25772,6 +25777,13 @@
           "date": "2026-07-18",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee - ACL",
+          "team": "MIA"
+        },
+        {
+          "date": "2026-07-21",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee - ACL",
           "team": "MIA"
         }
