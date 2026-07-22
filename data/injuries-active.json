@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-22T15:45:21.422Z",
+  "lastUpdated": "2026-07-22T23:10:02.920Z",
   "week": 0,
   "summary": {
-    "total_players": 900,
-    "questionable": 53,
+    "total_players": 901,
+    "questionable": 52,
     "doubtful": 0,
-    "out": 6
+    "out": 7
   },
   "questionable": [
     {
@@ -646,19 +646,6 @@
       "injury_comment": "Barner (undisclosed) is expected to be ready for training camp, John Boyle of the Seahawks' official site reports."
     },
     {
-      "player_id": "9753",
-      "source_id": "4426385",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-09",
-      "injury_comment": "Coach Mike Macdonald said Wednesday that Charbonnet continues to do a \"great job\" in his recovery from the torn ACL he suffered during the divisional-round of last season's playoffs, Cameron Van Til of Seattle Sports reports."
-    },
-    {
       "player_id": "12497",
       "source_id": "4597703",
       "player_name": "Tory Horton",
@@ -711,7 +698,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
-      "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list on Tuesday."
+      "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list Tuesday."
     },
     {
       "player_id": "12984",
@@ -764,6 +751,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-01",
       "injury_comment": "The 49ers placed Dinkins (undisclosed) on the active/non-football injury list Saturday."
+    },
+    {
+      "player_id": "9753",
+      "source_id": "4426385",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-09-09",
+      "injury_comment": "The Seahawks have placed Charbonnet (knee) on the physically unable to perform list ahead of training camp, John Boyle of the team's official site reports."
     },
     {
       "player_id": "10216",
