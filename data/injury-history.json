@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T17:06:43.462Z",
+  "lastUpdated": "2026-07-23T17:08:54.315Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -23967,6 +23967,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "CAR"
+        },
+        {
+          "date": "2026-07-23",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
