@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T17:08:54.315Z",
+  "lastUpdated": "2026-07-23T22:00:18.953Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -20033,6 +20033,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "ARI"
+        },
+        {
+          "date": "2026-07-23",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -24892,6 +24899,13 @@
           "date": "2026-07-04",
           "from": "Healthy",
           "to": "Questionable",
+          "team": "NYG"
+        },
+        {
+          "date": "2026-07-23",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Foot",
           "team": "NYG"
         }
       ]
