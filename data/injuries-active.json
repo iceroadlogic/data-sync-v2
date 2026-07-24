@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-24T15:34:35.541Z",
+  "lastUpdated": "2026-07-24T23:07:28.586Z",
   "week": 0,
   "summary": {
-    "total_players": 901,
+    "total_players": 902,
     "questionable": 46,
     "doubtful": 0,
     "out": 9
@@ -279,20 +279,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Mahomes (knee) continues to aim to be ready for the Chiefs' regular-season opener against the Broncos on Monday, Sept. 14, Kevin Patra of NFL.com reports."
-    },
-    {
-      "player_id": "10229",
-      "source_id": "4428331",
-      "player_name": "Rashee Rice",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Rice (knee) has been released from Dallas County Jail on Tuesday after serving his 30-day sentence for violating probation with a positive THC test, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Chiefs head coach Andy Reid said Friday that Mahomes (knee) has \"been cleared to participate fully\" to begin training camp, Sam McDowell of The Kansas City Star reports."
     },
     {
       "player_id": "11624",
@@ -353,6 +340,19 @@
       "position": "TE",
       "team_abbr": "MIN",
       "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13967",
+      "source_id": "4832914",
+      "player_name": "Jimmy Kibble",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": null,
@@ -672,7 +672,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Fidone (foot) was placed on the physically unable to perform list Thursday, Dan Salomone of the team's official site reports."
+      "injury_comment": "Fidone (foot) was placed on the active/PUP list Thursday, Dan Salomone of the team's official site reports."
     },
     {
       "player_id": "6803",
