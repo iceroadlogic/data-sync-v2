@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T15:34:35.541Z",
+  "lastUpdated": "2026-07-24T20:55:00.013Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15199,6 +15199,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "KC"
+        },
+        {
+          "date": "2026-07-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25928,6 +25933,19 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "LV"
+        }
+      ]
+    },
+    "13967": {
+      "name": "Jimmy Kibble",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-24",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "NE"
         }
       ]
     }

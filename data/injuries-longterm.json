@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-24T17:20:08.466Z",
+  "lastUpdated": "2026-07-24T20:55:00.013Z",
   "week": 0,
   "summary": {
-    "total_players": 901,
-    "ir": 5,
+    "total_players": 902,
+    "ir": 6,
     "suspended": 0
   },
   "ir": [
@@ -58,6 +58,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Patriots placed Hill (knee) on IR on Monday, Evan Lazar of the team's official site reports."
+    },
+    {
+      "player_id": "13967",
+      "source_id": "4832914",
+      "player_name": "Jimmy Kibble",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-09",
+      "injury_comment": "The Patriots placed Kibble (undisclosed) on injured reserve Friday."
     },
     {
       "player_id": "6699",
