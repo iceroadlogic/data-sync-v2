@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-25T08:16:03.035Z",
+  "lastUpdated": "2026-07-25T15:09:28.692Z",
   "week": 0,
   "summary": {
     "total_players": 902,
     "questionable": 46,
     "doubtful": 0,
-    "out": 9
+    "out": 10
   },
   "questionable": [
     {
@@ -621,6 +621,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-01",
       "injury_comment": "Reiman (ankle) was placed on the active/PUP list Thursday, Darren Urban of the Cardinals' official site reports."
+    },
+    {
+      "player_id": "13342",
+      "source_id": "4708490",
+      "player_name": "John Michael Gyllenborg",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "out"
     },
     {
       "player_id": "13311",

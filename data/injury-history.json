@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T23:07:28.586Z",
+  "lastUpdated": "2026-07-25T15:09:28.692Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -25881,6 +25881,19 @@
           "to": "Questionable",
           "detail": "Abdomen",
           "team": "NYJ"
+        }
+      ]
+    },
+    "13342": {
+      "name": "John Michael Gyllenborg",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-07-25",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "KC"
         }
       ]
     },
