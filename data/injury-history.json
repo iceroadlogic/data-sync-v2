@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T15:09:28.692Z",
+  "lastUpdated": "2026-07-25T20:40:02.697Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3022,6 +3022,13 @@
           "from": "IR",
           "to": "Questionable",
           "team": "SF"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Achilles",
+          "team": "SF"
         }
       ]
     },
@@ -3206,6 +3213,13 @@
           "date": "2025-12-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYJ"
         }
       ]
     },
@@ -19962,6 +19976,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "SF"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Pectoral",
+          "team": "SF"
         }
       ]
     },
@@ -25871,6 +25892,19 @@
         }
       ]
     },
+    "13312": {
+      "name": "Josh Kattus",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-07-25",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "CIN"
+        }
+      ]
+    },
     "13330": {
       "name": "Kenyon Sadiq",
       "position": "TE",
@@ -25931,6 +25965,13 @@
           "date": "2026-07-20",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Undisclosed",
+          "team": "SF"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Undisclosed",
           "team": "SF"
         }
