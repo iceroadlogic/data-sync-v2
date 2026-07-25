@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T20:40:02.697Z",
+  "lastUpdated": "2026-07-25T22:59:50.511Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3218,6 +3218,13 @@
           "date": "2026-07-25",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Undisclosed",
           "team": "NYJ"
         }
@@ -26005,6 +26012,13 @@
           "date": "2026-07-24",
           "from": "IR",
           "to": "Questionable",
+          "team": "NE"
+        },
+        {
+          "date": "2026-07-25",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Undisclosed",
           "team": "NE"
         }
       ]
