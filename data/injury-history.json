@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T15:00:23.093Z",
+  "lastUpdated": "2026-07-26T19:34:43.325Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7960,6 +7960,19 @@
           "date": "2026-01-04",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "7357": {
+      "name": "Dan Chisena",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "CAR"
         }
       ]
     },
@@ -25960,6 +25973,19 @@
           "to": "Questionable",
           "detail": "Lower Body",
           "team": "PHI"
+        }
+      ]
+    },
+    "13353": {
+      "name": "Chris Brazzell II",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CAR"
         }
       ]
     },
