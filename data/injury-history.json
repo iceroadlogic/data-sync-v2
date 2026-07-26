@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T19:34:43.325Z",
+  "lastUpdated": "2026-07-26T20:35:55.374Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4679,6 +4679,12 @@
           "date": "2026-01-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-26",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "DET"
         }
       ]
     },
@@ -25650,6 +25656,13 @@
           "date": "2026-07-26",
           "from": "Healthy",
           "to": "Questionable",
+          "team": "NE"
+        },
+        {
+          "date": "2026-07-26",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Arm",
           "team": "NE"
         }
       ]
