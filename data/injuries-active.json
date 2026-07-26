@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-26T22:40:38.469Z",
+  "lastUpdated": "2026-07-26T23:41:06.436Z",
   "week": 0,
   "summary": {
     "total_players": 903,
-    "questionable": 45,
+    "questionable": 46,
     "doubtful": 0,
     "out": 14
   },
@@ -527,6 +527,19 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-01",
       "injury_comment": "Jones, who dealt with a sore shoulder during the 49ers' spring program, threw passes this week at Tight End University, an event hosted by teammate George Kittle (Achilles), David Lombardi of the San Francisco Standard reports."
+    },
+    {
+      "player_id": "4950",
+      "source_id": "3895856",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Kirk walked off with an apparent injury during the 49ers' practice Sunday, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "8698",
