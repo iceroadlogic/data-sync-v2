@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-07-27T10:02:18.036Z",
+  "lastUpdated": "2026-07-27T16:25:52.841Z",
   "week": 0,
   "summary": {
     "total_players": 904,
-    "questionable": 46,
+    "questionable": 44,
     "doubtful": 0,
     "out": 14
   },
   "questionable": [
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Harrison (undisclosed) did not finish Arizona's training camp practice on Sunday due to an unknown issue, Darren Urban of the Cardinals' official site reports."
+    },
     {
       "player_id": "8112",
       "source_id": "4426502",
@@ -540,45 +553,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-01",
       "injury_comment": "Kirk walked off with an apparent injury during the 49ers' practice Sunday, Matt Barrows of The Athletic reports."
-    },
-    {
-      "player_id": "8698",
-      "source_id": "4259147",
-      "player_name": "Jake Tonges",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "11603",
-      "source_id": "4576297",
-      "player_name": "AJ Barner",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Barner (undisclosed) is expected to be ready for training camp, John Boyle of the Seahawks' official site reports."
-    },
-    {
-      "player_id": "12497",
-      "source_id": "4597703",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shin",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Coach Mike Macdonald said Wednesday that Horton (shin) is expected to return to the practice field during training camp, Brady Henderson of ESPN.com reports."
     },
     {
       "player_id": "11584",
