@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T16:25:52.841Z",
+  "lastUpdated": "2026-07-27T21:02:00.648Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5419,6 +5419,11 @@
           "from": "IR",
           "to": "Questionable",
           "team": "IND"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11164,6 +11169,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "IND"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "IND"
         }
       ]
     },
@@ -13546,6 +13558,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "GB"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
@@ -13662,6 +13681,13 @@
           "date": "2026-02-12",
           "from": "IR",
           "to": "Questionable",
+          "team": "GB"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee - ACL",
           "team": "GB"
         }
       ]
@@ -16742,6 +16768,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
@@ -25902,6 +25935,19 @@
         }
       ]
     },
+    "13291": {
+      "name": "Kejon Owens",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-07-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Illness",
+          "team": "MIN"
+        }
+      ]
+    },
     "13296": {
       "name": "Caleb Douglas",
       "position": "WR",
@@ -26066,6 +26112,18 @@
           "date": "2026-07-26",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13617": {
+      "name": "Luke Wysong",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "MIN"
         }
       ]
     },
