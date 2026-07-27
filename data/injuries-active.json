@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-27T16:25:52.841Z",
+  "lastUpdated": "2026-07-27T21:54:34.110Z",
   "week": 0,
   "summary": {
-    "total_players": 904,
-    "questionable": 44,
+    "total_players": 902,
+    "questionable": 40,
     "doubtful": 0,
-    "out": 14
+    "out": 19
   },
   "questionable": [
     {
@@ -178,32 +178,6 @@
       "injury_comment": "Nix (ankle) is expected to be good to go for the start of training camp, Sean Keeler of The Denver Post reports."
     },
     {
-      "player_id": "9484",
-      "source_id": "4572680",
-      "player_name": "Tucker Kraft",
-      "position": "TE",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Kraft (ACL) is likely to begin the first practice of training camp on July 29 on the active/PUP list, though the tight end expects to be a full-go for Week 1, Jason Wilde of Channel 3000 reports."
-    },
-    {
-      "player_id": "9481",
-      "source_id": "4428085",
-      "player_name": "Luke Musgrave",
-      "position": "TE",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Musgrave sustained an injury during Packers' practice Tuesday, Matt Schneidman of The Athletic reports."
-    },
-    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -254,32 +228,6 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-08-01",
       "injury_comment": "Pryor didn't practice Wednesday due to a quadriceps injury, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
-      "player_id": "5870",
-      "source_id": "3917792",
-      "player_name": "Daniel Jones",
-      "position": "QB",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "On the subject of his Achilles rehab, Jones said Friday, \"I'm doing everything. Cleared to do everything. I think it's just about, at this point, sharpening that,\" James Boyd of The Athletic reports."
-    },
-    {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Pierce will likely be limited for some or all of training camp by his ankle injury, Stephen Holder of ESPN.com reports."
     },
     {
       "player_id": "12530",
@@ -550,9 +498,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Calf",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Kirk walked off with an apparent injury during the 49ers' practice Sunday, Matt Barrows of The Athletic reports."
+      "injury_comment": "Kirk sustained a calf injury during Sunday's practice and is not practicing Monday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "11584",
@@ -623,6 +571,58 @@
       "injury_comment": "The Lions placed Conklin (knee) on the active/PUP list Sunday."
     },
     {
+      "player_id": "11370",
+      "source_id": "3149687",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Packers have placed Brooks (undisclosed) on the active/non-football injury list ahead of training camp, Matt Schneidman of The Athletic reports."
+    },
+    {
+      "player_id": "9484",
+      "source_id": "4572680",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Packers have placed Kraft (ACL) on the physically unable to perform list Monday ahead of training camp,  Matt Schneidman of The Athletic reports."
+    },
+    {
+      "player_id": "9481",
+      "source_id": "4428085",
+      "player_name": "Luke Musgrave",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "out"
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Colts placed Pierce (ankle) on the active/PUP list Monday, Stephen Holder of ESPN.com reports."
+    },
+    {
       "player_id": "13342",
       "source_id": "4708490",
       "player_name": "John Michael Gyllenborg",
@@ -647,6 +647,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
       "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list Tuesday."
+    },
+    {
+      "player_id": "13291",
+      "source_id": "4431304",
+      "player_name": "Kejon Owens",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "nfi-a"
     },
     {
       "player_id": "12984",
