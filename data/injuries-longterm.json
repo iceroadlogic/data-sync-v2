@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-25T20:40:02.697Z",
+  "lastUpdated": "2026-07-27T14:09:58.385Z",
   "week": 0,
   "summary": {
-    "total_players": 902,
-    "ir": 5,
+    "total_players": 904,
+    "ir": 7,
     "suspended": 0
   },
   "ir": [
@@ -55,9 +55,35 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13967",
+      "source_id": "4832914",
+      "player_name": "Jimmy Kibble",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Patriots placed Hill (knee) on IR on Monday, Evan Lazar of the team's official site reports."
+      "injury_comment": "Kibble (undisclosed) reverted to New England's injured reserve Friday."
+    },
+    {
+      "player_id": "13124",
+      "source_id": "4572655",
+      "player_name": "Jeremiah Webb",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Arm",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Patriots placed Webb (arm) on injured reserve Sunday, Evan Lazar of the team's official site reports."
     },
     {
       "player_id": "6699",

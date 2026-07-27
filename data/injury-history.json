@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T23:41:06.436Z",
+  "lastUpdated": "2026-07-27T14:09:58.385Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -18303,6 +18303,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "SEA"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22583,6 +22588,11 @@
           "from": "IR",
           "to": "Questionable",
           "team": "SEA"
+        },
+        {
+          "date": "2026-07-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
