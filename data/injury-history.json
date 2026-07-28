@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T16:07:36.124Z",
+  "lastUpdated": "2026-07-28T17:18:30.652Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -8729,6 +8729,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "HOU"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
