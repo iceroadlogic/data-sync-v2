@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T17:18:30.652Z",
+  "lastUpdated": "2026-07-28T20:58:38.287Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3227,6 +3227,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -9489,6 +9494,13 @@
           "date": "2026-01-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NE"
         }
       ]
     },
@@ -19459,6 +19471,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "LAC"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20733,6 +20750,13 @@
           "date": "2026-02-13",
           "from": "IR",
           "to": "Questionable",
+          "team": "NO"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Groin",
           "team": "NO"
         }
       ]
@@ -25949,6 +25973,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NO"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26011,6 +26040,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "HOU"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
