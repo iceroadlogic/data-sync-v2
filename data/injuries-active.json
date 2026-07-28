@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T00:05:30.114Z",
+  "lastUpdated": "2026-07-28T08:44:55.058Z",
   "week": 0,
   "summary": {
     "total_players": 902,
@@ -566,7 +566,7 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Knee",
       "est_return_date": "2026-08-01",
       "injury_comment": "The Lions placed Conklin (knee) on the active/PUP list Sunday."
     },
@@ -774,9 +774,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The Seahawks placed McIntosh (ACL) on the active/PUP list Monday, John Boyle of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     }
   ]
 }
