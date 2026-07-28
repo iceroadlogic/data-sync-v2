@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-07-28T16:07:36.124Z",
+  "lastUpdated": "2026-07-28T23:05:58.770Z",
   "week": 0,
   "summary": {
-    "total_players": 902,
-    "questionable": 39,
+    "total_players": 904,
+    "questionable": 35,
     "doubtful": 0,
     "out": 19
   },
   "questionable": [
-    {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Harrison (undisclosed) did not finish Arizona's training camp practice on Sunday due to an unknown issue, Darren Urban of the Cardinals' official site reports."
-    },
     {
       "player_id": "8112",
       "source_id": "4426502",
@@ -97,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Evans (undisclosed) was carted off the field during Tuesday's practice, Alex Zietlow of The Charlotte Observer reports."
+      "injury_comment": "Evans (ankle), pending full evaluation, likely just suffered a rolled ankle, Steve Reed of the Associated Press reports."
     },
     {
       "player_id": "11592",
@@ -201,33 +188,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Dell (knee) was limited during the Texans' minicamp that ended Thursday, but he has been \"running and cutting without setbacks,\" Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
-      "player_id": "7568",
-      "source_id": "4362504",
-      "player_name": "Brevin Jordan",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Jordan is progressing in his rehab from the torn patellar tendon he suffered during training camp last year, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
-      "player_id": "13307",
-      "source_id": "4695705",
-      "player_name": "Marlin Klein",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Klein was sidelined at the Texans' OTAs during the week after tweaking his hamstring, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_comment": "Dell (knee) won't start training camp on the PUP list, Jonathan M. Alexander of the Houston Chronicle reports."
     },
     {
       "player_id": "13261",
@@ -295,19 +256,6 @@
       "injury_comment": "Coach Andy Reid noted Thursday that Worthy (shoulder) looked good at this week's minicamp,  Jesse Newell of The Athletic reports."
     },
     {
-      "player_id": "11635",
-      "source_id": "4612826",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "McConkey said Tuesday that he's tending to a left hamstring strain, Alex Insdorf of BoltBeat.com reports."
-    },
-    {
       "player_id": "12700",
       "source_id": "4708049",
       "player_name": "Gavin Bartholomew",
@@ -319,6 +267,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "7611",
+      "source_id": "4569173",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Stevenson (undisclosed) left the field as his teammates prepared for final sprints during Tuesday's practice,  Andrew Callahan of the Boston Herald reports."
     },
     {
       "player_id": "11748",
@@ -334,19 +295,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "9757",
-      "source_id": "4599739",
-      "player_name": "Kendre Miller",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Miller (knee) was a limited participant in practice Wednesday, Ross Jackson of LouisianaSports.Net reports."
-    },
-    {
       "player_id": "12476",
       "source_id": "4682652",
       "player_name": "Devin Neal",
@@ -358,32 +306,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-01",
       "injury_comment": "Saints head coach Kellen Moore said Tuesday that Neal (undisclosed) will be limited at minicamp due to a minor injury suffered in early June, Erin Summers of ESPN reports."
-    },
-    {
-      "player_id": "11895",
-      "source_id": "4573697",
-      "player_name": "Mason Tipton",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13281",
-      "source_id": "4880281",
-      "player_name": "Jordyn Tyson",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Saints quarterback Tyler Shough said in June that Tyson (undisclosed) should be \"firing on all cylinders\" later this summer, ESPN.com's Katherine Terrell reports."
     },
     {
       "player_id": "12889",
@@ -490,6 +412,32 @@
       "injury_comment": "Kirk sustained a calf injury during Sunday's practice and is not practicing Monday, Nick Wagoner of ESPN.com reports."
     },
     {
+      "player_id": "10867",
+      "source_id": "4360405",
+      "player_name": "Jake Bobo",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "10216",
+      "source_id": "4427391",
+      "player_name": "Kenny McIntosh",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "11584",
       "source_id": "4596448",
       "player_name": "Bucky Irving",
@@ -530,6 +478,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-01",
       "injury_comment": "Reiman (ankle) was placed on the active/PUP list Thursday, Darren Urban of the Cardinals' official site reports."
+    },
+    {
+      "player_id": "11377",
+      "source_id": "4241476",
+      "player_name": "Tyrell Shavers",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Bills placed Shavers (knee) on the active/PUP list Tuesday, Matt Parrino of The Syracuse Post-Standard reports."
     },
     {
       "player_id": "13312",
@@ -597,6 +558,19 @@
       "injury_comment": "Musgrave (undisclosed) was placed on the active/PUP list by the Packers on Monday, Matt Schneidman of The Athletic reports."
     },
     {
+      "player_id": "12536",
+      "source_id": "4586312",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Noel (undisclosed) was placed on the active/non-football injury list by the Texans on Tuesday, DJ Bien-Aime of ESPN.com reports."
+    },
+    {
       "player_id": "8142",
       "source_id": "4360078",
       "player_name": "Alec Pierce",
@@ -608,19 +582,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-13",
       "injury_comment": "Colts GM Chris Ballard said Tuesday that Pierce (ankle) is a \"week or so away\" from practicing, Mike Chappell of Fox 59 News Indianapolis reports."
-    },
-    {
-      "player_id": "13342",
-      "source_id": "4708490",
-      "player_name": "John Michael Gyllenborg",
-      "position": "TE",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The Chiefs placed Gyllenborg (undisclosed) on the active/PUP list Saturday."
     },
     {
       "player_id": "13311",
@@ -675,30 +636,30 @@
       "injury_comment": "Jennings will open up training camp on the active/non-football injury list, Mike Reiss of ESPN.com reports."
     },
     {
-      "player_id": "12715",
-      "source_id": "4590292",
-      "player_name": "Thomas Fidone II",
+      "player_id": "13834",
+      "source_id": "5086529",
+      "player_name": "Cody Hardy",
       "position": "TE",
-      "team_abbr": "NYG",
+      "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Foot",
+      "injury_detail": "Illness",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Fidone (foot) was placed on the active/PUP list Thursday, Dan Salomone of the team's official site reports."
+      "injury_comment": "The Saints placed Hardy (illness) on the active/non-football illness list Tuesday, per the NFL's transaction log."
     },
     {
-      "player_id": "4351",
-      "source_id": "3134353",
-      "player_name": "Tim Patrick",
+      "player_id": "11895",
+      "source_id": "4573697",
+      "player_name": "Mason Tipton",
       "position": "WR",
-      "team_abbr": "NYJ",
+      "team_abbr": "NO",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-14",
-      "injury_comment": "The Jets placed Patrick (undisclosed) on the active/PUP list Saturday, Ethan Greenberg of the Jets' official site reports."
+      "injury_detail": "Groin",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "The Saints placed Tipton (groin) on the active/PUP list Tuesday, Katherine Terrell of ESPN.com reports."
     },
     {
       "player_id": "6803",
@@ -751,19 +712,6 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-09",
       "injury_comment": "The Seahawks have placed Charbonnet (knee) on the physically unable to perform list ahead of training camp, John Boyle of the team's official site reports."
-    },
-    {
-      "player_id": "10216",
-      "source_id": "4427391",
-      "player_name": "Kenny McIntosh",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     }
   ]
 }

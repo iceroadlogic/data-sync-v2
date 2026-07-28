@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T20:58:38.287Z",
+  "lastUpdated": "2026-07-28T23:05:58.770Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -14660,6 +14660,11 @@
           "from": "IR",
           "to": "Questionable",
           "team": "NO"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14835,6 +14840,12 @@
           "from": "Questionable",
           "to": "Out",
           "detail": "Knee - ACL",
+          "team": "SEA"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Out",
+          "to": "Questionable",
           "team": "SEA"
         }
       ]
@@ -16112,6 +16123,13 @@
           "date": "2026-01-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "SEA"
         }
       ]
     },
@@ -16918,6 +16936,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Knee - ACL",
+          "team": "BUF"
         }
       ]
     },
@@ -19071,6 +19096,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "ARI"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -24343,6 +24373,19 @@
         }
       ]
     },
+    "12536": {
+      "name": "Jaylin Noel",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-28",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "HOU"
+        }
+      ]
+    },
     "12539": {
       "name": "Arian Smith",
       "position": "WR",
@@ -25077,6 +25120,11 @@
           "to": "Out",
           "detail": "Foot",
           "team": "NYG"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -26104,6 +26152,13 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "KC"
+        },
+        {
+          "date": "2026-07-28",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "KC"
         }
       ]
     },
@@ -26185,6 +26240,19 @@
           "date": "2026-07-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13834": {
+      "name": "Cody Hardy",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-07-28",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Illness",
+          "team": "NO"
         }
       ]
     },
