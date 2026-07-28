@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-28T08:44:55.058Z",
+  "lastUpdated": "2026-07-28T16:07:36.124Z",
   "week": 0,
   "summary": {
     "total_players": 902,
-    "questionable": 40,
+    "questionable": 39,
     "doubtful": 0,
     "out": 19
   },
@@ -85,6 +85,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-01",
       "injury_comment": "Chisena (undisclosed) didn't participate in Carolina's practice Sunday, Mike Kaye of The Charlotte Observer reports."
+    },
+    {
+      "player_id": "12473",
+      "source_id": "4683243",
+      "player_name": "Mitchell Evans",
+      "position": "TE",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Evans (undisclosed) was carted off the field during Tuesday's practice, Alex Zietlow of The Charlotte Observer reports."
     },
     {
       "player_id": "11592",
@@ -293,32 +306,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-01",
       "injury_comment": "McConkey said Tuesday that he's tending to a left hamstring strain, Alex Insdorf of BoltBeat.com reports."
-    },
-    {
-      "player_id": "9226",
-      "source_id": "4429160",
-      "player_name": "De'Von Achane",
-      "position": "RB",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Dolphins head coach Jeff Hafley said Wednesday that Achane (shoulder) has been limited to individual drills at mandatory minicamp, Chris Perkins of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "13296",
-      "source_id": "4869645",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Dolphins coach Jeff Hafley said Thursday that Douglas \"tweaked something\" during Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "12700",
@@ -619,8 +606,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The Colts placed Pierce (ankle) on the active/PUP list Monday, Stephen Holder of ESPN.com reports."
+      "est_return_date": "2026-08-13",
+      "injury_comment": "Colts GM Chris Ballard said Tuesday that Pierce (ankle) is a \"week or so away\" from practicing, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
       "player_id": "13342",
