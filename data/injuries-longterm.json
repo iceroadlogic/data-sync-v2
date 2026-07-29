@@ -1,12 +1,25 @@
 {
-  "lastUpdated": "2026-07-29T17:03:48.554Z",
+  "lastUpdated": "2026-07-29T20:42:32.843Z",
   "week": 0,
   "summary": {
     "total_players": 904,
-    "ir": 8,
+    "ir": 9,
     "suspended": 0
   },
   "ir": [
+    {
+      "player_id": "7357",
+      "source_id": "3929637",
+      "player_name": "Dan Chisena",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
     {
       "player_id": "13412",
       "source_id": "4685441",
