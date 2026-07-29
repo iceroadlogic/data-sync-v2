@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T20:42:32.843Z",
+  "lastUpdated": "2026-07-29T23:03:12.468Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15181,6 +15181,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "DAL"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18744,6 +18749,19 @@
           "date": "2026-01-18",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11621": {
+      "name": "Brenden Rice",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-29",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
