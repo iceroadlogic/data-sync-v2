@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:49:41.163Z",
+  "lastUpdated": "2026-07-29T13:44:58.423Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1219,6 +1219,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "ATL"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -6854,6 +6859,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "ATL"
         }
       ]
     },
@@ -26144,6 +26156,11 @@
           "to": "Questionable",
           "detail": "Abdomen",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
