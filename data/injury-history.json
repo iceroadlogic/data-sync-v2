@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T13:44:58.423Z",
+  "lastUpdated": "2026-07-29T15:53:09.446Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1779,6 +1779,13 @@
           "date": "2025-12-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
         }
       ]
     },
@@ -14877,6 +14884,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "JAX"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18069,6 +18081,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "TB"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18878,6 +18895,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "KC"
+        },
+        {
+          "date": "2026-07-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
