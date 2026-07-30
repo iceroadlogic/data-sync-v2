@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T13:26:33.242Z",
+  "lastUpdated": "2026-07-30T17:14:43.096Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1791,6 +1791,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "TEN"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9554,6 +9559,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NE"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11009,6 +11019,13 @@
           "date": "2026-01-02",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "WAS"
         }
       ]
     },
@@ -13342,6 +13359,19 @@
         }
       ]
     },
+    "9221": {
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-07-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "DET"
+        }
+      ]
+    },
     "9224": {
       "name": "Chase Brown",
       "position": "RB",
@@ -14928,6 +14958,13 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "JAX"
         }
       ]
     },
