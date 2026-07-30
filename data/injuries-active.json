@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-30T15:54:12.185Z",
+  "lastUpdated": "2026-07-30T22:01:17.920Z",
   "week": 0,
   "summary": {
-    "total_players": 905,
-    "questionable": 21,
+    "total_players": 907,
+    "questionable": 20,
     "doubtful": 0,
     "out": 21
   },
@@ -61,19 +61,6 @@
       "injury_comment": "Evans has been diagnosed with a low ankle sprain and is considered day-to-day, Sheena Quick of Fox Sports Radio 1340 reports."
     },
     {
-      "player_id": "11592",
-      "source_id": "4427834",
-      "player_name": "Erick All Jr.",
-      "position": "TE",
-      "team_abbr": "CIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "All (knee) has been cleared to participate at training camp in a limited capacity, Chris Roling of USA Today reports."
-    },
-    {
       "player_id": "12735",
       "source_id": "4432208",
       "player_name": "Caleb Lohner",
@@ -85,6 +72,19 @@
       "injury_detail": "Lower Body",
       "est_return_date": "2026-08-01",
       "injury_comment": "Lohner is expected to miss two weeks after undergoing a lower-body procedure, Mike Klis of 9News Denver reports."
+    },
+    {
+      "player_id": "9221",
+      "source_id": "4429795",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Lions coach Dan Campbell said Thursday that he's \"not even sweating\" Gibbs' absence from training camp amidst contract negotiations, though Campbell also noted that the running back is dealing with minor back discomfort, ESPN.com's Eric Woodyard reports."
     },
     {
       "player_id": "9502",
@@ -126,6 +126,32 @@
       "injury_comment": "Hunter (knee) is participating in Wednesday's training camp session, John Shipley of SI.com reports."
     },
     {
+      "player_id": "10219",
+      "source_id": "4362619",
+      "player_name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Rodriguez (foot) has been cleared to practice, but the Jaguars intend to take a cautious approach with the running back's participation level early in training camp, John Shipley of SI.com reports."
+    },
+    {
+      "player_id": "12817",
+      "source_id": "4431196",
+      "player_name": "Jake Briningstool",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Briningstool (hamstring) is participating in training camp, Jared Sapp arrowheadpride.com reports."
+    },
+    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -152,19 +178,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "7611",
-      "source_id": "4569173",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Stevenson (undisclosed) left the field as his teammates prepared for final sprints during Tuesday's practice,  Andrew Callahan of the Boston Herald reports."
-    },
-    {
       "player_id": "12889",
       "source_id": "4431210",
       "player_name": "Beaux Collins",
@@ -188,20 +201,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Giants GM Joe Schoen said Wednesday that Nabers (ACL) will participate in individual drills during the early stages of training camp, Jordan Raanan of ESPN.com reports."
-    },
-    {
-      "player_id": "13349",
-      "source_id": "4431574",
-      "player_name": "Eli Stowers",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Stowers appears to have a lower-body injury and isn't doing much at Wednesday's practice, Jeff McLane of The Philadelphia Inquirer reports."
+      "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
     },
     {
       "player_id": "12467",
@@ -256,30 +256,17 @@
       "injury_comment": "Bobo did not participate in Tuesday's training camp practice due to a leg injury, Gregg Bell of The Tacoma News Tribune reports."
     },
     {
-      "player_id": "8484",
-      "source_id": "4034779",
-      "player_name": "Ko Kieft",
-      "position": "TE",
-      "team_abbr": "TB",
+      "player_id": "8135",
+      "source_id": "4567156",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "3976",
-      "source_id": "3039707",
-      "player_name": "Mitchell Trubisky",
-      "position": "QB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "General Soreness",
+      "injury_detail": "Foot",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Trubisky is considered day-to-day due to general tightness, Jim Wyatt of the Titans' official site reports."
+      "injury_comment": "Burks missed Thursday's practice with foot soreness, Ben Standig of Big 100 Washington D.C. reports."
     }
   ],
   "doubtful": [],
@@ -320,8 +307,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-10-01",
-      "injury_comment": "Brazzell (knee) suffered an LCL tear in his left knee at practice Wednesday that could sideline him up to eight weeks, Joe Person of The Athletic reports."
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Brazzell (knee) will soon have season-ending surgery on the LCL tear he suffered Wednesday, Joe Person of The Athletic reports."
     },
     {
       "player_id": "13312",
