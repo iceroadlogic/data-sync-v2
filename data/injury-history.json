@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T17:14:43.096Z",
+  "lastUpdated": "2026-07-30T20:55:37.843Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -12923,6 +12923,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "TB"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18268,6 +18273,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "CIN"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25474,6 +25484,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "KC"
         }
       ]
     },
@@ -26349,6 +26366,11 @@
           "to": "Questionable",
           "detail": "Lower Body",
           "team": "PHI"
+        },
+        {
+          "date": "2026-07-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
