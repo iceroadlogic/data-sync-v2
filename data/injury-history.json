@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T09:10:17.023Z",
+  "lastUpdated": "2026-07-31T16:03:19.625Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -13804,6 +13804,13 @@
           "to": "Out",
           "detail": "Knee - ACL",
           "team": "GB"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee - ACL",
+          "team": "GB"
         }
       ]
     },
@@ -24513,6 +24520,13 @@
           "date": "2025-12-05",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "CHI"
         }
       ]
     },

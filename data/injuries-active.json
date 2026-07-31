@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T09:10:17.023Z",
+  "lastUpdated": "2026-07-31T16:03:19.625Z",
   "week": 0,
   "summary": {
     "total_players": 910,
-    "questionable": 19,
+    "questionable": 21,
     "doubtful": 0,
-    "out": 21
+    "out": 20
   },
   "questionable": [
     {
@@ -61,6 +61,19 @@
       "injury_comment": "Evans has been diagnosed with a low ankle sprain and is considered day-to-day, Sheena Quick of Fox Sports Radio 1340 reports."
     },
     {
+      "player_id": "12534",
+      "source_id": "4608686",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Monangai was absent from Friday's practice due to an undisclosed reason, Patrick Finley of the Chicago Sun-Times reports."
+    },
+    {
       "player_id": "12735",
       "source_id": "4432208",
       "player_name": "Caleb Lohner",
@@ -87,6 +100,19 @@
       "injury_comment": "Lions coach Dan Campbell said Thursday that he's \"not even sweating\" Gibbs' absence from training camp amidst contract negotiations, though Campbell also noted that the running back is dealing with minor back discomfort, ESPN.com's Eric Woodyard reports."
     },
     {
+      "player_id": "9484",
+      "source_id": "4572680",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-08-01",
+      "injury_comment": "Packers head coach Matt LaFleur said Friday that Kraft (ACL) is being brought off the active/PUP list and will practice in some capacity, Matt Schneidman of The Athletic reports."
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -110,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-01",
-      "injury_comment": "Hunter (knee) is participating in Wednesday's training camp session, John Shipley of SI.com reports."
+      "injury_comment": "Hunter (knee) said Friday that he has put on 10 pounds of muscle and is running 21-22.5 miles per hour, NFL reporter Jordan Schultz reports."
     },
     {
       "player_id": "10219",
@@ -335,19 +361,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-01",
       "injury_comment": "Brooks is on the Packers' active/non-football injury list during training camp due to a hamstring injury, Matt Schneidman of The Athletic reports."
-    },
-    {
-      "player_id": "9484",
-      "source_id": "4572680",
-      "player_name": "Tucker Kraft",
-      "position": "TE",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Packers GM Brian Gutekunst said Wednesday it's \"very much a possibility\" that Kraft (ACL), who began training camp on the active/PUP list, will be ready to play Week 1, Ryan Wood of USA Today reports."
     },
     {
       "player_id": "9481",
