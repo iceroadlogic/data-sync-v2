@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T16:03:19.625Z",
+  "lastUpdated": "2026-07-31T20:53:02.998Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -18831,6 +18831,13 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "GB"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
@@ -24442,6 +24449,11 @@
           "from": "IR",
           "to": "Questionable",
           "team": "JAX"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26413,6 +26425,13 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Knee",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Out",
+          "to": "IR",
           "detail": "Knee",
           "team": "CAR"
         }

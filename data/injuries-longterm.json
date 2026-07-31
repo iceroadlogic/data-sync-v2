@@ -1,12 +1,25 @@
 {
-  "lastUpdated": "2026-07-31T17:18:50.006Z",
+  "lastUpdated": "2026-07-31T20:53:02.998Z",
   "week": 0,
   "summary": {
-    "total_players": 910,
-    "ir": 9,
+    "total_players": 911,
+    "ir": 10,
     "suspended": 0
   },
   "ir": [
+    {
+      "player_id": "13353",
+      "source_id": "5091739",
+      "player_name": "Chris Brazzell II",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Panthers placed Brazzell (knee) on injured reserve Friday."
+    },
     {
       "player_id": "7357",
       "source_id": "3929637",
