@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-30T23:57:47.018Z",
+  "lastUpdated": "2026-07-31T09:10:17.023Z",
   "week": 0,
   "summary": {
-    "total_players": 907,
+    "total_players": 910,
     "questionable": 19,
     "doubtful": 0,
     "out": 21
@@ -126,19 +126,6 @@
       "injury_comment": "Rodriguez (foot) has been cleared to practice, but the Jaguars intend to take a cautious approach with the running back's participation level early in training camp, John Shipley of SI.com reports."
     },
     {
-      "player_id": "12817",
-      "source_id": "4431196",
-      "player_name": "Jake Briningstool",
-      "position": "TE",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Briningstool (hamstring) is participating in training camp, Jared Sapp arrowheadpride.com reports."
-    },
-    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -189,6 +176,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-01",
       "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
+    },
+    {
+      "player_id": "13859",
+      "source_id": "4875788",
+      "player_name": "Jalen Walthall",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12467",

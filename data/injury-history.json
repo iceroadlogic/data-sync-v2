@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T23:12:51.716Z",
+  "lastUpdated": "2026-07-31T09:10:17.023Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -25491,6 +25491,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "KC"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26464,6 +26469,18 @@
           "to": "Out",
           "detail": "Illness",
           "team": "NO"
+        }
+      ]
+    },
+    "13859": {
+      "name": "Jalen Walthall",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-07-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "NYJ"
         }
       ]
     },
