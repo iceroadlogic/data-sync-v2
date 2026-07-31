@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T20:53:02.998Z",
+  "lastUpdated": "2026-07-31T23:08:48.373Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -21226,6 +21226,19 @@
         }
       ]
     },
+    "11963": {
+      "name": "Chris Collier",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-07-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LV"
+        }
+      ]
+    },
     "11964": {
       "name": "Dayton Wade",
       "position": "WR",
@@ -26502,6 +26515,11 @@
           "to": "Out",
           "detail": "Illness",
           "team": "NO"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -26513,6 +26531,12 @@
           "date": "2026-07-31",
           "from": "Healthy",
           "to": "Questionable",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-07-31",
+          "from": "Questionable",
+          "to": "IR",
           "team": "NYJ"
         }
       ]

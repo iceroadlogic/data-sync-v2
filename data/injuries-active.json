@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T16:03:19.625Z",
+  "lastUpdated": "2026-07-31T23:08:48.373Z",
   "week": 0,
   "summary": {
-    "total_players": 910,
+    "total_players": 915,
     "questionable": 21,
     "doubtful": 0,
-    "out": 20
+    "out": 17
   },
   "questionable": [
     {
@@ -18,7 +18,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-07-29",
+      "est_return_date": "2026-08-06",
       "injury_comment": "Conner (foot) isn't yet doing full-team drills at training camp, Darren Urban of azcardinals.com reports."
     },
     {
@@ -31,8 +31,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Penix (ACL) said Wednesday that when speaking with doctors last week, he was told he was still one month removed from recovery, D. Orlando Ledbetter of BowTieSports.com reports."
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Head coach Kevin Stefanski said Friday that Atlanta's starters will likely see action in the team's first and third preseason games, but it remains to be seen whether Penix (knee) will be ready to take the field by then, Tori McElhaney of the Falcons' official site reports."
     },
     {
       "player_id": "6768",
@@ -43,9 +43,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Tagovailoa (back) is doing individual drills at Thursday's practice, Marc Raimondi of ESPN.com reports."
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-14",
+      "injury_comment": "Tagovailoa (back) did not take part in team drills Friday due to a \"precautionary thing\" related to back tightness and said he is unsure when he will be fully cleared for on-field activities, Marc Raimondi of ESPN reports."
     },
     {
       "player_id": "12473",
@@ -57,7 +57,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-10",
+      "est_return_date": "2026-08-06",
       "injury_comment": "Evans has been diagnosed with a low ankle sprain and is considered day-to-day, Sheena Quick of Fox Sports Radio 1340 reports."
     },
     {
@@ -70,7 +70,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Monangai was absent from Friday's practice due to an undisclosed reason, Patrick Finley of the Chicago Sun-Times reports."
     },
     {
@@ -83,7 +83,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-14",
       "injury_comment": "Lohner is expected to miss two weeks after undergoing a lower-body procedure, Mike Klis of 9News Denver reports."
     },
     {
@@ -96,7 +96,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Back",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Lions coach Dan Campbell said Thursday that he's \"not even sweating\" Gibbs' absence from training camp amidst contract negotiations, though Campbell also noted that the running back is dealing with minor back discomfort, ESPN.com's Eric Woodyard reports."
     },
     {
@@ -109,8 +109,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Packers head coach Matt LaFleur said Friday that Kraft (ACL) is being brought off the active/PUP list and will practice in some capacity, Matt Schneidman of The Athletic reports."
+    },
+    {
+      "player_id": "11621",
+      "source_id": "4686781",
+      "player_name": "Brenden Rice",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9502",
@@ -122,21 +135,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Dell (knee) will be held out of full-team reps to open training camp, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
-      "player_id": "12530",
-      "source_id": "4685415",
-      "player_name": "Travis Hunter",
-      "position": "WR",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "Hunter (knee) said Friday that he has put on 10 pounds of muscle and is running 21-22.5 miles per hour, NFL reporter Jordan Schultz reports."
     },
     {
       "player_id": "10219",
@@ -148,7 +148,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Rodriguez (foot) has been cleared to practice, but the Jaguars intend to take a cautious approach with the running back's participation level early in training camp, John Shipley of SI.com reports."
     },
     {
@@ -161,8 +161,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Mahomes (knee) is participating in 11-on-11 team drills during Wednesday's training camp practice, Matt McMullen of the Chiefs' official site reports."
+    },
+    {
+      "player_id": "11963",
+      "source_id": "4698191",
+      "player_name": "Chris Collier",
+      "position": "RB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12700",
@@ -187,7 +200,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Concussion",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Collins (concussion) was spotted working with trainers on the side at practice Monday, Dan Duggan of The Athletic reports."
     },
     {
@@ -200,21 +213,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
-    },
-    {
-      "player_id": "13859",
-      "source_id": "4875788",
-      "player_name": "Jalen Walthall",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12467",
@@ -226,7 +226,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ribs",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "James fractured a rib during Tuesday's practice, Vic Tafur of The Athletic reports."
     },
     {
@@ -239,7 +239,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Calf",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Kirk sustained a calf injury during Sunday's practice and is not practicing Monday, Nick Wagoner of ESPN.com reports."
     },
     {
@@ -252,8 +252,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - PCL",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The 49ers have some \"concern\" about Pearsall's latest knee issue and are \"exploring all options\" when it comes to what the next step will be in addressing it, Nick Wagoner of ESPN.com reports."
+      "est_return_date": "2026-08-13",
+      "injury_comment": "San Francisco assistant head coach Chris Foerster said Friday that the team is \"continuing to evaluate\" Pearsall (knee) after the wide receiver aggravated the PCL issue in his right knee during early training camp practices, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "10867",
@@ -265,7 +265,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Leg",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Bobo did not participate in Tuesday's training camp practice due to a leg injury, Gregg Bell of The Tacoma News Tribune reports."
     },
     {
@@ -278,7 +278,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-14",
       "injury_comment": "Burks missed Thursday's practice with foot soreness, Ben Standig of Big 100 Washington D.C. reports."
     }
   ],
@@ -294,7 +294,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-06",
       "injury_comment": "Reiman (ankle) was placed on the active/PUP list Thursday, Darren Urban of the Cardinals' official site reports."
     },
     {
@@ -307,21 +307,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "The Bills placed Shavers (knee) on the active/PUP list Tuesday, Matt Parrino of The Syracuse Post-Standard reports."
-    },
-    {
-      "player_id": "13353",
-      "source_id": "5091739",
-      "player_name": "Chris Brazzell II",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Brazzell (knee) will soon have season-ending surgery on the LCL tear he suffered Wednesday, Joe Person of The Athletic reports."
     },
     {
       "player_id": "13312",
@@ -333,7 +320,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "The Bengals placed Kattus (undisclosed) on the active/non-football injury list Saturday."
     },
     {
@@ -346,7 +333,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "The Lions placed Conklin (knee) on the active/PUP list Sunday."
     },
     {
@@ -359,7 +346,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Brooks is on the Packers' active/non-football injury list during training camp due to a hamstring injury, Matt Schneidman of The Athletic reports."
     },
     {
@@ -372,21 +359,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Packers GM Brian Gutekunst said Wednesday that Musgrave was placed on the active/PUP list due to a neck injury and that the team is working to diagnose whether the tight end is facing a long-term issue, Tom Silverstein of the Milwaukee Journal Sentinel reports."
-    },
-    {
-      "player_id": "11621",
-      "source_id": "4686781",
-      "player_name": "Brenden Rice",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The Packers placed Rice (undisclosed) on the active/non-football injury list, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "12536",
@@ -424,7 +398,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list Tuesday."
     },
     {
@@ -437,7 +411,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Illness",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Owens was placed on the active/non-football illness list by the Vikings on Monday."
     },
     {
@@ -450,7 +424,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Dippre (undisclosed) will be on the active/PUP list to start training camp, Mike Reiss of ESPN.com reports."
     },
     {
@@ -463,21 +437,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "Jennings will open up training camp on the active/non-football injury list, Mike Reiss of ESPN.com reports."
-    },
-    {
-      "player_id": "13834",
-      "source_id": "5086529",
-      "player_name": "Cody Hardy",
-      "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Illness",
-      "est_return_date": "2026-08-01",
-      "injury_comment": "The Saints placed Hardy (illness) on the active/non-football illness list Tuesday, per the NFL's transaction log."
     },
     {
       "player_id": "11895",
@@ -489,7 +450,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Leg",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-15",
       "injury_comment": "Coach Kellen Moore said Wednesday that Tipton is still recovering from offseason tibia surgery, Mike Triplett of NewOrleans.Football reports."
     },
     {
@@ -502,7 +463,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "San Francisco general manager John Lynch told reporters Saturday that Aiyuk (knee) will remain on the 49ers' reserve/left squad list, Adam Schefter of ESPN reports."
     },
     {
@@ -515,7 +476,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Pectoral",
-      "est_return_date": "2026-08-01",
+      "est_return_date": "2026-08-13",
       "injury_comment": "The 49ers placed Guerendo (pectoral) on the active/PUP list Saturday, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
