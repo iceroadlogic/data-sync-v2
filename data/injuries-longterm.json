@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T20:53:02.998Z",
+  "lastUpdated": "2026-08-01T12:56:20.199Z",
   "week": 0,
   "summary": {
-    "total_players": 911,
-    "ir": 10,
+    "total_players": 916,
+    "ir": 11,
     "suspended": 0
   },
   "ir": [
@@ -13,7 +13,7 @@
       "player_name": "Chris Brazzell II",
       "position": "WR",
       "team_abbr": "CAR",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee",
@@ -81,9 +81,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Shorter (undisclosed) was placed on the reserve/injured list by the Raiders on Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11371",
@@ -136,6 +136,19 @@
       "injury_detail": "Achilles",
       "est_return_date": "2027-02-15",
       "injury_comment": "Olszewski (Achilles) was placed on injured reserve by the Giants on Monday, Dan Salomone of the team's official site reports."
+    },
+    {
+      "player_id": "13859",
+      "source_id": "4875788",
+      "player_name": "Jalen Walthall",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Walthall (undisclosed) reverted to the Jets' injured reserve Friday after clearing waivers, per the NFL's transaction report."
     }
   ],
   "suspended": []

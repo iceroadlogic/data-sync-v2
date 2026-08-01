@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T08:29:10.738Z",
+  "lastUpdated": "2026-08-01T12:56:20.199Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -18371,6 +18371,18 @@
           "date": "2026-03-09",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11598": {
+      "name": "Tanner McLachlan",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "SF"
         }
       ]
     },
