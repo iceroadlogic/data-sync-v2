@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T23:08:48.373Z",
+  "lastUpdated": "2026-08-01T08:29:10.738Z",
   "week": 0,
   "summary": {
-    "total_players": 915,
-    "questionable": 21,
+    "total_players": 916,
+    "questionable": 20,
     "doubtful": 0,
     "out": 17
   },
@@ -110,20 +110,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Packers head coach Matt LaFleur said Friday that Kraft (ACL) is being brought off the active/PUP list and will practice in some capacity, Matt Schneidman of The Athletic reports."
-    },
-    {
-      "player_id": "11621",
-      "source_id": "4686781",
-      "player_name": "Brenden Rice",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Kraft (knee), who was activated from the active/PUP list Friday, took part in individual drills at his first practice of Packers training camp, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "9502",
@@ -170,7 +157,7 @@
       "player_name": "Chris Collier",
       "position": "RB",
       "team_abbr": "LV",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
