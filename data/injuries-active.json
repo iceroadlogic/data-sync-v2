@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T15:06:08.619Z",
+  "lastUpdated": "2026-08-01T22:59:48.438Z",
   "week": 0,
   "summary": {
     "total_players": 916,
-    "questionable": 21,
+    "questionable": 23,
     "doubtful": 0,
     "out": 17
   },
@@ -87,6 +87,19 @@
       "injury_comment": "Lohner is expected to miss two weeks after undergoing a lower-body procedure, Mike Klis of 9News Denver reports."
     },
     {
+      "player_id": "13743",
+      "source_id": "4683227",
+      "player_name": "Joseph Manjack IV",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-14",
+      "injury_comment": "Manjack (back) could return to practice as early as Monday, NFL reporter Jordan Schultz reports."
+    },
+    {
       "player_id": "9221",
       "source_id": "4429795",
       "player_name": "Jahmyr Gibbs",
@@ -139,6 +152,19 @@
       "injury_comment": "Rodriguez (foot) has been cleared to practice, but the Jaguars intend to take a cautious approach with the running back's participation level early in training camp, John Shipley of SI.com reports."
     },
     {
+      "player_id": "13413",
+      "source_id": "4912218",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Lower Leg",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "Allen was diagnosed with a shin bruise on his left leg that he suffered during Saturday's training camp practice, Adam Schefter of ESPN reports."
+    },
+    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -152,6 +178,19 @@
       "injury_comment": "Mahomes (knee) is participating in 11-on-11 team drills during Wednesday's training camp practice, Matt McMullen of the Chiefs' official site reports."
     },
     {
+      "player_id": "11624",
+      "source_id": "4683062",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "Worthy is believed to avoided a serious shoulder injury that he sustained during the final session of Saturday's training camp practice, Ian Rapoport of NFL Network reports."
+    },
+    {
       "player_id": "11963",
       "source_id": "4698191",
       "player_name": "Chris Collier",
@@ -160,9 +199,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12700",
@@ -230,30 +269,17 @@
       "injury_comment": "Kirk sustained a calf injury during Sunday's practice and is not practicing Monday, Nick Wagoner of ESPN.com reports."
     },
     {
-      "player_id": "11638",
-      "source_id": "4428209",
-      "player_name": "Ricky Pearsall",
+      "player_id": "13417",
+      "source_id": "4710714",
+      "player_name": "De'Zhaun Stribling",
       "position": "WR",
       "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee - PCL",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-08-13",
-      "injury_comment": "San Francisco assistant head coach Chris Foerster said Friday that the team is \"continuing to evaluate\" Pearsall (knee) after the wide receiver aggravated the PCL issue in his right knee during early training camp practices, Matt Barrows of The Athletic reports."
-    },
-    {
-      "player_id": "11598",
-      "source_id": "4384171",
-      "player_name": "Tanner McLachlan",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_comment": "Stribling will not participate in Saturday's training camp practice due to hamstring tightness, David Lombardi of SFStandard.com reports."
     },
     {
       "player_id": "10867",
@@ -462,9 +488,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "San Francisco general manager John Lynch told reporters Saturday that Aiyuk (knee) will remain on the 49ers' reserve/left squad list, Adam Schefter of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11651",
@@ -475,9 +501,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Pectoral",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "The 49ers placed Guerendo (pectoral) on the active/PUP list Saturday, Matt Maiocco of NBC Sports Bay Area reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4217",
@@ -488,9 +514,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "The 49ers placed Kittle (Achilles) on the active/PUP list Saturday, Matt Maiocco of NBC Sports Bay Area reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9753",
