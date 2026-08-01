@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T16:48:25.410Z",
+  "lastUpdated": "2026-08-01T20:39:59.437Z",
   "week": 0,
   "summary": {
     "total_players": 916,
-    "ir": 11,
+    "ir": 12,
     "suspended": 0
   },
   "ir": [
@@ -149,6 +149,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Walthall (undisclosed) reverted to the Jets' injured reserve Friday after clearing waivers, per the NFL's transaction report."
+    },
+    {
+      "player_id": "11638",
+      "source_id": "4428209",
+      "player_name": "Ricky Pearsall",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - PCL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Pearsall was placed on injured reserve Saturday and will undergo season-ending PCL surgery on his right knee, Cam Inman of The San Jose Mercury News reports."
     }
   ],
   "suspended": []

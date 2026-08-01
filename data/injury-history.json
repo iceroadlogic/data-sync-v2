@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T16:48:25.410Z",
+  "lastUpdated": "2026-08-01T20:39:59.437Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -19040,6 +19040,13 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "KC"
         }
       ]
     },
@@ -19905,6 +19912,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "SF"
+        },
+        {
+          "date": "2026-08-01",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee - PCL",
           "team": "SF"
         }
       ]
@@ -26493,6 +26507,19 @@
         }
       ]
     },
+    "13417": {
+      "name": "De'Zhaun Stribling",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "SF"
+        }
+      ]
+    },
     "13432": {
       "name": "Khalil Dinkins",
       "position": "TE",
@@ -26532,6 +26559,18 @@
           "date": "2026-07-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13743": {
+      "name": "Joseph Manjack IV",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "DEN"
         }
       ]
     },
