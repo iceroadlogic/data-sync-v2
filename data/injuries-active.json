@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T08:29:10.738Z",
+  "lastUpdated": "2026-08-01T15:06:08.619Z",
   "week": 0,
   "summary": {
     "total_players": 916,
-    "questionable": 20,
+    "questionable": 21,
     "doubtful": 0,
     "out": 17
   },
@@ -241,6 +241,19 @@
       "injury_detail": "Knee - PCL",
       "est_return_date": "2026-08-13",
       "injury_comment": "San Francisco assistant head coach Chris Foerster said Friday that the team is \"continuing to evaluate\" Pearsall (knee) after the wide receiver aggravated the PCL issue in his right knee during early training camp practices, Matt Barrows of The Athletic reports."
+    },
+    {
+      "player_id": "11598",
+      "source_id": "4384171",
+      "player_name": "Tanner McLachlan",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10867",
