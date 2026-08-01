@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T12:56:20.199Z",
+  "lastUpdated": "2026-08-01T16:48:25.410Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -26477,6 +26477,19 @@
           "to": "IR",
           "detail": "Knee - ACL",
           "team": "DET"
+        }
+      ]
+    },
+    "13413": {
+      "name": "Cyrus Allen",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "KC"
         }
       ]
     },
