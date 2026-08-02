@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T22:59:48.438Z",
+  "lastUpdated": "2026-08-02T14:58:05.257Z",
   "week": 0,
   "summary": {
-    "total_players": 916,
-    "questionable": 23,
+    "total_players": 915,
+    "questionable": 24,
     "doubtful": 0,
     "out": 17
   },
@@ -113,6 +113,19 @@
       "injury_comment": "Lions coach Dan Campbell said Thursday that he's \"not even sweating\" Gibbs' absence from training camp amidst contract negotiations, though Campbell also noted that the running back is dealing with minor back discomfort, ESPN.com's Eric Woodyard reports."
     },
     {
+      "player_id": "13431",
+      "source_id": "5089453",
+      "player_name": "Miles Kitselman",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "9484",
       "source_id": "4572680",
       "player_name": "Tucker Kraft",
@@ -189,19 +202,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-15",
       "injury_comment": "Worthy is believed to avoided a serious shoulder injury that he sustained during the final session of Saturday's training camp practice, Ian Rapoport of NFL Network reports."
-    },
-    {
-      "player_id": "11963",
-      "source_id": "4698191",
-      "player_name": "Chris Collier",
-      "position": "RB",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12700",
@@ -293,6 +293,19 @@
       "injury_detail": "Leg",
       "est_return_date": "2026-08-15",
       "injury_comment": "Bobo did not participate in Tuesday's training camp practice due to a leg injury, Gregg Bell of The Tacoma News Tribune reports."
+    },
+    {
+      "player_id": "7716",
+      "source_id": "4048228",
+      "player_name": "John Bates",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-08-14",
+      "injury_comment": "Bates will miss \"a couple of weeks\" due to a hamstring injury, Ben Standig of Big 100 Washington D.C. reports."
     },
     {
       "player_id": "8135",

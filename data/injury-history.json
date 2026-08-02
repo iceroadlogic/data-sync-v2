@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T22:59:48.438Z",
+  "lastUpdated": "2026-08-02T14:58:05.257Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9822,6 +9822,13 @@
           "date": "2025-11-03",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-02",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "WAS"
         }
       ]
     },
@@ -21274,6 +21281,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LV"
+        },
+        {
+          "date": "2026-08-02",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26524,6 +26536,18 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "SF"
+        }
+      ]
+    },
+    "13431": {
+      "name": "Miles Kitselman",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-02",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "DET"
         }
       ]
     },
