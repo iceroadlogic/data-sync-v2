@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T14:58:05.257Z",
+  "lastUpdated": "2026-08-02T16:02:25.643Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -26325,6 +26325,13 @@
           "date": "2026-07-27",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Illness",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-08-02",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Illness",
           "team": "MIN"
         }

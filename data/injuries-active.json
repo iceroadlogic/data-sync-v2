@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-02T14:58:05.257Z",
+  "lastUpdated": "2026-08-02T16:02:25.643Z",
   "week": 0,
   "summary": {
     "total_players": 915,
-    "questionable": 24,
+    "questionable": 25,
     "doubtful": 0,
-    "out": 17
+    "out": 16
   },
   "questionable": [
     {
@@ -121,9 +121,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9484",
@@ -215,6 +215,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13291",
+      "source_id": "4431304",
+      "player_name": "Kejon Owens",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12889",
@@ -439,19 +452,6 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
       "injury_comment": "The Dolphins placed Bell (ACL) on the active/non-football injury list Tuesday."
-    },
-    {
-      "player_id": "13291",
-      "source_id": "4431304",
-      "player_name": "Kejon Owens",
-      "position": "RB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Illness",
-      "est_return_date": "2026-08-15",
-      "injury_comment": "Owens was placed on the active/non-football illness list by the Vikings on Monday."
     },
     {
       "player_id": "12984",
