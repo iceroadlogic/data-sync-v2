@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-03T09:57:41.716Z",
+  "lastUpdated": "2026-08-03T16:30:42.237Z",
   "week": 0,
   "summary": {
-    "total_players": 912,
+    "total_players": 911,
     "questionable": 24,
     "doubtful": 0,
-    "out": 16
+    "out": 15
   },
   "questionable": [
     {
@@ -35,45 +35,6 @@
       "injury_comment": "Head coach Kevin Stefanski said Friday that Atlanta's starters will likely see action in the team's first and third preseason games, but it remains to be seen whether Penix (knee) will be ready to take the field by then, Tori McElhaney of the Falcons' official site reports."
     },
     {
-      "player_id": "6768",
-      "source_id": "4241479",
-      "player_name": "Tua Tagovailoa",
-      "position": "QB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-14",
-      "injury_comment": "Tagovailoa (back) did not take part in team drills Friday due to a \"precautionary thing\" related to back tightness and said he is unsure when he will be fully cleared for on-field activities, Marc Raimondi of ESPN reports."
-    },
-    {
-      "player_id": "12473",
-      "source_id": "4683243",
-      "player_name": "Mitchell Evans",
-      "position": "TE",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-08-06",
-      "injury_comment": "Evans has been diagnosed with a low ankle sprain and is considered day-to-day, Sheena Quick of Fox Sports Radio 1340 reports."
-    },
-    {
-      "player_id": "12534",
-      "source_id": "4608686",
-      "player_name": "Kyle Monangai",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-15",
-      "injury_comment": "Monangai was absent from Friday's practice due to an undisclosed reason, Patrick Finley of the Chicago Sun-Times reports."
-    },
-    {
       "player_id": "12735",
       "source_id": "4432208",
       "player_name": "Caleb Lohner",
@@ -100,6 +61,19 @@
       "injury_comment": "Manjack (back) could return to practice as early as Monday, NFL reporter Jordan Schultz reports."
     },
     {
+      "player_id": "4435",
+      "source_id": "3049698",
+      "player_name": "Anthony Firkser",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "9221",
       "source_id": "4429795",
       "player_name": "Jahmyr Gibbs",
@@ -110,7 +84,20 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Lions coach Dan Campbell said Thursday that he's \"not even sweating\" Gibbs' absence from training camp amidst contract negotiations, though Campbell also noted that the running back is dealing with minor back discomfort, ESPN.com's Eric Woodyard reports."
+      "injury_comment": "Gibbs (back), was present but not in uniform for Monday's practice, Nolan Bianchi of the Detroit News reports."
+    },
+    {
+      "player_id": "12001",
+      "source_id": "4372769",
+      "player_name": "Lawrence Keys III",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13431",
@@ -124,6 +111,19 @@
       "injury_detail": "Leg",
       "est_return_date": "2026-08-13",
       "injury_comment": "Kitselman left Sunday's training camp practice early due to a leg injury, Dave Birkett of the Detroit Free Press reports."
+    },
+    {
+      "player_id": "11729",
+      "source_id": "4912274",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Eye",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9484",
@@ -452,19 +452,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-13",
       "injury_comment": "Dippre (undisclosed) will be on the active/PUP list to start training camp, Mike Reiss of ESPN.com reports."
-    },
-    {
-      "player_id": "12412",
-      "source_id": "4427600",
-      "player_name": "Terrell Jennings",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "Jennings will open up training camp on the active/non-football injury list, Mike Reiss of ESPN.com reports."
     },
     {
       "player_id": "11895",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T14:15:01.047Z",
+  "lastUpdated": "2026-08-03T16:30:42.237Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3307,6 +3307,19 @@
           "date": "2026-03-26",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "4435": {
+      "name": "Anthony Firkser",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "DET"
         }
       ]
     },
@@ -6895,6 +6908,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "ATL"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20543,6 +20561,13 @@
           "date": "2025-12-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Eye",
+          "team": "DET"
         }
       ]
     },
@@ -21312,6 +21337,19 @@
         }
       ]
     },
+    "12001": {
+      "name": "Lawrence Keys III",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "DET"
+        }
+      ]
+    },
     "12045": {
       "name": "Jack Westover",
       "position": "TE",
@@ -21565,6 +21603,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "NE"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -24607,6 +24650,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "CHI"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
