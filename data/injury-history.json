@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T17:47:14.930Z",
+  "lastUpdated": "2026-08-03T20:54:36.335Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -885,6 +885,13 @@
           "date": "2025-12-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "SF"
         }
       ]
     },
@@ -17344,6 +17351,19 @@
         }
       ]
     },
+    "11508": {
+      "name": "Princeton Fant",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "DAL"
+        }
+      ]
+    },
     "11510": {
       "name": "Hunter Luepke",
       "position": "RB",
@@ -26395,6 +26415,19 @@
         }
       ]
     },
+    "13294": {
+      "name": "Makai Lemon",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "PHI"
+        }
+      ]
+    },
     "13296": {
       "name": "Caleb Douglas",
       "position": "WR",
@@ -26410,6 +26443,19 @@
           "date": "2026-07-28",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13298": {
+      "name": "KC Concepcion",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "CLE"
         }
       ]
     },
@@ -26680,6 +26726,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "DEN"
+        },
+        {
+          "date": "2026-08-03",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
