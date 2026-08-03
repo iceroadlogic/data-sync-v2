@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T16:30:42.237Z",
+  "lastUpdated": "2026-08-03T17:47:14.930Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -26588,6 +26588,19 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "KC"
+        }
+      ]
+    },
+    "13414": {
+      "name": "Kaelon Black",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thigh",
+          "team": "SF"
         }
       ]
     },
