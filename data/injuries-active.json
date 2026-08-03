@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-03T16:30:42.237Z",
+  "lastUpdated": "2026-08-03T21:54:20.844Z",
   "week": 0,
   "summary": {
     "total_players": 911,
-    "questionable": 24,
+    "questionable": 28,
     "doubtful": 0,
     "out": 15
   },
@@ -35,6 +35,32 @@
       "injury_comment": "Head coach Kevin Stefanski said Friday that Atlanta's starters will likely see action in the team's first and third preseason games, but it remains to be seen whether Penix (knee) will be ready to take the field by then, Tori McElhaney of the Falcons' official site reports."
     },
     {
+      "player_id": "13298",
+      "source_id": "4870653",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "Concepcion (shoulder), who was shaken up during Monday's practice, is believed to have avoided a serious injury, NFL reporter Jordan Schultz reports."
+    },
+    {
+      "player_id": "11508",
+      "source_id": "4242442",
+      "player_name": "Princeton Fant",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "12735",
       "source_id": "4432208",
       "player_name": "Caleb Lohner",
@@ -46,19 +72,6 @@
       "injury_detail": "Lower Body",
       "est_return_date": "2026-08-14",
       "injury_comment": "Lohner is expected to miss two weeks after undergoing a lower-body procedure, Mike Klis of 9News Denver reports."
-    },
-    {
-      "player_id": "13743",
-      "source_id": "4683227",
-      "player_name": "Joseph Manjack IV",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-14",
-      "injury_comment": "Manjack (back) could return to practice as early as Monday, NFL reporter Jordan Schultz reports."
     },
     {
       "player_id": "4435",
@@ -84,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Gibbs (back), was present but not in uniform for Monday's practice, Nolan Bianchi of the Detroit News reports."
+      "injury_comment": "Gibbs (back) was present but not in uniform for Monday's practice, Nolan Bianchi of the Detroit News reports."
     },
     {
       "player_id": "12001",
@@ -175,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Allen was diagnosed with a shin bruise on his left leg that he suffered during Saturday's training camp practice, Adam Schefter of ESPN reports."
+      "injury_comment": "Coach Andy Reid noted Monday that he expects Allen (shin) to return to practice later this week, Nate Taylor of ESPN.com reports."
     },
     {
       "player_id": "4046",
@@ -201,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Worthy is believed to avoided a serious shoulder injury that he sustained during the final session of Saturday's training camp practice, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Coach Andy Reid noted Monday that Worthy, who is dealing with a sprained shoulder, needs \"a day or two\" before returning to practice, Matt Derrick of ChiefsDigest.com reports."
     },
     {
       "player_id": "12700",
@@ -243,6 +256,45 @@
       "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
     },
     {
+      "player_id": "13294",
+      "source_id": "4870795",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "Lemon (undisclosed) didn't take part in team drills during Monday's practice, Martin Frank of The Delaware News Journal reports."
+    },
+    {
+      "player_id": "13414",
+      "source_id": "4696044",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thigh",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "Black is missing Monday's practice due to an adductor injury, Nick Wagoner of ESPN.com reports."
+    },
+    {
+      "player_id": "2216",
+      "source_id": "16737",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "Evans (quad) won't practice Monday, Nick Wagoner of ESPN.com reports."
+    },
+    {
       "player_id": "12467",
       "source_id": "4685397",
       "player_name": "Jordan James",
@@ -266,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Kirk sustained a calf injury during Sunday's practice and is not practicing Monday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Kirk (calf) worked out on the side at Monday's practice, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "13417",
@@ -279,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Stribling will not participate in Saturday's training camp practice due to hamstring tightness, David Lombardi of SFStandard.com reports."
+      "injury_comment": "Stribling (hamstring) remains day-to-day and won't practice Monday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "10867",
