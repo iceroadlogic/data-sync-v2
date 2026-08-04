@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T17:28:48.205Z",
+  "lastUpdated": "2026-08-04T21:02:16.824Z",
   "week": 0,
   "summary": {
     "total_players": 912,
@@ -81,9 +81,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Shorter (undisclosed) was placed on the reserve/injured list by the Raiders on Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11371",
@@ -174,7 +174,7 @@
       "injury_description": null,
       "injury_detail": "Knee - PCL",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Pearsall was placed on injured reserve Saturday and will undergo season-ending PCL surgery on his right knee, Cam Inman of The San Jose Mercury News reports."
+      "injury_comment": "Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports."
     }
   ],
   "suspended": []
