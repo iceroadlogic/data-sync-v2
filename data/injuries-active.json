@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-04T23:08:39.064Z",
+  "lastUpdated": "2026-08-05T08:45:21.923Z",
   "week": 0,
   "summary": {
-    "total_players": 912,
+    "total_players": 914,
     "questionable": 28,
     "doubtful": 0,
     "out": 15
@@ -74,19 +74,6 @@
       "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
     },
     {
-      "player_id": "4435",
-      "source_id": "3049698",
-      "player_name": "Anthony Firkser",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Leg",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "The Lions placed Firkser (leg) on injured reserve Tuesday."
-    },
-    {
       "player_id": "9221",
       "source_id": "4429795",
       "player_name": "Jahmyr Gibbs",
@@ -137,6 +124,19 @@
       "injury_detail": "Eye",
       "est_return_date": "2026-08-13",
       "injury_comment": "Vaki suffered a broken nose in Monday's practice, Justin Rogers of DetroitFootball.net reports."
+    },
+    {
+      "player_id": "4435",
+      "source_id": "3049698",
+      "player_name": "Anthony Firkser",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "The Lions placed Firkser (leg) on injured reserve Tuesday."
     },
     {
       "player_id": "9484",
