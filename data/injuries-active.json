@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-05T23:06:37.810Z",
+  "lastUpdated": "2026-08-06T08:46:40.892Z",
   "week": 0,
   "summary": {
-    "total_players": 914,
-    "questionable": 28,
+    "total_players": 905,
+    "questionable": 26,
     "doubtful": 0,
     "out": 14
   },
@@ -87,32 +87,6 @@
       "injury_comment": "Gibbs (back) was present but not in uniform for Monday's practice, Nolan Bianchi of the Detroit News reports."
     },
     {
-      "player_id": "12001",
-      "source_id": "4372769",
-      "player_name": "Lawrence Keys III",
-      "position": "WR",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13431",
-      "source_id": "5089453",
-      "player_name": "Miles Kitselman",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Leg",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "Kitselman (leg) is set to be \"out for a while,\" Richard Silva of The Detroit News reports."
-    },
-    {
       "player_id": "11729",
       "source_id": "4912274",
       "player_name": "Sione Vaki",
@@ -126,17 +100,17 @@
       "injury_comment": "Vaki suffered a broken nose in Monday's practice, Justin Rogers of DetroitFootball.net reports."
     },
     {
-      "player_id": "4435",
-      "source_id": "3049698",
-      "player_name": "Anthony Firkser",
-      "position": "TE",
+      "player_id": "12001",
+      "source_id": "4372769",
+      "player_name": "Lawrence Keys III",
+      "position": "WR",
       "team_abbr": "DET",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Leg",
       "est_return_date": "2026-08-13",
-      "injury_comment": "The Lions placed Firkser (leg) on injured reserve Tuesday."
+      "injury_comment": "Keys (leg) reverted from waivers to Detroit's injured reserve list Wednesday, per the NFL's transaction log."
     },
     {
       "player_id": "9484",
@@ -230,19 +204,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12889",
-      "source_id": "4431210",
-      "player_name": "Beaux Collins",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-08-15",
-      "injury_comment": "Collins (concussion) was spotted working with trainers on the side at practice Monday, Dan Duggan of The Athletic reports."
-    },
-    {
       "player_id": "11632",
       "source_id": "4595348",
       "player_name": "Malik Nabers",
@@ -254,6 +215,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
       "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
+    },
+    {
+      "player_id": "12889",
+      "source_id": "4431210",
+      "player_name": "Beaux Collins",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13294",
@@ -425,7 +399,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-13",
-      "injury_comment": "The Lions placed Conklin (knee) on the active/PUP list Sunday."
+      "injury_comment": "The Lions activated Conklin (knee) off the active/PUP list Wednesday, Dave Birkett of the Detroit Free Press reports."
     },
     {
       "player_id": "11370",
