@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:46:40.892Z",
+  "lastUpdated": "2026-08-06T13:40:50.219Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3332,6 +3332,13 @@
           "date": "2026-08-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "DET"
         }
       ]
     },
@@ -6868,6 +6875,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Achilles",
+          "team": "NYG"
         }
       ]
     },
@@ -8089,6 +8103,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CAR"
         }
       ]
     },
@@ -13421,6 +13442,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14108,6 +14134,12 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "LV"
         }
       ]
     },
@@ -17064,6 +17096,12 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NE"
         }
       ]
     },
@@ -18465,6 +18503,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "SF"
         }
       ]
     },
@@ -20007,6 +20052,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee - PCL",
+          "team": "SF"
         }
       ]
     },
@@ -26223,6 +26275,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Arm",
+          "team": "NE"
         }
       ]
     },
@@ -26620,6 +26679,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "KC"
         }
       ]
     },
@@ -26670,6 +26736,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "CAR"
         }
       ]
     },
@@ -26688,6 +26761,12 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "DET"
         }
       ]
     },
@@ -26744,6 +26823,13 @@
           "date": "2026-08-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "DET"
         }
       ]
     },
@@ -26844,6 +26930,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "NYJ"
         }
       ]
     },
@@ -26862,6 +26955,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "LV"
         }
       ]
     },
@@ -26893,6 +26993,13 @@
           "date": "2026-08-06",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-06",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "NE"
         }
       ]
     }

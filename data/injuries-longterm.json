@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-05T20:56:50.324Z",
+  "lastUpdated": "2026-08-06T13:40:50.219Z",
   "week": 0,
   "summary": {
-    "total_players": 914,
-    "ir": 13,
+    "total_players": 924,
+    "ir": 14,
     "suspended": 0
   },
   "ir": [
@@ -58,6 +58,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Chiefs placed Gyllenborg (knee) on injured reserve Tuesday, Matt Derrick of ChiefsDigest.com reports."
+    },
+    {
+      "player_id": "11963",
+      "source_id": "4698191",
+      "player_name": "Chris Collier",
+      "position": "RB",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Collier (undisclosed) reverted to injured reserve with the Raiders on Sunday, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "13898",
