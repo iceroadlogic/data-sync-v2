@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-06T08:46:40.892Z",
+  "lastUpdated": "2026-08-07T00:59:57.671Z",
   "week": 0,
   "summary": {
-    "total_players": 905,
-    "questionable": 26,
+    "total_players": 924,
+    "questionable": 27,
     "doubtful": 0,
     "out": 14
   },
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Fant has been diagnosed with a torn ACL and sprained MCL and will miss the 2026 season, Jon Machota of The Athletic reports."
+      "injury_comment": "The Cowboys placed Fant (knee) on injured reserve Thursday."
     },
     {
       "player_id": "12735",
@@ -74,19 +74,6 @@
       "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
     },
     {
-      "player_id": "9221",
-      "source_id": "4429795",
-      "player_name": "Jahmyr Gibbs",
-      "position": "RB",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "Gibbs (back) was present but not in uniform for Monday's practice, Nolan Bianchi of the Detroit News reports."
-    },
-    {
       "player_id": "11729",
       "source_id": "4912274",
       "player_name": "Sione Vaki",
@@ -100,6 +87,19 @@
       "injury_comment": "Vaki suffered a broken nose in Monday's practice, Justin Rogers of DetroitFootball.net reports."
     },
     {
+      "player_id": "4435",
+      "source_id": "3049698",
+      "player_name": "Anthony Firkser",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-08-13",
+      "injury_comment": "The Lions placed Firkser (leg) on injured reserve Tuesday."
+    },
+    {
       "player_id": "12001",
       "source_id": "4372769",
       "player_name": "Lawrence Keys III",
@@ -108,9 +108,22 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13431",
+      "source_id": "5089453",
+      "player_name": "Miles Kitselman",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
       "injury_detail": "Leg",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Keys (leg) reverted from waivers to Detroit's injured reserve list Wednesday, per the NFL's transaction log."
+      "injury_comment": "The Lions placed Kitselman (leg) on the reserve/injured list Wednesday."
     },
     {
       "player_id": "9484",
@@ -149,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Rodriguez (foot) worked in team drills for a second consecutive day during Monday's padded practice, John Oehser and  John Shipley of the Jaguars' official site report."
+      "injury_comment": "Rodriguez had his most active practice of training camp thus far Thursday, according to John Shipley of SI.com."
     },
     {
       "player_id": "13413",
@@ -214,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Nabers (knee) said Thursday that he \"felt great\" after practicing Wednesday for the first time since having his torn ACL surgically repaired in October, Matt Citak of the Giants' official site reports."
+      "injury_comment": "Nabers (knee) participated in team drills at Thursday's practice, Patricia Traina of SI.com reports."
     },
     {
       "player_id": "12889",
@@ -225,9 +238,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-08-15",
+      "injury_comment": "Collins (concussion) reverted to the Giants' injured reserve Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "13294",
@@ -277,9 +290,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "James fractured a rib during Tuesday's practice, Vic Tafur of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4950",
@@ -305,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Stribling (hamstring) remains day-to-day and won't practice Monday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "In his return to practice Thursday, Stribling (hamstring) didn't take part in team drills, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "10867",
@@ -318,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Leg",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Bobo did not participate in Tuesday's training camp practice due to a leg injury, Gregg Bell of The Tacoma News Tribune reports."
+      "injury_comment": "Bobo (hamstring) did not participate in Thursday's training camp session due to injury, Gregg Bell of thenewstribune.com reports."
     },
     {
       "player_id": "7716",
@@ -386,7 +399,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-13",
-      "injury_comment": "The Bengals placed Kattus (undisclosed) on the active/non-football injury list Saturday."
+      "injury_comment": "The Bengals activated Kattus (undisclosed) off the active/non-football injury list Thursday."
     },
     {
       "player_id": "5133",
