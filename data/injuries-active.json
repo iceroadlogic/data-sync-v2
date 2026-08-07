@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T01:40:26.543Z",
-  "week": 0,
+  "lastUpdated": "2026-08-07T07:25:45.087Z",
+  "week": 1,
   "summary": {
-    "total_players": 924,
-    "questionable": 27,
+    "total_players": 923,
+    "questionable": 26,
     "doubtful": 0,
     "out": 14
   },
@@ -53,7 +53,7 @@
       "player_name": "Princeton Fant",
       "position": "TE",
       "team_abbr": "DAL",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
@@ -98,19 +98,6 @@
       "injury_detail": "Leg",
       "est_return_date": "2026-08-13",
       "injury_comment": "The Lions placed Firkser (leg) on injured reserve Tuesday."
-    },
-    {
-      "player_id": "12001",
-      "source_id": "4372769",
-      "player_name": "Lawrence Keys III",
-      "position": "WR",
-      "team_abbr": "DET",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "13431",
