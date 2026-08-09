@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-08-09T22:41:26.062Z",
+  "lastUpdated": "2026-08-09T23:08:00.531Z",
   "games": [
     {
       "game_id": "401872656",
@@ -56,10 +56,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 mph SW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "14%"
+        "temp": 97,
+        "wind": "5 to 10 mph WSW",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "16%"
       }
     },
     {
@@ -179,8 +179,8 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "7 mph SE",
+        "temp": 86,
+        "wind": "8 mph W",
         "conditions": "Chance Showers And Thunderstorms",
         "precipitation": "28%"
       }
