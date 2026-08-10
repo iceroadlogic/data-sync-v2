@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-08-10T11:08:48.014Z",
+  "lastUpdated": "2026-08-10T16:53:56.491Z",
   "games": [
     {
       "game_id": "401872656",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "5 mph WSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "4%"
+        "temp": 60,
+        "wind": "5 mph WNW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "11%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "0 to 15 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 65,
+        "wind": "0 to 15 mph SW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "3 to 9 mph W",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "42%"
+        "temp": 67,
+        "wind": "6 to 9 mph W",
+        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+        "precipitation": "60%"
       }
     },
     {
@@ -153,9 +153,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "0 to 15 mph WSW",
-        "conditions": "Mostly Sunny",
+        "temp": 65,
+        "wind": "0 to 15 mph SW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
