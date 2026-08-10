@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T16:54:47.595Z",
+  "lastUpdated": "2026-08-10T20:31:16.067Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4758,6 +4758,11 @@
           "from": "Healthy",
           "to": "Out",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-10",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -11094,6 +11099,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "WAS"
+        },
+        {
+          "date": "2026-08-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15061,6 +15071,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "JAX"
+        },
+        {
+          "date": "2026-08-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -24831,6 +24846,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "HOU"
+        },
+        {
+          "date": "2026-08-10",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
