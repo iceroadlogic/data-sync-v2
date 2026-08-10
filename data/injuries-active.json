@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-10T15:05:03.280Z",
+  "lastUpdated": "2026-08-10T21:28:35.954Z",
   "week": 1,
   "summary": {
     "total_players": 928,
-    "questionable": 25,
+    "questionable": 23,
     "doubtful": 0,
-    "out": 13
+    "out": 11
   },
   "questionable": [
     {
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Kraft (knee), who was activated from the active/PUP list Friday, took part in individual drills at his first practice of Packers training camp, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Kraft (knee) ran routes on air in full pads while catching passes from QB Jordan Love at Monday's practice, Ryan Wood of USA Today reports."
     },
     {
       "player_id": "9502",
@@ -136,20 +136,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Dell said, \"I'm taking it one day at a time\" when asked Friday about his potential availability for Week 1 of the regular season versus Buffalo, DJ Bien-Aime of ESPN reports."
-    },
-    {
-      "player_id": "10219",
-      "source_id": "4362619",
-      "player_name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-08-15",
-      "injury_comment": "Rodriguez had his most active practice of training camp thus far Thursday, according to John Shipley of SI.com."
+      "injury_comment": "Dell (knee) participated in \"full-team drills\" Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "4046",
@@ -319,19 +306,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-14",
       "injury_comment": "Bates will miss \"a couple of weeks\" due to a hamstring injury, Ben Standig of Big 100 Washington D.C. reports."
-    },
-    {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-08-14",
-      "injury_comment": "Burks (foot) returned to Commanders practice Saturday, Zach Selby of the Commanders' official site reports."
     }
   ],
   "doubtful": [],
@@ -376,19 +350,6 @@
       "injury_comment": "The Bengals activated Kattus (undisclosed) off the active/non-football injury list Thursday."
     },
     {
-      "player_id": "5133",
-      "source_id": "3915486",
-      "player_name": "Tyler Conklin",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "The Lions activated Conklin (knee) off the active/PUP list Wednesday, Dave Birkett of the Detroit Free Press reports."
-    },
-    {
       "player_id": "9481",
       "source_id": "4428085",
       "player_name": "Luke Musgrave",
@@ -400,19 +361,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12536",
-      "source_id": "4586312",
-      "player_name": "Jaylin Noel",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "The Texans activated Noel (finger) from the active/non-football injury list Friday morning."
     },
     {
       "player_id": "8142",
@@ -488,9 +436,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Achilles",
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Kittle (Achilles) was seen running routes, catching passes and doing conditioning work prior to Monday's practice, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "9753",
