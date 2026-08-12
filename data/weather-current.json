@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-08-11T22:41:53.449Z",
+  "lastUpdated": "2026-08-12T11:00:33.664Z",
   "games": [
     {
       "game_id": "401872656",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 mph W",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "19%"
+        "temp": 76,
+        "wind": "6 mph WSW",
+        "conditions": "Slight Chance Light Rain then Partly Sunny",
+        "precipitation": "15%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "0 to 15 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 80,
+        "wind": "0 to 10 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -35,9 +35,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "0 to 3 mph N",
-        "conditions": "Sunny",
+        "temp": 65,
+        "wind": "0 to 3 mph E",
+        "conditions": "Mostly Clear",
         "precipitation": "8%"
       }
     },
@@ -56,9 +56,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
+        "temp": 97,
         "wind": "0 to 5 mph N",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
         "precipitation": "17%"
       }
     },
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "1 to 6 mph NW",
-        "conditions": "Patchy Fog then Mostly Sunny",
-        "precipitation": "6%"
+        "temp": 63,
+        "wind": "1 to 5 mph NE",
+        "conditions": "Mostly Clear",
+        "precipitation": "9%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 95,
-        "wind": "5 mph NNE",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "temp": 74,
+        "wind": "5 mph NE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "32%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 98,
-        "wind": "6 to 9 mph SW",
-        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "temp": 79,
+        "wind": "5 to 8 mph SW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "35%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "5 mph N",
-        "conditions": "Sunny",
-        "precipitation": "6%"
+        "temp": 68,
+        "wind": "0 to 5 mph NW",
+        "conditions": "Mostly Clear",
+        "precipitation": "8%"
       }
     },
     {
@@ -153,10 +153,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "0 to 15 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 80,
+        "wind": "0 to 10 mph S",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "7 mph N",
-        "conditions": "Sunny",
-        "precipitation": "7%"
+        "temp": 67,
+        "wind": "2 to 6 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "6%"
       }
     },
     {
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "6 mph ESE",
+        "temp": 73,
+        "wind": "6 mph SE",
         "conditions": "Partly Cloudy",
-        "precipitation": "13%"
+        "precipitation": "10%"
       }
     }
   ]
