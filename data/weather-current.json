@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-08-13T16:56:08.682Z",
+  "lastUpdated": "2026-08-13T21:55:15.473Z",
   "games": [
     {
       "game_id": "401872656",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "5 mph N",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "17%"
+        "wind": "5 mph NNW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "2%"
       }
     },
     {
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 to 10 mph S",
+        "wind": "5 to 10 mph SSE",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 mph SW",
+        "wind": "2 to 6 mph SW",
         "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "26%"
+        "precipitation": "24%"
       }
     },
     {
@@ -56,8 +56,8 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "0 to 5 mph SSW",
+        "temp": 75,
+        "wind": "5 mph SW",
         "conditions": "Partly Cloudy",
         "precipitation": "12%"
       }
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "3 mph SSE",
+        "wind": "1 to 5 mph SSW",
         "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "precipitation": "18%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "3 to 8 mph S",
+        "temp": 79,
+        "wind": "5 to 8 mph SW",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "38%"
+        "precipitation": "27%"
       }
     },
     {
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "5 mph SW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "20%"
+        "wind": "5 mph S",
+        "conditions": "Partly Cloudy",
+        "precipitation": "14%"
       }
     },
     {
@@ -154,7 +154,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 to 10 mph S",
+        "wind": "5 to 10 mph SSE",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -167,9 +167,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 to 9 mph S",
+        "wind": "5 to 9 mph SW",
         "conditions": "Slight Chance Rain Showers",
-        "precipitation": "24%"
+        "precipitation": "17%"
       }
     },
     {
@@ -180,9 +180,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "8 mph SSE",
-        "conditions": "Partly Cloudy",
-        "precipitation": "13%"
+        "wind": "8 mph ENE",
+        "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
+        "precipitation": "18%"
       }
     }
   ]
