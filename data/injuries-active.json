@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T14:28:49.299Z",
+  "lastUpdated": "2026-08-15T22:28:01.033Z",
   "week": 1,
   "summary": {
-    "total_players": 925,
-    "questionable": 20,
+    "total_players": 928,
+    "questionable": 19,
     "doubtful": 0,
     "out": 11
   },
@@ -82,9 +82,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Eye",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "Vaki suffered a broken nose in Monday's practice, Justin Rogers of DetroitFootball.net reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9484",
@@ -162,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Nabers (knee) wore a red non-contact jersey during team drills at Thursday's practice, which didn't feature any live periods, Dan Duggan of The Athletic reports."
+      "injury_comment": "Nabers (knee) isn't in uniform for Saturday's preseason opener against Minnesota, Dan Duggan of The Athletic reports."
     },
     {
       "player_id": "13294",
@@ -189,19 +189,6 @@
       "injury_detail": "Thigh",
       "est_return_date": "2026-08-13",
       "injury_comment": "Black (thigh) will not play in Thursday's preseason opener against the Titans, Nick Wagoner of ESPN.com reports."
-    },
-    {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-08-13",
-      "injury_comment": "Evans (quadriceps) is not dressed in uniform for Thursday night's preseason opener against the Titans, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "12467",
