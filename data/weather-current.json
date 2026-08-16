@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-16T21:56:43.778Z",
+  "lastUpdated": "2026-08-16T22:23:11.864Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 mph SW",
-        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "39%"
+        "temp": 77,
+        "wind": "7 mph W",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "42%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 mph NE",
+        "temp": 81,
+        "wind": "2 to 7 mph NW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "25%"
+        "precipitation": "29%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "2 to 7 mph E",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "18%"
+        "temp": 83,
+        "wind": "3 to 8 mph E",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "28%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "2 to 7 mph SW",
+        "temp": 92,
+        "wind": "2 to 8 mph SSW",
         "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "34%"
+        "precipitation": "33%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "1 to 5 mph E",
-        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "25%"
+        "temp": 83,
+        "wind": "2 to 6 mph N",
+        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+        "precipitation": "24%"
       }
     },
     {
