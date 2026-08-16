@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-16T17:57:01.207Z",
+  "lastUpdated": "2026-08-16T18:31:57.712Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
+        "temp": 60,
         "wind": "5 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "42%"
+        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+        "precipitation": "39%"
       }
     },
     {
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 mph WNW",
+        "wind": "5 mph NW",
         "conditions": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "16%"
+        "precipitation": "24%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "3 to 7 mph NE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "34%"
+        "temp": 66,
+        "wind": "2 to 7 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "18%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "wind": "2 to 7 mph SW",
         "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "39%"
+        "precipitation": "34%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "2 to 6 mph N",
-        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
-        "precipitation": "36%"
+        "temp": 68,
+        "wind": "1 to 5 mph E",
+        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+        "precipitation": "25%"
       }
     },
     {
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "6 mph ESE",
-        "conditions": "Mostly Clear",
-        "precipitation": "11%"
+        "wind": "6 mph E",
+        "conditions": "Mostly Clear then Slight Chance Showers And Thunderstorms",
+        "precipitation": "15%"
       }
     },
     {
