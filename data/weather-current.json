@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-16T23:21:19.347Z",
+  "lastUpdated": "2026-08-16T23:45:32.701Z",
   "games": [
     {
       "game_id": "401872932",
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 10 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "temp": 66,
+        "wind": "5 mph NW",
+        "conditions": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "24%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 92,
-        "wind": "0 to 10 mph N",
-        "conditions": "Sunny",
-        "precipitation": "6%"
+        "temp": 69,
+        "wind": "0 to 5 mph N",
+        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+        "precipitation": "15%"
       }
     },
     {
@@ -171,9 +171,9 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "5 to 8 mph SE",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Sunny",
+        "temp": 69,
+        "wind": "6 mph E",
+        "conditions": "Mostly Clear then Slight Chance Showers And Thunderstorms",
         "precipitation": "15%"
       }
     },
