@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-17T10:32:23.155Z",
+  "lastUpdated": "2026-08-17T16:27:48.080Z",
   "games": [
     {
       "game_id": "401872932",
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 to 10 mph N",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 64,
+        "wind": "0 to 5 mph N",
+        "conditions": "Partly Cloudy",
+        "precipitation": "8%"
       }
     },
     {
@@ -43,9 +43,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 91,
-        "wind": "0 to 10 mph NW",
-        "conditions": "Sunny",
+        "temp": 68,
+        "wind": "0 to 5 mph N",
+        "conditions": "Mostly Clear",
         "precipitation": "7%"
       }
     },
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 92,
-        "wind": "3 to 7 mph NNW",
-        "conditions": "Mostly Sunny then Showers And Thunderstorms Likely",
-        "precipitation": "58%"
+        "temp": 62,
+        "wind": "3 to 7 mph WSW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "45%"
       }
     },
     {
@@ -129,9 +129,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
+        "temp": 68,
         "wind": "0 to 10 mph SSW",
-        "conditions": "Sunny",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -158,9 +158,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "2 to 10 mph W",
-        "conditions": "Sunny",
+        "temp": 58,
+        "wind": "2 to 12 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
-        "wind": "5 to 8 mph E",
-        "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "temp": 69,
+        "wind": "8 mph E",
+        "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
+        "precipitation": "19%"
       }
     },
     {
@@ -184,9 +184,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
+        "temp": 68,
         "wind": "0 to 10 mph SSW",
-        "conditions": "Sunny",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     }
