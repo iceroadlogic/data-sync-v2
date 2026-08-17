@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-17T16:27:48.080Z",
+  "lastUpdated": "2026-08-17T21:33:23.595Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "2 to 6 mph W",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "52%"
+        "temp": 58,
+        "wind": "3 to 7 mph W",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "65%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "0 to 5 mph N",
+        "temp": 63,
+        "wind": "5 mph N",
         "conditions": "Partly Cloudy",
-        "precipitation": "8%"
+        "precipitation": "6%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "0 to 5 mph N",
+        "temp": 66,
+        "wind": "0 to 5 mph NNE",
         "conditions": "Mostly Clear",
-        "precipitation": "7%"
+        "precipitation": "3%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
+        "temp": 62,
         "wind": "5 mph SW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "50%"
+        "precipitation": "52%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 67,
         "wind": "3 to 7 mph W",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "37%"
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "55%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "1 to 7 mph SW",
+        "temp": 78,
+        "wind": "2 to 7 mph SSW",
         "conditions": "Scattered Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "38%"
+        "precipitation": "35%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "2 to 6 mph W",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "temp": 67,
+        "wind": "6 mph W",
+        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
+        "precipitation": "41%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "3 to 7 mph WSW",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "45%"
+        "wind": "3 to 7 mph W",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "54%"
       }
     },
     {
@@ -130,9 +130,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "0 to 10 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "wind": "0 to 10 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "8 mph E",
-        "conditions": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "temp": 68,
+        "wind": "8 mph ESE",
+        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+        "precipitation": "23%"
       }
     },
     {
@@ -185,9 +185,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "0 to 10 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "wind": "0 to 10 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     }
   ]
