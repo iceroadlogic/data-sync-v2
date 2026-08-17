@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-17T14:34:16.880Z",
+  "lastUpdated": "2026-08-17T21:13:06.488Z",
   "week": 2,
   "summary": {
-    "total_players": 930,
-    "questionable": 19,
+    "total_players": 927,
+    "questionable": 20,
     "doubtful": 0,
     "out": 11
   },
@@ -20,6 +20,19 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-08-06",
       "injury_comment": "Head coach Mike LaFleur said Saturday that there is no timeline for Conner (foot) to participate in 11-on-11 drills in training camp practice, Darren Urban of the Cardinals' official site reports."
+    },
+    {
+      "player_id": "12889",
+      "source_id": "4431210",
+      "player_name": "Beaux Collins",
+      "position": "WR",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11559",
@@ -110,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-08-13",
-      "injury_comment": "Dell (knee) participated in \"full-team drills\" Monday, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_comment": "Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. \"With Tank, he's on his own plan,\" Ryans noted. \"Whatever that entails, geared toward what's best for Tank Dell.\""
     },
     {
       "player_id": "4046",
@@ -136,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Worthy (shoulder) did not play in the Chiefs' 20-12 preseason loss to the Rams on Saturday."
+      "injury_comment": "Worthy (shoulder) participated in 7-on-7 drills Monday, Pete Sweeney of The Kansas City Star reports."
     },
     {
       "player_id": "12700",
@@ -162,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Nabers (knee) isn't in uniform for Saturday's preseason opener against Minnesota, Dan Duggan of The Athletic reports."
+      "injury_comment": "Nabers (knee) logged reps in 11-on-11 drills while donning a red non-contact jersey during Monday's practice, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "13294",
@@ -175,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-15",
-      "injury_comment": "Lemon isn't suited up for Saturday's preseason game in Baltimore, Brooks Kubena of The Athletic reports."
+      "injury_comment": "Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "13414",
@@ -334,7 +347,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-15",
-      "injury_comment": "The Dolphins reinstated Bell (knee) from the non-football injury list Monday."
+      "injury_comment": "The Dolphins activated Bell (knee) from the active/non-football injury list Monday."
     },
     {
       "player_id": "11895",
@@ -399,7 +412,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Charbonnet (knee) remains on the active/PUP list as the Seahawks' second preseason contest (Aug. 23 versus the Titans) approaches."
+      "injury_comment": "Charbonnet (knee) remains on the active/PUP list as the Seahawks' second preseason contest (Sunday, Aug. 23 versus the Titans) approaches."
     }
   ]
 }
