@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-08-19T10:29:08.717Z",
+  "lastUpdated": "2026-08-19T16:32:00.806Z",
   "games": [
     {
       "game_id": "401872932",
@@ -11,8 +11,8 @@
       "weather": {
         "temp": 59,
         "wind": "3 mph SW",
-        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "17%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "5 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "temp": 67,
+        "wind": "5 mph SSW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "25%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 94,
-        "wind": "5 to 10 mph SW",
-        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "precipitation": "18%"
+        "temp": 70,
+        "wind": "0 to 5 mph N",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "19%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "5 mph WSW",
+        "temp": 76,
+        "wind": "1 to 5 mph N",
         "conditions": "Scattered Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "30%"
+        "precipitation": "33%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 91,
-        "wind": "6 mph SSE",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "50%"
+        "temp": 61,
+        "wind": "6 mph SW",
+        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "precipitation": "46%"
       }
     },
     {
@@ -129,9 +129,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "0 to 10 mph SW",
-        "conditions": "Sunny",
+        "temp": 69,
+        "wind": "0 to 10 mph SSW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -158,10 +158,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "2 to 10 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 58,
+        "wind": "2 to 10 mph WNW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "7 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "9%"
+        "temp": 72,
+        "wind": "5 mph ENE",
+        "conditions": "Partly Cloudy",
+        "precipitation": "8%"
       }
     },
     {
@@ -184,9 +184,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "0 to 10 mph SW",
-        "conditions": "Sunny",
+        "temp": 69,
+        "wind": "0 to 10 mph SSW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     }
