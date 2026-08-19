@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T16:19:08.942Z",
+  "lastUpdated": "2026-08-19T20:15:15.089Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2412,6 +2412,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "NYG"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8402,6 +8407,11 @@
           "to": "Questionable",
           "detail": "Leg",
           "team": "DEN"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9698,6 +9708,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "ARI"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22327,6 +22342,19 @@
         }
       ]
     },
+    "12374": {
+      "name": "Brenden Bates",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CLE"
+        }
+      ]
+    },
     "12412": {
       "name": "Terrell Jennings",
       "position": "RB",
@@ -23359,6 +23387,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Lower Body",
+          "team": "HOU"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Knee - ACL",
           "team": "HOU"
         }
       ]
@@ -24884,6 +24919,13 @@
           "date": "2026-07-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "CLE"
         }
       ]
     },
@@ -25022,6 +25064,13 @@
           "date": "2025-11-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "IND"
         }
       ]
     },

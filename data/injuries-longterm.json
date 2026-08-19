@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-19T16:19:08.942Z",
+  "lastUpdated": "2026-08-19T20:15:15.089Z",
   "week": 2,
   "summary": {
     "total_players": 932,
-    "ir": 28,
+    "ir": 29,
     "suspended": 1
   },
   "ir": [
@@ -71,6 +71,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
+    },
+    {
+      "player_id": "12374",
+      "source_id": "4362603",
+      "player_name": "Brenden Bates",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Bates (undisclosed) reverted to the Browns' injured reserve list Tuesday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "11633",
@@ -143,7 +156,7 @@
       "player_name": "Carson Towt",
       "position": "TE",
       "team_abbr": "IND",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Undisclosed",
