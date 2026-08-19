@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-19T14:39:32.386Z",
+  "lastUpdated": "2026-08-19T22:30:33.944Z",
   "week": 2,
   "summary": {
-    "total_players": 932,
-    "questionable": 94,
-    "doubtful": 1,
+    "total_players": 930,
+    "questionable": 88,
+    "doubtful": 2,
     "out": 9
   },
   "questionable": [
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Benson (knee) has yet to progress to 11-on-11 drills in training camp, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "4137",
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Coach Mike LaFleur confirmed Tuesday that Love does not need surgery to address his ankle injury, Tyler Drake of ArizonaSports.com reports."
     },
     {
       "player_id": "11921",
@@ -84,19 +84,6 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "7597",
-      "source_id": "4044144",
-      "player_name": "Kenny Yeboah",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
       "injury_comment": "questionable"
     },
     {
@@ -227,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Bagent suffered a hamstring injury during Saturday's preseason win over Cleveland, making him unlikely to practice or play this week, Mark Carman of CHGO Bears reports."
     },
     {
       "player_id": "12519",
@@ -253,7 +240,20 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports."
+    },
+    {
+      "player_id": "12512",
+      "source_id": "4685702",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "Judkins wasn't present at practice Wednesday due to an undisclosed minor injury, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
       "player_id": "13435",
@@ -305,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Blue missed Tuesday's joint practice with the Saints due to a shoulder injury, Patrik Walker of the Cowboys' official site reports."
     },
     {
       "player_id": "12738",
@@ -347,19 +347,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "7526",
-      "source_id": "4372016",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Leg",
-      "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "8205",
       "source_id": "4361529",
       "player_name": "Isiah Pacheco",
@@ -382,19 +369,6 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "8148",
-      "source_id": "4426388",
-      "player_name": "Jameson Williams",
-      "position": "WR",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
       "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
     },
@@ -422,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-21",
-      "injury_comment": "Kraft said Sunday that he expects the Packers to limit his reps \"probably until halfway through the season,\" Rob Demovsky of ESPN.com reports."
+      "injury_comment": "Kraft (knee) has been impressive in 11-on-11 drills since the Packers cleared him Sunday to take part in them at practice, Bill Huber of SI.com reports"
     },
     {
       "player_id": "12171",
@@ -449,19 +423,6 @@
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-08-20",
       "injury_comment": "Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. \"With Tank, he's on his own plan,\" Ryans noted. \"Whatever that entails, geared toward what's best for Tank Dell.\""
-    },
-    {
-      "player_id": "12484",
-      "source_id": "4877706",
-      "player_name": "Jayden Higgins",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-20",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "7568",
@@ -500,7 +461,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "With Jayden Higgins having reportedly suffered a torn ACL, Noel (hamstring/finger) is a candidate to see added work in Houston's offense this coming season, DJ Bien-Aime of ESPN reports."
     },
     {
       "player_id": "12471",
@@ -529,6 +490,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "12518",
+      "source_id": "4431459",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "Coach Shane Steichen confirmed Warren suffered a groin injury during Wednesday's joint practice with the Falcons but provided no additional information, James Boyd of The Athletic reports."
+    },
+    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -538,7 +512,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
+      "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
     },
     {
@@ -581,19 +555,6 @@
       "injury_comment": "Mahomes (knee) won't play in Kansas City's preseason opener against the Rams on Saturday, Matt McMullen of the Chiefs' official site reports."
     },
     {
-      "player_id": "8188",
-      "source_id": "4362921",
-      "player_name": "Tyquan Thornton",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "11624",
       "source_id": "4683062",
       "player_name": "Xavier Worthy",
@@ -630,6 +591,19 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-08-20",
+      "injury_comment": "Johnston (lower body) is \"totally fine\" and may not even miss additional practice time after making an early exit Tuesday, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "12803",
+      "source_id": "4433830",
+      "player_name": "Luke Grimm",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
     },
     {
@@ -656,19 +630,6 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "13001",
-      "source_id": "4431618",
-      "player_name": "Mario Williams",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
     },
     {
@@ -760,46 +721,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
-    },
-    {
-      "player_id": "13420",
-      "source_id": "4879276",
-      "player_name": "Bryce Lance",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "9757",
-      "source_id": "4599739",
-      "player_name": "Kendre Miller",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Kamara (knee) avoided a major injury Tuesday but \"will be out for a few weeks,\" Nick Underhill of NewOrleans.Football reports."
     },
     {
       "player_id": "9497",
@@ -826,19 +748,6 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-28",
       "injury_comment": "Giants head coach John Harbaugh said after Tuesday's practice that Nabers (knee) will need to take contact before getting cleared to play Week 1 against the Cowboys, Ryan Dunleavy of the New York Post reports. \"He won't go through the rest of the summer in a red [no-contact] jersey,\" Harbaugh said. \"He's going to have to get bumped around and hit and fronted up. You just have to feel that and know how to deal with it to protect yourself.\""
-    },
-    {
-      "player_id": "4040",
-      "source_id": "3120348",
-      "player_name": "JuJu Smith-Schuster",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "11571",
@@ -885,23 +794,23 @@
       "player_name": "DT Sheffield",
       "position": "WR",
       "team_abbr": "NYJ",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
-      "player_id": "9225",
-      "source_id": "4429013",
-      "player_name": "Tank Bigsby",
-      "position": "RB",
+      "player_id": "8177",
+      "source_id": "4241374",
+      "player_name": "Grant Calcaterra",
+      "position": "TE",
       "team_abbr": "PHI",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Toe",
+      "injury_detail": "Back",
       "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
     },
@@ -942,7 +851,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
-      "injury_comment": "Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports."
+      "injury_comment": "Lemon (hamstring) is listed as a limited participant on the injury report but is not in uniform for Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "8129",
@@ -968,6 +877,19 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
+      "injury_comment": "Smith (hamstring) will be a limited participant in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
+    },
+    {
+      "player_id": "11636",
+      "source_id": "4686104",
+      "player_name": "Johnny Wilson",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
     },
     {
@@ -981,7 +903,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
+      "injury_comment": "Metcalf (undisclosed) said Wednesday that he's \"fine\" and isn't concerned about his status for Week 1, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "6819",
@@ -992,9 +914,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Leg",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
+      "injury_comment": "Pittman's absence from practice that stems back to last week is due to a hamstring issue, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "7865",
@@ -1020,7 +942,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-08-20",
-      "injury_comment": "questionable"
+      "injury_comment": "Kyle Shanahan said after Tuesday's joint practice with the Chargers that Evans experienced some quadriceps tightness, and the coach doesn't believe the issue is a serious one, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "12467",
@@ -1153,19 +1075,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "5967",
-      "source_id": "3916148",
-      "player_name": "Tony Pollard",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-23",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "13279",
       "source_id": "4871023",
       "player_name": "Carnell Tate",
@@ -1176,20 +1085,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-23",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "3976",
-      "source_id": "3039707",
-      "player_name": "Mitchell Trubisky",
-      "position": "QB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Biceps",
-      "est_return_date": "2026-08-23",
-      "injury_comment": "questionable"
+      "injury_comment": "Coach Robert Saleh said Tate's absence from Wednesday's practice was due to stiffness and not the hard hit he took at Monday's session, Terry McCormick of TitanInsider.com reports."
     },
     {
       "player_id": "7716",
@@ -1203,6 +1099,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
       "injury_comment": "Bates (hamstring) is set to begin practicing Tuesday, Zach Selby of the Commanders' official site reports."
+    },
+    {
+      "player_id": "4854",
+      "source_id": "3052056",
+      "player_name": "River Cracraft",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "free-agent",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "2307",
@@ -1229,9 +1138,35 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "8136",
+      "source_id": "4697815",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "White isn't practicing Wednesday due to an unspecified injury, Nicki Jhabvala of The Athletic reports."
     }
   ],
   "doubtful": [
+    {
+      "player_id": "12484",
+      "source_id": "4877706",
+      "player_name": "Jayden Higgins",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Higgins was diagnosed Wednesday with an ACL tear, which would rule him out for the 2026 season, Jonathan M. Alexander of the Houston Chronicle reports."
+    },
     {
       "player_id": "13281",
       "source_id": "4880281",
@@ -1297,7 +1232,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-29",
-      "injury_comment": "Head coach Shane Steichen said Sunday that he doesn't expect Pierce (ankle) to return during joint practices leading up to the Colts' second preseason game against the Falcons on Saturday, so Pierce will have missed all of training camp, James Boyd of The Athletic reports."
+      "injury_comment": "Coach Shane Steichen told Kevin Bowen of 107.5 The Fan Indianapolis on Wednesday that Pierce (ankle) is \"in a great spot right now. ... Hopefully, we will have him back soon.\""
     },
     {
       "player_id": "11895",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:15:15.089Z",
+  "lastUpdated": "2026-08-19T22:30:33.944Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3560,6 +3560,12 @@
           "from": "Healthy",
           "to": "IR",
           "detail": "Undisclosed",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "IR",
+          "to": "Questionable",
           "team": "WAS"
         }
       ]
@@ -11852,6 +11858,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26547,6 +26558,19 @@
         }
       ]
     },
+    "12803": {
+      "name": "Luke Grimm",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LAC"
+        }
+      ]
+    },
     "12817": {
       "name": "Jake Briningstool",
       "position": "TE",
@@ -26876,6 +26900,12 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Undisclosed",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "IR",
           "team": "LAR"
         }
       ]
@@ -27832,6 +27862,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
