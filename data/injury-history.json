@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T12:23:23.705Z",
+  "lastUpdated": "2026-08-19T14:39:32.386Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -27456,6 +27456,19 @@
           "date": "2026-08-19",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13326": {
+      "name": "DT Sheffield",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYJ"
         }
       ]
     },
