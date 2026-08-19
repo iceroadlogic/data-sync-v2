@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T14:39:32.386Z",
+  "lastUpdated": "2026-08-19T16:19:08.942Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1829,6 +1829,11 @@
           "to": "Questionable",
           "detail": "Biceps",
           "team": "TEN"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -5958,6 +5963,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "TEN"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11321,6 +11331,19 @@
         }
       ]
     },
+    "8136": {
+      "name": "Rachaad White",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "WAS"
+        }
+      ]
+    },
     "8137": {
       "name": "George Pickens",
       "position": "WR",
@@ -12427,6 +12450,13 @@
           "date": "2026-01-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "PHI"
         }
       ]
     },
@@ -12608,6 +12638,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "KC"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13786,6 +13821,11 @@
           "to": "Questionable",
           "detail": "Toe",
           "team": "PHI"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15196,6 +15236,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20333,6 +20378,13 @@
           "date": "2026-05-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "PHI"
         }
       ]
     },
@@ -23039,6 +23091,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
