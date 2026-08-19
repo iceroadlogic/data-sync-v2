@@ -1,12 +1,38 @@
 {
-  "lastUpdated": "2026-08-18T20:12:01.938Z",
+  "lastUpdated": "2026-08-19T12:23:23.705Z",
   "week": 2,
   "summary": {
     "total_players": 932,
-    "ir": 13,
-    "suspended": 0
+    "ir": 28,
+    "suspended": 1
   },
   "ir": [
+    {
+      "player_id": "13879",
+      "source_id": "4588298",
+      "player_name": "Jameson Geers",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "8206",
+      "source_id": "4036419",
+      "player_name": "Skylar Thompson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
     {
       "player_id": "13353",
       "source_id": "5091739",
@@ -34,6 +60,45 @@
       "injury_comment": null
     },
     {
+      "player_id": "8107",
+      "source_id": "4916349",
+      "player_name": "Nikola Kalinic",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "11633",
+      "source_id": "4428678",
+      "player_name": "Jamari Thrash",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "11508",
+      "source_id": "4242442",
+      "player_name": "Princeton Fant",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL + MCL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "13412",
       "source_id": "4685441",
       "player_name": "Kendrick Law",
@@ -45,6 +110,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12954",
+      "source_id": "4880638",
+      "player_name": "Kye Robichaux",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "12705",
+      "source_id": "4426335",
+      "player_name": "Graham Mertz",
+      "position": "QB",
+      "team_abbr": "HOU",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "13407",
+      "source_id": "4702120",
+      "player_name": "Carson Towt",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     },
     {
       "player_id": "13342",
@@ -125,6 +229,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13964",
+      "source_id": "4676889",
+      "player_name": "Myles Montgomery",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "13124",
       "source_id": "4572655",
       "player_name": "Jeremiah Webb",
@@ -138,6 +255,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "11654",
+      "source_id": "4367510",
+      "player_name": "Dante Miller",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "6699",
       "source_id": "4424106",
       "player_name": "Gunner Olszewski",
@@ -149,6 +279,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12210",
+      "source_id": "5192448",
+      "player_name": "Cole Burgess",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     },
     {
       "player_id": "11598",
@@ -172,10 +315,76 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - PCL",
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "14021",
+      "source_id": "5151965",
+      "player_name": "Kadarius Calloway",
+      "position": "RB",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Pearsall announced Thursday in a post on his personal Instagram account that he underwent season-ending surgery to repair the PCL in his right knee, David Lombardi of SFStandard.com reports."
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "13422",
+      "source_id": "4877034",
+      "player_name": "Jaren Kanak",
+      "position": "TE",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Pectoral",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "4854",
+      "source_id": "3052056",
+      "player_name": "River Cracraft",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "8143",
+      "source_id": "4372019",
+      "player_name": "Jerome Ford",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     }
   ],
-  "suspended": []
+  "suspended": [
+    {
+      "player_id": "14034",
+      "source_id": "4877738",
+      "player_name": "Brock Rechsteiner",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Suspension",
+      "injury_description": null,
+      "injury_detail": "Suspension",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "reserve-sus"
+    }
+  ]
 }

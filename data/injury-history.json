@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T21:13:06.488Z",
+  "lastUpdated": "2026-08-19T12:23:23.705Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -897,6 +897,13 @@
           "date": "2026-08-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "SF"
         }
       ]
     },
@@ -1027,6 +1034,13 @@
           "date": "2026-03-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee - MCL",
+          "team": "WAS"
         }
       ]
     },
@@ -1808,6 +1822,13 @@
           "date": "2026-07-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Biceps",
+          "team": "TEN"
         }
       ]
     },
@@ -2025,6 +2046,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "SF"
         }
       ]
     },
@@ -2192,6 +2220,13 @@
           "date": "2026-06-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NO"
         }
       ]
     },
@@ -2359,6 +2394,19 @@
           "date": "2025-11-09",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "4040": {
+      "name": "JuJu Smith-Schuster",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NYG"
         }
       ]
     },
@@ -3096,6 +3144,19 @@
         }
       ]
     },
+    "4219": {
+      "name": "Jeremy McNichols",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "WAS"
+        }
+      ]
+    },
     "4234": {
       "name": "Noah Brown",
       "position": "WR",
@@ -3477,6 +3538,19 @@
           "date": "2026-03-26",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "4854": {
+      "name": "River Cracraft",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "WAS"
         }
       ]
     },
@@ -4049,6 +4123,13 @@
           "date": "2026-01-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Lower Body",
+          "team": "BUF"
         }
       ]
     },
@@ -5102,6 +5183,13 @@
           "date": "2026-01-05",
           "from": "Suspended",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "PIT"
         }
       ]
     },
@@ -5362,6 +5450,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "GB"
         }
       ]
     },
@@ -5856,6 +5951,13 @@
           "date": "2025-10-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
         }
       ]
     },
@@ -6314,6 +6416,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "BUF"
         }
       ]
     },
@@ -7406,6 +7515,13 @@
           "date": "2025-12-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "PIT"
         }
       ]
     },
@@ -7911,6 +8027,19 @@
         }
       ]
     },
+    "6964": {
+      "name": "Sean McKeon",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "IND"
+        }
+      ]
+    },
     "7002": {
       "name": "Juwan Johnson",
       "position": "TE",
@@ -8187,6 +8316,13 @@
           "date": "2025-11-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
         }
       ]
     },
@@ -8249,6 +8385,13 @@
           "date": "2026-03-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "DEN"
         }
       ]
     },
@@ -8873,6 +9016,13 @@
           "date": "2026-07-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "HOU"
         }
       ]
     },
@@ -9429,6 +9579,13 @@
           "date": "2025-10-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "CAR"
         }
       ]
     },
@@ -9524,6 +9681,13 @@
           "date": "2025-11-05",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "ARI"
         }
       ]
     },
@@ -10112,6 +10276,19 @@
         }
       ]
     },
+    "7865": {
+      "name": "Brandon Smith",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "PIT"
+        }
+      ]
+    },
     "7891": {
       "name": "Brock Wright",
       "position": "TE",
@@ -10273,6 +10450,19 @@
         }
       ]
     },
+    "8107": {
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "CHI"
+        }
+      ]
+    },
     "8110": {
       "name": "Jake Ferguson",
       "position": "TE",
@@ -10333,6 +10523,13 @@
           "date": "2025-12-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TB"
         }
       ]
     },
@@ -10984,6 +11181,13 @@
           "date": "2025-12-29",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
         }
       ]
     },
@@ -11390,6 +11594,13 @@
           "date": "2026-06-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "WAS"
         }
       ]
     },
@@ -11593,6 +11804,19 @@
         }
       ]
     },
+    "8148": {
+      "name": "Jameson Williams",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "DET"
+        }
+      ]
+    },
     "8150": {
       "name": "Kyren Williams",
       "position": "RB",
@@ -11708,6 +11932,13 @@
           "date": "2026-05-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "NYJ"
         }
       ]
     },
@@ -12122,6 +12353,19 @@
         }
       ]
     },
+    "8176": {
+      "name": "Danny Gray",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "PHI"
+        }
+      ]
+    },
     "8177": {
       "name": "Grant Calcaterra",
       "position": "TE",
@@ -12357,6 +12601,13 @@
           "date": "2026-03-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "KC"
         }
       ]
     },
@@ -12432,6 +12683,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee - MCL",
+          "team": "DET"
         }
       ]
     },
@@ -12455,6 +12713,13 @@
           "date": "2026-03-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "BAL"
         }
       ]
     },
@@ -12985,6 +13250,19 @@
         }
       ]
     },
+    "8414": {
+      "name": "Britain Covey",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
+        }
+      ]
+    },
     "8484": {
       "name": "Ko Kieft",
       "position": "TE",
@@ -13501,6 +13779,13 @@
           "date": "2025-12-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "PHI"
         }
       ]
     },
@@ -14126,6 +14411,13 @@
           "date": "2026-01-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "JAX"
         }
       ]
     },
@@ -14245,6 +14537,13 @@
           "date": "2025-11-07",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "LAR"
         }
       ]
     },
@@ -14297,6 +14596,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "DEN"
         }
       ]
     },
@@ -14403,6 +14709,13 @@
           "date": "2026-06-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "NYG"
         }
       ]
     },
@@ -14800,6 +15113,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Lower Body",
+          "team": "LAC"
         }
       ]
     },
@@ -14869,6 +15189,13 @@
           "date": "2026-07-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "NO"
         }
       ]
     },
@@ -15020,6 +15347,19 @@
           "date": "2025-11-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "10214": {
+      "name": "Davis Allen",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "LAR"
         }
       ]
     },
@@ -15563,6 +15903,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "ARI"
         }
       ]
     },
@@ -15953,6 +16300,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "CLE"
         }
       ]
     },
@@ -16361,6 +16715,11 @@
           "to": "Questionable",
           "detail": "Leg",
           "team": "SEA"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -16384,6 +16743,19 @@
           "date": "2026-03-11",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11082": {
+      "name": "Ben Sims",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "MIA"
         }
       ]
     },
@@ -16681,6 +17053,13 @@
           "date": "2025-11-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "DET"
         }
       ]
     },
@@ -16710,6 +17089,13 @@
           "date": "2025-12-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "CHI"
         }
       ]
     },
@@ -17380,6 +17766,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "SEA"
         }
       ]
     },
@@ -17453,6 +17846,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Undisclosed",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee - ACL + MCL",
           "team": "DAL"
         }
       ]
@@ -18017,6 +18417,13 @@
           "date": "2025-11-24",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "BAL"
         }
       ]
     },
@@ -18057,6 +18464,13 @@
           "date": "2026-05-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NYJ"
         }
       ]
     },
@@ -18114,6 +18528,19 @@
           "date": "2026-05-14",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11579": {
+      "name": "Audric Estime",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NO"
         }
       ]
     },
@@ -18364,6 +18791,19 @@
         }
       ]
     },
+    "11588": {
+      "name": "Jawhar Jordan",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "HOU"
+        }
+      ]
+    },
     "11589": {
       "name": "Trey Benson",
       "position": "RB",
@@ -18389,6 +18829,13 @@
           "date": "2026-07-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "ARI"
         }
       ]
     },
@@ -18838,6 +19285,13 @@
           "date": "2025-12-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "TB"
         }
       ]
     },
@@ -19799,6 +20253,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CLE"
         }
       ]
     },
@@ -19922,6 +20383,13 @@
           "date": "2025-12-29",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "BUF"
         }
       ]
     },
@@ -20495,6 +20963,19 @@
         }
       ]
     },
+    "11654": {
+      "name": "Dante Miller",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Groin",
+          "team": "NYG"
+        }
+      ]
+    },
     "11655": {
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
@@ -20705,6 +21186,11 @@
           "to": "Questionable",
           "detail": "Eye",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20822,6 +21308,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "IND"
         }
       ]
     },
@@ -21266,6 +21759,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "ARI"
         }
       ]
     },
@@ -21478,6 +21978,13 @@
           "date": "2026-05-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "BAL"
         }
       ]
     },
@@ -21742,6 +22249,32 @@
         }
       ]
     },
+    "12171": {
+      "name": "British Brooks",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "HOU"
+        }
+      ]
+    },
+    "12210": {
+      "name": "Cole Burgess",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "PIT"
+        }
+      ]
+    },
     "12412": {
       "name": "Terrell Jennings",
       "position": "RB",
@@ -21879,6 +22412,13 @@
           "date": "2025-12-29",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "DAL"
         }
       ]
     },
@@ -22182,6 +22722,13 @@
           "date": "2025-12-23",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "IND"
         }
       ]
     },
@@ -22485,6 +23032,13 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -22736,6 +23290,32 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "12484": {
+      "name": "Jayden Higgins",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Lower Body",
+          "team": "HOU"
+        }
+      ]
+    },
+    "12485": {
+      "name": "Tez Johnson",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "TB"
         }
       ]
     },
@@ -23160,6 +23740,13 @@
           "date": "2026-07-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "SEA"
         }
       ]
     },
@@ -23414,6 +24001,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "MIA"
         }
       ]
     },
@@ -24272,6 +24866,13 @@
           "date": "2025-11-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "TB"
         }
       ]
     },
@@ -24300,6 +24901,13 @@
           "date": "2025-11-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "TEN"
         }
       ]
     },
@@ -24432,6 +25040,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "CHI"
         }
       ]
     },
@@ -24804,6 +25419,13 @@
           "date": "2026-08-03",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CHI"
         }
       ]
     },
@@ -24861,6 +25483,13 @@
           "date": "2026-08-10",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "HOU"
         }
       ]
     },
@@ -24963,6 +25592,13 @@
           "date": "2025-12-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LV"
         }
       ]
     },
@@ -25075,6 +25711,19 @@
           "date": "2025-12-05",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "12544": {
+      "name": "LeQuint Allen Jr.",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "JAX"
         }
       ]
     },
@@ -25385,6 +26034,11 @@
           "from": "Out",
           "to": "Questionable",
           "team": "MIN"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25523,6 +26177,13 @@
           "date": "2026-01-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee - ACL",
+          "team": "HOU"
         }
       ]
     },
@@ -25711,6 +26372,26 @@
           "date": "2026-01-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "DAL"
+        }
+      ]
+    },
+    "12775": {
+      "name": "Max Brosmer",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "MIN"
         }
       ]
     },
@@ -25883,6 +26564,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "ATL"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26024,6 +26710,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Foot",
+          "team": "DET"
         }
       ]
     },
@@ -26065,6 +26758,19 @@
           "date": "2026-08-05",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13001": {
+      "name": "Mario Williams",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LAR"
         }
       ]
     },
@@ -26534,6 +27240,32 @@
         }
       ]
     },
+    "13272": {
+      "name": "Carson Beck",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "ARI"
+        }
+      ]
+    },
+    "13279": {
+      "name": "Carnell Tate",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
+        }
+      ]
+    },
     "13281": {
       "name": "Jordyn Tyson",
       "position": "WR",
@@ -26549,6 +27281,26 @@
           "date": "2026-07-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "NO"
+        }
+      ]
+    },
+    "13287": {
+      "name": "Jeremiyah Love",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -26618,6 +27370,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "CLE"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26674,6 +27431,13 @@
           "to": "Out",
           "detail": "Knee - ACL",
           "team": "MIA"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee - ACL",
+          "team": "MIA"
         }
       ]
     },
@@ -26687,6 +27451,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "CIN"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -26705,6 +27474,26 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Abdomen",
+          "team": "NYJ"
+        }
+      ]
+    },
+    "13338": {
+      "name": "Kevin Coleman Jr.",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "MIA"
         }
       ]
     },
@@ -26797,6 +27586,32 @@
         }
       ]
     },
+    "13402": {
+      "name": "Skyler Bell",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Lower Body",
+          "team": "BUF"
+        }
+      ]
+    },
+    "13407": {
+      "name": "Carson Towt",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "IND"
+        }
+      ]
+    },
     "13412": {
       "name": "Kendrick Law",
       "position": "WR",
@@ -26849,6 +27664,24 @@
           "to": "Questionable",
           "detail": "Thigh",
           "team": "SF"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
+        }
+      ]
+    },
+    "13415": {
+      "name": "Haynes King",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "CAR"
         }
       ]
     },
@@ -26862,6 +27695,37 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "SF"
+        },
+        {
+          "date": "2026-08-19",
+          "from": "Questionable",
+          "to": "Healthy"
+        }
+      ]
+    },
+    "13420": {
+      "name": "Bryce Lance",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NO"
+        }
+      ]
+    },
+    "13422": {
+      "name": "Jaren Kanak",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Pectoral",
+          "team": "TEN"
         }
       ]
     },
@@ -26916,6 +27780,32 @@
           "date": "2026-07-26",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13435": {
+      "name": "Joe Royer",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Personal",
+          "team": "CLE"
+        }
+      ]
+    },
+    "13580": {
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "CLE"
         }
       ]
     },
@@ -27006,6 +27896,19 @@
         }
       ]
     },
+    "13879": {
+      "name": "Jameson Geers",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "ARI"
+        }
+      ]
+    },
     "13898": {
       "name": "Corey Rucker",
       "position": "WR",
@@ -27028,6 +27931,19 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "LV"
+        }
+      ]
+    },
+    "13964": {
+      "name": "Myles Montgomery",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "NE"
         }
       ]
     },
@@ -27066,6 +27982,32 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "NE"
+        }
+      ]
+    },
+    "14021": {
+      "name": "Kadarius Calloway",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "TB"
+        }
+      ]
+    },
+    "14034": {
+      "name": "Brock Rechsteiner",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-19",
+          "from": "Healthy",
+          "to": "Suspended",
+          "detail": "Suspension",
+          "team": "NO"
         }
       ]
     }
