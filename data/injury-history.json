@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T16:21:57.230Z",
+  "lastUpdated": "2026-08-20T20:17:16.868Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1834,6 +1834,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Biceps",
+          "team": "TEN"
         }
       ]
     },
@@ -4151,6 +4158,11 @@
           "to": "Questionable",
           "detail": "Lower Body",
           "team": "BUF"
+        },
+        {
+          "date": "2026-08-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11311,6 +11323,13 @@
           "date": "2025-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "BUF"
         }
       ]
     },
@@ -16630,6 +16649,13 @@
           "date": "2026-07-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "DET"
         }
       ]
     },
@@ -27764,6 +27790,19 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "KC"
+        }
+      ]
+    },
+    "13401": {
+      "name": "Michael Trigg",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "DAL"
         }
       ]
     },
