@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-19T22:30:33.944Z",
+  "lastUpdated": "2026-08-20T06:55:38.066Z",
   "week": 2,
   "summary": {
     "total_players": 930,
-    "questionable": 88,
+    "questionable": 87,
     "doubtful": 2,
     "out": 9
   },
@@ -474,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Giddens (hamstring) participated in Wednesday's practice, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "11762",
@@ -500,7 +500,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-22",
-      "injury_comment": "Coach Shane Steichen confirmed Warren suffered a groin injury during Wednesday's joint practice with the Falcons but provided no additional information, James Boyd of The Athletic reports."
+      "injury_comment": "Warren (groin) suffered a strained abductor in Wednesday's practice but is expected to return to practice next week, NFL reporter Jordan Schultz reports."
     },
     {
       "player_id": "6964",
@@ -602,9 +602,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10214",
@@ -708,7 +708,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Estime is expected to miss some time with his ankle injury, Ross Jackson of WWL Louisiana reports."
     },
     {
       "player_id": "4035",
@@ -721,7 +721,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Kamara (knee) avoided a major injury Tuesday but \"will be out for a few weeks,\" Nick Underhill of NewOrleans.Football reports."
+      "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "9497",
@@ -812,7 +812,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Calcatarra (back) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "8414",
@@ -890,7 +890,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Wilson (knee) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "5846",
@@ -1101,19 +1101,6 @@
       "injury_comment": "Bates (hamstring) is set to begin practicing Tuesday, Zach Selby of the Commanders' official site reports."
     },
     {
-      "player_id": "4854",
-      "source_id": "3052056",
-      "player_name": "River Cracraft",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "free-agent",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "2307",
       "source_id": "2576980",
       "player_name": "Marcus Mariota",
@@ -1148,9 +1135,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
-      "injury_comment": "White isn't practicing Wednesday due to an unspecified injury, Nicki Jhabvala of The Athletic reports."
+      "injury_comment": "White has missed the last few days of practice with a hamstring injury, Mike Garafolo of NFL Network reports."
     }
   ],
   "doubtful": [
