@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T14:41:28.766Z",
+  "lastUpdated": "2026-08-20T21:21:04.398Z",
   "week": 2,
   "summary": {
-    "total_players": 930,
-    "questionable": 87,
+    "total_players": 931,
+    "questionable": 92,
     "doubtful": 2,
     "out": 9
   },
@@ -165,17 +165,17 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
+      "player_id": "8134",
+      "source_id": "4373678",
+      "player_name": "Khalil Shakir",
       "position": "WR",
       "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Lower Body",
+      "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_comment": "Shakir (undisclosed) didn't practice Tuesday due to an injury, Katherine Fitzgerald of The Buffalo News reports."
     },
     {
       "player_id": "7594",
@@ -253,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-22",
-      "injury_comment": "Judkins wasn't present at practice Wednesday due to an undisclosed minor injury, Mary Kay Cabot of The Cleveland Plain Dealer reports."
+      "injury_comment": "Judkins (undisclosed) wasn't spotted at practice Thursday, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "13435",
@@ -305,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-22",
-      "injury_comment": "Blue missed Tuesday's joint practice with the Saints due to a shoulder injury, Patrik Walker of the Cowboys' official site reports."
+      "injury_comment": "Blue (shoulder) will be limited in practice Thursday, per head coach Brian Schottenheimer, Tommy Yarrish of the Cowboys' official site reports."
     },
     {
       "player_id": "12738",
@@ -317,6 +317,19 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Chest",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13401",
+      "source_id": "4594749",
+      "player_name": "Michael Trigg",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
       "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
     },
@@ -345,6 +358,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-21",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "10859",
+      "source_id": "4430027",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "LaPorta is dealing with a hip injury, and head coach Dan Campbell wouldn't commit Thursday to the tight end being available for Week 1 against the Saints, Tim Twentyman of the Lions' official site reports."
     },
     {
       "player_id": "8205",
@@ -499,8 +525,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Warren (groin) suffered a strained abductor in Wednesday's practice but is expected to return to practice next week, NFL reporter Jordan Schultz reports."
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Warren (groin) is expected to miss about a week, but his status for Week 1 against the Ravens isn't in any danger, Ian Rapoport of ESPN and NFL Network reports."
     },
     {
       "player_id": "6964",
@@ -542,6 +568,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "13392",
+      "source_id": "4885466",
+      "player_name": "Jeff Caldwell",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -551,8 +590,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Mahomes (knee) won't play in Kansas City's preseason opener against the Rams on Saturday, Matt McMullen of the Chiefs' official site reports."
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Head coach Andy Reid said that Mahomes (knee) won't play in Saturday's preseason game versus the Buccaneers, Matt McMullen of the Chiefs' official site reports."
     },
     {
       "player_id": "11624",
@@ -747,7 +786,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Head coach John Harbaugh said that Nabers won't participate in the Giants' joint practices with the Dolphins this week, Jordan Raanan of ESPN.com reports."
+      "injury_comment": "Head coach John Harbaugh said that Nabers (knee) won't participate in the Giants' joint practices with the Dolphins this week, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "11571",
@@ -851,7 +890,20 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-22",
-      "injury_comment": "Lemon (hamstring) is expected to practice Tuesday in some capacity, Olivia Reiner of The Philadelphia Inquirer reports."
+      "injury_comment": "Lemon (hamstring) is practicing on a limited basis Thursday, Dave Zangoro of NBC Sports Philadelphia reports."
+    },
+    {
+      "player_id": "7596",
+      "source_id": "4372414",
+      "player_name": "Elijah Moore",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "8129",
@@ -1088,6 +1140,19 @@
       "injury_comment": "Coach Robert Saleh said Tate's absence from Wednesday's practice was due to stiffness and not the hard hit he took at Monday's session, Terry McCormick of TitanInsider.com reports."
     },
     {
+      "player_id": "3976",
+      "source_id": "3039707",
+      "player_name": "Mitchell Trubisky",
+      "position": "QB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Biceps",
+      "est_return_date": "2026-08-23",
+      "injury_comment": "Trubisky (biceps) did not participate in Wednesday's practice, Terry McCormick of TitanInsider.com reports."
+    },
+    {
       "player_id": "7716",
       "source_id": "4048228",
       "player_name": "John Bates",
@@ -1137,7 +1202,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
-      "injury_comment": "White (hamstring) was in uniform for Thursday's practice and was seen working out off to the side catching passes from a JUGS machine, Nicki Jhabvala of The Athletic reports."
+      "injury_comment": "White (hamstring) won't play in Saturday's preseason game against the Lions, John Keim of ESPN.com reports."
     }
   ],
   "doubtful": [
