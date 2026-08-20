@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T12:25:47.091Z",
+  "lastUpdated": "2026-08-20T16:21:57.230Z",
   "week": 2,
   "summary": {
     "total_players": 930,
-    "ir": 29,
+    "ir": 30,
     "suspended": 1
   },
   "ir": [
@@ -69,6 +69,19 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
+      "player_id": "7946",
+      "source_id": "4034862",
+      "player_name": "Jack Stoll",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
     },
@@ -172,9 +185,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Chiefs placed Gyllenborg (knee) on injured reserve Tuesday, Matt Derrick of ChiefsDigest.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11963",
