@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T20:15:15.089Z",
+  "lastUpdated": "2026-08-20T12:25:47.091Z",
   "week": 2,
   "summary": {
-    "total_players": 932,
+    "total_players": 930,
     "ir": 29,
     "suspended": 1
   },
@@ -216,6 +216,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13001",
+      "source_id": "4431618",
+      "player_name": "Mario Williams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Williams (undisclosed) reverted to the Rams' injured reserve list Wednesday, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
@@ -355,19 +368,6 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Pectoral",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
-    },
-    {
-      "player_id": "4854",
-      "source_id": "3052056",
-      "player_name": "River Cracraft",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
     },
