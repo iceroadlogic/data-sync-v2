@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T20:14:05.672Z",
+  "lastUpdated": "2026-08-21T22:30:40.135Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -19844,6 +19844,12 @@
           "date": "2025-11-20",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "CAR"
         }
       ]
     },
@@ -27689,6 +27695,11 @@
           "from": "Questionable",
           "to": "IR",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-08-21",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -28057,6 +28068,19 @@
           "to": "Questionable",
           "detail": "Personal",
           "team": "CLE"
+        }
+      ]
+    },
+    "13437": {
+      "name": "Noah Whittington",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "HOU"
         }
       ]
     },

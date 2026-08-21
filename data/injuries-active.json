@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-21T14:41:00.080Z",
+  "lastUpdated": "2026-08-21T22:30:40.135Z",
   "week": 2,
   "summary": {
     "total_players": 932,
-    "questionable": 90,
-    "doubtful": 2,
+    "questionable": 94,
+    "doubtful": 1,
     "out": 9
   },
   "questionable": [
@@ -202,6 +202,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-21",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": "Coach Dave Canales highlighted Legette on Wednesday for having a strong training camp, Darin Gantt of the Panthers' official site reports."
     },
     {
       "player_id": "11256",
@@ -490,6 +503,19 @@
       "injury_comment": "With Jayden Higgins having reportedly suffered a torn ACL, Noel (hamstring/finger) is a candidate to see added work in Houston's offense this coming season, DJ Bien-Aime of ESPN reports."
     },
     {
+      "player_id": "13437",
+      "source_id": "4432631",
+      "player_name": "Noah Whittington",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "12471",
       "source_id": "4874509",
       "player_name": "DJ Giddens",
@@ -618,6 +644,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "12509",
+      "source_id": "4686612",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Harris (undisclosed) didn't play in Thursday's preseason game against San Francisco, but coach Jim Harbaugh said afterward that the wideout should practice this weekend, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "9754",
@@ -911,11 +950,11 @@
       "player_name": "Johnny Wilson",
       "position": "WR",
       "team_abbr": "PHI",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-22",
+      "est_return_date": "2027-02-15",
       "injury_comment": "Wilson (knee) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
@@ -1008,6 +1047,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
       "injury_comment": "McCaffrey (undisclosed) will not play in Thursday night's preseason game against the Chargers, David Lombardi of SFStandard.com reports."
+    },
+    {
+      "player_id": "10867",
+      "source_id": "4360405",
+      "player_name": "Jake Bobo",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-23",
+      "injury_comment": "Coach Mike Macdonald said Bobo sustained a \"serious\" knee injury in Friday's joint practice with the Titans, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "12497",
@@ -1111,7 +1163,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-23",
-      "injury_comment": "Coach Robert Saleh said Tate's absence from Wednesday's practice was due to stiffness and not the hard hit he took at Monday's session, Terry McCormick of TitanInsider.com reports."
+      "injury_comment": "Tate (undisclosed) is in uniform for Friday's joint practice with the Seahawks, Jim Wyatt of the Titans' official site reports."
     },
     {
       "player_id": "3976",
@@ -1180,19 +1232,6 @@
     }
   ],
   "doubtful": [
-    {
-      "player_id": "12484",
-      "source_id": "4877706",
-      "player_name": "Jayden Higgins",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Higgins was diagnosed Wednesday with an ACL tear, which would rule him out for the 2026 season, Jonathan M. Alexander of the Houston Chronicle reports."
-    },
     {
       "player_id": "13281",
       "source_id": "4880281",
