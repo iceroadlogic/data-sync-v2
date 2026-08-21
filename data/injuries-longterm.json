@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T20:17:16.868Z",
+  "lastUpdated": "2026-08-21T12:25:21.102Z",
   "week": 2,
   "summary": {
-    "total_players": 930,
-    "ir": 30,
+    "total_players": 932,
+    "ir": 33,
     "suspended": 1
   },
   "ir": [
@@ -73,19 +73,6 @@
       "injury_comment": "ir"
     },
     {
-      "player_id": "7946",
-      "source_id": "4034862",
-      "player_name": "Jack Stoll",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
-    },
-    {
       "player_id": "12374",
       "source_id": "4362603",
       "player_name": "Brenden Bates",
@@ -97,6 +84,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Bates (undisclosed) reverted to the Browns' injured reserve list Tuesday, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
+      "player_id": "7946",
+      "source_id": "4034862",
+      "player_name": "Jack Stoll",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Browns placed Stoll (undisclosed) on injured reserve Thursday."
     },
     {
       "player_id": "11633",
@@ -229,6 +229,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12803",
+      "source_id": "4433830",
+      "player_name": "Luke Grimm",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Grimm (undisclosed) reverted to the Chargers' injured-reserve list Thursday, per the NFL's transaction log."
+    },
+    {
       "player_id": "13001",
       "source_id": "4431618",
       "player_name": "Mario Williams",
@@ -320,6 +333,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13326",
+      "source_id": "5153056",
+      "player_name": "DT Sheffield",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Sheffield (undisclosed) reverted to the Jets' injured-reserve list Thursday, per the NFL's transaction log."
+    },
+    {
       "player_id": "12210",
       "source_id": "5192448",
       "player_name": "Cole Burgess",
@@ -357,6 +383,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6963",
+      "source_id": "4039358",
+      "player_name": "Patrick Taylor Jr.",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The 49ers placed Taylor (undisclosed) on injured reserve Thursday, David Lombardi of SFStandard.com reports."
     },
     {
       "player_id": "14021",
