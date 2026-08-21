@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T16:20:12.579Z",
+  "lastUpdated": "2026-08-21T20:14:05.672Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16843,6 +16843,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "SEA"
         }
       ]
     },
@@ -23456,6 +23463,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Knee - ACL",
+          "team": "HOU"
+        },
+        {
+          "date": "2026-08-21",
+          "from": "Doubtful",
+          "to": "IR",
           "detail": "Knee - ACL",
           "team": "HOU"
         }
