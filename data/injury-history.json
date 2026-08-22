@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T22:30:40.135Z",
+  "lastUpdated": "2026-08-22T06:50:06.968Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5840,6 +5840,13 @@
           "date": "2025-10-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "JAX"
         }
       ]
     },
@@ -28146,6 +28153,19 @@
           "date": "2026-07-31",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13839": {
+      "name": "Chase Curtis",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NYJ"
         }
       ]
     },

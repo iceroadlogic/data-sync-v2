@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T22:30:40.135Z",
+  "lastUpdated": "2026-08-22T06:50:06.968Z",
   "week": 2,
   "summary": {
     "total_players": 932,
-    "questionable": 94,
+    "questionable": 96,
     "doubtful": 1,
     "out": 9
   },
@@ -212,9 +212,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": "Coach Dave Canales highlighted Legette on Wednesday for having a strong training camp, Darin Gantt of the Panthers' official site reports."
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Legette has his right foot in a boot due to an ankle injury that he sustained during Wednesday's joint practice with the Jaguars, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "11256",
@@ -355,9 +355,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-21",
-      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9494",
@@ -370,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
+      "injury_comment": "Mims (undisclosed) is in uniform ahead of the Broncos' preseason game against the Packers on Friday, Chris Tomasson of The Denver Gazette reports."
     },
     {
       "player_id": "10859",
@@ -422,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
+      "injury_comment": "Jacobs (groin) won't play in Friday's preseason game at Denver, according to Mike Spofford of the Packers' official site."
     },
     {
       "player_id": "9484",
@@ -513,7 +513,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Whittington (ankle) is regarded as day-to-day as of Friday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "12471",
@@ -579,6 +579,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "5947",
+      "source_id": "3916433",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hand",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Head coach Liam Coen said after Friday's 34-17 preseason loss to the Panthers that Meyers jammed his right hand during Wednesday's joint practice with Carolina, Juston Lewis of The Florida Times-Union reports."
     },
     {
       "player_id": "9487",
@@ -815,6 +828,19 @@
       "injury_comment": "Head coach John Harbaugh said that Nabers (knee) won't participate in the Giants' joint practices with the Dolphins this week, Jordan Raanan of ESPN.com reports."
     },
     {
+      "player_id": "13839",
+      "source_id": "4695223",
+      "player_name": "Chase Curtis",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Curtis (knee) is out for the remainder of Friday's preseason contest at Pittsburgh."
+    },
+    {
       "player_id": "11571",
       "source_id": "4695404",
       "player_name": "Isaiah Davis",
@@ -953,9 +979,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Wilson (knee) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5846",
@@ -1005,9 +1031,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "Kyle Shanahan said after Tuesday's joint practice with the Chargers that Evans experienced some quadriceps tightness, and the coach doesn't believe the issue is a serious one, Matt Maiocco of NBC Sports Bay Area reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12467",
@@ -1058,7 +1084,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-23",
+      "est_return_date": "2026-09-09",
       "injury_comment": "Coach Mike Macdonald said Bobo sustained a \"serious\" knee injury in Friday's joint practice with the Titans, Adam Schefter of ESPN reports."
     },
     {
