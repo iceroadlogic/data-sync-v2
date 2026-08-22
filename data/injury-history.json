@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T16:11:53.847Z",
+  "lastUpdated": "2026-08-22T20:11:51.866Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4688,6 +4688,19 @@
           "date": "2025-10-20",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "5113": {
+      "name": "Cedrick Wilson Jr.",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "DET"
         }
       ]
     },
@@ -16857,6 +16870,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "SEA"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "SEA"
         }
       ]
     },
@@ -17197,6 +17217,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21341,6 +21366,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "DET"
         }
       ]
     },
@@ -22422,6 +22454,19 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "PIT"
+        }
+      ]
+    },
+    "12356": {
+      "name": "Jabari Small",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "DET"
         }
       ]
     },
@@ -27841,6 +27886,19 @@
           "to": "IR",
           "detail": "Knee",
           "team": "CAR"
+        }
+      ]
+    },
+    "13380": {
+      "name": "Brenen Thompson",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LAC"
         }
       ]
     },

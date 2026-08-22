@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T16:11:53.847Z",
+  "lastUpdated": "2026-08-22T20:11:51.866Z",
   "week": 2,
   "summary": {
-    "total_players": 932,
-    "ir": 33,
+    "total_players": 933,
+    "ir": 34,
     "suspended": 1
   },
   "ir": [
@@ -396,6 +396,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "The 49ers placed Taylor (undisclosed) on injured reserve Thursday, David Lombardi of SFStandard.com reports."
+    },
+    {
+      "player_id": "10867",
+      "source_id": "4360405",
+      "player_name": "Jake Bobo",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Seahawks placed Bobo (knee) on injured reserve Saturday, John Boyle of the team's official site reports."
     },
     {
       "player_id": "14021",
