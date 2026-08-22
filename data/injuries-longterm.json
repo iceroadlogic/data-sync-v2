@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T20:14:05.672Z",
+  "lastUpdated": "2026-08-22T12:18:32.844Z",
   "week": 2,
   "summary": {
     "total_players": 932,
-    "ir": 34,
+    "ir": 33,
     "suspended": 1
   },
   "ir": [
@@ -156,7 +156,7 @@
       "player_name": "Jayden Higgins",
       "position": "WR",
       "team_abbr": "HOU",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
@@ -344,19 +344,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13326",
-      "source_id": "5153056",
-      "player_name": "DT Sheffield",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Sheffield (undisclosed) reverted to the Jets' injured-reserve list Thursday, per the NFL's transaction log."
     },
     {
       "player_id": "12210",
