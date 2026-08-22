@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:11:51.866Z",
+  "lastUpdated": "2026-08-22T22:28:23.288Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15701,6 +15701,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "IND"
         }
       ]
     },
@@ -18309,6 +18316,13 @@
           "date": "2026-05-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "MIN"
         }
       ]
     },
@@ -20506,6 +20520,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Knee",
           "team": "PHI"
         }
@@ -23252,6 +23273,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NO"
         }
       ]
     },
@@ -23897,6 +23925,13 @@
           "date": "2025-12-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "MIA"
         }
       ]
     },
@@ -26646,6 +26681,11 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "MIN"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27049,6 +27089,12 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "IR",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "IR",
+          "to": "Questionable",
           "team": "LAR"
         }
       ]
@@ -27657,6 +27703,19 @@
         }
       ]
     },
+    "13302": {
+      "name": "Adam Randall",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "BAL"
+        }
+      ]
+    },
     "13303": {
       "name": "Cade Klubnik",
       "position": "QB",
@@ -28042,6 +28101,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "SF"
         }
       ]
     },

@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T14:27:53.160Z",
+  "lastUpdated": "2026-08-22T22:28:23.288Z",
   "week": 2,
   "summary": {
-    "total_players": 932,
-    "questionable": 96,
+    "total_players": 933,
+    "questionable": 104,
     "doubtful": 1,
     "out": 9
   },
@@ -97,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Penix said that he's meeting with his doctor Thursday to see where his left knee stands, William McFadden of the Falcons' official site reports."
+      "injury_comment": "Penix (knee) has been cleared to participate in 11-on-11 drills, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "11570",
@@ -111,6 +111,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-22",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13302",
+      "source_id": "4685526",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Head coach Jesse Minter told reporters that Randall (undisclosed) is \"working through things physically,\" which is why the rookie fifth-rounder did not play in the Ravens' 13-3 preseason win over the Vikings on Saturday, Ryan Mink of the Ravens' official site reports."
     },
     {
       "player_id": "11964",
@@ -135,8 +148,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Bell (lower body) was present for Thursday's practice but was limited to side work, Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Bell (lower body) will not participate in Saturday's preseason game against the Browns, Jay Skurski of The Buffalo News reports."
     },
     {
       "player_id": "11637",
@@ -148,7 +161,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-08-22",
+      "est_return_date": "2026-08-27",
       "injury_comment": "questionable"
     },
     {
@@ -174,8 +187,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Shakir (undisclosed) didn't practice Tuesday due to an injury, Katherine Fitzgerald of The Buffalo News reports."
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Shakir (undisclosed) won't play in Saturday's preseason game against Cleveland, Jay Skurski of The Buffalo News reports."
     },
     {
       "player_id": "7594",
@@ -200,7 +213,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-21",
+      "est_return_date": "2026-08-28",
       "injury_comment": "questionable"
     },
     {
@@ -265,8 +278,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Judkins (undisclosed) didn't practice Thursday, but coach Todd Monken said afterward that the running back is tending to \"a little something nagging, nothing big,\" Kelsey Russo of the Browns' official site reports."
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Judkins (undisclosed) is not expected to play in Saturday's preseason game against the Bills, Kelsey Russo of the Browns' official site reports."
     },
     {
       "player_id": "13435",
@@ -278,7 +291,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Personal",
-      "est_return_date": "2026-08-22",
+      "est_return_date": "2026-08-27",
       "injury_comment": "questionable"
     },
     {
@@ -304,8 +317,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Tillman (undisclosed) is not expected to play in Saturday's preseason game against the Bills, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
       "player_id": "12457",
@@ -399,17 +412,43 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "11237",
-      "source_id": "4383429",
-      "player_name": "Jacob Saylors",
+      "player_id": "12356",
+      "source_id": "4432545",
+      "player_name": "Jabari Small",
       "position": "RB",
       "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Williams suffered a concussion during Detroit's preseason loss to the Commanders on Saturday, Justin Rogers of DetroitFootball.net reports."
+    },
+    {
+      "player_id": "11729",
+      "source_id": "4912274",
+      "player_name": "Sione Vaki",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Vaki (back) didn't play in Detroit's preseason loss to the Commanders on Saturday, Justin Rogers of DetroitFootball.net reports."
+    },
+    {
+      "player_id": "5113",
+      "source_id": "4036335",
+      "player_name": "Cedrick Wilson Jr.",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Wilson exited Detroit's preseason loss to the Commanders on Saturday due to a knee injury, Justin Rogers of DetroitFootball.net reports."
     },
     {
       "player_id": "5850",
@@ -542,6 +581,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "10220",
+      "source_id": "4362523",
+      "player_name": "Will Mallory",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "12518",
       "source_id": "4431459",
       "player_name": "Tyler Warren",
@@ -669,7 +721,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
-      "injury_comment": "Harris (undisclosed) didn't play in Thursday's preseason game against San Francisco, but coach Jim Harbaugh said afterward that the wideout should practice this weekend, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Harris (undisclosed) will participate in Saturday's training camp practice, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "9754",
@@ -682,7 +734,20 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-08-27",
-      "injury_comment": "Johnston (lower body) is not in uniform for Thursday night's preseason game against the 49ers, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Johnston (lower body) will not participate in Saturday's training camp practice, Alex Insdorf of BoltBeat.com reports."
+    },
+    {
+      "player_id": "13380",
+      "source_id": "4685553",
+      "player_name": "Brenen Thompson",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Thompson (undisclosed) did not participate in Saturday's practice, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "10214",
@@ -709,6 +774,19 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-08-22",
       "injury_comment": "Nacua was a non-participant at Thursday's joint practice with the Saints, Stu Jackson and Zach Edwards of the Rams' official site report."
+    },
+    {
+      "player_id": "13001",
+      "source_id": "4431618",
+      "player_name": "Mario Williams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13311",
@@ -750,6 +828,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "12495",
+      "source_id": "4711533",
+      "player_name": "Ollie Gordon II",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "Gordon exited Miami's preseason game versus the Giants on Sunday with an undisclosed injury, Chris Perkins of the South Florida Sun Sentinel reports."
+    },
+    {
       "player_id": "11082",
       "source_id": "4373030",
       "player_name": "Ben Sims",
@@ -763,17 +854,17 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "12775",
-      "source_id": "4573398",
-      "player_name": "Max Brosmer",
+      "player_id": "11565",
+      "source_id": "4433970",
+      "player_name": "J.J. McCarthy",
       "position": "QB",
       "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Vikings head coach Kevin O'Connell told reporters that McCarthy was \"a little hobbled\" during Saturday's 13-3 preseason loss to the Ravens, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "11579",
@@ -800,6 +891,19 @@
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-13",
       "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "12476",
+      "source_id": "4682652",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-22",
+      "injury_comment": "Neal (undisclosed) went to the locker room during the first half of Saturday's preseason game against the Rams, Ross Jackson of WWL Louisiana reports."
     },
     {
       "player_id": "9497",
@@ -850,8 +954,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-21",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Davis (knee) did not play in the Jets' 17-0 preseason win over the Steelers on Friday."
     },
     {
       "player_id": "8155",
@@ -971,19 +1075,6 @@
       "injury_comment": "Smith (hamstring) will be a limited participant in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
-      "player_id": "11636",
-      "source_id": "4686104",
-      "player_name": "Johnny Wilson",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "5846",
       "source_id": "4047650",
       "player_name": "DK Metcalf",
@@ -993,7 +1084,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-21",
+      "est_return_date": "2026-08-27",
       "injury_comment": "Metcalf (undisclosed) said Wednesday that he's \"fine\" and isn't concerned about his status for Week 1, Nick Farabaugh of PennLive.com reports."
     },
     {
@@ -1006,7 +1097,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-21",
+      "est_return_date": "2026-08-27",
       "injury_comment": "Pittman's absence from practice that stems back to last week is due to a hamstring issue, Nick Farabaugh of PennLive.com reports."
     },
     {
@@ -1019,7 +1110,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-21",
+      "est_return_date": "2026-08-27",
       "injury_comment": "questionable"
     },
     {
@@ -1031,9 +1122,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Evans (quadriceps) is suited up for Saturday's practice, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "12467",
@@ -1044,9 +1135,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "James (ribs) returned to practice Saturday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "4950",
@@ -1057,9 +1148,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Calf",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Kirk (calf) continued to work on a side field at Saturday's practice, Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "4034",
@@ -1075,17 +1166,17 @@
       "injury_comment": "McCaffrey (undisclosed) will not play in Thursday night's preseason game against the Chargers, David Lombardi of SFStandard.com reports."
     },
     {
-      "player_id": "10867",
-      "source_id": "4360405",
-      "player_name": "Jake Bobo",
+      "player_id": "13417",
+      "source_id": "4710714",
+      "player_name": "De'Zhaun Stribling",
       "position": "WR",
-      "team_abbr": "SEA",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-09",
-      "injury_comment": "Coach Mike Macdonald said Bobo sustained a \"serious\" knee injury in Friday's joint practice with the Titans, Adam Schefter of ESPN reports."
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Stribling is considered day-to-day due to a shoulder injury, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "12497",
@@ -1213,9 +1304,22 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "Bates (hamstring) is set to begin practicing Tuesday, Zach Selby of the Commanders' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "12533",
+      "source_id": "4575131",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Croskey-Merritt (undisclosed) won't play in Saturday's preseason game against the Lions, John Keim of ESPN reports."
     },
     {
       "player_id": "2307",
@@ -1240,8 +1344,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Quadriceps",
-      "est_return_date": "2026-08-22",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-08-28",
+      "injury_comment": "McNichols (quadriceps) will not play in Saturday's preseason game against Detroit."
     },
     {
       "player_id": "8136",
