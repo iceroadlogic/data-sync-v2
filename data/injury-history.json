@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:50:06.968Z",
+  "lastUpdated": "2026-08-22T16:11:53.847Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -25570,6 +25570,13 @@
           "date": "2026-06-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "WAS"
         }
       ]
     },
