@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-23T20:47:13.970Z",
+  "lastUpdated": "2026-08-23T21:16:36.955Z",
   "week": 2,
   "summary": {
     "total_players": 935,
-    "questionable": 106,
+    "questionable": 108,
     "doubtful": 1,
     "out": 8
   },
@@ -971,6 +971,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "13826",
+      "source_id": "4430185",
+      "player_name": "Caullin Lacy",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "13330",
       "source_id": "5083315",
       "player_name": "Kenyon Sadiq",
@@ -981,6 +994,19 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-08-28",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13873",
+      "source_id": "4700138",
+      "player_name": "Sam Scott",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
     },
     {
@@ -1176,7 +1202,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
-      "injury_comment": "McCaffrey (undisclosed) was in uniform for Sunday's practice but did not participate in team drills, Vic Tafur of The Athletic reports."
+      "injury_comment": "McCaffrey (undisclosed) said Sunday that he always planned to take a break during training camp and then \"ramp back up,\" Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "13417",
