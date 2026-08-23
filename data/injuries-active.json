@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-23T18:21:03.676Z",
+  "lastUpdated": "2026-08-23T18:56:10.227Z",
   "week": 2,
   "summary": {
     "total_players": 935,
-    "questionable": 105,
+    "questionable": 106,
     "doubtful": 1,
     "out": 8
   },
@@ -734,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
-      "injury_comment": "Thompson (undisclosed) did not participate in Saturday's practice, Alex Insdorf of BoltBeat.com reports."
+      "injury_comment": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "10214",
@@ -786,7 +786,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Head coach Jeff Hafley said Sunday that he's \"hopeful\" that Ewers (groin) will return to practice this week, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "12495",
@@ -799,7 +799,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Gordon exited Miami's preseason game versus the Giants on Sunday with an undisclosed injury, Chris Perkins of the South Florida Sun Sentinel reports."
+      "injury_comment": "Gordon injured his ribs during the Dolphins' 26-3 preseason loss to the Giants on Saturday, Joe Schad of The Palm Beach Post reports."
     },
     {
       "player_id": "11082",
@@ -1176,7 +1176,20 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
-      "injury_comment": "McCaffrey (undisclosed) is in uniform for Sunday's training camp practice, Matt Barrows of The Athletic reports."
+      "injury_comment": "McCaffrey (undisclosed) was in uniform for Sunday's practice but did not participate in team drills, Vic Tafur of The Athletic reports."
+    },
+    {
+      "player_id": "13417",
+      "source_id": "4710714",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "Stribling (shoulder) returned to practice Sunday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "12497",
