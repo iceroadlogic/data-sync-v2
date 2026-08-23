@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-23T17:00:37.773Z",
+  "lastUpdated": "2026-08-23T17:27:17.180Z",
   "week": 2,
   "summary": {
     "total_players": 935,
-    "questionable": 105,
+    "questionable": 106,
     "doubtful": 1,
-    "out": 9
+    "out": 8
   },
   "questionable": [
     {
@@ -1153,6 +1153,19 @@
       "injury_comment": "Kirk (calf) continued to work on a side field at Saturday's practice, Vic Tafur of The Athletic reports."
     },
     {
+      "player_id": "4217",
+      "source_id": "3040151",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Achilles",
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Kittle (Achilles) was activated from the active/PUP list Sunday."
+    },
+    {
       "player_id": "4034",
       "source_id": "3117251",
       "player_name": "Christian McCaffrey",
@@ -1480,19 +1493,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "4217",
-      "source_id": "3040151",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Kittle (Achilles) visited with Dr. Neal ElAttrache on Wednesday and remains ahead of schedule in his recovery with a chance to play Week 1 against the Rams, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "9753",
