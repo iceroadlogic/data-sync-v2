@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-24T07:09:35.729Z",
+  "lastUpdated": "2026-08-24T14:48:55.413Z",
   "week": 3,
   "summary": {
     "total_players": 935,
-    "questionable": 108,
+    "questionable": 109,
     "doubtful": 1,
     "out": 8
   },
@@ -839,6 +839,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
       "injury_comment": "Vikings head coach Kevin O'Connell told reporters that McCarthy was \"a little hobbled\" during Saturday's 13-3 preseason loss to the Ravens, Alec Lewis of The Athletic reports."
+    },
+    {
+      "player_id": "12969",
+      "source_id": "4698253",
+      "player_name": "Lan Larison",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-08-27",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11579",
