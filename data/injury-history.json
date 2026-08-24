@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T20:18:10.147Z",
+  "lastUpdated": "2026-08-24T21:15:54.581Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4706,6 +4706,13 @@
           "date": "2026-08-22",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "DET"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Knee",
           "team": "DET"
         }
@@ -19186,6 +19193,13 @@
           "date": "2026-03-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYG"
         }
       ]
     },
@@ -22028,6 +22042,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Concussion",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Concussion",
           "team": "ARI"
         }
