@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-08-24T16:37:52.019Z",
+  "lastUpdated": "2026-08-24T21:37:26.946Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "6 mph S",
+        "temp": 67,
+        "wind": "5 to 8 mph SSE",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "40%"
+        "precipitation": "41%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 65,
         "wind": "5 mph SW",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "44%"
+        "precipitation": "32%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
+        "temp": 70,
         "wind": "7 mph S",
-        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "28%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "27%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "5 to 10 mph E",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "53%"
+        "wind": "5 to 9 mph E",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "63%"
       }
     },
     {
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "3 to 7 mph SW",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "wind": "6 mph SW",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "16%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "6 mph SW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "temp": 67,
+        "wind": "2 to 6 mph SW",
+        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "6 mph S",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "wind": "2 to 7 mph S",
+        "conditions": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "17%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "1 to 9 mph SE",
+        "wind": "2 to 9 mph E",
         "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "36%"
+        "precipitation": "42%"
       }
     },
     {
@@ -143,9 +143,9 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "5 mph ENE",
+        "wind": "5 mph E",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "61%"
+        "precipitation": "68%"
       }
     },
     {
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "3 to 7 mph SSW",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "29%"
+        "wind": "3 to 7 mph WSW",
+        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "precipitation": "27%"
       }
     },
     {
@@ -184,10 +184,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 mph S",
+        "temp": 72,
+        "wind": "5 to 10 mph SSW",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "47%"
+        "precipitation": "29%"
       }
     }
   ]
