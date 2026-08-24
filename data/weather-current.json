@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-08-24T10:37:19.670Z",
+  "lastUpdated": "2026-08-24T16:37:52.019Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "7 mph S",
+        "temp": 64,
+        "wind": "6 mph S",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "38%"
+        "precipitation": "40%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 63,
         "wind": "5 mph SW",
-        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "37%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "44%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
+        "temp": 56,
         "wind": "3 to 13 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 92,
-        "wind": "7 mph SSE",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "33%"
+        "temp": 61,
+        "wind": "3 to 7 mph SSW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "29%"
       }
     },
     {
@@ -184,10 +184,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "5 to 10 mph S",
+        "temp": 70,
+        "wind": "5 mph S",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "37%"
+        "precipitation": "47%"
       }
     }
   ]
