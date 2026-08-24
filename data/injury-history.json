@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T14:48:55.413Z",
+  "lastUpdated": "2026-08-24T16:23:21.889Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -24327,6 +24327,11 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "MIA"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25640,6 +25645,12 @@
           "date": "2025-12-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "NE"
         }
       ]
     },
@@ -27856,6 +27867,11 @@
           "to": "Questionable",
           "detail": "Knee - ACL",
           "team": "MIA"
+        },
+        {
+          "date": "2026-08-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28363,6 +28379,19 @@
           "date": "2026-08-03",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13770": {
+      "name": "J. Michael Sturdivant",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "GB"
         }
       ]
     },
