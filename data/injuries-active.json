@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-23T23:57:51.745Z",
-  "week": 2,
+  "lastUpdated": "2026-08-24T07:09:35.729Z",
+  "week": 3,
   "summary": {
     "total_players": 935,
-    "questionable": 109,
+    "questionable": 108,
     "doubtful": 1,
     "out": 8
   },
@@ -693,7 +693,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
+      "injury_detail": "Ankle",
       "est_return_date": "2026-08-27",
       "injury_comment": "Jeanty left Sunday's practice with an injury and could not put pressure on his leg while leaving the field, Vincent Bonsignore of the California Post reports."
     },
@@ -984,19 +984,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "13826",
-      "source_id": "4430185",
-      "player_name": "Caullin Lacy",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "13330",
       "source_id": "5083315",
       "player_name": "Kenyon Sadiq",
@@ -1010,12 +997,25 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "13826",
+      "source_id": "4430185",
+      "player_name": "Caullin Lacy",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "13873",
       "source_id": "4700138",
       "player_name": "Sam Scott",
       "position": "RB",
       "team_abbr": "NYJ",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": null,
@@ -1333,19 +1333,6 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-08-23",
       "injury_comment": "questionable"
-    },
-    {
-      "player_id": "13279",
-      "source_id": "4871023",
-      "player_name": "Carnell Tate",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-23",
-      "injury_comment": "Tate (undisclosed) is in uniform for Friday's joint practice with the Seahawks, Jim Wyatt of the Titans' official site reports."
     },
     {
       "player_id": "3976",
