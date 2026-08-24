@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-24T21:15:54.581Z",
+  "lastUpdated": "2026-08-24T21:49:32.343Z",
   "week": 3,
   "summary": {
     "total_players": 937,
-    "questionable": 106,
+    "questionable": 105,
     "doubtful": 1,
     "out": 8
   },
@@ -200,8 +200,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-09-13",
+      "injury_comment": "King (hamstring) will not play in Friday's preseason finale against the Texans, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "11626",
@@ -347,19 +347,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "9494",
-      "source_id": "4686472",
-      "player_name": "Marvin Mims Jr.",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Mims (undisclosed) is in uniform ahead of the Broncos' preseason game against the Packers on Friday, Chris Tomasson of The Denver Gazette reports."
-    },
-    {
       "player_id": "10859",
       "source_id": "4430027",
       "player_name": "Sam LaPorta",
@@ -498,9 +485,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12536",
@@ -799,7 +786,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Vikings head coach Kevin O'Connell told reporters that McCarthy was \"a little hobbled\" during Saturday's 13-3 preseason loss to the Ravens, Alec Lewis of The Athletic reports."
+      "injury_comment": "McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports."
     },
     {
       "player_id": "12529",
