@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T20:11:51.866Z",
-  "week": 2,
+  "lastUpdated": "2026-08-24T12:26:02.215Z",
+  "week": 3,
   "summary": {
-    "total_players": 933,
-    "ir": 34,
+    "total_players": 935,
+    "ir": 33,
     "suspended": 1
   },
   "ir": [
@@ -81,9 +81,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Bates (undisclosed) reverted to the Browns' injured reserve list Tuesday, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7946",
@@ -255,19 +255,6 @@
       "injury_comment": "Grimm (undisclosed) reverted to the Chargers' injured-reserve list Thursday, per the NFL's transaction log."
     },
     {
-      "player_id": "13001",
-      "source_id": "4431618",
-      "player_name": "Mario Williams",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Williams (undisclosed) reverted to the Rams' injured reserve list Wednesday, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
@@ -344,6 +331,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11636",
+      "source_id": "4686104",
+      "player_name": "Johnny Wilson",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Wilson (knee) reverted to Philadelphia's injured reserve Saturday, per the NFL's transaction log."
     },
     {
       "player_id": "12210",
@@ -433,19 +433,6 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Pectoral",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
-    },
-    {
-      "player_id": "8143",
-      "source_id": "4372019",
-      "player_name": "Jerome Ford",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
     }
