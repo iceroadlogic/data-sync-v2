@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-24T23:25:44.784Z",
+  "lastUpdated": "2026-08-25T06:57:29.259Z",
   "week": 3,
   "summary": {
-    "total_players": 937,
-    "questionable": 104,
+    "total_players": 928,
+    "questionable": 102,
     "doubtful": 1,
     "out": 8
   },
@@ -19,20 +19,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Coach Mike LaFleur said Beck (ribs) \"most likely\" won't suit up for Saturday's preseason contest against the Cowboys, Josh Weinfuss of ESPN.com reports."
-    },
-    {
-      "player_id": "11589",
-      "source_id": "4429275",
-      "player_name": "Trey Benson",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_comment": "Beck (ribs) continued to be a limited participant at Monday's practice, Bo Brack of GoPHNX.com reports."
     },
     {
       "player_id": "4137",
@@ -45,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Head coach Mike LaFleur said Saturday that there is no timeline for Conner (foot) to participate in 11-on-11 drills in training camp practice, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "Conner (foot) didn't take part in Monday's practice, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "10231",
@@ -422,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Sturdivant (concussion) has yet to return to practice, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "12171",
@@ -433,9 +420,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hand",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Brooks (hand) was back at practice with the Texans on Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "9502",
@@ -461,7 +448,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Jordan (knee) did not participate at Monday's training camp practice, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "11588",
@@ -472,9 +459,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hip",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Jordan (hip) did not participate at practice Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "12536",
@@ -615,9 +602,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Caldwell suffered a hyperextended left knee in Wednesday's practice, Matt Derrick of ChiefsDigest.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4046",
@@ -721,7 +708,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-08-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Allen (quadriceps) was a limited participant in Monday's training camp practice, Stu Jackson of the Rams' official site reports."
     },
     {
       "player_id": "9493",
@@ -813,6 +800,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-08-28",
       "injury_comment": "Chandler suffered a knee injury during Saturday's preseason game against the Rams that is feared to be serious, Nick Underhill of NewOrleans.Football reports."
+    },
+    {
+      "player_id": "13319",
+      "source_id": "4702559",
+      "player_name": "Oscar Delp",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Delp is nursing a hamstring injury at training camp with the Saints, Katherine Terrell of ESPN.com reports."
     },
     {
       "player_id": "11579",
@@ -916,7 +916,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Johnson left Monday's practice due to an unspecified issue, Dan Bentonof USA Today reports."
+      "injury_comment": "Johnson left Monday's practice due to an unspecified issue, Dan Benton of USA Today reports."
     },
     {
       "player_id": "11632",
@@ -982,32 +982,6 @@
       "injury_detail": "Abdomen",
       "est_return_date": "2026-08-28",
       "injury_comment": "Coach Aaron Gleen said Monday that the Jets are targeting Week 1 for Sadiq (hernia) to return to action, Zack Rosenblatt of The Athletic reports."
-    },
-    {
-      "player_id": "13826",
-      "source_id": "4430185",
-      "player_name": "Caullin Lacy",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13873",
-      "source_id": "4700138",
-      "player_name": "Sam Scott",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "8177",
@@ -1188,7 +1162,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-23",
+      "est_return_date": "2026-08-28",
       "injury_comment": "questionable"
     },
     {
@@ -1201,7 +1175,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-23",
+      "est_return_date": "2026-08-28",
       "injury_comment": "questionable"
     },
     {
@@ -1279,7 +1253,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-08-23",
+      "est_return_date": "2026-08-29",
       "injury_comment": "questionable"
     },
     {
@@ -1292,7 +1266,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Biceps",
-      "est_return_date": "2026-08-23",
+      "est_return_date": "2026-08-29",
       "injury_comment": "Trubisky (biceps) did not participate in Wednesday's practice, Terry McCormick of TitanInsider.com reports."
     },
     {
@@ -1317,7 +1291,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Lower Body",
       "est_return_date": "2026-08-28",
       "injury_comment": "Coach Dan Quinn said Monday that Croskey-Merritt (lower body) will work on the side with the Commanders' training staff this week, John Keim of ESPN.com reports."
     },
@@ -1356,7 +1330,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Calf",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
       "injury_comment": "Coach Dan Quinn said White (hamstring) will participate in individual drills at Monday's practice, Ben Standig of Big 100 Washington D.C. reports."
     }

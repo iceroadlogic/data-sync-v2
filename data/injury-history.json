@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T22:32:40.920Z",
+  "lastUpdated": "2026-08-25T06:57:29.259Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -19083,6 +19083,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "ARI"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19241,6 +19246,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "SF"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -27157,6 +27167,11 @@
           "to": "IR",
           "detail": "Foot",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -27951,6 +27966,19 @@
         }
       ]
     },
+    "13319": {
+      "name": "Oscar Delp",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NO"
+        }
+      ]
+    },
     "13326": {
       "name": "DT Sheffield",
       "position": "WR",
@@ -28470,6 +28498,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "NYJ"
         }
       ]
     },
@@ -28547,6 +28582,13 @@
           "date": "2026-08-23",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Undisclosed",
           "team": "NYJ"
         }
