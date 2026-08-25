@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:17:15.731Z",
+  "lastUpdated": "2026-08-25T22:33:25.433Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -13386,6 +13386,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "NO"
         }
       ]
     },
@@ -17390,6 +17397,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "CHI"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19592,6 +19604,13 @@
           "date": "2026-05-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "SF"
         }
       ]
     },
@@ -23493,6 +23512,13 @@
           "date": "2026-05-07",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "SF"
         }
       ]
     },
@@ -23504,6 +23530,13 @@
           "date": "2026-08-23",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "NO"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Knee",
           "team": "NO"
         }
@@ -26997,6 +27030,13 @@
           "from": "Questionable",
           "to": "IR",
           "team": "LAC"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LAC"
         }
       ]
     },
@@ -28273,6 +28313,12 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "KC"
+        },
+        {
+          "date": "2026-08-25",
+          "from": "Questionable",
+          "to": "IR",
           "team": "KC"
         }
       ]
