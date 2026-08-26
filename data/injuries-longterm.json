@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T16:41:29.694Z",
+  "lastUpdated": "2026-08-26T22:35:37.935Z",
   "week": 3,
   "summary": {
-    "total_players": 926,
-    "ir": 36,
+    "total_players": 923,
+    "ir": 33,
     "suspended": 2
   },
   "ir": [
@@ -99,19 +99,6 @@
       "injury_comment": "ir"
     },
     {
-      "player_id": "12374",
-      "source_id": "4362603",
-      "player_name": "Brenden Bates",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "7946",
       "source_id": "4034862",
       "player_name": "Jack Stoll",
@@ -162,19 +149,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "5113",
-      "source_id": "4036335",
-      "player_name": "Cedrick Wilson Jr.",
-      "position": "WR",
-      "team_abbr": "DET",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Detroit placed Wilson (knee) on injured reserve Monday."
     },
     {
       "player_id": "12484",
@@ -357,19 +331,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Saints placed Matavao (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
-    },
-    {
-      "player_id": "11654",
-      "source_id": "4367510",
-      "player_name": "Dante Miller",
-      "position": "RB",
-      "team_abbr": "NYG",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
     },
     {
       "player_id": "6699",

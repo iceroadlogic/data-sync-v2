@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T16:41:29.694Z",
+  "lastUpdated": "2026-08-26T22:35:37.935Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4715,6 +4715,11 @@
           "to": "IR",
           "detail": "Knee",
           "team": "DET"
+        },
+        {
+          "date": "2026-08-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -13078,6 +13083,19 @@
         }
       ]
     },
+    "8214": {
+      "name": "Cole Turner",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "MIA"
+        }
+      ]
+    },
     "8219": {
       "name": "Jelani Woods",
       "position": "TE",
@@ -21375,6 +21393,11 @@
           "to": "IR",
           "detail": "Groin",
           "team": "NYG"
+        },
+        {
+          "date": "2026-08-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -22739,6 +22762,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "CLE"
+        },
+        {
+          "date": "2026-08-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
