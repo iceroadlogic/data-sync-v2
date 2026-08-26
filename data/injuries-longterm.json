@@ -1,12 +1,25 @@
 {
-  "lastUpdated": "2026-08-25T20:17:15.731Z",
+  "lastUpdated": "2026-08-26T12:29:09.836Z",
   "week": 3,
   "summary": {
-    "total_players": 928,
-    "ir": 35,
-    "suspended": 1
+    "total_players": 926,
+    "ir": 36,
+    "suspended": 2
   },
   "ir": [
+    {
+      "player_id": "11589",
+      "source_id": "4429275",
+      "player_name": "Trey Benson",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Benson (knee) reverted to the Cardinals' injured reserve list Tuesday, David Furones of the South Florida Sun Sentinel reports."
+    },
     {
       "player_id": "13879",
       "source_id": "4588298",
@@ -203,6 +216,19 @@
       "injury_comment": "ir"
     },
     {
+      "player_id": "13392",
+      "source_id": "4885466",
+      "player_name": "Jeff Caldwell",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Caldwell (knee) reverted to the Chiefs' injured reserve list Tuesday, Charles Goldman of AtoZSports.com reports."
+    },
+    {
       "player_id": "13342",
       "source_id": "4708490",
       "player_name": "John Michael Gyllenborg",
@@ -253,19 +279,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12803",
-      "source_id": "4433830",
-      "player_name": "Luke Grimm",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Grimm (undisclosed) reverted to the Chargers' injured-reserve list Thursday, per the NFL's transaction log."
     },
     {
       "player_id": "11371",
@@ -320,6 +333,32 @@
       "injury_comment": null
     },
     {
+      "player_id": "8230",
+      "source_id": "4242431",
+      "player_name": "Ty Chandler",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Saints placed Chandler (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
+    },
+    {
+      "player_id": "12480",
+      "source_id": "4432731",
+      "player_name": "Moliki Matavao",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Saints placed Matavao (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
+    },
+    {
       "player_id": "11654",
       "source_id": "4367510",
       "player_name": "Dante Miller",
@@ -357,19 +396,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Lacy (undisclosed) reverted to the Jets' injured reserve Monday, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
-      "player_id": "13873",
-      "source_id": "4700138",
-      "player_name": "Sam Scott",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Scott (undisclosed) reverted to the Jets' injured reserve Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "11636",
@@ -419,9 +445,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The 49ers placed Taylor (undisclosed) on injured reserve Thursday, David Lombardi of SFStandard.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10867",
@@ -435,19 +461,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Seahawks placed Bobo (knee) on injured reserve Saturday, John Boyle of the team's official site reports."
-    },
-    {
-      "player_id": "14021",
-      "source_id": "5151965",
-      "player_name": "Kadarius Calloway",
-      "position": "RB",
-      "team_abbr": "TB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
     },
     {
       "player_id": "13422",
@@ -464,6 +477,19 @@
     }
   ],
   "suspended": [
+    {
+      "player_id": "11911",
+      "source_id": "4360637",
+      "player_name": "Jeshaun Jones",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Suspension",
+      "injury_description": null,
+      "injury_detail": "Suspension",
+      "est_return_date": "2026-09-28",
+      "injury_comment": "The NFL suspended Jones three games Tuesday for violating the league's substance-abuse policy, Mike Garafolo of NFL Network reports."
+    },
     {
       "player_id": "14034",
       "source_id": "4877738",
