@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-25T22:33:25.433Z",
+  "lastUpdated": "2026-08-26T06:58:23.539Z",
   "week": 3,
   "summary": {
-    "total_players": 928,
-    "questionable": 104,
+    "total_players": 926,
+    "questionable": 102,
     "doubtful": 1,
     "out": 8
   },
@@ -256,17 +256,17 @@
       "injury_comment": "Tillman (undisclosed) is not expected to play in Saturday's preseason game against the Bills, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
-      "player_id": "12738",
-      "source_id": "4431562",
-      "player_name": "Phil Mafah",
-      "position": "RB",
+      "player_id": "13355",
+      "source_id": "4710711",
+      "player_name": "DJ Rogers",
+      "position": "TE",
       "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Chest",
+      "injury_detail": "Knee",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Rogers (knee) did not participate in Tuesday's practice session, Calvin Watkins of The Dallas Morning News reports."
     },
     {
       "player_id": "13401",
@@ -446,9 +446,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "With Jayden Higgins having reportedly suffered a torn ACL, Noel (hamstring/finger) is a candidate to see added work in Houston's offense this coming season, DJ Bien-Aime of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13437",
@@ -565,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Liam Coeh said Tuesday that Thomas is \"alright\" after falling on his shoulder in practice, and the team will now focus on getting him ready for Week 1 against the Browns, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports."
+      "injury_comment": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday against the Buccaneers but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports."
     },
     {
       "player_id": "4046",
@@ -617,7 +617,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-27",
-      "injury_comment": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not considered a long-term concern, Ian Rapoport of NFL Network reports."
+      "injury_comment": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not a long-term concern, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "12541",
@@ -669,7 +669,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
-      "injury_comment": "Mitchell sustained a mild setback, offensive coordinator Mike McDaniel  said on Monday."
+      "injury_comment": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell with an undisclosed issue."
     },
     {
       "player_id": "13380",
@@ -683,19 +683,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
       "injury_comment": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports."
-    },
-    {
-      "player_id": "12803",
-      "source_id": "4433830",
-      "player_name": "Luke Grimm",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "10214",
@@ -813,19 +800,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
       "injury_comment": "Delp is nursing a hamstring injury at training camp with the Saints, Katherine Terrell of ESPN.com reports."
-    },
-    {
-      "player_id": "11579",
-      "source_id": "4569682",
-      "player_name": "Audric Estime",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Estime (ankle) participated in practice Monday, Ross Jackson of WWL Louisiana reports."
     },
     {
       "player_id": "4035",
@@ -1085,7 +1059,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Cowing (groin) did not participate at the 49ers' training camp practice Tuesday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "2216",
@@ -1163,7 +1137,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-09-10",
-      "injury_comment": "questionable"
+      "injury_comment": "Coach Kyle Shanahan said Tuesday that Rourke (ribs) has a chance to return to the field next week, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "13417",
@@ -1427,7 +1401,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-29",
-      "injury_comment": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's hopeful that the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports."
+      "injury_comment": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's optimistic the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports."
     },
     {
       "player_id": "11895",
