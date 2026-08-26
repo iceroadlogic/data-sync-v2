@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-26T06:58:23.539Z",
+  "lastUpdated": "2026-08-26T14:50:22.779Z",
   "week": 3,
   "summary": {
     "total_players": 926,
-    "questionable": 102,
-    "doubtful": 1,
+    "questionable": 101,
+    "doubtful": 2,
     "out": 8
   },
   "questionable": [
@@ -565,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday against the Buccaneers but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports."
+      "injury_comment": "Thomas (shoulder) was present on the field for Wednesday's joint practice with the Buccaneers while sporting a no-contact jersey, John Shipley of SI.com reports."
     },
     {
       "player_id": "4046",
@@ -839,19 +839,6 @@
       "injury_detail": "Upper Body",
       "est_return_date": "2026-08-28",
       "injury_comment": "Olave exited Tuesday's practice early with an undisclosed injury, Mike Triplett of New Orleans.Football reports."
-    },
-    {
-      "player_id": "8125",
-      "source_id": "4243389",
-      "player_name": "Calvin Austin III",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Austin was carted off the field at Tuesday's practice with an apparent right knee injury, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "5121",
@@ -1227,8 +1214,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "McMillan (knee) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports."
+      "est_return_date": "2026-09-13",
+      "injury_comment": "McMillan (knee) didn't travel with the Buccaneers to Jacksonville for Wednesday's joint practice with the Jaguars, PewterReport.com reports."
     },
     {
       "player_id": "12516",
@@ -1348,6 +1335,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
       "injury_comment": "doubtful"
+    },
+    {
+      "player_id": "8125",
+      "source_id": "4243389",
+      "player_name": "Calvin Austin III",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Austin is expected to miss the 2026 season after he sustained a torn ACL in his right knee while running a route during Tuesday's practice, Jordan Raanan of ESPN.com reports."
     }
   ],
   "out": [
