@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T14:50:22.779Z",
+  "lastUpdated": "2026-08-27T03:02:19.473Z",
   "week": 3,
   "summary": {
-    "total_players": 926,
-    "questionable": 101,
+    "total_players": 925,
+    "questionable": 102,
     "doubtful": 2,
     "out": 8
   },
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Conner (foot) didn't take part in Monday's practice, Theo Mackie of The Arizona Republic reports."
+      "injury_comment": "Cardinals coach Mike LaFleur said Wednesday that it's \"too early to tell\" if Conner (foot) will be ready for Week 1 against the Chargers, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "10231",
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Mike LaFleur said Monday that Love is progressing in his recovery from a high-ankle sprain but will remain sidelined this week, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "Love (ankle) was spotted doing some light agility work with trainers ahead of Wednesday's practice, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "11559",
@@ -71,7 +71,20 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports."
+      "injury_comment": "Penix (knee) won't play in Friday's preseason game in Miami, but he believes he'll be available for a Week 1 road matchup with the Steelers on Sunday, Sept. 13, Tori McElhaney of the Falcons' official site reports."
+    },
+    {
+      "player_id": "9997",
+      "source_id": "4429615",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Flowers isn't practicing Wednesday for the second consecutive day while he tends to an apparent undisclosed injury, Cordell Woodland of 105.7 The Fan Baltimore reports."
     },
     {
       "player_id": "13302",
@@ -188,7 +201,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Burden (groin) returned to practice Wednesday, but he was contained to individual drills, Courtney Cronin of ESPN.com reports."
     },
     {
       "player_id": "12534",
@@ -214,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Chase downplayed his knee injury Tuesday, saying it was a \"little hyperextension,\" and he could've kept practicing, Kelsey Conway of the Cincinnati Enquirer reports."
+      "injury_comment": "Chase (knee) is not participating in Wednesday's practice, Ben Baby of ESPN.com reports."
     },
     {
       "player_id": "13435",
@@ -369,8 +382,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Kraft (knee) has been impressive in 11-on-11 drills since the Packers cleared him Sunday to take part in them at practice, Bill Huber of SI.com reports"
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Kraft (knee) is expected to be \"full go\" for the Packers' Week 1 regular-season opener against the Vikings, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "13770",
@@ -472,9 +485,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Calf",
       "est_return_date": "2026-08-29",
-      "injury_comment": "Downs is not practicing Tuesday due to an unspecified injury, James Boyd of The Athletic reports."
+      "injury_comment": "Downs is not practicing Wednesday due to a calf injury, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
       "player_id": "11762",
@@ -589,9 +602,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Foot",
+      "injury_detail": "Ankle",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Walker is not expected to practice Tuesday due to a foot injury, Matt Derrick of ChiefsDigest.com reports."
+      "injury_comment": "Walker is experiencing swelling around his ankle but is expected to \"be fine,\" Sam McDowell of The Kansas City Star reports."
     },
     {
       "player_id": "11624",
@@ -750,6 +763,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "8214",
+      "source_id": "4361438",
+      "player_name": "Cole Turner",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "11565",
       "source_id": "4433970",
       "player_name": "J.J. McCarthy",
@@ -760,7 +786,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
-      "injury_comment": "McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports."
+      "injury_comment": "Coach Kevin O'Connell said McCarthy won't practice Wednesday due to an ankle injury, but the Vikings are hopeful he'll start Friday's preseason contest at Denver, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "12529",
@@ -828,19 +854,6 @@
       "injury_comment": "Neal sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Saturday, Matthew Paras of The New Orleans Times-Picayune reports."
     },
     {
-      "player_id": "8144",
-      "source_id": "4361370",
-      "player_name": "Chris Olave",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Upper Body",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Olave exited Tuesday's practice early with an undisclosed injury, Mike Triplett of New Orleans.Football reports."
-    },
-    {
       "player_id": "5121",
       "source_id": "3123075",
       "player_name": "Braxton Berrios",
@@ -875,9 +888,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Shoulder",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Johnson left Monday's practice due to an unspecified issue, Dan Benton of USA Today reports."
+      "injury_comment": "Johnson missed Wednesday's practice due to a shoulder injury, Evan Barnes of Newsday reports."
     },
     {
       "player_id": "11632",
@@ -994,7 +1007,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Stowers (hamstring) won't practice Monday, Martin Frank of The Delaware News Journal reports."
+      "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
     },
     {
       "player_id": "5846",
@@ -1058,8 +1071,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "Evans is not practicing Tuesday due to a groin injury, Matt Maiocco of NBC Sports Bay Area reports."
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Evans' groin injury is considered minor, and he plans to be ready for the 49ers' Week 1 regular-season opener against the Rams on Thursday, Sept. 10, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "12467",
@@ -1179,19 +1192,6 @@
       "injury_comment": "Egbuka (toe) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports."
     },
     {
-      "player_id": "8801",
-      "source_id": "4572786",
-      "player_name": "Dennis Houston",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Houston has been ruled out for the rest of Saturday's preseason game against the Chiefs due to a groin injury."
-    },
-    {
       "player_id": "12485",
       "source_id": "4608810",
       "player_name": "Tez Johnson",
@@ -1216,6 +1216,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
       "injury_comment": "McMillan (knee) didn't travel with the Buccaneers to Jacksonville for Wednesday's joint practice with the Jaguars, PewterReport.com reports."
+    },
+    {
+      "player_id": "8801",
+      "source_id": "4572786",
+      "player_name": "Dennis Houston",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12516",
