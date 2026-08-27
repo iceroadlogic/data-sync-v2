@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T17:32:26.604Z",
+  "lastUpdated": "2026-08-27T21:26:20.664Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -11210,6 +11210,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "NYG"
+        },
+        {
+          "date": "2026-08-27",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "NYG"
         }
       ]
     },
@@ -11261,6 +11268,13 @@
           "date": "2026-03-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Head",
+          "team": "TEN"
         }
       ]
     },

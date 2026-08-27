@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T22:35:37.935Z",
+  "lastUpdated": "2026-08-27T21:26:20.664Z",
   "week": 3,
   "summary": {
-    "total_players": 923,
-    "ir": 33,
+    "total_players": 926,
+    "ir": 34,
     "suspended": 2
   },
   "ir": [
@@ -331,6 +331,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Saints placed Matavao (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
+    },
+    {
+      "player_id": "8125",
+      "source_id": "4243389",
+      "player_name": "Calvin Austin III",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     },
     {
       "player_id": "6699",
