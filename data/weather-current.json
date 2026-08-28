@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-08-27T20:10:45.803Z",
+  "lastUpdated": "2026-08-28T05:15:31.106Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "3 mph SE",
+        "temp": 82,
+        "wind": "2 to 6 mph S",
         "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "precipitation": "19%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "2 to 6 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "34%"
+        "temp": 80,
+        "wind": "6 mph SW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "29%"
       }
     },
     {
@@ -35,8 +35,8 @@
       "stadium": "Cleveland Browns Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "7 mph SW",
+        "temp": 83,
+        "wind": "5 to 10 mph W",
         "conditions": "Chance Showers And Thunderstorms",
         "precipitation": "39%"
       }
@@ -64,8 +64,8 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "3 to 8 mph E",
+        "temp": 92,
+        "wind": "3 to 9 mph E",
         "conditions": "Showers And Thunderstorms Likely",
         "precipitation": "67%"
       }
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 to 8 mph NE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "40%"
+        "temp": 84,
+        "wind": "5 to 8 mph NW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "29%"
       }
     },
     {
@@ -90,9 +90,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "3 to 8 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
+        "temp": 86,
+        "wind": "3 to 9 mph SW",
+        "conditions": "Chance Rain Showers then Chance Showers And Thunderstorms",
         "precipitation": "46%"
       }
     },
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "2 to 8 mph W",
+        "temp": 91,
+        "wind": "3 to 7 mph W",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "36%"
+        "precipitation": "32%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "1 to 9 mph SE",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "26%"
+        "temp": 93,
+        "wind": "1 to 8 mph NE",
+        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
+        "precipitation": "25%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "2 to 13 mph WNW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 73,
+        "wind": "2 to 15 mph WNW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -142,10 +142,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "5 mph ENE",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "55%"
+        "temp": 92,
+        "wind": "6 mph E",
+        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
+        "precipitation": "60%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "7 mph WNW",
-        "conditions": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "18%"
+        "temp": 92,
+        "wind": "3 to 8 mph SE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -184,10 +184,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 73,
+        "temp": 86,
         "wind": "5 mph SSW",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "24%"
+        "conditions": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+        "precipitation": "26%"
       }
     }
   ]
