@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-27T21:26:20.664Z",
+  "lastUpdated": "2026-08-28T21:35:19.127Z",
   "week": 3,
   "summary": {
-    "total_players": 926,
+    "total_players": 922,
     "ir": 34,
     "suspended": 2
   },
@@ -97,19 +97,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
-    },
-    {
-      "player_id": "7946",
-      "source_id": "4034862",
-      "player_name": "Jack Stoll",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Browns placed Stoll (undisclosed) on injured reserve Thursday."
     },
     {
       "player_id": "11633",
@@ -255,6 +242,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "8214",
+      "source_id": "4361438",
+      "player_name": "Cole Turner",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Turner (undisclosed) reverted to the Dolphins' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
@@ -338,12 +338,12 @@
       "player_name": "Calvin Austin III",
       "position": "WR",
       "team_abbr": "NYG",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_comment": "The Giants placed Austin (knee) on injured reserve Thursday, Patricia Traina of SI.com reports."
     },
     {
       "player_id": "6699",
@@ -357,19 +357,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13826",
-      "source_id": "4430185",
-      "player_name": "Caullin Lacy",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Lacy (undisclosed) reverted to the Jets' injured reserve Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "11636",
@@ -435,6 +422,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Seahawks placed Bobo (knee) on injured reserve Saturday, John Boyle of the team's official site reports."
+    },
+    {
+      "player_id": "8801",
+      "source_id": "4572786",
+      "player_name": "Dennis Houston",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Houston (groin) reverted to the Buccaneers' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "13422",
