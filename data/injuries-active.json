@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-27T17:32:26.604Z",
+  "lastUpdated": "2026-08-28T05:03:16.027Z",
   "week": 3,
   "summary": {
-    "total_players": 925,
-    "questionable": 103,
+    "total_players": 926,
+    "questionable": 101,
     "doubtful": 1,
-    "out": 8
+    "out": 7
   },
   "questionable": [
     {
@@ -122,8 +122,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Coleman (right foot/toe) isn't in uniform for Thursday's preseason game against the Steelers, but he wasn't wearing a walking boot, Alex Brasky of SI.com reports."
     },
     {
       "player_id": "6039",
@@ -148,8 +148,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "Shakir (undisclosed) won't play in Saturday's preseason game against Cleveland, Jay Skurski of The Buffalo News reports."
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Shakir (undisclosed) isn't in uniform for Thursday's preseason contest against the Steelers, Alex Brasky of SI.com reports."
     },
     {
       "player_id": "7594",
@@ -239,19 +239,6 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Personal",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "13580",
-      "source_id": "4685540",
-      "player_name": "Carsen Ryan",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
       "est_return_date": "2026-08-27",
       "injury_comment": "questionable"
     },
@@ -370,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Packers head coach Matt LaFleur said that Jacobs (groin) is expected to go through limited team work during practice Monday, Rob Demovsky of ESPN.com reports."
+      "injury_comment": "Jacobs, who was charged Thursday with two misdemeanors stemming from his May arrest, is scheduled for an initial court appearance Nov. 17, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "9484",
@@ -526,7 +513,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-08-29",
-      "injury_comment": "Pierce (ankle) is slated to be activated from the Active/PUP list Thursday, Mike Chappell of Fox 59 News Indianapolis reports."
+      "injury_comment": "Pierce (ankle) is slated to be activated from the active/PUP list Thursday, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
       "player_id": "12518",
@@ -776,19 +763,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "8214",
-      "source_id": "4361438",
-      "player_name": "Cole Turner",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "11565",
       "source_id": "4433970",
       "player_name": "J.J. McCarthy",
@@ -812,20 +786,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson (ankle) is not expected to practice Tuesday, Doug Kyed of the Boston Herald reports."
-    },
-    {
-      "player_id": "12969",
-      "source_id": "4698253",
-      "player_name": "Lan Larison",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "Larison (undisclosed) will not practice Monday, Evan Lazar of the Patriots' official site reports."
+      "injury_comment": "Henderson (ankle) is expected to be available for New England's Week 1 matchup with the Steelers, Christopher Price of The Boston Globe reports."
     },
     {
       "player_id": "13319",
@@ -1023,6 +984,19 @@
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
     },
     {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Head",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Howard (head) is being evaluated for a potential concussion after exiting Thursday's preseason finale against the Bills, Alan Saunders of SteelersNow.com reports."
+    },
+    {
       "player_id": "5846",
       "source_id": "4047650",
       "player_name": "DK Metcalf",
@@ -1088,19 +1062,6 @@
       "injury_comment": "Evans' groin injury is considered minor, and he plans to be ready for the 49ers' Week 1 regular-season opener against the Rams on Thursday, Sept. 10, Jeremy Fowler of ESPN reports."
     },
     {
-      "player_id": "12467",
-      "source_id": "4685397",
-      "player_name": "Jordan James",
-      "position": "RB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-08-27",
-      "injury_comment": "James (ribs) returned to practice Saturday, Nick Wagoner of ESPN.com reports."
-    },
-    {
       "player_id": "4950",
       "source_id": "3895856",
       "player_name": "Christian Kirk",
@@ -1163,7 +1124,20 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-08-27",
-      "injury_comment": "Stribling (shoulder) returned to practice Sunday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports."
+    },
+    {
+      "player_id": "10224",
+      "source_id": "4360290",
+      "player_name": "Brayden Willis",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Willis (concussion) has been ruled out for the remainder of Thursday's preseason matchup with the Raiders, Noah Furtado of the San Francisco Chronicle reports."
     },
     {
       "player_id": "12497",
@@ -1176,7 +1150,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
+      "injury_comment": "Horton (undisclosed) is not dealing with a long-term injury, Corbin K. Smith of SI.com reports."
     },
     {
       "player_id": "11435",
@@ -1231,19 +1205,6 @@
       "injury_comment": "McMillan (knee) didn't travel with the Buccaneers to Jacksonville for Wednesday's joint practice with the Jaguars, PewterReport.com reports."
     },
     {
-      "player_id": "8801",
-      "source_id": "4572786",
-      "player_name": "Dennis Houston",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "12516",
       "source_id": "4429121",
       "player_name": "Kalel Mullings",
@@ -1255,6 +1216,19 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-08-29",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "8126",
+      "source_id": "4569587",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Head",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Robinson is being evaluated for a concussion after taking a hard hit in Thursday's joint practice with the Bears, Turron Davenport of ESPN.com reports."
     },
     {
       "player_id": "3976",
@@ -1415,19 +1389,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "8125",
-      "source_id": "4243389",
-      "player_name": "Calvin Austin III",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Austin is expected to miss the 2026 season after he sustained a torn ACL in his right knee while running a route during Tuesday's practice, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "6803",

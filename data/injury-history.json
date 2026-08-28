@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T21:26:20.664Z",
+  "lastUpdated": "2026-08-28T05:03:16.027Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -13126,6 +13126,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "MIA"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "MIA"
         }
       ]
     },
@@ -13926,6 +13933,13 @@
           "date": "2026-08-23",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "TB"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Groin",
           "team": "TB"
         }
@@ -15967,6 +15981,19 @@
           "date": "2025-11-23",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "10224": {
+      "name": "Brayden Willis",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "SF"
         }
       ]
     },
@@ -23075,6 +23102,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "SF"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25379,6 +25411,13 @@
           "date": "2026-01-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Head",
+          "team": "PIT"
         }
       ]
     },
@@ -27461,6 +27500,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NE"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28721,6 +28765,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "CLE"
+        },
+        {
+          "date": "2026-08-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
