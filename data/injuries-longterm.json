@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-29T19:00:49.264Z",
+  "lastUpdated": "2026-08-29T22:07:03.232Z",
   "week": 3,
   "summary": {
-    "total_players": 914,
+    "total_players": 906,
     "ir": 33,
     "suspended": 2
   },
@@ -63,19 +63,6 @@
       "player_id": "13353",
       "source_id": "5091739",
       "player_name": "Chris Brazzell II",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "7357",
-      "source_id": "3929637",
-      "player_name": "Dan Chisena",
       "position": "WR",
       "team_abbr": "CAR",
       "injury_status": "day-to-day",
@@ -240,6 +227,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13597",
+      "source_id": "4877717",
+      "player_name": "Matthew Caldwell",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     },
     {
       "player_id": "8214",
