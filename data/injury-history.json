@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T23:30:11.031Z",
+  "lastUpdated": "2026-08-29T12:34:39.378Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4865,6 +4865,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NYG"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8121,6 +8126,11 @@
           "from": "IR",
           "to": "Questionable",
           "team": "SF"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8988,6 +8998,19 @@
           "date": "2026-01-04",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "7559": {
+      "name": "Ihmir Smith-Marsette",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -14935,6 +14958,13 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "DEN"
         }
       ]
     },
@@ -16293,6 +16323,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "ARI"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -16690,6 +16725,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "CLE"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20127,6 +20167,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "KC"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21514,6 +21559,13 @@
           "date": "2025-12-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "NYG"
         }
       ]
     },
@@ -23955,6 +24007,11 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "TB"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26048,6 +26105,19 @@
         }
       ]
     },
+    "12531": {
+      "name": "Trevor Etienne",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "CAR"
+        }
+      ]
+    },
     "12533": {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
@@ -27454,6 +27524,19 @@
         }
       ]
     },
+    "12906": {
+      "name": "Cam Camper",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Head",
+          "team": "NYJ"
+        }
+      ]
+    },
     "12954": {
       "name": "Kye Robichaux",
       "position": "RB",
@@ -28196,6 +28279,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "BAL"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28833,6 +28921,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "GB"
+        },
+        {
+          "date": "2026-08-29",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
