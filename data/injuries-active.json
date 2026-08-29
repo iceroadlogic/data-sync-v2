@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-29T12:34:39.378Z",
+  "lastUpdated": "2026-08-29T17:37:53.661Z",
   "week": 3,
   "summary": {
-    "total_players": 915,
-    "questionable": 99,
+    "total_players": 914,
+    "questionable": 100,
     "doubtful": 1,
     "out": 7
   },
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman he was able to work out prior to the game."
+      "injury_comment": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman, he was able to work out prior to the game."
     },
     {
       "player_id": "7559",
@@ -292,7 +292,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Mims (foot) went to the locker room during the first quarter of Friday's preseason game against the Vikings and is questionable to return, Zac Stevens of TheDNVR.com reports."
+      "injury_comment": "Head coach Sean Payton told reporters that Mims bruised his foot during the Broncos' 34-6 preseason win over the Vikings on Friday, Chris Tomasson of The Denver Gazette reports."
     },
     {
       "player_id": "10859",
@@ -460,7 +460,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Calf",
-      "est_return_date": "2026-08-29",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Downs is not practicing Wednesday due to a calf injury, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
@@ -499,8 +499,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "Pierce (ankle) is slated to be activated from the active/PUP list Thursday, Mike Chappell of Fox 59 News Indianapolis reports."
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Pierce (ankle) is working out prior to Saturday's preseason game against the Lions but will not play, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
       "player_id": "12518",
@@ -512,7 +512,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-08-29",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports  reports."
     },
     {
@@ -578,7 +578,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-08-28",
-      "injury_comment": "Mahomes (knee) said during Saturday's preseason game at Tampa Bay that he's \"extremely confident\" he'll be available Week 1 against the Broncos on Monday, Sept. 14, Sam McDowell of The Kansas City Star reports."
+      "injury_comment": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "8151",
@@ -711,6 +711,19 @@
       "injury_comment": "Gordon injured his ribs during the Dolphins' 26-3 preseason loss to the Giants on Saturday, Joe Schad of The Palm Beach Post reports."
     },
     {
+      "player_id": "13434",
+      "source_id": "4880236",
+      "player_name": "Will Kacmarek",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Kacmarek (undisclosed) is considered week-to-week as of Saturday, Barry Jackson of the Miami Herald reports."
+    },
+    {
       "player_id": "11082",
       "source_id": "4373030",
       "player_name": "Ben Sims",
@@ -838,7 +851,7 @@
       "injury_description": null,
       "injury_detail": "Neck",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Tracy (neck) is dealing with a stinger, but it is not believed to be a major injury, Dan Duggan of The Athletic reports."
     },
     {
       "player_id": "12906",
@@ -1163,7 +1176,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Egbuka (toe) continues to rest and recover with the goal of being ready for Week 1, Greg Auman of Fox Sports reports."
+      "injury_comment": "Egbuka (toe), per head coach Todd Bowles, will \"hopefully\" be ready for Week 1, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "11618",
@@ -1176,7 +1189,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "McMillan (knee) didn't travel with the Buccaneers to Jacksonville for Wednesday's joint practice with the Jaguars, PewterReport.com reports."
+      "injury_comment": "Head coach Todd Bowles said Saturday that he expects McMillan (knee) to be available for the Buccaneers' Week 1 clash against the Bengals on Sunday, Sept. 13, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "12516",
@@ -1360,9 +1373,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Leg",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Tipton (leg) is expected to begin the 2026 regular season on the reserve/PUP list, Mike Triplett of NewOrleans.Football reports."
     },
     {
       "player_id": "6803",
