@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-28T21:35:19.127Z",
+  "lastUpdated": "2026-08-29T15:56:03.234Z",
   "week": 3,
   "summary": {
-    "total_players": 922,
-    "ir": 34,
+    "total_players": 915,
+    "ir": 33,
     "suspended": 2
   },
   "ir": [
@@ -389,19 +389,6 @@
       "source_id": "4428209",
       "player_name": "Ricky Pearsall",
       "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "6963",
-      "source_id": "4039358",
-      "player_name": "Patrick Taylor Jr.",
-      "position": "RB",
       "team_abbr": "SF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
