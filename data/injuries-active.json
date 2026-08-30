@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-29T17:37:53.661Z",
+  "lastUpdated": "2026-08-30T00:01:19.344Z",
   "week": 3,
   "summary": {
-    "total_players": 914,
-    "questionable": 100,
+    "total_players": 906,
+    "questionable": 96,
     "doubtful": 1,
     "out": 7
   },
@@ -256,19 +256,6 @@
       "injury_comment": "Rogers (knee) did not participate in Tuesday's practice session, Calvin Watkins of The Dallas Morning News reports."
     },
     {
-      "player_id": "13401",
-      "source_id": "4594749",
-      "player_name": "Michael Trigg",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Trigg (toe) did not practice Thursday, Tommy Yarrish of the Cowboys' official site reports."
-    },
-    {
       "player_id": "12735",
       "source_id": "4432208",
       "player_name": "Caleb Lohner",
@@ -277,9 +264,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
     },
     {
       "player_id": "9494",
@@ -332,19 +319,6 @@
       "injury_detail": "Concussion",
       "est_return_date": "2026-08-29",
       "injury_comment": "Williams suffered a concussion during Detroit's preseason loss to the Commanders on Saturday, Justin Rogers of DetroitFootball.net reports."
-    },
-    {
-      "player_id": "11729",
-      "source_id": "4912274",
-      "player_name": "Sione Vaki",
-      "position": "RB",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "Vaki (back) didn't play in Detroit's preseason loss to the Commanders on Saturday, Justin Rogers of DetroitFootball.net reports."
     },
     {
       "player_id": "5850",
@@ -464,19 +438,6 @@
       "injury_comment": "Downs is not practicing Wednesday due to a calf injury, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
-      "player_id": "11762",
-      "source_id": "4429684",
-      "player_name": "Anthony Gould",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "10220",
       "source_id": "4362523",
       "player_name": "Will Mallory",
@@ -488,6 +449,19 @@
       "injury_detail": "Thumb",
       "est_return_date": "2026-08-29",
       "injury_comment": "Mallory did not play in the Colts' 34-6 preseason loss to the Falcons on Saturday due to a thumb injury, Joel A. Erickson of The Indianapolis Star reports."
+    },
+    {
+      "player_id": "12829",
+      "source_id": "4578436",
+      "player_name": "Coleman Owen",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Owen has entered the league's concussion protocol, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "8142",
@@ -943,32 +917,6 @@
       "injury_detail": "Back",
       "est_return_date": "2026-08-28",
       "injury_comment": "Calcatarra (back) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
-    },
-    {
-      "player_id": "8414",
-      "source_id": "3926231",
-      "player_name": "Britain Covey",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "8176",
-      "source_id": "4689546",
-      "player_name": "Danny Gray",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "13349",
