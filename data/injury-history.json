@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T20:25:56.863Z",
+  "lastUpdated": "2026-08-30T22:52:50.647Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2696,6 +2696,13 @@
           "date": "2026-07-29",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Foot",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Foot",
           "team": "ARI"
         }
@@ -9023,6 +9030,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13998,6 +14010,11 @@
           "to": "IR",
           "detail": "Groin",
           "team": "TB"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -15215,6 +15232,13 @@
           "date": "2026-02-12",
           "from": "Out",
           "to": "Questionable",
+          "team": "HOU"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee - ACL + MCL",
           "team": "HOU"
         }
       ]
@@ -23975,6 +23999,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
@@ -24107,6 +24138,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Back",
+          "team": "CLE"
         }
       ]
     },
@@ -28224,6 +28262,13 @@
           "to": "Doubtful",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Doubtful",
+          "to": "IR",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -28909,6 +28954,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Personal",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Personal",
           "team": "CLE"
         }

@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-30T20:25:56.863Z",
+  "lastUpdated": "2026-08-30T22:52:50.647Z",
   "week": 1,
   "summary": {
-    "total_players": 885,
-    "questionable": 93,
-    "doubtful": 1,
-    "out": 8
+    "total_players": 813,
+    "questionable": 89,
+    "doubtful": 0,
+    "out": 9
   },
   "questionable": [
     {
@@ -22,19 +22,6 @@
       "injury_comment": "Beck (ribs) continued to be a limited participant at Monday's practice, Bo Brack of GoPHNX.com reports."
     },
     {
-      "player_id": "4137",
-      "source_id": "3045147",
-      "player_name": "James Conner",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Cardinals coach Mike LaFleur said Wednesday that it's \"too early to tell\" if Conner (foot) will be ready for Week 1 against the Chargers, Theo Mackie of The Arizona Republic reports."
-    },
-    {
       "player_id": "13287",
       "source_id": "4870808",
       "player_name": "Jeremiyah Love",
@@ -46,19 +33,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
       "injury_comment": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman, he was able to work out prior to the game."
-    },
-    {
-      "player_id": "7559",
-      "source_id": "4240573",
-      "player_name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Smith-Marsette (ankle) will not return to Friday night's preseason finale against the Packers, Darren Urban of the Cardinals' official site reports."
     },
     {
       "player_id": "11559",
@@ -212,9 +186,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7564",
@@ -230,19 +204,6 @@
       "injury_comment": "Chase (knee) is not participating in Wednesday's practice, Ben Baby of ESPN.com reports."
     },
     {
-      "player_id": "13435",
-      "source_id": "4565859",
-      "player_name": "Joe Royer",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Royer (personal) did not play in Thursday's preseason finale against the Patriots."
-    },
-    {
       "player_id": "13355",
       "source_id": "4710711",
       "player_name": "DJ Rogers",
@@ -251,9 +212,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Rogers (knee) did not participate in Tuesday's practice session, Calvin Watkins of The Dallas Morning News reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12735",
@@ -264,9 +225,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
     },
     {
       "player_id": "9494",
@@ -334,19 +295,6 @@
       "injury_comment": "Brooks (hand) was back at practice with the Texans on Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
-      "player_id": "9502",
-      "source_id": "4366031",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "7568",
       "source_id": "4362504",
       "player_name": "Brevin Jordan",
@@ -355,9 +303,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Jordan (knee) did not participate at Monday's training camp practice, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11588",
@@ -399,32 +347,6 @@
       "injury_comment": "Downs is not practicing Wednesday due to a calf injury, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "Mallory did not play in the Colts' 34-6 preseason loss to the Falcons on Saturday due to a thumb injury, Joel A. Erickson of The Indianapolis Star reports."
-    },
-    {
-      "player_id": "12829",
-      "source_id": "4578436",
-      "player_name": "Coleman Owen",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Owen has entered the league's concussion protocol, Nathan Brown of The Indianapolis Star reports."
-    },
-    {
       "player_id": "8142",
       "source_id": "4360078",
       "player_name": "Alec Pierce",
@@ -451,6 +373,19 @@
       "injury_comment": "Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports  reports."
     },
     {
+      "player_id": "10220",
+      "source_id": "4362523",
+      "player_name": "Will Mallory",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "Mallory did not play in the Colts' 34-6 preseason loss to the Falcons on Saturday due to a thumb injury, Joel A. Erickson of The Indianapolis Star reports."
+    },
+    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -462,6 +397,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "12829",
+      "source_id": "4578436",
+      "player_name": "Coleman Owen",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Owen has entered the league's concussion protocol, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "12544",
@@ -682,7 +630,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
-      "injury_comment": "McCarthy (ankle) won't suit up for Friday's preseason game at Denver, Alec Lewis of The Athletic reports."
+      "injury_comment": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "12529",
@@ -867,19 +815,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8177",
-      "source_id": "4241374",
-      "player_name": "Grant Calcaterra",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Calcatarra (back) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
-    },
-    {
       "player_id": "13349",
       "source_id": "4431574",
       "player_name": "Eli Stowers",
@@ -891,6 +826,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-08-28",
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
+    },
+    {
+      "player_id": "8177",
+      "source_id": "4241374",
+      "player_name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Calcatarra (back) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "12511",
@@ -1179,19 +1127,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "4219",
-      "source_id": "3127586",
-      "player_name": "Jeremy McNichols",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "McNichols (quadriceps) will not play in Saturday's preseason game against Detroit."
-    },
-    {
       "player_id": "11596",
       "source_id": "4690923",
       "player_name": "Ben Sinnott",
@@ -1216,23 +1151,22 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "White (hamstring) isn't suited up for Friday's preseason game in Baltimore."
-    }
-  ],
-  "doubtful": [
+    },
     {
-      "player_id": "13281",
-      "source_id": "4880281",
-      "player_name": "Jordyn Tyson",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
+      "player_id": "4219",
+      "source_id": "3127586",
+      "player_name": "Jeremy McNichols",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "doubtful"
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "McNichols (quadriceps) will not play in Saturday's preseason game against Detroit."
     }
   ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11716",
@@ -1240,7 +1174,7 @@
       "player_name": "Tip Reiman",
       "position": "TE",
       "team_abbr": "ARI",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Ankle",
@@ -1259,6 +1193,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13435",
+      "source_id": "4565859",
+      "player_name": "Joe Royer",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Personal",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Browns placed Royer (personal) on the reserve/non-football illness list Sunday, Scott Petrak of the Elyria Chronicle-Telegram reports."
     },
     {
       "player_id": "5850",
@@ -1318,12 +1265,12 @@
       "player_name": "Isaac Guerendo",
       "position": "RB",
       "team_abbr": "SF",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Pectoral",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Guerendo (pectoral) was placed on the reserve/PUP list, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "9753",
