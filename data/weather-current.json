@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-08-30T20:44:25.530Z",
+  "lastUpdated": "2026-08-30T22:56:28.467Z",
   "games": [
     {
       "game_id": "401872656",
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "2 to 8 mph NE",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Clear",
-        "precipitation": "17%"
+        "temp": 87,
+        "wind": "2 to 9 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "10%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "7 mph NE",
-        "conditions": "Mostly Clear",
-        "precipitation": "14%"
+        "temp": 81,
+        "wind": "5 to 9 mph NE",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "2 to 6 mph NE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "43%"
+        "temp": 88,
+        "wind": "3 to 9 mph NE",
+        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
+        "precipitation": "37%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "3 to 8 mph S",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "36%"
+        "temp": 90,
+        "wind": "5 to 10 mph S",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "62%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 5 mph N",
-        "conditions": "Slight Chance Rain Showers then Partly Cloudy",
-        "precipitation": "21%"
+        "temp": 81,
+        "wind": "5 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "6 mph N",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "18%"
+        "temp": 78,
+        "wind": "8 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "13%"
       }
     },
     {
