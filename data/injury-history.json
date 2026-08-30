@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T17:52:32.239Z",
+  "lastUpdated": "2026-08-30T20:25:56.863Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5532,6 +5532,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "GB"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "GB"
         }
@@ -28917,6 +28924,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "HOU"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29238,6 +29250,11 @@
           "to": "Suspended",
           "detail": "Suspension",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-30",
+          "from": "Suspended",
+          "to": "Healthy"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-30T17:52:32.239Z",
+  "lastUpdated": "2026-08-30T20:25:56.863Z",
   "week": 1,
   "summary": {
-    "total_players": 888,
-    "questionable": 95,
+    "total_players": 885,
+    "questionable": 93,
     "doubtful": 1,
-    "out": 7
+    "out": 8
   },
   "questionable": [
     {
@@ -264,9 +264,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9494",
@@ -306,19 +306,6 @@
       "injury_detail": "Back",
       "est_return_date": "2026-09-13",
       "injury_comment": "Pacheco's knee injury, per head coach Dan Campbell, is not a concern, but he is now dealing with a back injury, Dave Birkett of the Detroit Free Press reports."
-    },
-    {
-      "player_id": "5850",
-      "source_id": "4047365",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Jacobs (groin), who was charged Thursday with two misdemeanors stemming from his May arrest, is scheduled for an initial court appearance Nov. 17, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "9484",
@@ -397,19 +384,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13437",
-      "source_id": "4432631",
-      "player_name": "Noah Whittington",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Whittington (ankle) is regarded as day-to-day as of Friday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "9500",
@@ -745,9 +719,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "12476",
@@ -1254,9 +1228,9 @@
       "injury_status": "active",
       "injury_designation": "Doubtful",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "doubtful"
     }
   ],
   "out": [
@@ -1285,6 +1259,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "5850",
+      "source_id": "4047365",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "news",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "The NFL placed Jacobs on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "9481",
