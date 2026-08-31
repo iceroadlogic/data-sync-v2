@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T22:52:50.647Z",
+  "lastUpdated": "2026-08-31T01:02:59.330Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9184,6 +9184,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "HOU"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10464,6 +10469,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "PIT"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15117,6 +15127,11 @@
           "to": "Questionable",
           "detail": "Leg",
           "team": "NYG"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19318,6 +19333,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "HOU"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23750,6 +23770,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NO"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25723,6 +25748,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "TEN"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -26188,6 +26218,13 @@
           "date": "2026-08-29",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Ankle",
           "team": "CAR"
         }
@@ -28654,6 +28691,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "DAL"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29307,6 +29349,12 @@
           "date": "2026-08-30",
           "from": "Suspended",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Suspended",
+          "team": "NO"
         }
       ]
     }

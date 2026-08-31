@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T22:52:50.647Z",
+  "lastUpdated": "2026-08-31T01:02:59.330Z",
   "week": 1,
   "summary": {
-    "total_players": 813,
-    "questionable": 89,
+    "total_players": 634,
+    "questionable": 81,
     "doubtful": 0,
     "out": 9
   },
@@ -113,19 +113,6 @@
       "injury_comment": "Shakir (undisclosed) isn't in uniform for Thursday's preseason contest against the Steelers, Alex Brasky of SI.com reports."
     },
     {
-      "player_id": "12531",
-      "source_id": "4685350",
-      "player_name": "Trevor Etienne",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Etienne (ankle) is being evaluated to diagnose the extent of his injury, Sheena Quick of Fox Sports Radio 1340 reports."
-    },
-    {
       "player_id": "7594",
       "source_id": "4241416",
       "player_name": "Chuba Hubbard",
@@ -204,32 +191,6 @@
       "injury_comment": "Chase (knee) is not participating in Wednesday's practice, Ben Baby of ESPN.com reports."
     },
     {
-      "player_id": "13355",
-      "source_id": "4710711",
-      "player_name": "DJ Rogers",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "12735",
-      "source_id": "4432208",
-      "player_name": "Caleb Lohner",
-      "position": "TE",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
-    },
-    {
       "player_id": "9494",
       "source_id": "4686472",
       "player_name": "Marvin Mims Jr.",
@@ -241,6 +202,19 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-08-28",
       "injury_comment": "Head coach Sean Payton told reporters that Mims bruised his foot during the Broncos' 34-6 preseason win over the Vikings on Friday, Chris Tomasson of The Denver Gazette reports."
+    },
+    {
+      "player_id": "12735",
+      "source_id": "4432208",
+      "player_name": "Caleb Lohner",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-08-28",
+      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
     },
     {
       "player_id": "10859",
@@ -295,32 +269,6 @@
       "injury_comment": "Brooks (hand) was back at practice with the Texans on Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
-      "player_id": "7568",
-      "source_id": "4362504",
-      "player_name": "Brevin Jordan",
-      "position": "TE",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "11588",
-      "source_id": "4429939",
-      "player_name": "Jawhar Jordan",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Jordan (hip) is likely to resume practicing next week, Aaron Wilson of KPRC 2 Houston reports."
-    },
-    {
       "player_id": "12536",
       "source_id": "4586312",
       "player_name": "Jaylin Noel",
@@ -329,9 +277,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "With Jayden Higgins having reportedly suffered a torn ACL, Noel (hamstring/finger) is a candidate to see added work in Houston's offense this coming season, DJ Bien-Aime of ESPN reports."
     },
     {
       "player_id": "9500",
@@ -578,7 +526,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Nacua (groin) is practicing Sunday, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "12495",
@@ -672,32 +620,6 @@
       "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
     },
     {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Neal sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Saturday, Matthew Paras of The New Orleans Times-Picayune reports."
-    },
-    {
-      "player_id": "9497",
-      "source_id": "4692590",
-      "player_name": "Jalin Hyatt",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Leg",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "11597",
       "source_id": "4429148",
       "player_name": "Theo Johnson",
@@ -734,7 +656,7 @@
       "injury_description": null,
       "injury_detail": "Neck",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tracy (neck) is dealing with a stinger, but it is not believed to be a major injury, Dan Duggan of The Athletic reports."
+      "injury_comment": "Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site  report."
     },
     {
       "player_id": "12906",
@@ -880,19 +802,6 @@
       "injury_comment": "Pittman (right ankle) was in pads and going through stretching during Monday's practice, Alan Saunders of Steelers Now reports."
     },
     {
-      "player_id": "7865",
-      "source_id": "4240577",
-      "player_name": "Brandon Smith",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "11616",
       "source_id": "4575665",
       "player_name": "Jacob Cowing",
@@ -917,19 +826,6 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
       "injury_comment": "Evans' groin injury is considered minor, and he plans to be ready for the 49ers' Week 1 regular-season opener against the Rams on Thursday, Sept. 10, Jeremy Fowler of ESPN reports."
-    },
-    {
-      "player_id": "4950",
-      "source_id": "3895856",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Kirk (calf) continued to work on a side field at Saturday's practice, Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "4217",
@@ -997,6 +893,19 @@
       "injury_comment": "Willis (concussion) has been ruled out for the remainder of Thursday's preseason matchup with the Raiders, Noah Furtado of the San Francisco Chronicle reports."
     },
     {
+      "player_id": "4950",
+      "source_id": "3895856",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Kirk (calf) continued to work on a side field at Saturday's practice, Vic Tafur of The Athletic reports."
+    },
+    {
       "player_id": "12497",
       "source_id": "4597703",
       "player_name": "Tory Horton",
@@ -1047,19 +956,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
       "injury_comment": "Head coach Todd Bowles said Saturday that he expects McMillan (knee) to be available for the Buccaneers' Week 1 clash against the Bengals on Sunday, Sept. 13, Greg Auman of Fox Sports reports."
-    },
-    {
-      "player_id": "12516",
-      "source_id": "4429121",
-      "player_name": "Kalel Mullings",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "8126",
@@ -1187,12 +1083,12 @@
       "player_name": "Tyrell Shavers",
       "position": "WR",
       "team_abbr": "BUF",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "The Bills placed Shavers (knee) on the active/PUP list Tuesday, Matt Parrino of The Syracuse Post-Standard reports."
     },
     {
       "player_id": "13435",
@@ -1226,7 +1122,7 @@
       "player_name": "Luke Musgrave",
       "position": "TE",
       "team_abbr": "GB",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,
@@ -1239,7 +1135,7 @@
       "player_name": "Mason Tipton",
       "position": "WR",
       "team_abbr": "NO",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Leg",
@@ -1278,12 +1174,12 @@
       "player_name": "Zach Charbonnet",
       "position": "RB",
       "team_abbr": "SEA",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-09",
-      "injury_comment": "Charbonnet (knee) remains on the active/PUP list as the Seahawks' second preseason contest (Sunday, Aug. 23 versus the Titans) approaches."
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Seahawks moved Charbonnet (knee) from the active/PUP list to the reserve/PUP list Sunday, Curtis Crabtree of Fox 13 Seattle reports."
     }
   ]
 }
