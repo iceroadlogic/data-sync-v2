@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-31T01:02:59.330Z",
+  "lastUpdated": "2026-08-31T13:19:48.145Z",
   "week": 1,
   "summary": {
-    "total_players": 634,
-    "questionable": 81,
+    "total_players": 584,
+    "questionable": 83,
     "doubtful": 0,
     "out": 9
   },
@@ -59,19 +59,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
       "injury_comment": "Flowers isn't practicing Wednesday for the second consecutive day while he tends to an apparent undisclosed injury, Cordell Woodland of 105.7 The Fan Baltimore reports."
-    },
-    {
-      "player_id": "11964",
-      "source_id": "4428763",
-      "player_name": "Dayton Wade",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "11637",
@@ -204,19 +191,6 @@
       "injury_comment": "Head coach Sean Payton told reporters that Mims bruised his foot during the Broncos' 34-6 preseason win over the Vikings on Friday, Chris Tomasson of The Denver Gazette reports."
     },
     {
-      "player_id": "12735",
-      "source_id": "4432208",
-      "player_name": "Caleb Lohner",
-      "position": "TE",
-      "team_abbr": "DEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Lower Body",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Lohner (lower body) does not yet have a return timeline, Luca Evans of The Denver Post reports."
-    },
-    {
       "player_id": "10859",
       "source_id": "4430027",
       "player_name": "Sam LaPorta",
@@ -254,6 +228,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
       "injury_comment": "Kraft (knee) is expected to be \"full go\" for the Packers' Week 1 regular-season opener against the Vikings, Rob Demovsky of ESPN.com reports."
+    },
+    {
+      "player_id": "12113",
+      "source_id": "4361027",
+      "player_name": "Thomas Yassmin",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12171",
@@ -321,19 +308,6 @@
       "injury_comment": "Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports  reports."
     },
     {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "Mallory did not play in the Colts' 34-6 preseason loss to the Falcons on Saturday due to a thumb injury, Joel A. Erickson of The Indianapolis Star reports."
-    },
-    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -345,19 +319,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "questionable"
-    },
-    {
-      "player_id": "12829",
-      "source_id": "4578436",
-      "player_name": "Coleman Owen",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Owen has entered the league's concussion protocol, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "12544",
@@ -399,6 +360,19 @@
       "injury_comment": "Thomas (shoulder) was present on the field for Wednesday's joint practice with the Buccaneers while sporting a no-contact jersey, John Shipley of SI.com reports."
     },
     {
+      "player_id": "11851",
+      "source_id": "4362260",
+      "player_name": "Carter Bradley",
+      "position": "QB",
+      "team_abbr": "JAX",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -425,6 +399,32 @@
       "injury_comment": "Walker is experiencing swelling around his ankle but is expected to \"be fine,\" Sam McDowell of The Kansas City Star reports."
     },
     {
+      "player_id": "8413",
+      "source_id": "4044111",
+      "player_name": "Chris Oladokun",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13778",
+      "source_id": "4430825",
+      "player_name": "EJ Smith",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Chiefs waived/injured Smith (undisclosed) on Sunday."
+    },
+    {
       "player_id": "12527",
       "source_id": "4890973",
       "player_name": "Ashton Jeanty",
@@ -449,6 +449,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
       "injury_comment": "Thornton (undisclosed) didn't practice Monday, Sam Warren of The Athletic reports."
+    },
+    {
+      "player_id": "13410",
+      "source_id": "4714388",
+      "player_name": "Chase Roberts",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12509",
@@ -488,6 +501,32 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-08-27",
       "injury_comment": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports."
+    },
+    {
+      "player_id": "13604",
+      "source_id": "4568687",
+      "player_name": "Sincere Brown",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13202",
+      "source_id": "4569372",
+      "player_name": "Dalevon Campbell",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10214",
@@ -581,6 +620,32 @@
       "injury_comment": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "12946",
+      "source_id": "4565297",
+      "player_name": "Dontae Fleming",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "12941",
+      "source_id": "4602969",
+      "player_name": "Bryson Nesbit",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "12529",
       "source_id": "4432710",
       "player_name": "TreVeyon Henderson",
@@ -657,32 +722,6 @@
       "injury_detail": "Neck",
       "est_return_date": "2026-09-13",
       "injury_comment": "Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site  report."
-    },
-    {
-      "player_id": "12906",
-      "source_id": "5081322",
-      "player_name": "Cam Camper",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Head",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Camper is being evaluated for a possible concussion and is questionable to return to Friday's preseason finale against the Giants."
-    },
-    {
-      "player_id": "13839",
-      "source_id": "4695223",
-      "player_name": "Chase Curtis",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Curtis (knee) is out for the remainder of Friday's preseason contest at Pittsburgh."
     },
     {
       "player_id": "11571",
@@ -893,19 +932,6 @@
       "injury_comment": "Willis (concussion) has been ruled out for the remainder of Thursday's preseason matchup with the Raiders, Noah Furtado of the San Francisco Chronicle reports."
     },
     {
-      "player_id": "4950",
-      "source_id": "3895856",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Kirk (calf) continued to work on a side field at Saturday's practice, Vic Tafur of The Athletic reports."
-    },
-    {
       "player_id": "12497",
       "source_id": "4597703",
       "player_name": "Tory Horton",
@@ -1075,7 +1101,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Reiman (ankle) will not be back for the start of the regular season, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "The Cardinals moved Reiman (ankle) from the active/PUP list to the reserve/PUP list Sunday, Darren Urban of the team's official site reports."
     },
     {
       "player_id": "11377",
@@ -1087,8 +1113,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "The Bills placed Shavers (knee) on the active/PUP list Tuesday, Matt Parrino of The Syracuse Post-Standard reports."
+      "est_return_date": "2026-10-12",
+      "injury_comment": "Shavers (knee) was moved to the reserve/PUP list by the Bills on Sunday."
     },
     {
       "player_id": "13435",
@@ -1114,7 +1140,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-27",
-      "injury_comment": "The NFL placed Jacobs on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports."
+      "injury_comment": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "9481",
@@ -1125,9 +1151,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Neck",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Musgrave (neck) was moved to the reserve/PUP list Sunday, Wes Hodkiewicz of the Packers' official website reports."
     },
     {
       "player_id": "11895",
