@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-08-31T13:19:48.145Z",
+  "lastUpdated": "2026-08-31T19:54:29.058Z",
   "week": 1,
   "summary": {
-    "total_players": 584,
-    "questionable": 83,
+    "total_players": 591,
+    "questionable": 87,
     "doubtful": 0,
     "out": 9
   },
   "questionable": [
-    {
-      "player_id": "13272",
-      "source_id": "4430841",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Beck (ribs) continued to be a limited participant at Monday's practice, Bo Brack of GoPHNX.com reports."
-    },
     {
       "player_id": "13287",
       "source_id": "4870808",
@@ -44,7 +31,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Penix (knee) won't play in Friday's preseason game in Miami, but he believes he'll be available for a Week 1 road matchup with the Steelers on Sunday, Sept. 13, Tori McElhaney of the Falcons' official site reports."
     },
     {
@@ -135,7 +122,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Legette (ankle) will remain in a walking boot on his foot until Thursday, Steve Reed of the Associated Press reports."
     },
     {
@@ -174,8 +161,34 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Chase (knee) is not participating in Wednesday's practice, Ben Baby of ESPN.com reports."
+    },
+    {
+      "player_id": "12503",
+      "source_id": "4808839",
+      "player_name": "Isaiah Bond",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13355",
+      "source_id": "4710711",
+      "player_name": "DJ Rogers",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9494",
@@ -187,7 +200,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-14",
       "injury_comment": "Head coach Sean Payton told reporters that Mims bruised his foot during the Broncos' 34-6 preseason win over the Vikings on Friday, Chris Tomasson of The Denver Gazette reports."
     },
     {
@@ -200,7 +213,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-08-29",
+      "est_return_date": "2026-09-13",
       "injury_comment": "LaPorta (hip) returned to practice Tuesday, Richard Silva of The Detroit News reports."
     },
     {
@@ -252,7 +265,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hand",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Brooks (hand) was back at practice with the Texans on Monday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
@@ -382,7 +395,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-14",
       "injury_comment": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports."
     },
     {
@@ -395,7 +408,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-14",
       "injury_comment": "Walker is experiencing swelling around his ankle but is expected to \"be fine,\" Sam McDowell of The Kansas City Star reports."
     },
     {
@@ -499,7 +512,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-27",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports."
     },
     {
@@ -577,7 +590,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ribs",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Gordon injured his ribs during the Dolphins' 26-3 preseason loss to the Giants on Saturday, Joe Schad of The Palm Beach Post reports."
     },
     {
@@ -603,7 +616,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "questionable"
     },
     {
@@ -668,7 +681,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Delp is nursing a hamstring injury at training camp with the Saints, Katherine Terrell of ESPN.com reports."
     },
     {
@@ -694,7 +707,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Shoulder",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Johnson missed Wednesday's practice due to a shoulder injury, Evan Barnes of Newsday reports."
     },
     {
@@ -733,7 +746,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Davis (knee) worked out on a side field with a trainer during Tuesday's practice, Zack Rosenblatt of The Athletic reports."
     },
     {
@@ -746,7 +759,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports."
     },
     {
@@ -759,14 +772,40 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Abdomen",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Jets offensive coordinator Frank Reich said Tuesday that Sadiq (hernia) will be worked in slowly at the start of the regular season, Zack Rosenblatt of The Athletic reports."
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
+    },
+    {
+      "player_id": "13839",
+      "source_id": "4695223",
+      "player_name": "Chase Curtis",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13826",
       "source_id": "4430185",
       "player_name": "Caullin Lacy",
       "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13725",
+      "source_id": "4430689",
+      "player_name": "Dominic Richardson",
+      "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
@@ -785,21 +824,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
-    },
-    {
-      "player_id": "8177",
-      "source_id": "4241374",
-      "player_name": "Grant Calcaterra",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-08-28",
-      "injury_comment": "Calcatarra (back) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "12511",
@@ -810,7 +836,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Head",
+      "injury_detail": "Concussion",
       "est_return_date": "2026-09-13",
       "injury_comment": "Howard (head) is being evaluated for a potential concussion after Thursday's preseason finale against the Bills, Alan Saunders of SteelersNow.com reports."
     },
@@ -825,7 +851,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Metcalf (undisclosed) has agreed to a restructured contract with the Steelers, Field Yates of ESPN reports."
+      "injury_comment": "Metcalf (undisclosed) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "6819",
@@ -838,7 +864,20 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Pittman (right ankle) was in pads and going through stretching during Monday's practice, Alan Saunders of Steelers Now reports."
+      "injury_comment": "Pittman (hamstring) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports."
+    },
+    {
+      "player_id": "7757",
+      "source_id": "4035656",
+      "player_name": "Ben Skowronek",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11616",
@@ -941,7 +980,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-09",
       "injury_comment": "Horton (undisclosed) is not dealing with a long-term injury, Corbin K. Smith of SI.com reports."
     },
     {
@@ -954,7 +993,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-08-28",
+      "est_return_date": "2026-09-09",
       "injury_comment": "questionable"
     },
     {
@@ -993,7 +1032,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Head",
-      "est_return_date": "2026-08-29",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Robinson is not believed to have sustained a concussion during Thursday's joint practice with the Bears, Ian Rapoport of ESPN and NFL Network reports."
     },
     {
@@ -1006,7 +1045,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Biceps",
-      "est_return_date": "2026-08-29",
+      "est_return_date": "2026-09-13",
       "injury_comment": "Trubisky (biceps) did not participate in Wednesday's practice, Terry McCormick of TitanInsider.com reports."
     },
     {
@@ -1075,17 +1114,30 @@
       "injury_comment": "White (hamstring) isn't suited up for Friday's preseason game in Baltimore."
     },
     {
-      "player_id": "4219",
-      "source_id": "3127586",
-      "player_name": "Jeremy McNichols",
-      "position": "RB",
+      "player_id": "13120",
+      "source_id": "5083297",
+      "player_name": "Jacoby Jones",
+      "position": "WR",
       "team_abbr": "WAS",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "McNichols (quadriceps) will not play in Saturday's preseason game against Detroit."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13870",
+      "source_id": "4875350",
+      "player_name": "Quentin Moore",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     }
   ],
   "doubtful": [],
@@ -1166,7 +1218,7 @@
       "injury_description": null,
       "injury_detail": "Leg",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Tipton (leg) is expected to begin the 2026 regular season on the reserve/PUP list, Mike Triplett of NewOrleans.Football reports."
+      "injury_comment": "Tipton (leg) was moved to the reserve/PUP list by the Saints on Sunday."
     },
     {
       "player_id": "6803",
@@ -1192,7 +1244,7 @@
       "injury_description": null,
       "injury_detail": "Pectoral",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Guerendo (pectoral) was placed on the reserve/PUP list, Jeremy Fowler of ESPN reports."
+      "injury_comment": "Guerendo (pectoral) was placed on the reserve/PUP list Sunday, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "9753",
