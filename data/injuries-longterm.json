@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-31T18:25:42.095Z",
+  "lastUpdated": "2026-08-31T23:30:06.621Z",
   "week": 1,
   "summary": {
-    "total_players": 584,
-    "ir": 51,
+    "total_players": 641,
+    "ir": 58,
     "suspended": 2
   },
   "ir": [
@@ -161,7 +161,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Browns placed Gabriel (back) on injured reserve Sunday with a designation to return, Camryn Justice of News 5 Cleveland reports."
+      "injury_comment": "Coach Todd Monken said Monday that Gabriel's back injury is not considered serious, Zac Jackson of The Athletic reports."
     },
     {
       "player_id": "11633",
@@ -188,6 +188,19 @@
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
+    },
+    {
+      "player_id": "13355",
+      "source_id": "4710711",
+      "player_name": "DJ Rogers",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Rogers (knee) reverted to the Cowboys' injured reserve list Monday, Joe Hoyt of The Dallas Morning News reports."
     },
     {
       "player_id": "12735",
@@ -229,6 +242,19 @@
       "injury_comment": "The Packers placed Williams (undisclosed) on injured reserve Sunday with a designation to return, Wes Hodkiewicz of the team's official site reports."
     },
     {
+      "player_id": "12113",
+      "source_id": "4361027",
+      "player_name": "Thomas Yassmin",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Green Bay reverted Yassmin (undisclosed) to injured reserve Monday, per the NFL's transaction log."
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -263,9 +289,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10220",
@@ -307,6 +333,19 @@
       "injury_comment": "ir"
     },
     {
+      "player_id": "11851",
+      "source_id": "4362260",
+      "player_name": "Carter Bradley",
+      "position": "QB",
+      "team_abbr": "JAX",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "13392",
       "source_id": "4885466",
       "player_name": "Jeff Caldwell",
@@ -344,6 +383,45 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Holiday (undisclosed) was placed on injured reserve by the Chiefs on Sunday."
+    },
+    {
+      "player_id": "8413",
+      "source_id": "4044111",
+      "player_name": "Chris Oladokun",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13778",
+      "source_id": "4430825",
+      "player_name": "EJ Smith",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Chiefs waived/injured Smith (undisclosed) on Sunday."
+    },
+    {
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Thornton (undisclosed) didn't practice Monday, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "11963",
@@ -502,6 +580,19 @@
       "injury_comment": "The Saints placed Matavao (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
     },
     {
+      "player_id": "12476",
+      "source_id": "4682652",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Saints placed Neal (hamstring) on injured reserve Sunday, Nick Underhill of NewOrleans.Football reports."
+    },
+    {
       "player_id": "13281",
       "source_id": "4880281",
       "player_name": "Jordyn Tyson",
@@ -551,7 +642,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
-      "injury_comment": "ir"
+      "injury_comment": "Calcaterra (back) was placed on injured reserve by the Eagles on Sunday with a designation to return."
     },
     {
       "player_id": "11636",
@@ -629,7 +720,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
-      "injury_comment": "ir"
+      "injury_comment": "Charles (undisclosed) was placed on injured reserve by the Seahawks on Sunday with a designation to return, John Boyle of the team's official website reports."
     },
     {
       "player_id": "6154",
@@ -642,7 +733,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-08",
-      "injury_comment": "ir"
+      "injury_comment": "Sills (undisclosed) was placed on injured reserve by the Buccaneers on Sunday with a designation to return, Scott Smith of the team's official website reports."
     },
     {
       "player_id": "13422",

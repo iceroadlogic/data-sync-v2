@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T01:02:59.330Z",
+  "lastUpdated": "2026-08-31T23:30:06.621Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3185,6 +3185,13 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "WAS"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Quadriceps",
+          "team": "WAS"
         }
       ]
     },
@@ -3954,6 +3961,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Undisclosed",
+          "team": "SF"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Calf",
           "team": "SF"
         }
       ]
@@ -6805,6 +6819,19 @@
           "date": "2026-03-24",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "6154": {
+      "name": "David Sills V",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "TB"
         }
       ]
     },
@@ -10387,6 +10414,13 @@
           "date": "2025-12-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "PIT"
         }
       ]
     },
@@ -12740,6 +12774,13 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "PHI"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Back",
+          "team": "PHI"
         }
       ]
     },
@@ -13609,6 +13650,18 @@
         }
       ]
     },
+    "8413": {
+      "name": "Chris Oladokun",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "KC"
+        }
+      ]
+    },
     "8414": {
       "name": "Britain Covey",
       "position": "WR",
@@ -13624,6 +13677,19 @@
           "date": "2026-08-29",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "8423": {
+      "name": "Brittain Brown",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CHI"
         }
       ]
     },
@@ -14029,7 +14095,7 @@
       ]
     },
     "8861": {
-      "name": "Irvin Charles",
+      "name": "Irv Charles",
       "position": "WR",
       "transitions": [
         {
@@ -14059,6 +14125,13 @@
           "date": "2026-05-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "SEA"
         }
       ]
     },
@@ -16024,6 +16097,13 @@
           "date": "2026-08-22",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Thumb",
+          "team": "IND"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Thumb",
           "team": "IND"
         }
@@ -22259,6 +22339,19 @@
         }
       ]
     },
+    "11851": {
+      "name": "Carter Bradley",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Thumb",
+          "team": "JAX"
+        }
+      ]
+    },
     "11895": {
       "name": "Mason Tipton",
       "position": "WR",
@@ -22653,6 +22746,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "BAL"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22891,6 +22989,19 @@
           "date": "2026-03-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "12113": {
+      "name": "Thomas Yassmin",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "GB"
         }
       ]
     },
@@ -23775,6 +23886,13 @@
           "date": "2026-08-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -25012,6 +25130,13 @@
           "date": "2025-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "CLE"
         }
       ]
     },
@@ -26504,6 +26629,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LV"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "LV"
         }
       ]
     },
@@ -27249,6 +27381,13 @@
           "to": "Questionable",
           "detail": "Lower Body",
           "team": "DEN"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Lower Body",
+          "team": "DEN"
         }
       ]
     },
@@ -27432,6 +27571,13 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "IND"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Concussion",
+          "team": "IND"
         }
       ]
     },
@@ -27528,6 +27674,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "ATL"
         }
       ]
     },
@@ -27659,6 +27812,35 @@
           "to": "Questionable",
           "detail": "Head",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
+        }
+      ]
+    },
+    "12941": {
+      "name": "Bryson Nesbit",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "MIN"
+        }
+      ]
+    },
+    "12946": {
+      "name": "Dontae Fleming",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "MIN"
         }
       ]
     },
@@ -27955,6 +28137,18 @@
         }
       ]
     },
+    "13120": {
+      "name": "Jacoby Jones",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "WAS"
+        }
+      ]
+    },
     "13121": {
       "name": "Ben Yurosek",
       "position": "TE",
@@ -28014,6 +28208,19 @@
           "date": "2025-12-08",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13122": {
+      "name": "Carter Runyon",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "LV"
         }
       ]
     },
@@ -28132,6 +28339,19 @@
         }
       ]
     },
+    "13173": {
+      "name": "Jimmy Holiday",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "KC"
+        }
+      ]
+    },
     "13202": {
       "name": "Dalevon Campbell",
       "position": "WR",
@@ -28185,6 +28405,12 @@
           "date": "2026-01-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "LAC"
         }
       ]
     },
@@ -28256,6 +28482,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "ARI"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28416,6 +28647,13 @@
           "date": "2026-08-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "BAL"
         }
       ]
     },
@@ -28696,6 +28934,13 @@
           "date": "2026-08-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "DAL"
         }
       ]
     },
@@ -28777,6 +29022,18 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "IND"
+        }
+      ]
+    },
+    "13410": {
+      "name": "Chase Roberts",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "LV"
         }
       ]
     },
@@ -29057,6 +29314,18 @@
         }
       ]
     },
+    "13604": {
+      "name": "Sincere Brown",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "LAC"
+        }
+      ]
+    },
     "13617": {
       "name": "Luke Wysong",
       "position": "WR",
@@ -29071,6 +29340,18 @@
           "date": "2026-07-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13725": {
+      "name": "Dominic Richardson",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "NYJ"
         }
       ]
     },
@@ -29106,6 +29387,19 @@
           "date": "2026-08-29",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13778": {
+      "name": "EJ Smith",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "KC"
         }
       ]
     },
@@ -29199,6 +29493,18 @@
           "date": "2026-08-09",
           "from": "IR",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13870": {
+      "name": "Quentin Moore",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-08-31",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "WAS"
         }
       ]
     },
