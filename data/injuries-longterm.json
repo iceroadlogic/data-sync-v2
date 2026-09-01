@@ -1,64 +1,12 @@
 {
-  "lastUpdated": "2026-08-31T23:30:06.621Z",
+  "lastUpdated": "2026-09-01T15:45:24.882Z",
   "week": 1,
   "summary": {
-    "total_players": 641,
-    "ir": 58,
-    "suspended": 2
+    "total_players": 703,
+    "ir": 61,
+    "suspended": 1
   },
   "ir": [
-    {
-      "player_id": "11589",
-      "source_id": "4429275",
-      "player_name": "Trey Benson",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Benson (knee) reverted to the Cardinals' injured reserve list Tuesday, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "4137",
-      "source_id": "3045147",
-      "player_name": "James Conner",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "The Cardinals are placing Conner (foot) on injured reserve with a designation to return, John Gambadoro of Arizona Sports 98.7 FM Phoenix reports."
-    },
-    {
-      "player_id": "13879",
-      "source_id": "4588298",
-      "player_name": "Jameson Geers",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
-    },
-    {
-      "player_id": "11921",
-      "source_id": "4428811",
-      "player_name": "Xavier Weaver",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Weaver (hamstring) was placed on injured reserve by the Cardinals on Monday."
-    },
     {
       "player_id": "12889",
       "source_id": "4431210",
@@ -71,6 +19,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
       "injury_comment": "The Falcons placed Collins (undisclosed) on injured reserve Sunday with a designation to return during the season, Will McFadden of the team's official site reports."
+    },
+    {
+      "player_id": "7593",
+      "source_id": "4241401",
+      "player_name": "Trey Sermon",
+      "position": "RB",
+      "team_abbr": "ATL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Falcons placed Sermon (undisclosed) on injured reserve Wednesday, Tori McElhaney of the team's official site reports."
     },
     {
       "player_id": "13302",
@@ -146,9 +107,22 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "5096",
+      "source_id": "3728262",
+      "player_name": "Ray-Ray McCloud III",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_comment": "McCloud (undisclosed) was placed on injured reserve by the Bears on Sunday."
     },
     {
       "player_id": "12486",
@@ -200,7 +174,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Rogers (knee) reverted to the Cowboys' injured reserve list Monday, Joe Hoyt of The Dallas Morning News reports."
+      "injury_comment": "Rogers (knee) reverted to the Cowboys' injured-reserve list Monday, Joe Hoyt of The Dallas Morning News reports."
     },
     {
       "player_id": "12735",
@@ -307,6 +281,19 @@
       "injury_comment": "Mallory (thumb) was placed on injured reserve by the Colts on Sunday with a designation to return, JJ Stankevitz of the team's official website reports."
     },
     {
+      "player_id": "6453",
+      "source_id": "4249030",
+      "player_name": "D.J. Montgomery",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Montgomery (abdomen) was placed on injured reserve by the Colts on Sunday, JJ Stankevitz of the team's official website reports."
+    },
+    {
       "player_id": "12829",
       "source_id": "4578436",
       "player_name": "Coleman Owen",
@@ -343,7 +330,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_comment": "Bradley (thumb) reverted to Jacksonville's injured reserve Monday, per the NFL's transaction log."
     },
     {
       "player_id": "13392",
@@ -385,32 +372,6 @@
       "injury_comment": "Holiday (undisclosed) was placed on injured reserve by the Chiefs on Sunday."
     },
     {
-      "player_id": "8413",
-      "source_id": "4044111",
-      "player_name": "Chris Oladokun",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13778",
-      "source_id": "4430825",
-      "player_name": "EJ Smith",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Chiefs waived/injured Smith (undisclosed) on Sunday."
-    },
-    {
       "player_id": "12541",
       "source_id": "4432775",
       "player_name": "Dont'e Thornton Jr.",
@@ -420,8 +381,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Thornton (undisclosed) didn't practice Monday, Sam Warren of The Athletic reports."
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Raiders placed Thornton (undisclosed) on injured reserve Monday."
     },
     {
       "player_id": "11963",
@@ -435,6 +396,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Collier (undisclosed) reverted to injured reserve with the Raiders on Sunday, Sam Warren of The Athletic reports."
+    },
+    {
+      "player_id": "13410",
+      "source_id": "4714388",
+      "player_name": "Chase Roberts",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Roberts (undisclosed) reverted to the Raiders' IR on Monday, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "13898",
@@ -502,6 +476,32 @@
       "injury_comment": "Turner (undisclosed) reverted to the Dolphins' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
+      "player_id": "12946",
+      "source_id": "4565297",
+      "player_name": "Dontae Fleming",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Fleming (undisclosed) reverted to the Vikings' injured reserve list Monday, per the NFL's transaction log."
+    },
+    {
+      "player_id": "7599",
+      "source_id": "4374033",
+      "player_name": "Jermar Jefferson",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Jefferson (undisclosed) reverted to the Vikings' injured reserve Monday, per the NFL's transaction log."
+    },
+    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
@@ -526,19 +526,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13964",
-      "source_id": "4676889",
-      "player_name": "Myles Montgomery",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
     },
     {
       "player_id": "13124",
@@ -632,6 +619,45 @@
       "injury_comment": null
     },
     {
+      "player_id": "13839",
+      "source_id": "4695223",
+      "player_name": "Chase Curtis",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Curtis (knee) reverted to the Jets' injured-reserve list Monday, according to the NFL's official transaction log."
+    },
+    {
+      "player_id": "14069",
+      "source_id": "4893748",
+      "player_name": "Connor Hulstein",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Hulstein (undisclosed) reverted to the Jets' injured-reserve list Monday, per the NFL's official transaction log."
+    },
+    {
+      "player_id": "13725",
+      "source_id": "4430689",
+      "player_name": "Dominic Richardson",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Richardson (undisclosed) reverted to the Jets' injured-reserve list Monday, according to the NFL's official transaction log."
+    },
+    {
       "player_id": "8177",
       "source_id": "4241374",
       "player_name": "Grant Calcaterra",
@@ -643,6 +669,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
       "injury_comment": "Calcaterra (back) was placed on injured reserve by the Eagles on Sunday with a designation to return."
+    },
+    {
+      "player_id": "12479",
+      "source_id": "4690972",
+      "player_name": "Ja'Quinden Jackson",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Jackson (undisclosed) reverted from waivers to Philadelphia's injured reserve list Tuesday, per the NFL's transaction log."
     },
     {
       "player_id": "11636",
@@ -775,19 +814,6 @@
       "injury_detail": "Suspension",
       "est_return_date": "2026-10-04",
       "injury_comment": "The NFL suspended Jones three games Tuesday for violating the league's substance-abuse policy, Mike Garafolo of NFL Network reports."
-    },
-    {
-      "player_id": "14034",
-      "source_id": "4877738",
-      "player_name": "Brock Rechsteiner",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "news",
-      "injury_designation": "Suspension",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     }
   ]
 }
