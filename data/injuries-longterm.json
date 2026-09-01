@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T18:59:32.336Z",
+  "lastUpdated": "2026-09-01T22:11:18.793Z",
   "week": 1,
   "summary": {
-    "total_players": 707,
-    "ir": 61,
+    "total_players": 712,
+    "ir": 62,
     "suspended": 1
   },
   "ir": [
@@ -201,6 +201,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8205",
+      "source_id": "4361529",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Lions placed Pacheco (back) on injured reserve Tuesday."
     },
     {
       "player_id": "12482",
