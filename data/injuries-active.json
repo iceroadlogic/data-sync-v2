@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-01T11:28:06.232Z",
+  "lastUpdated": "2026-09-01T17:45:59.651Z",
   "week": 1,
   "summary": {
-    "total_players": 703,
+    "total_players": 705,
     "questionable": 72,
     "doubtful": 0,
     "out": 8
@@ -30,9 +30,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Lower Body",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Flowers isn't practicing Wednesday for the second consecutive day while he tends to an apparent undisclosed injury, Cordell Woodland of 105.7 The Fan Baltimore reports."
+      "injury_comment": "Flowers, who is recovering from a lower-body injury, is expected to return to full practice next week and be available for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "11637",
@@ -74,6 +74,19 @@
       "injury_comment": "Shakir (undisclosed) isn't in uniform for Thursday's preseason contest against the Steelers, Alex Brasky of SI.com reports."
     },
     {
+      "player_id": "11583",
+      "source_id": "4678008",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "General Soreness",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Coach Dave Canales said Brooks missed practice Tuesday due to general soreness, Sheena Quick of Fox Sports Radio 1340 reports."
+    },
+    {
       "player_id": "7594",
       "source_id": "4241416",
       "player_name": "Chuba Hubbard",
@@ -84,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Hubbard (hamstring) remains on track for Week 1, according to Steve Reed of the Associated Press."
+      "injury_comment": "Hubbard (hamstring) returned to practice Tuesday, Joe Person of The Athletic  reports."
     },
     {
       "player_id": "13415",
@@ -150,6 +163,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
       "injury_comment": "Chase (knee) is not participating in Wednesday's practice, Ben Baby of ESPN.com reports."
+    },
+    {
+      "player_id": "6801",
+      "source_id": "4239993",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12503",
@@ -253,7 +279,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Downs is not practicing Wednesday due to a calf injury, Mike Chappell of Fox 59 News Indianapolis reports."
+      "injury_comment": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports."
     },
     {
       "player_id": "8142",
@@ -279,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports  reports."
+      "injury_comment": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "6964",
@@ -370,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are \"counting on him\" to be available, Levi Edwards of the Raiders' official website reports."
+      "injury_comment": "Jeanty (ankle) is working off to the side during Tuesday's practice, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "12509",
@@ -565,7 +591,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports."
+      "injury_comment": "Nabers (knee) was non-committal Monday when asked about his chances of playing in the Giants' Sept. 13 season opener versus the Cowboys,  Jordan Raanan of ESPN.com reports. \"I feel pretty good,\" Nabers said. \"Like I said, you're going to feel good but there's still some things that you're going to have to check off the box for you to participate. So I'm still going through that, still listening to the trainer, still listening to doctors and sharing everything with them.\""
     },
     {
       "player_id": "11655",
@@ -618,19 +644,6 @@
       "injury_detail": "Abdomen",
       "est_return_date": "2026-09-13",
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
-    },
-    {
-      "player_id": "13826",
-      "source_id": "4430185",
-      "player_name": "Caullin Lacy",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "13349",
@@ -721,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Evans' groin injury is considered minor, and he plans to be ready for the 49ers' Week 1 regular-season opener against the Rams on Thursday, Sept. 10, Jeremy Fowler of ESPN reports."
+      "injury_comment": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports."
     },
     {
       "player_id": "4217",
@@ -734,7 +747,7 @@
       "injury_description": null,
       "injury_detail": "Achilles",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports."
+      "injury_comment": "Kittle (Achilles) participated in practice Monday and plans to do so again Tuesday, David Lombardi of the San Francisco Standard reports."
     },
     {
       "player_id": "4034",
@@ -745,9 +758,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "McCaffrey (undisclosed) said Sunday that he always planned to take a break during training camp and then \"ramp back up,\" Vic Tafur of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12477",
@@ -825,7 +838,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Egbuka (toe), per head coach Todd Bowles, will \"hopefully\" be ready for Week 1, Greg Auman of Fox Sports reports."
+      "injury_comment": "Egbuka (toe) is not practicing Tuesday, per Pewter Report."
     },
     {
       "player_id": "11618",
@@ -838,7 +851,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Head coach Todd Bowles said Saturday that he expects McMillan (knee) to be available for the Buccaneers' Week 1 clash against the Bengals on Sunday, Sept. 13, Greg Auman of Fox Sports reports."
+      "injury_comment": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports."
     },
     {
       "player_id": "8126",
@@ -867,19 +880,6 @@
       "injury_comment": "Trubisky (biceps) did not participate in Wednesday's practice, Terry McCormick of TitanInsider.com reports."
     },
     {
-      "player_id": "12516",
-      "source_id": "4429121",
-      "player_name": "Kalel Mullings",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "practice-squad",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-08-29",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "7716",
       "source_id": "4048228",
       "player_name": "John Bates",
@@ -903,7 +903,7 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Croskey-Merritt (lower body) is expected to return to practice next week, John Keim of ESPN reports."
+      "injury_comment": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "2307",
@@ -982,9 +982,9 @@
       "injury_status": "news",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Groin",
+      "injury_detail": "Personal",
       "est_return_date": "2026-09-27",
-      "injury_comment": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports."
+      "injury_comment": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "9481",
@@ -997,7 +997,7 @@
       "injury_description": null,
       "injury_detail": "Neck",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Musgrave (neck) was moved to the reserve/PUP list Sunday, Wes Hodkiewicz of the Packers' official website reports."
+      "injury_comment": "Packers general manager Brian Gutekunst said Tuesday that he's \"really hopeful\" Musgrave (neck) will be able to play at some point during the 2026 season, Ryan Wood of USA Today reports."
     },
     {
       "player_id": "11895",
