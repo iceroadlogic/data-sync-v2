@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-08-31T19:54:29.058Z",
+  "lastUpdated": "2026-09-01T00:09:19.968Z",
   "week": 1,
   "summary": {
-    "total_players": 591,
-    "questionable": 87,
+    "total_players": 666,
+    "questionable": 79,
     "doubtful": 0,
-    "out": 9
+    "out": 8
   },
   "questionable": [
-    {
-      "player_id": "13287",
-      "source_id": "4870808",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman, he was able to work out prior to the game."
-    },
     {
       "player_id": "11559",
       "source_id": "4360423",
@@ -178,19 +165,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "13355",
-      "source_id": "4710711",
-      "player_name": "DJ Rogers",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "9494",
       "source_id": "4686472",
       "player_name": "Marvin Mims Jr.",
@@ -201,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-09-14",
-      "injury_comment": "Head coach Sean Payton told reporters that Mims bruised his foot during the Broncos' 34-6 preseason win over the Vikings on Friday, Chris Tomasson of The Denver Gazette reports."
+      "injury_comment": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports."
     },
     {
       "player_id": "10859",
@@ -243,19 +217,6 @@
       "injury_comment": "Kraft (knee) is expected to be \"full go\" for the Packers' Week 1 regular-season opener against the Vikings, Rob Demovsky of ESPN.com reports."
     },
     {
-      "player_id": "12113",
-      "source_id": "4361027",
-      "player_name": "Thomas Yassmin",
-      "position": "TE",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "12171",
       "source_id": "4373273",
       "player_name": "British Brooks",
@@ -277,9 +238,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "With Jayden Higgins having reportedly suffered a torn ACL, Noel (hamstring/finger) is a candidate to see added work in Houston's offense this coming season, DJ Bien-Aime of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9500",
@@ -373,19 +334,6 @@
       "injury_comment": "Thomas (shoulder) was present on the field for Wednesday's joint practice with the Buccaneers while sporting a no-contact jersey, John Shipley of SI.com reports."
     },
     {
-      "player_id": "11851",
-      "source_id": "4362260",
-      "player_name": "Carter Bradley",
-      "position": "QB",
-      "team_abbr": "JAX",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "4046",
       "source_id": "3139477",
       "player_name": "Patrick Mahomes",
@@ -412,32 +360,6 @@
       "injury_comment": "Walker is experiencing swelling around his ankle but is expected to \"be fine,\" Sam McDowell of The Kansas City Star reports."
     },
     {
-      "player_id": "8413",
-      "source_id": "4044111",
-      "player_name": "Chris Oladokun",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13778",
-      "source_id": "4430825",
-      "player_name": "EJ Smith",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Chiefs waived/injured Smith (undisclosed) on Sunday."
-    },
-    {
       "player_id": "12527",
       "source_id": "4890973",
       "player_name": "Ashton Jeanty",
@@ -449,32 +371,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
       "injury_comment": "Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are \"counting on him\" to be available, Levi Edwards of the Raiders' official website reports."
-    },
-    {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Thornton (undisclosed) didn't practice Monday, Sam Warren of The Athletic reports."
-    },
-    {
-      "player_id": "13410",
-      "source_id": "4714388",
-      "player_name": "Chase Roberts",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12509",
@@ -500,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Mitchell (undisclosed) did not play in Thursday's 20-18 preseason loss to the Rams."
+      "injury_comment": "Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "13380",
@@ -578,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Nacua (groin) is practicing Sunday, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports."
     },
     {
       "player_id": "12495",
@@ -612,7 +508,7 @@
       "player_name": "Ben Sims",
       "position": "TE",
       "team_abbr": "MIA",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Undisclosed",
@@ -708,7 +604,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Johnson missed Wednesday's practice due to a shoulder injury, Evan Barnes of Newsday reports."
+      "injury_comment": "Johnson (shoulder) is participating in Monday's practice in a non-contact jersey, Pat Leonard of the New York Daily News reports."
     },
     {
       "player_id": "11632",
@@ -721,7 +617,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Nabers (knee) isn't suited up for Friday's preseason game versus the Jets, Pat Leonard of the New York Daily News reports."
+      "injury_comment": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports."
     },
     {
       "player_id": "11655",
@@ -838,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Howard (head) is being evaluated for a potential concussion after Thursday's preseason finale against the Bills, Alan Saunders of SteelersNow.com reports."
+      "injury_comment": "Howard suffered a concussion during Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "5846",
@@ -877,7 +773,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Skowronek suffered a concussion in last Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "11616",
@@ -916,7 +812,7 @@
       "injury_description": null,
       "injury_detail": "Achilles",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Kittle (Achilles) is expected to practice this week as he continues his push to play in the 49ers' season opener against the Rams in Australia, Adam Schefter of ESPN reports."
+      "injury_comment": "Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "4034",
@@ -1072,7 +968,7 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Croskey-Merritt (lower body) won't suit up for Friday's preseason game at Baltimore."
+      "injury_comment": "Croskey-Merritt (lower body) is expected to return to practice next week, John Keim of ESPN reports."
     },
     {
       "player_id": "2307",
@@ -1085,7 +981,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Mariota (knee) returned to practice Monday, JP Finlay of NBC Sports Washington reports."
     },
     {
       "player_id": "11596",
@@ -1142,19 +1038,6 @@
   ],
   "doubtful": [],
   "out": [
-    {
-      "player_id": "11716",
-      "source_id": "4696700",
-      "player_name": "Tip Reiman",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "The Cardinals moved Reiman (ankle) from the active/PUP list to the reserve/PUP list Sunday, Darren Urban of the team's official site reports."
-    },
     {
       "player_id": "11377",
       "source_id": "4241476",
