@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T00:09:19.968Z",
+  "lastUpdated": "2026-09-01T01:10:25.552Z",
   "week": 1,
   "summary": {
-    "total_players": 666,
-    "questionable": 79,
+    "total_players": 710,
+    "questionable": 80,
     "doubtful": 0,
     "out": 8
   },
@@ -511,9 +511,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11565",
@@ -943,6 +943,19 @@
       "injury_detail": "Biceps",
       "est_return_date": "2026-09-13",
       "injury_comment": "Trubisky (biceps) did not participate in Wednesday's practice, Terry McCormick of TitanInsider.com reports."
+    },
+    {
+      "player_id": "12516",
+      "source_id": "4429121",
+      "player_name": "Kalel Mullings",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "practice-squad",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-08-29",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "7716",
