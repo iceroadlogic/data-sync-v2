@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T01:44:11.851Z",
+  "lastUpdated": "2026-09-01T11:28:06.232Z",
   "week": 1,
   "summary": {
-    "total_players": 710,
-    "questionable": 80,
+    "total_players": 703,
+    "questionable": 72,
     "doubtful": 0,
     "out": 8
   },
@@ -412,32 +412,6 @@
       "injury_comment": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports."
     },
     {
-      "player_id": "13604",
-      "source_id": "4568687",
-      "player_name": "Sincere Brown",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13202",
-      "source_id": "4569372",
-      "player_name": "Dalevon Campbell",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "10214",
       "source_id": "4426553",
       "player_name": "Davis Allen",
@@ -527,32 +501,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
       "injury_comment": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports."
-    },
-    {
-      "player_id": "12946",
-      "source_id": "4565297",
-      "player_name": "Dontae Fleming",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "12941",
-      "source_id": "4602969",
-      "player_name": "Bryson Nesbit",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12529",
@@ -672,36 +620,10 @@
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
     },
     {
-      "player_id": "13839",
-      "source_id": "4695223",
-      "player_name": "Chase Curtis",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "13826",
       "source_id": "4430185",
       "player_name": "Caullin Lacy",
       "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13725",
-      "source_id": "4430689",
-      "player_name": "Dominic Richardson",
-      "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
@@ -773,7 +695,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Skowronek suffered a concussion in last Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "Skowronek suffered a concussion in Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "11616",
@@ -1021,32 +943,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "White (hamstring) isn't suited up for Friday's preseason game in Baltimore."
-    },
-    {
-      "player_id": "13120",
-      "source_id": "5083297",
-      "player_name": "Jacoby Jones",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13870",
-      "source_id": "4875350",
-      "player_name": "Quentin Moore",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     }
   ],
   "doubtful": [],
