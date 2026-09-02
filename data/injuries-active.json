@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T17:50:07.537Z",
+  "lastUpdated": "2026-09-02T23:57:36.950Z",
   "week": 1,
   "summary": {
-    "total_players": 730,
-    "questionable": 72,
+    "total_players": 738,
+    "questionable": 74,
     "doubtful": 0,
     "out": 8
   },
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Shakir (undisclosed) remains sidelined at Tuesday's practice, Joe Buscaglia of The Athletic reports."
+      "injury_comment": "Per Matt Zenitz of CBSSports.com, \"there's currently optimism\" that Shakir (undisclosed) will be available Week 1 against the Texans on Sunday, Sept. 13"
     },
     {
       "player_id": "11583",
@@ -149,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Ben Johnson said Tuesday that Monangai is \"week-to-week\" due to the right knee injury that he sustained in practice back on Sunday, Aug. 16, Chris Emma of 670TheScore.com reports."
+      "injury_comment": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports."
     },
     {
       "player_id": "7564",
@@ -162,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Zac Taylor said Tuesday that Chase (knee) will be a limited participant in practice this week, and he \"feels good about\" where the wide receiver stands, Ben Baby of ESPN.com reports."
+      "injury_comment": "Chase (knee) was present at Wednesday's practice but not suited up, Gabi Sorrentino of Fox 19 Cincinnati reports."
     },
     {
       "player_id": "6801",
@@ -175,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Higgins is tending to a heel contusion, but coach Zac Taylor said Tuesday that it isn't considered to be a major concern ahead of Week 1, Ben Baby of ESPN.com reports."
+      "injury_comment": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports."
     },
     {
       "player_id": "12503",
@@ -477,19 +477,6 @@
       "injury_comment": "Kacmarek (undisclosed) is considered week-to-week as of Saturday, Barry Jackson of the Miami Herald reports."
     },
     {
-      "player_id": "11565",
-      "source_id": "4433970",
-      "player_name": "J.J. McCarthy",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports."
-    },
-    {
       "player_id": "12529",
       "source_id": "4432710",
       "player_name": "TreVeyon Henderson",
@@ -501,6 +488,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
       "injury_comment": "Henderson continues to rehab a right ankle injury and hasn't been cleared for full participation in practice, Mike Reiss of ESPN.com reports."
+    },
+    {
+      "player_id": "13967",
+      "source_id": "4832914",
+      "player_name": "Jimmy Kibble",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13319",
@@ -565,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Nabers (knee) was not spotted at the portion of Tuesday's practice open to the media, but he later took the field in uniform, according to Connor Hughes of SNY.tv."
+      "injury_comment": "Coach John Harbaugh said Nabers (knee) participated in individual and team drills at Wednesday's practice, Connor Hughes of SNY.tv reports."
     },
     {
       "player_id": "11655",
@@ -591,7 +591,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Davis (knee) worked out on a side field with a trainer during Tuesday's practice, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Davis (knee) did not participate in Wednesday's practice, Zack Rosenblatt of The Athletic reports."
     },
     {
       "player_id": "8155",
@@ -620,6 +620,19 @@
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
     },
     {
+      "player_id": "13839",
+      "source_id": "4695223",
+      "player_name": "Chase Curtis",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "13349",
       "source_id": "4431574",
       "player_name": "Eli Stowers",
@@ -631,6 +644,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
+    },
+    {
+      "player_id": "12479",
+      "source_id": "4690972",
+      "player_name": "Ja'Quinden Jackson",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12511",
@@ -708,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
-      "injury_comment": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports."
+      "injury_comment": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "4217",
