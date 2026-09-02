@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T19:05:11.741Z",
+  "lastUpdated": "2026-09-02T22:08:38.443Z",
   "week": 1,
   "summary": {
-    "total_players": 730,
-    "ir": 64,
+    "total_players": 738,
+    "ir": 61,
     "suspended": 1
   },
   "ir": [
@@ -554,19 +554,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13967",
-      "source_id": "4832914",
-      "player_name": "Jimmy Kibble",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "13124",
       "source_id": "4572655",
       "player_name": "Jeremiah Webb",
@@ -658,19 +645,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13839",
-      "source_id": "4695223",
-      "player_name": "Chase Curtis",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Curtis (knee) reverted to the Jets' injured-reserve list Monday, according to the NFL's official transaction log."
-    },
-    {
       "player_id": "14069",
       "source_id": "4893748",
       "player_name": "Connor Hulstein",
@@ -708,19 +682,6 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
       "injury_comment": "Calcaterra (back) was placed on injured reserve by the Eagles on Sunday with a designation to return."
-    },
-    {
-      "player_id": "12479",
-      "source_id": "4690972",
-      "player_name": "Ja'Quinden Jackson",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Jackson (undisclosed) reverted from waivers to Philadelphia's injured reserve list Tuesday, per the NFL's transaction log."
     },
     {
       "player_id": "11636",
