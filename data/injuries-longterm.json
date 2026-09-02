@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T22:11:18.793Z",
+  "lastUpdated": "2026-09-02T15:36:15.981Z",
   "week": 1,
   "summary": {
-    "total_players": 712,
-    "ir": 62,
+    "total_players": 730,
+    "ir": 64,
     "suspended": 1
   },
   "ir": [
@@ -112,6 +112,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13712",
+      "source_id": "5150662",
+      "player_name": "Hayden Large",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Bears placed Large (undisclosed) on injured reserve Tuesday."
+    },
+    {
       "player_id": "5096",
       "source_id": "3728262",
       "player_name": "Ray-Ray McCloud III",
@@ -213,7 +226,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Lions placed Pacheco (back) on injured reserve Tuesday."
+      "injury_comment": "Lions GM Brad Holmes said Wednesday that Pacheco (back) doesn't have a clear timetable for return, Colton Pouncy of The Athletic reports."
     },
     {
       "player_id": "12482",
@@ -385,19 +398,6 @@
       "injury_comment": "Holiday (undisclosed) was placed on injured reserve by the Chiefs on Sunday."
     },
     {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "The Raiders placed Thornton (undisclosed) on injured reserve Monday."
-    },
-    {
       "player_id": "11963",
       "source_id": "4698191",
       "player_name": "Chris Collier",
@@ -463,6 +463,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Raiders placed Thornton (undisclosed) on injured reserve Monday."
+    },
+    {
       "player_id": "13597",
       "source_id": "4877717",
       "player_name": "Matthew Caldwell",
@@ -474,6 +487,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "The Rams placed Caldwell (undisclosed) on injured reserve Saturday, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
+      "player_id": "11082",
+      "source_id": "4373030",
+      "player_name": "Ben Sims",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Sims (undisclosed) reverted to the Dolphins' injured reserve Tuesday, per the NFL's transaction log."
     },
     {
       "player_id": "8214",
@@ -499,7 +525,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Fleming (undisclosed) reverted to the Vikings' injured reserve list Monday, per the NFL's transaction log."
+      "injury_comment": "Fleming (undisclosed) reverted to the Vikings' injured-reserve list Monday, per the NFL's transaction log."
     },
     {
       "player_id": "7599",
