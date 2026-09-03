@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T17:45:19.954Z",
+  "lastUpdated": "2026-09-03T23:02:36.857Z",
   "week": 1,
   "summary": {
     "total_players": 735,
-    "questionable": 73,
+    "questionable": 75,
     "doubtful": 0,
     "out": 8
   },
@@ -152,6 +152,32 @@
       "injury_comment": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports."
     },
     {
+      "player_id": "11620",
+      "source_id": "4431299",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Odunze sustained an apparent right leg injury during Thursday's practice session, Sean Hammond of the Chicago Tribune reports."
+    },
+    {
+      "player_id": "6790",
+      "source_id": "4259545",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Swift left Thursday's practice with an apparent injury and \"appeared to be in significant discomfort,\" Dan Wiederer of the Chicago Tribune reports."
+    },
+    {
       "player_id": "7564",
       "source_id": "4362628",
       "player_name": "Ja'Marr Chase",
@@ -227,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Kraft (knee) is expected to be \"full go\" for the Packers' Week 1 regular-season opener against the Vikings, Rob Demovsky of ESPN.com reports."
+      "injury_comment": "Kraft (knee) appeared to be running without any limitations during Wednesday's practice, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "12171",
@@ -267,19 +293,6 @@
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
       "injury_comment": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports."
-    },
-    {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Colts GM Chris Ballard said Tuesday the \"hope\" is Pierce (ankle) will play in Week 1 against the Ravens."
     },
     {
       "player_id": "12518",
@@ -396,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Mitchell (undisclosed) remained a non-participant in Thursday's practice, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "13380",
@@ -477,6 +490,19 @@
       "injury_comment": "Kacmarek (undisclosed) is considered week-to-week as of Saturday, Barry Jackson of the Miami Herald reports."
     },
     {
+      "player_id": "12946",
+      "source_id": "4565297",
+      "player_name": "Dontae Fleming",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "12529",
       "source_id": "4432710",
       "player_name": "TreVeyon Henderson",
@@ -487,7 +513,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson continues to rehab a right ankle injury and hasn't been cleared for full participation in practice, Mike Reiss of ESPN.com reports."
+      "injury_comment": "Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports."
     },
     {
       "player_id": "13967",
@@ -524,9 +550,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Kamara (knee) remained sidelined at Thursday's practice, Mike Triplett of NewOrleans.Football reports."
     },
     {
       "player_id": "9757",
@@ -540,6 +566,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
       "injury_comment": "Miller is believed to have sustained only a minor injury at Tuesday's practice, Nick Underhill of NewOrleans.Football reports."
+    },
+    {
+      "player_id": "12476",
+      "source_id": "4682652",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11597",
@@ -604,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports."
+      "injury_comment": "Hall (groin) is expected to be ready for Week 1 against the Titans on Sunday, Sept. 13, Jack Bell of the Jets' official site reports."
     },
     {
       "player_id": "13330",
@@ -620,10 +659,10 @@
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
     },
     {
-      "player_id": "14069",
-      "source_id": "4893748",
-      "player_name": "Connor Hulstein",
-      "position": "TE",
+      "player_id": "13725",
+      "source_id": "4430689",
+      "player_name": "Dominic Richardson",
+      "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
@@ -644,19 +683,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
-    },
-    {
-      "player_id": "12511",
-      "source_id": "4429955",
-      "player_name": "Will Howard",
-      "position": "QB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Howard suffered a concussion during Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "5846",
