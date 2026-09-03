@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-03T19:09:20.460Z",
+  "lastUpdated": "2026-09-03T23:12:16.668Z",
   "games": [
     {
       "game_id": "401872656",
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "7 mph SW",
-        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "20%"
+        "temp": 91,
+        "wind": "7 to 10 mph W",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "25%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "5 mph SSW",
-        "conditions": "Mostly Clear",
-        "precipitation": "8%"
+        "temp": 96,
+        "wind": "5 to 10 mph SW",
+        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "15%"
       }
     },
     {
@@ -77,9 +77,9 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "12 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
+        "temp": 84,
+        "wind": "10 to 16 mph SW",
+        "conditions": "Chance Rain Showers",
         "precipitation": "47%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 mph SSW",
-        "conditions": "Mostly Clear",
-        "precipitation": "2%"
+        "temp": 95,
+        "wind": "5 to 8 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "2 to 12 mph E",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "50%"
+        "temp": 89,
+        "wind": "2 to 9 mph NE",
+        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
+        "precipitation": "30%"
       }
     },
     {
@@ -140,7 +140,7 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
+        "temp": 86,
         "wind": "5 to 10 mph SW",
         "conditions": "Slight Chance Rain Showers",
         "precipitation": "17%"
@@ -166,9 +166,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "10 mph SW",
-        "conditions": "Slight Chance Rain Showers",
+        "temp": 84,
+        "wind": "9 to 15 mph SW",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
         "precipitation": "21%"
       }
     },
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "10 mph SSW",
-        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "temp": 93,
+        "wind": "10 mph WSW",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "23%"
       }
     }
   ]
