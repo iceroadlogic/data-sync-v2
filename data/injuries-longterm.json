@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T18:58:42.857Z",
+  "lastUpdated": "2026-09-03T22:00:14.520Z",
   "week": 1,
   "summary": {
     "total_players": 735,
-    "ir": 60,
+    "ir": 57,
     "suspended": 1
   },
   "ir": [
@@ -515,19 +515,6 @@
       "injury_comment": "Turner (undisclosed) reverted to the Dolphins' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
-      "player_id": "12946",
-      "source_id": "4565297",
-      "player_name": "Dontae Fleming",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Fleming (undisclosed) reverted to the Vikings' injured-reserve list Monday, per the NFL's transaction log."
-    },
-    {
       "player_id": "7599",
       "source_id": "4374033",
       "player_name": "Jermar Jefferson",
@@ -593,19 +580,6 @@
       "injury_comment": "The Saints placed Matavao (knee) on injured reserve Tuesday, Mike Triplett of NewOrleans.Football reports."
     },
     {
-      "player_id": "12476",
-      "source_id": "4682652",
-      "player_name": "Devin Neal",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Saints placed Neal (hamstring) on injured reserve Sunday, Nick Underhill of NewOrleans.Football reports."
-    },
-    {
       "player_id": "13281",
       "source_id": "4880281",
       "player_name": "Jordyn Tyson",
@@ -643,19 +617,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13725",
-      "source_id": "4430689",
-      "player_name": "Dominic Richardson",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Richardson (undisclosed) reverted to the Jets' injured-reserve list Monday, according to the NFL's official transaction log."
     },
     {
       "player_id": "8177",
