@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T22:08:38.443Z",
+  "lastUpdated": "2026-09-03T15:28:08.319Z",
   "week": 1,
   "summary": {
-    "total_players": 738,
-    "ir": 61,
+    "total_players": 735,
+    "ir": 60,
     "suspended": 1
   },
   "ir": [
@@ -645,19 +645,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "14069",
-      "source_id": "4893748",
-      "player_name": "Connor Hulstein",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Hulstein (undisclosed) reverted to the Jets' injured-reserve list Monday, per the NFL's official transaction log."
-    },
-    {
       "player_id": "13725",
       "source_id": "4430689",
       "player_name": "Dominic Richardson",
@@ -705,9 +692,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4950",
