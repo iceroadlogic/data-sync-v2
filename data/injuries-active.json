@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T23:57:36.950Z",
+  "lastUpdated": "2026-09-03T11:00:30.200Z",
   "week": 1,
   "summary": {
-    "total_players": 738,
-    "questionable": 74,
+    "total_players": 735,
+    "questionable": 72,
     "doubtful": 0,
     "out": 8
   },
@@ -162,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Chase (knee) was present at Wednesday's practice but not suited up, Gabi Sorrentino of Fox 19 Cincinnati reports."
+      "injury_comment": "Chase (knee) was present but not suited up at Wednesday's practice, Gabi Sorrentino of Fox 19 Cincinnati reports."
     },
     {
       "player_id": "6801",
@@ -498,9 +498,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13319",
@@ -620,19 +620,6 @@
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
     },
     {
-      "player_id": "13839",
-      "source_id": "4695223",
-      "player_name": "Chase Curtis",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "13349",
       "source_id": "4431574",
       "player_name": "Eli Stowers",
@@ -644,19 +631,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
-    },
-    {
-      "player_id": "12479",
-      "source_id": "4690972",
-      "player_name": "Ja'Quinden Jackson",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "12511",
@@ -784,9 +758,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10224",
