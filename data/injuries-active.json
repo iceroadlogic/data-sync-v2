@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T11:00:30.200Z",
+  "lastUpdated": "2026-09-03T17:45:19.954Z",
   "week": 1,
   "summary": {
     "total_players": 735,
-    "questionable": 72,
+    "questionable": 73,
     "doubtful": 0,
     "out": 8
   },
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Penix (knee) won't play in Friday's preseason game in Miami, but he believes he'll be available for a Week 1 road matchup with the Steelers on Sunday, Sept. 13, Tori McElhaney of the Falcons' official site reports."
+      "injury_comment": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports."
     },
     {
       "player_id": "9997",
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Flowers (lower body) did not participate in Wednesday's practice, but he did run sprints on the side, Jamison Hensley of ESPN.com reports."
+      "injury_comment": "Flowers (lower body) is practicing Thursday, Cordell Woodland of 105.7 The Fan Baltimore reports."
     },
     {
       "player_id": "11637",
@@ -524,9 +524,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee - MCL",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9757",
@@ -618,6 +618,19 @@
       "injury_detail": "Abdomen",
       "est_return_date": "2026-09-13",
       "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
+    },
+    {
+      "player_id": "14069",
+      "source_id": "4893748",
+      "player_name": "Connor Hulstein",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13349",
