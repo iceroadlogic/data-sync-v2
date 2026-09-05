@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-05T16:42:49.647Z",
+  "lastUpdated": "2026-09-05T23:43:06.707Z",
   "week": 1,
   "summary": {
     "total_players": 727,
-    "questionable": 71,
+    "questionable": 70,
     "doubtful": 0,
     "out": 8
   },
@@ -500,7 +500,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports."
+      "injury_comment": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports."
     },
     {
       "player_id": "13319",
@@ -732,9 +732,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-09-10",
+      "injury_comment": "Coach Kyle Shanahan said Tuesday that Rourke (ribs) has a chance to return to the field next week, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "13417",
@@ -748,19 +748,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-09-10",
       "injury_comment": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports."
-    },
-    {
-      "player_id": "10224",
-      "source_id": "4360290",
-      "player_name": "Brayden Willis",
-      "position": "TE",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Willis (concussion) participated in Tuesday's practice, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "12497",
