@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-06T16:45:38.329Z",
+  "lastUpdated": "2026-09-06T18:38:55.291Z",
   "games": [
     {
       "game_id": "401872656",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 76,
-        "wind": "3 to 7 mph N",
+        "wind": "6 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 88,
-        "wind": "5 to 10 mph S",
+        "wind": "0 to 10 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 mph SW",
-        "conditions": "Mostly Clear",
-        "precipitation": "13%"
+        "temp": 66,
+        "wind": "5 mph S",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "16%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "7 mph S",
+        "wind": "6 mph S",
         "conditions": "Slight Chance Rain Showers",
         "precipitation": "17%"
       }
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "1 to 5 mph SSW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "32%"
+        "wind": "3 mph S",
+        "conditions": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
+        "precipitation": "28%"
       }
     },
     {
@@ -105,8 +105,8 @@
       "weather": {
         "temp": 76,
         "wind": "2 to 7 mph S",
-        "conditions": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
-        "precipitation": "58%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "53%"
       }
     },
     {
@@ -154,8 +154,8 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "5 to 10 mph SSE",
-        "conditions": "Partly Cloudy",
+        "wind": "5 to 10 mph S",
+        "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
     },
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "wind": "3 to 8 mph S",
         "conditions": "Partly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "9%"
       }
     },
     {
@@ -180,9 +180,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "7 to 10 mph SSE",
+        "wind": "10 to 14 mph SE",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "29%"
+        "precipitation": "40%"
       }
     }
   ]
