@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-05T23:35:37.064Z",
+  "lastUpdated": "2026-09-06T16:45:38.329Z",
   "games": [
     {
       "game_id": "401872656",
@@ -22,10 +22,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "0 to 15 mph SW",
+        "temp": 88,
+        "wind": "5 to 10 mph S",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "1 to 5 mph S",
-        "conditions": "Sunny then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 65,
+        "wind": "5 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "13%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 93,
-        "wind": "0 to 5 mph SSE",
-        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "precipitation": "18%"
+        "temp": 69,
+        "wind": "5 mph S",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "31%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "2 to 8 mph S",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 63,
+        "wind": "7 mph S",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "17%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 89,
-        "wind": "5 mph E",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "18%"
+        "temp": 69,
+        "wind": "1 to 5 mph SSW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "32%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "5 to 8 mph S",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "50%"
+        "temp": 76,
+        "wind": "2 to 7 mph S",
+        "conditions": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
+        "precipitation": "58%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "0 to 5 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "8%"
+        "temp": 64,
+        "wind": "0 to 5 mph S",
+        "conditions": "Mostly Clear",
+        "precipitation": "7%"
       }
     },
     {
@@ -153,9 +153,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "5 to 15 mph S",
-        "conditions": "Mostly Clear",
+        "temp": 67,
+        "wind": "5 to 10 mph SSE",
+        "conditions": "Partly Cloudy",
         "precipitation": "1%"
       }
     },
@@ -166,9 +166,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "3 to 8 mph SW",
-        "conditions": "Sunny",
+        "temp": 63,
+        "wind": "3 to 8 mph S",
+        "conditions": "Partly Cloudy",
         "precipitation": "7%"
       }
     },
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 92,
-        "wind": "9 mph SSW",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "20%"
+        "temp": 68,
+        "wind": "7 to 10 mph SSE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "29%"
       }
     }
   ]
