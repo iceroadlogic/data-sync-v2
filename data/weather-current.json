@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-07T00:21:57.520Z",
+  "lastUpdated": "2026-09-07T15:32:34.419Z",
   "games": [
     {
       "game_id": "401872656",
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 88,
-        "wind": "0 to 10 mph S",
+        "wind": "0 to 10 mph SSW",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 89,
-        "wind": "2 to 8 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "27%"
+        "wind": "1 to 6 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "12%"
       }
     },
     {
@@ -57,9 +57,9 @@
       "is_dome": false,
       "weather": {
         "temp": 94,
-        "wind": "5 to 10 mph SSW",
-        "conditions": "Chance Rain Showers then Chance Showers And Thunderstorms",
-        "precipitation": "27%"
+        "wind": "0 to 5 mph SSW",
+        "conditions": "Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "15%"
       }
     },
     {
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "6 to 12 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "29%"
+        "wind": "5 to 10 mph SW",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "15%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "1 to 5 mph WSW",
-        "conditions": "Sunny",
-        "precipitation": "14%"
+        "wind": "1 to 5 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "2 to 7 mph S",
+        "wind": "2 to 6 mph S",
         "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "44%"
+        "precipitation": "50%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "0 to 10 mph S",
+        "temp": 86,
+        "wind": "0 to 5 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "13%"
+        "precipitation": "11%"
       }
     },
     {
@@ -153,10 +153,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "5 to 10 mph S",
-        "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "temp": 81,
+        "wind": "0 to 10 mph SSW",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "3 to 10 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "13%"
+        "temp": 66,
+        "wind": "6 to 10 mph SW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "12%"
       }
     },
     {
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "10 to 15 mph SSW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "35%"
+        "temp": 65,
+        "wind": "12 mph E",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "41%"
       }
     }
   ]
