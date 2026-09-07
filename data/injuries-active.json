@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-09-07T12:09:45.047Z",
+  "lastUpdated": "2026-09-07T18:40:25.459Z",
   "week": 1,
   "summary": {
     "total_players": 727,
-    "questionable": 69,
+    "questionable": 66,
     "doubtful": 0,
-    "out": 8
+    "out": 9
   },
   "questionable": [
-    {
-      "player_id": "11559",
-      "source_id": "4360423",
-      "player_name": "Michael Penix Jr.",
-      "position": "QB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports."
-    },
     {
       "player_id": "9997",
       "source_id": "4429615",
@@ -84,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "General Soreness",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Dave Canales said Wednesday he's \"very optimistic\" Brooks (soreness) will be available for Week 1 against the Bears, Sheena Quick of Fox Sports Radio 1340 reports."
+      "injury_comment": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "7594",
@@ -188,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Chase (knee) was present but not suited up at Wednesday's practice, Gabi Sorrentino of Fox 19 Cincinnati reports."
+      "injury_comment": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports."
     },
     {
       "player_id": "6801",
@@ -201,20 +188,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports."
-    },
-    {
-      "player_id": "12503",
-      "source_id": "4808839",
-      "player_name": "Isaiah Bond",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports."
     },
     {
       "player_id": "9494",
@@ -477,19 +451,6 @@
       "injury_comment": "Gordon (ribs) is practicing in a non-contact jersey Wednesday, Alain Poupart of SI.com reports."
     },
     {
-      "player_id": "13434",
-      "source_id": "4880236",
-      "player_name": "Will Kacmarek",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Kacmarek (undisclosed) is considered week-to-week as of Saturday, Barry Jackson of the Miami Herald reports."
-    },
-    {
       "player_id": "12529",
       "source_id": "4432710",
       "player_name": "TreVeyon Henderson",
@@ -500,7 +461,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com."
     },
     {
       "player_id": "13319",
@@ -695,7 +656,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "4217",
@@ -721,7 +682,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-10",
-      "injury_comment": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports."
+      "injury_comment": "McCaffrey (undisclosed) wasn't participating in drills in the early portion of the 49ers' practice early Monday in Australia, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "12477",
@@ -773,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Egbuka (toe) worked on a side field with trainers Wednesday and ran without any obvious issues from the injury, Rick Stroud of the Tampa Bay Times reports."
+      "injury_comment": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report."
     },
     {
       "player_id": "11618",
@@ -786,7 +747,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports."
+      "injury_comment": "McMillan (knee) was on the field running routes at Monday's practice, PewterReport.com reports."
     },
     {
       "player_id": "9506",
@@ -799,7 +760,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tucker (undisclosed) didn't practice Wednesday, Greg Auman of Fox Sports reports."
+      "injury_comment": "Coach Todd Bowles said Monday that Tucker (undisclosed) will likely be a game-time decision for Sunday's game against the Bengals, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "8126",
@@ -908,6 +869,19 @@
   ],
   "doubtful": [],
   "out": [
+    {
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports."
+    },
     {
       "player_id": "11377",
       "source_id": "4241476",
