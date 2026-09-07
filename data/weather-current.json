@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-07T19:38:08.544Z",
+  "lastUpdated": "2026-09-07T23:25:56.604Z",
   "games": [
     {
       "game_id": "401872656",
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "0 to 5 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "11%"
+        "temp": 84,
+        "wind": "0 to 5 mph S",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "27%"
       }
     },
     {
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "12 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "41%"
+        "temp": 86,
+        "wind": "13 mph SSW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "28%"
       }
     }
   ]
