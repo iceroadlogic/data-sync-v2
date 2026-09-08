@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-08T15:39:02.288Z",
+  "lastUpdated": "2026-09-08T19:08:22.826Z",
   "week": 1,
   "summary": {
-    "total_players": 702,
-    "ir": 50,
+    "total_players": 752,
+    "ir": 53,
     "suspended": 1
   },
   "ir": [
@@ -84,6 +84,45 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
       "injury_comment": "Etienne (ankle) was placed on injured reserve by the Panthers on Sunday with a designation to return, Darin Gantt of the team's official website reports."
+    },
+    {
+      "player_id": "8423",
+      "source_id": "4036032",
+      "player_name": "Brittain Brown",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Brown (undisclosed) was placed on injured reserve by the Bears on Sunday."
+    },
+    {
+      "player_id": "8107",
+      "source_id": "4916349",
+      "player_name": "Nikola Kalinic",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13712",
+      "source_id": "5150662",
+      "player_name": "Hayden Large",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Bears placed Large (undisclosed) on injured reserve Tuesday."
     },
     {
       "player_id": "12486",
