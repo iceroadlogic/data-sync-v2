@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-07T22:23:25.988Z",
+  "lastUpdated": "2026-09-08T15:39:02.288Z",
   "week": 1,
   "summary": {
-    "total_players": 703,
-    "ir": 52,
+    "total_players": 702,
+    "ir": 50,
     "suspended": 1
   },
   "ir": [
@@ -268,19 +268,6 @@
       "injury_comment": "Montgomery (abdomen) was placed on injured reserve by the Colts on Sunday, JJ Stankevitz of the team's official website reports."
     },
     {
-      "player_id": "12829",
-      "source_id": "4578436",
-      "player_name": "Coleman Owen",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Owen (concussion) was placed on injured reserve by the Colts on Sunday, JJ Stankevitz of the team's official website reports."
-    },
-    {
       "player_id": "13407",
       "source_id": "4702120",
       "player_name": "Carson Towt",
@@ -292,19 +279,6 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "ir"
-    },
-    {
-      "player_id": "11851",
-      "source_id": "4362260",
-      "player_name": "Carter Bradley",
-      "position": "QB",
-      "team_abbr": "JAX",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Bradley (thumb) reverted to Jacksonville's injured reserve Monday, per the NFL's transaction log."
     },
     {
       "player_id": "13392",
