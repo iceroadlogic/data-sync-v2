@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-08T17:51:41.839Z",
+  "lastUpdated": "2026-09-08T23:58:49.526Z",
   "week": 1,
   "summary": {
-    "total_players": 752,
-    "questionable": 67,
+    "total_players": 753,
+    "questionable": 60,
     "doubtful": 0,
-    "out": 9
+    "out": 10
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Ravens head coach Jesse Minter said Tuesday that Walker (undisclosed) is dealing with \"something minor\" but is uncertain to play in Sunday's season opener against the Colts, Jonas Shaffer of TheBaltimoreBanner.com reports."
     },
     {
       "player_id": "11637",
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coleman (right foot/toe) was present at Tuesday's practice, Joe Buscaglia of The Athletic reports."
+      "injury_comment": "Coleman (foot) is listed as one of three starting receivers on the Bills' unofficial depth chart for Sunday's season opener versus the Texans, Joe Buscaglia of The Athletic reports."
     },
     {
       "player_id": "6039",
@@ -149,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11620",
@@ -175,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "7564",
@@ -201,7 +201,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9494",
@@ -264,9 +264,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9500",
@@ -292,7 +292,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "6964",
@@ -344,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Illness",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tuten (illness) did not practice Wednesday, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "4046",
@@ -370,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Klint Kubiak expressed optimism Wednesday that Jeanty (ankle) will be ready for Week 1 against the Dolphins, Adam Hill of the Las Vegas Review-Journal reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12509",
@@ -383,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Harris (undisclosed) did not play in the Chargers' 20-18 preseason loss to the Rams on Thursday."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9511",
@@ -412,45 +412,6 @@
       "injury_comment": "Thompson (undisclosed) was a participant in Monday's practice, Alex Insdorf of BoltBeat.com reports."
     },
     {
-      "player_id": "10214",
-      "source_id": "4426553",
-      "player_name": "Davis Allen",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Allen (quadriceps) was a limited participant in Monday's training camp practice, Stu Jackson of the Rams' official site reports."
-    },
-    {
-      "player_id": "12487",
-      "source_id": "4570037",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "General Soreness",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Ferguson (soreness) was working off to the side at Tuesday's practice, Nate Atkins of The Athletic reports."
-    },
-    {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Rams head coach Sean McVay said Sunday that Nacua (core) is expected to play Thursday against the 49ers in Melbourne, Australia, Nate Atkins of The Athletic reports."
-    },
-    {
       "player_id": "12495",
       "source_id": "4711533",
       "player_name": "Ollie Gordon II",
@@ -461,20 +422,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "12529",
-      "source_id": "4432710",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson (ankle) was listed as a non-participant in Monday's practice, Mike Kadlick of Sports Illustrated reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13319",
@@ -565,7 +513,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Davis (knee) did not participate in Wednesday's practice, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Davis (knee) was spotted participating in drills with the Jets' other running backs during Tuesday's practice, Al Iannazzone of Newsday reports."
     },
     {
       "player_id": "8155",
@@ -578,7 +526,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports."
     },
     {
       "player_id": "13330",
@@ -604,7 +552,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Stowers (hamstring) may not be active on gamedays even if he returns to health before the start of the regular season, according to Jimmy Kempski of PhillyVoice."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "5846",
@@ -617,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Metcalf (undisclosed) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "6819",
@@ -630,7 +578,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Pittman (hamstring) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "7757",
@@ -643,7 +591,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Skowronek suffered a concussion in Thursday's 28-27 preseason loss to the Bills, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11616",
@@ -659,19 +607,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports."
-    },
-    {
       "player_id": "4217",
       "source_id": "3040151",
       "player_name": "George Kittle",
@@ -682,20 +617,7 @@
       "injury_description": null,
       "injury_detail": "Achilles",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports."
-    },
-    {
-      "player_id": "4034",
-      "source_id": "3117251",
-      "player_name": "Christian McCaffrey",
-      "position": "RB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Kittle (Achilles) was listed as a limited participant on Tuesday's injury report, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "12477",
@@ -708,20 +630,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-09-10",
-      "injury_comment": "Coach Kyle Shanahan said Tuesday that Rourke (ribs) has a chance to return to the field next week, Nick Wagoner of ESPN.com reports."
-    },
-    {
-      "player_id": "13417",
-      "source_id": "4710714",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "12497",
@@ -734,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports."
+      "injury_comment": "The Seahawks list Horton (hamstring) as questionable for Wednesday's season opener versus the Patriots, John Boyle of the team's official site reports."
     },
     {
       "player_id": "12514",
@@ -747,7 +656,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11618",
@@ -906,7 +815,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-10-12",
-      "injury_comment": "Shavers (knee) was moved to the reserve/PUP list by the Bills on Sunday."
+      "injury_comment": "out"
     },
     {
       "player_id": "13435",
@@ -946,6 +855,19 @@
       "injury_detail": "Neck",
       "est_return_date": "2026-10-11",
       "injury_comment": "Packers general manager Brian Gutekunst said Tuesday that he's \"really hopeful\" Musgrave (neck) will be able to play at some point during the 2026 season, Ryan Wood of USA Today reports."
+    },
+    {
+      "player_id": "12529",
+      "source_id": "4432710",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "The Patriots ruled out Henderson for Wednesday's season opener versus the Seahawks, Evan Lazar of the Patriots' official site reports."
     },
     {
       "player_id": "11895",
