@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-08T19:08:22.826Z",
+  "lastUpdated": "2026-09-08T22:10:04.310Z",
   "week": 1,
   "summary": {
-    "total_players": 752,
-    "ir": 53,
+    "total_players": 753,
+    "ir": 54,
     "suspended": 1
   },
   "ir": [
@@ -31,7 +31,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Falcons placed Sermon (undisclosed) on injured reserve Wednesday, Tori McElhaney of the team's official site reports."
+      "injury_comment": "ir"
     },
     {
       "player_id": "13302",
@@ -83,7 +83,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Etienne (ankle) was placed on injured reserve by the Panthers on Sunday with a designation to return, Darin Gantt of the team's official website reports."
+      "injury_comment": "ir"
     },
     {
       "player_id": "8423",
@@ -135,7 +135,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Coach Todd Monken said Monday that Gabriel's back injury is not considered serious, Zac Jackson of The Athletic reports."
+      "injury_comment": "ir"
     },
     {
       "player_id": "11633",
@@ -146,9 +146,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11508",
@@ -226,7 +226,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Packers general manager Brian Gutekunst said Tuesday that Williams is recovering from a high-ankle sprain and should be ready to return from injured reserve when first eligible Week 5, Matt Schneidman of The Athletic reports."
+      "injury_comment": "ir"
     },
     {
       "player_id": "12113",
@@ -263,9 +263,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
     },
     {
       "player_id": "12705",
@@ -421,7 +421,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Raiders placed Thornton (undisclosed) on injured reserve Monday."
+      "injury_comment": "ir"
     },
     {
       "player_id": "13597",
@@ -461,6 +461,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Turner (undisclosed) reverted to the Dolphins' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
+      "player_id": "13121",
+      "source_id": "4433959",
+      "player_name": "Ben Yurosek",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "ir"
     },
     {
       "player_id": "7599",
