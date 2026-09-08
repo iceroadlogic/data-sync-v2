@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-08T11:00:48.691Z",
+  "lastUpdated": "2026-09-08T17:51:41.839Z",
   "week": 1,
   "summary": {
-    "total_players": 702,
-    "questionable": 62,
+    "total_players": 752,
+    "questionable": 67,
     "doubtful": 0,
     "out": 9
   },
@@ -19,7 +19,20 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Flowers (lower body) is practicing Thursday, Cordell Woodland of 105.7 The Fan Baltimore reports."
+      "injury_comment": "Flowers (lower body) was on the field for practice Tuesday and appears to be participating fully, Sam Cohn of The Baltimore Sun reports."
+    },
+    {
+      "player_id": "11629",
+      "source_id": "4696882",
+      "player_name": "Devontez Walker",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11637",
@@ -111,6 +124,58 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-13",
       "injury_comment": "Legette (ankle) will remain in a walking boot on his foot until Thursday, Steve Reed of the Associated Press reports."
+    },
+    {
+      "player_id": "12519",
+      "source_id": "4685278",
+      "player_name": "Luther Burden III",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Coach Ben Johnson said Burden (groin) will participate in Tuesday's practice, Zack Pearson of BearReport reports."
+    },
+    {
+      "player_id": "12534",
+      "source_id": "4608686",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports."
+    },
+    {
+      "player_id": "11620",
+      "source_id": "4431299",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Head coach Ben Johnson said that Odunze (leg) won't practice Tuesday, but the wide receiver is considered \"more day-to-day,\" and the Bears remain hopeful that he'll play in Sunday's season opener versus the Panthers, Brad Biggs of the Chicago Tribune reports."
+    },
+    {
+      "player_id": "6790",
+      "source_id": "4259545",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports."
     },
     {
       "player_id": "7564",
@@ -292,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-14",
-      "injury_comment": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Chiefs head coach Andy Reid said Tuesday that Mahomes (knee) has a \"pretty good chance\" to start next Monday's season opener versus the Broncos, Sam McDowell of The Kansas City Star reports."
     },
     {
       "player_id": "12527",
@@ -409,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-09",
-      "injury_comment": "Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports."
+      "injury_comment": "Henderson (ankle) was listed as a non-participant in Monday's practice, Mike Kadlick of Sports Illustrated reports."
     },
     {
       "player_id": "13319",
@@ -513,7 +578,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Hall (groin) is expected to be ready for Week 1 against the Titans on Sunday, Sept. 13, Jack Bell of the Jets' official site reports."
+      "injury_comment": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports."
     },
     {
       "player_id": "13330",
@@ -526,7 +591,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports."
     },
     {
       "player_id": "13349",
@@ -828,7 +893,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports."
+      "injury_comment": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "11377",

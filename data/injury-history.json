@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T23:30:06.621Z",
+  "lastUpdated": "2026-09-08T17:51:41.839Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2705,6 +2705,11 @@
           "to": "IR",
           "detail": "Foot",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -7010,6 +7015,13 @@
           "date": "2026-03-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Abdomen",
+          "team": "IND"
         }
       ]
     },
@@ -7406,6 +7418,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Abdomen",
+          "team": "CHI"
         }
       ]
     },
@@ -7525,6 +7544,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Heel",
+          "team": "CIN"
         }
       ]
     },
@@ -9740,6 +9766,19 @@
         }
       ]
     },
+    "7593": {
+      "name": "Trey Sermon",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "ATL"
+        }
+      ]
+    },
     "7594": {
       "name": "Chuba Hubbard",
       "position": "RB",
@@ -9898,6 +9937,19 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "7599": {
+      "name": "Jermar Jefferson",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "MIN"
         }
       ]
     },
@@ -11866,6 +11918,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12216,6 +12273,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "KC"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13049,6 +13111,13 @@
           "to": "Questionable",
           "detail": "Knee - MCL",
           "team": "DET"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Back",
+          "team": "DET"
         }
       ]
     },
@@ -13659,6 +13728,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "KC"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -15418,6 +15492,19 @@
         }
       ]
     },
+    "9506": {
+      "name": "Sean Tucker",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TB"
+        }
+      ]
+    },
     "9508": {
       "name": "Tyjae Spears",
       "position": "RB",
@@ -15716,6 +15803,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NO"
         }
       ]
     },
@@ -16181,6 +16275,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "SF"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -17341,6 +17440,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "MIA"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "MIA"
         }
       ]
     },
@@ -18368,6 +18474,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18540,6 +18651,13 @@
           "date": "2026-02-12",
           "from": "IR",
           "to": "Questionable",
+          "team": "ATL"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee - ACL",
           "team": "ATL"
         }
       ]
@@ -18749,6 +18867,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19222,6 +19345,13 @@
           "date": "2026-04-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "General Soreness",
+          "team": "CAR"
         }
       ]
     },
@@ -19465,6 +19595,11 @@
           "to": "IR",
           "detail": "Knee",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -20096,6 +20231,13 @@
           "date": "2026-01-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Leg",
+          "team": "CHI"
         }
       ]
     },
@@ -20659,6 +20801,13 @@
           "date": "2025-12-08",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "BAL"
         }
       ]
     },
@@ -20802,6 +20951,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "JAX"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21765,6 +21919,11 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -22349,6 +22508,11 @@
           "to": "IR",
           "detail": "Thumb",
           "team": "JAX"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -22527,6 +22691,11 @@
           "to": "IR",
           "detail": "Concussion",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -23893,6 +24062,11 @@
           "to": "IR",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -24455,6 +24629,13 @@
           "date": "2025-12-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "JAX"
         }
       ]
     },
@@ -25137,6 +25318,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "CLE"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25716,6 +25902,11 @@
           "to": "Questionable",
           "detail": "Head",
           "team": "PIT"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27578,6 +27769,11 @@
           "to": "IR",
           "detail": "Concussion",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -27829,6 +28025,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27841,6 +28042,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28146,6 +28352,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28411,6 +28622,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28505,6 +28721,13 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
         }
       ]
     },
@@ -28550,6 +28773,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29034,6 +29262,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29242,6 +29475,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "MIA"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29323,6 +29561,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29343,6 +29586,19 @@
         }
       ]
     },
+    "13712": {
+      "name": "Hayden Large",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-08",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CHI"
+        }
+      ]
+    },
     "13725": {
       "name": "Dominic Richardson",
       "position": "RB",
@@ -29352,6 +29608,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29400,6 +29661,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "KC"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -29427,6 +29693,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29458,6 +29729,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29505,6 +29781,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29543,6 +29824,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "ARI"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -29581,6 +29867,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "NE"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -29619,6 +29910,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "NE"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -29661,6 +29957,11 @@
           "from": "Healthy",
           "to": "Suspended",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-08",
+          "from": "Suspended",
+          "to": "Healthy"
         }
       ]
     }
