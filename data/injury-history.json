@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T22:06:13.492Z",
+  "lastUpdated": "2026-09-09T23:59:35.623Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1046,6 +1046,11 @@
           "to": "Questionable",
           "detail": "Knee - MCL",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10383,6 +10388,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15916,6 +15926,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19404,6 +19419,13 @@
           "date": "2026-08-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thigh",
+          "team": "NO"
         }
       ]
     },
@@ -19798,6 +19820,11 @@
           "to": "Questionable",
           "detail": "Oblique",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23367,6 +23394,11 @@
           "to": "Questionable",
           "detail": "Hand",
           "team": "HOU"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25031,6 +25063,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "SEA"
         }
       ]
     },
@@ -25970,6 +26009,13 @@
           "date": "2026-02-10",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
@@ -27127,6 +27173,13 @@
           "date": "2026-02-10",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
@@ -28771,6 +28824,13 @@
           "date": "2026-02-10",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
@@ -29050,6 +29110,19 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13295": {
+      "name": "Behren Morton",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
