@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-08T22:10:04.310Z",
+  "lastUpdated": "2026-09-09T15:32:54.382Z",
   "week": 1,
   "summary": {
-    "total_players": 753,
+    "total_players": 754,
     "ir": 54,
     "suspended": 1
   },
@@ -463,19 +463,6 @@
       "injury_comment": "Turner (undisclosed) reverted to the Dolphins' injured-reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
-      "player_id": "13121",
-      "source_id": "4433959",
-      "player_name": "Ben Yurosek",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "ir"
-    },
-    {
       "player_id": "7599",
       "source_id": "4374033",
       "player_name": "Jermar Jefferson",
@@ -487,6 +474,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2027-02-15",
       "injury_comment": "Jefferson (undisclosed) reverted to the Vikings' injured reserve Monday, per the NFL's transaction log."
+    },
+    {
+      "player_id": "13121",
+      "source_id": "4433959",
+      "player_name": "Ben Yurosek",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Minnesota placed Yurosek on injured reserve Tuesday due to an undisclosed injury."
     },
     {
       "player_id": "11371",
@@ -627,9 +627,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Kirk (calf) was placed on injured reserve by the 49ers on Sunday with a designation to return."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11638",
