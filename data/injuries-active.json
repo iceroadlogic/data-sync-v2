@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-09T23:59:35.623Z",
+  "lastUpdated": "2026-09-10T11:01:42.847Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 27,
+    "questionable": 28,
     "doubtful": 1,
     "out": 15
   },
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Brooks (groin) said Wednesday he's 100 percent healthy and expects to play Sunday against the Bears, Steve Reed of the Associated Press reports."
+      "injury_comment": "Brooks (groin) was listed as a limited participant in Wednesday's practice."
     },
     {
       "player_id": "11256",
@@ -217,17 +217,30 @@
       "injury_comment": "Thompson (undisclosed) was a limited participant in Wednesday's practice."
     },
     {
-      "player_id": "12495",
-      "source_id": "4711533",
-      "player_name": "Ollie Gordon II",
-      "position": "RB",
+      "player_id": "13434",
+      "source_id": "4880236",
+      "player_name": "Will Kacmarek",
+      "position": "TE",
       "team_abbr": "MIA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ribs",
+      "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Kacmarek (calf) was limited during Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
+    },
+    {
+      "player_id": "5859",
+      "source_id": "4047646",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Coach Mike Vrabel didn't have an update on Brown (ankle) after Wednesday's loss at Seattle in which the wide receiver left early due to injury, Taylor Kyles of CLNSMedia.com reports."
     },
     {
       "player_id": "13319",
@@ -308,17 +321,17 @@
       "injury_comment": "Stowers (hamstring) was a limited participant in Wednesday's practice."
     },
     {
-      "player_id": "4217",
-      "source_id": "3040151",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "team_abbr": "SF",
+      "player_id": "4943",
+      "source_id": "3912547",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2026-09-10",
-      "injury_comment": "Kittle (Achilles) remained limited in Wednesday's practice, Nick Wagoner of ESPN.com reports."
+      "injury_detail": "Hip",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Darnold underwent a CT scan on his hip and is expected to undergo an MRI on Thursday after the quarterback didn't return to Wednesday's win against the Patriots, Adam Schefter of ESPN.com reports."
     },
     {
       "player_id": "11618",
