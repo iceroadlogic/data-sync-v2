@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:49:03.559Z",
+  "lastUpdated": "2026-09-10T22:04:33.707Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2485,6 +2485,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "KC"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13980,6 +13985,11 @@
           "to": "Questionable",
           "detail": "Neck",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15318,6 +15328,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "DEN"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -16066,6 +16081,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "BAL"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -17622,6 +17642,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "IR",
+          "detail": "Undisclosed",
+          "team": "MIA"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Undisclosed",
           "team": "MIA"
         }
@@ -20216,6 +20243,13 @@
           "date": "2026-09-09",
           "from": "Healthy",
           "to": "Doubtful",
+          "detail": "Knee - Meniscus",
+          "team": "LV"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Knee - Meniscus",
           "team": "LV"
         }
