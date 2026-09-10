@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:37:03.440Z",
+  "lastUpdated": "2026-09-10T18:49:03.559Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7268,6 +7268,13 @@
           "date": "2026-08-03",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "ATL"
         }
       ]
     },
