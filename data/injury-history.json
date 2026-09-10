@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T22:04:33.707Z",
+  "lastUpdated": "2026-09-10T23:55:39.198Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9246,6 +9246,13 @@
           "date": "2026-01-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -23808,6 +23815,13 @@
           "date": "2026-08-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -24374,6 +24388,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -27430,6 +27451,13 @@
           "date": "2026-01-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -29057,6 +29085,19 @@
         }
       ]
     },
+    "13270": {
+      "name": "CJ Daniels",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
+        }
+      ]
+    },
     "13272": {
       "name": "Carson Beck",
       "position": "QB",
@@ -29072,6 +29113,32 @@
           "date": "2026-08-31",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13275": {
+      "name": "Ty Simpson",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
+        }
+      ]
+    },
+    "13278": {
+      "name": "Max Klare",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },

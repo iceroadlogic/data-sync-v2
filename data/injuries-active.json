@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-10T22:53:17.780Z",
+  "lastUpdated": "2026-09-10T23:55:39.198Z",
   "week": 1,
   "summary": {
     "total_players": 753,
     "questionable": 26,
     "doubtful": 1,
-    "out": 16
+    "out": 23
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Oblique",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site."
+      "injury_comment": "Tagovailoa (oblique) is considered day-to-day due to the strained oblique that he suffered during Thursday's practice, Ian Rapoport of ESPN and NFL Network reports."
     },
     {
       "player_id": "11629",
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Walker (groin) was limited at practice Wednesday."
+      "injury_comment": "Walker (groin) was listed as a limited participant at the Ravens' walkthrough practice Thursday."
     },
     {
       "player_id": "6039",
@@ -84,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-09-13",
-      "injury_comment": "questionable"
+      "injury_comment": "Bagent (back) did not participate at practice Thursday."
     },
     {
       "player_id": "11620",
@@ -108,9 +108,9 @@
       "injury_status": "practice-squad",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8142",
@@ -212,9 +212,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5859",
@@ -227,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report."
+      "injury_comment": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports."
     },
     {
       "player_id": "13319",
@@ -240,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Delp (hamstring) did not participate in Wednesday's practice."
+      "injury_comment": "Delp (hamstring) did not participate at practice Thursday."
     },
     {
       "player_id": "11579",
@@ -253,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Thigh",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Estime (thigh) did not participate in Wednesday's practice."
+      "injury_comment": "Estime (thigh) did not participate at practice Thursday."
     },
     {
       "player_id": "4035",
@@ -292,7 +292,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Patrick (groin) did not practice Wednesday, Rich Cimini of ESPN.com reports."
+      "injury_comment": "Patrick (groin) did not participate at practice Thursday."
     },
     {
       "player_id": "13349",
@@ -442,6 +442,58 @@
       "injury_comment": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports."
     },
     {
+      "player_id": "7562",
+      "source_id": "4360797",
+      "player_name": "Tutu Atwell",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13270",
+      "source_id": "4605951",
+      "player_name": "CJ Daniels",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13278",
+      "source_id": "4833029",
+      "player_name": "Max Klare",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13275",
+      "source_id": "4685522",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "Simpson is inactive as the Rams' emergency third quarterback for Thursday's matchup against San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports."
+    },
+    {
       "player_id": "12542",
       "source_id": "4695193",
       "player_name": "Efton Chism III",
@@ -505,6 +557,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "James (coach's decision) is officially inactive for Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports."
+    },
+    {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12634",
+      "source_id": "4431466",
+      "player_name": "Jordan Watkins",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Watkins (coach's decision) is officially inactive for Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "11651",
