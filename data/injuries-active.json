@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-10T17:37:03.440Z",
+  "lastUpdated": "2026-09-10T22:53:17.780Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 28,
-    "doubtful": 2,
-    "out": 15
+    "questionable": 26,
+    "doubtful": 1,
+    "out": 16
   },
   "questionable": [
     {
@@ -19,20 +19,20 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Branch (hamstring) was limited in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports."
+      "injury_comment": "Branch (hamstring) remained limited at practice Thursday, Tori McElhaney of the Falcons' official site reports."
     },
     {
-      "player_id": "9997",
-      "source_id": "4429615",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "team_abbr": "BAL",
+      "player_id": "6768",
+      "source_id": "4241479",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
+      "injury_detail": "Oblique",
       "est_return_date": "2026-09-13",
-      "injury_comment": "The Ravens listed Flowers as a limited participant in Wednesday's practice due to a hamstring injury."
+      "injury_comment": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site."
     },
     {
       "player_id": "11629",
@@ -56,9 +56,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Lower Leg",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Johnson (lower leg) isn't participating in Wednesday's practice, Joe Buscaglia of The Athletic reports."
+      "injury_comment": "Johnson (hamstring) didn't practice Thursday, Matt Parrino of The Syracuse Post-Standard reports."
     },
     {
       "player_id": "11583",
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Brooks (groin) was listed as a limited participant in Wednesday's practice."
+      "injury_comment": "Brooks (groin) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "11256",
@@ -97,20 +97,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Odunze (calf) was limited in Wednesday's practice."
-    },
-    {
-      "player_id": "9494",
-      "source_id": "4686472",
-      "player_name": "Marvin Mims Jr.",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-09-14",
-      "injury_comment": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports."
+      "injury_comment": "Odunze (calf) was listed as a limited participant for Thursday's practice."
     },
     {
       "player_id": "8116",
@@ -126,19 +113,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "8489",
-      "source_id": "4722908",
-      "player_name": "Drew Ogletree",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Ogletree (neck) was limited at Wednesday's practice."
-    },
-    {
       "player_id": "8142",
       "source_id": "4360078",
       "player_name": "Alec Pierce",
@@ -149,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Pierce was a limited participant in Wednesday's practice due to a heel injury."
+      "injury_comment": "Pierce (heel) was a limited participant at Thursday's practice."
     },
     {
       "player_id": "6964",
@@ -175,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Allen was present for Wednesday's practice but was a non-participant due to a hip injury, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_comment": "Allen (hip) was a limited practice participant Thursday."
     },
     {
       "player_id": "5947",
@@ -188,20 +162,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Meyers (thumb) was spotted in a non-contact jersey at Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
-    },
-    {
-      "player_id": "4046",
-      "source_id": "3139477",
-      "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-14",
-      "injury_comment": "Kansas City head coach Andy Reid said Tuesday that Mahomes (knee) has a \"pretty good chance\" to start next Monday's season opener versus the Broncos, Sam McDowell of The Kansas City Star reports."
+      "injury_comment": "Meyers (thumb) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "9511",
@@ -214,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Mitchell (hamstring) was limited in Wednesday's practice."
+      "injury_comment": "Mitchell (hamstring) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "13380",
@@ -225,7 +186,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Hip",
       "est_return_date": "2026-09-13",
       "injury_comment": "Thompson (undisclosed) was a limited participant in Wednesday's practice."
     },
@@ -241,6 +202,19 @@
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
       "injury_comment": "Kacmarek (calf) was limited during Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
+    },
+    {
+      "player_id": "11082",
+      "source_id": "4373030",
+      "player_name": "Ben Sims",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "5859",
@@ -292,7 +266,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Kamara (knee) returned to practice Wednesday, Mike Triplett of NewOrleans.Football reports."
+      "injury_comment": "Kamara (knee) remained limited at practice Thursday, Mike Triplett of NewOrleans.Football reports."
     },
     {
       "player_id": "11632",
@@ -305,7 +279,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports."
+      "injury_comment": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports."
     },
     {
       "player_id": "4351",
@@ -331,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Stowers (hamstring) was a limited participant in Wednesday's practice."
+      "injury_comment": "Stowers (hamstring) practiced in a limited capacity Thursday."
     },
     {
       "player_id": "11618",
@@ -344,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-13",
-      "injury_comment": "McMillan (knee) practiced in a limited capacity Wednesday."
+      "injury_comment": "McMillan (knee) was a limited practice participant Thursday."
     },
     {
       "player_id": "9506",
@@ -357,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tucker (hamstring) did not practice Wednesday."
+      "injury_comment": "Tucker (hamstring) practiced on a limited basis Thursday."
     },
     {
       "player_id": "12533",
@@ -370,23 +344,10 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Croskey-Merritt practiced in a limited capacity Wednesday due to a groin injury."
+      "injury_comment": "Croskey-Merritt (groin) practiced in a limited capacity Thursday."
     }
   ],
   "doubtful": [
-    {
-      "player_id": "11604",
-      "source_id": "4432665",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Knee - Meniscus",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports."
-    },
     {
       "player_id": "4943",
       "source_id": "3912547",
@@ -398,7 +359,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports."
+      "injury_comment": "Darnold (hip) received \"really, really good news\" regarding his injury, according to coach Mike McDonald, ESPN.com reports. \"His hip is intact, and it's good,\" McDonald said Thursday."
     }
   ],
   "out": [
@@ -466,6 +427,19 @@
       "injury_detail": "Neck",
       "est_return_date": "2026-10-11",
       "injury_comment": "Packers general manager Brian Gutekunst said Tuesday that he's \"really hopeful\" Musgrave (neck) will be able to play at some point during the 2026 season, Ryan Wood of USA Today reports."
+    },
+    {
+      "player_id": "11604",
+      "source_id": "4432665",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - Meniscus",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports."
     },
     {
       "player_id": "12542",
