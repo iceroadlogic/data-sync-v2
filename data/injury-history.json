@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T11:01:42.847Z",
+  "lastUpdated": "2026-09-10T17:37:03.440Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3945,6 +3945,13 @@
           "date": "2026-09-10",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hip",
+          "team": "SEA"
+        },
+        {
+          "date": "2026-09-10",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Hip",
           "team": "SEA"
         }
@@ -11051,6 +11058,19 @@
           "date": "2026-07-30",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "8116": {
+      "name": "Pierre Strong Jr.",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "GB"
         }
       ]
     },

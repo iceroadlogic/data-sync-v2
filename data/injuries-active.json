@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-10T11:01:42.847Z",
+  "lastUpdated": "2026-09-10T17:37:03.440Z",
   "week": 1,
   "summary": {
     "total_players": 753,
     "questionable": 28,
-    "doubtful": 1,
+    "doubtful": 2,
     "out": 15
   },
   "questionable": [
@@ -113,6 +113,19 @@
       "injury_comment": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports."
     },
     {
+      "player_id": "8116",
+      "source_id": "4249836",
+      "player_name": "Pierre Strong Jr.",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "practice-squad",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "8489",
       "source_id": "4722908",
       "player_name": "Drew Ogletree",
@@ -175,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Meyers (hand) was spotted practicing Wednesday while wearing a non-contact jersey, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_comment": "Meyers (thumb) was spotted in a non-contact jersey at Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "4046",
@@ -240,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Coach Mike Vrabel didn't have an update on Brown (ankle) after Wednesday's loss at Seattle in which the wide receiver left early due to injury, Taylor Kyles of CLNSMedia.com reports."
+      "injury_comment": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report."
     },
     {
       "player_id": "13319",
@@ -321,19 +334,6 @@
       "injury_comment": "Stowers (hamstring) was a limited participant in Wednesday's practice."
     },
     {
-      "player_id": "4943",
-      "source_id": "3912547",
-      "player_name": "Sam Darnold",
-      "position": "QB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Darnold underwent a CT scan on his hip and is expected to undergo an MRI on Thursday after the quarterback didn't return to Wednesday's win against the Patriots, Adam Schefter of ESPN.com reports."
-    },
-    {
       "player_id": "11618",
       "source_id": "4430834",
       "player_name": "Jalen McMillan",
@@ -386,6 +386,19 @@
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-13",
       "injury_comment": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "4943",
+      "source_id": "3912547",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports."
     }
   ],
   "out": [
@@ -439,7 +452,7 @@
       "injury_description": null,
       "injury_detail": "Personal",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing."
+      "injury_comment": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "9481",
