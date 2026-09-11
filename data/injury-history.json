@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T18:52:09.837Z",
+  "lastUpdated": "2026-09-11T22:05:58.799Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6001,6 +6001,11 @@
           "to": "Questionable",
           "detail": "Hand",
           "team": "JAX"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10073,6 +10078,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -12098,6 +12108,11 @@
           "to": "Questionable",
           "detail": "Heel",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14342,6 +14357,19 @@
         }
       ]
     },
+    "8800": {
+      "name": "Malik Davis",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Hip",
+          "team": "DAL"
+        }
+      ]
+    },
     "8801": {
       "name": "Dennis Houston",
       "position": "WR",
@@ -15825,6 +15853,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19560,6 +19593,13 @@
           "to": "Questionable",
           "detail": "Thigh",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Thigh",
+          "team": "NO"
         }
       ]
     },
@@ -21424,6 +21464,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "CLE"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29513,6 +29558,13 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -29737,6 +29789,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -30059,6 +30116,11 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "MIA"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
