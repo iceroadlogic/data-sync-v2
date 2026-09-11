@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T00:46:23.909Z",
+  "lastUpdated": "2026-09-11T11:00:25.230Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 26,
+    "questionable": 28,
     "doubtful": 1,
     "out": 23
   },
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Oblique",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Tagovailoa (oblique) is considered day-to-day due to the strained oblique that he suffered during Thursday's practice, Ian Rapoport of ESPN and NFL Network reports."
+      "injury_comment": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site."
     },
     {
       "player_id": "11629",
@@ -191,6 +191,19 @@
       "injury_comment": "Thompson (hip) was a limited participant at practice Thursday."
     },
     {
+      "player_id": "10214",
+      "source_id": "4426553",
+      "player_name": "Davis Allen",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Head",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "Allen is getting examined for a possible concussion and is questionable to return to Thursday's matchup with the 49ers."
+    },
+    {
       "player_id": "13434",
       "source_id": "4880236",
       "player_name": "Will Kacmarek",
@@ -202,19 +215,6 @@
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
       "injury_comment": "Kacmarek (calf) was a limited participant in practice for the second day in a row Thursday, C. Isaiah Smalls II of the Miami Herald reports."
-    },
-    {
-      "player_id": "11082",
-      "source_id": "4373030",
-      "player_name": "Ben Sims",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "5859",
@@ -306,6 +306,32 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "Stowers (hamstring) practiced in a limited capacity Thursday."
+    },
+    {
+      "player_id": "13417",
+      "source_id": "4710714",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Stribling (ankle) has been ruled out for the rest of Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports."
+    },
+    {
+      "player_id": "8698",
+      "source_id": "4259147",
+      "player_name": "Jake Tonges",
+      "position": "TE",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Coach Kyle Shanahan said after Thursday night's win over the Rams that Tonges' knee injury \"does not look good,\" Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "11618",
@@ -632,9 +658,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "inactive"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12510",
@@ -658,9 +684,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Coach Mike Macdonald said Monday that Charbonnet (knee) looks \"awesome\" in his rehab from a torn ACL, Gregg Bell of The Tacoma News Tribune reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     }
   ]
 }
