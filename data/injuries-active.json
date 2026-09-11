@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11T11:00:25.230Z",
+  "lastUpdated": "2026-09-11T17:41:32.483Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 28,
-    "doubtful": 1,
-    "out": 23
+    "questionable": 22,
+    "doubtful": 4,
+    "out": 25
   },
   "questionable": [
     {
@@ -20,19 +20,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-13",
       "injury_comment": "Branch (hamstring) remained limited at practice Thursday, Tori McElhaney of the Falcons' official site reports."
-    },
-    {
-      "player_id": "6768",
-      "source_id": "4241479",
-      "player_name": "Tua Tagovailoa",
-      "position": "QB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Oblique",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site."
     },
     {
       "player_id": "11629",
@@ -61,19 +48,6 @@
       "injury_comment": "Johnson (hamstring) didn't practice Thursday, Matt Parrino of The Syracuse Post-Standard reports."
     },
     {
-      "player_id": "11583",
-      "source_id": "4678008",
-      "player_name": "Jonathon Brooks",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Brooks (groin) was a limited participant in Thursday's practice."
-    },
-    {
       "player_id": "11256",
       "source_id": "4434153",
       "player_name": "Tyson Bagent",
@@ -97,7 +71,20 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Odunze (calf) was listed as a limited participant for Thursday's practice."
+      "injury_comment": "Odunze (calf) will practice Friday, and the training staff will assess him afterward before deciding next steps, Sean Hammond of The Chicago Tribune reports."
+    },
+    {
+      "player_id": "11633",
+      "source_id": "4428678",
+      "player_name": "Jamari Thrash",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "8116",
@@ -162,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Meyers (thumb) was a limited participant in Thursday's practice."
+      "injury_comment": "Meyers (thumb) is practicing without a non-contact jersey Friday, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "9511",
@@ -214,20 +201,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-09-13",
-      "injury_comment": "Kacmarek (calf) was a limited participant in practice for the second day in a row Thursday, C. Isaiah Smalls II of the Miami Herald reports."
-    },
-    {
-      "player_id": "5859",
-      "source_id": "4047646",
-      "player_name": "A.J. Brown",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports."
+      "injury_comment": "Kacmarek (calf) was a limited participant in practice for the second consecutive day Thursday, C. Isaiah Smalls II of the Miami Herald reports."
     },
     {
       "player_id": "13319",
@@ -282,19 +256,6 @@
       "injury_comment": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports."
     },
     {
-      "player_id": "4351",
-      "source_id": "3134353",
-      "player_name": "Tim Patrick",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Patrick (groin) did not participate at practice Thursday."
-    },
-    {
       "player_id": "13349",
       "source_id": "4431574",
       "player_name": "Eli Stowers",
@@ -332,48 +293,22 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
       "injury_comment": "Coach Kyle Shanahan said after Thursday night's win over the Rams that Tonges' knee injury \"does not look good,\" Vic Tafur of The Athletic reports."
-    },
-    {
-      "player_id": "11618",
-      "source_id": "4430834",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "McMillan (knee) was a limited practice participant Thursday."
-    },
-    {
-      "player_id": "9506",
-      "source_id": "4430871",
-      "player_name": "Sean Tucker",
-      "position": "RB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Tucker (hamstring) practiced on a limited basis Thursday."
-    },
-    {
-      "player_id": "12533",
-      "source_id": "4575131",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Croskey-Merritt (groin) practiced in a limited capacity Thursday."
     }
   ],
   "doubtful": [
+    {
+      "player_id": "7720",
+      "source_id": "4035537",
+      "player_name": "Kene Nwangwu",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "doubtful"
+    },
     {
       "player_id": "4943",
       "source_id": "3912547",
@@ -386,6 +321,32 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-09-20",
       "injury_comment": "Darnold (hip) received \"really, really good news\" regarding his injury, according to coach Mike McDonald, ESPN.com reports. \"His hip is intact, and it's good,\" McDonald said Thursday."
+    },
+    {
+      "player_id": "11618",
+      "source_id": "4430834",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "McMillan (knee) was a limited practice participant Thursday."
+    },
+    {
+      "player_id": "9506",
+      "source_id": "4430871",
+      "player_name": "Sean Tucker",
+      "position": "RB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Tucker (hamstring) is practicing Friday, Greg Auman of Fox Sports reports."
     }
   ],
   "out": [
@@ -401,6 +362,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-20",
       "injury_comment": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports."
+    },
+    {
+      "player_id": "6768",
+      "source_id": "4241479",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Oblique",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Tagovailoa (oblique) wasn't on the field for the media-access portion of Friday's practice, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "11377",
@@ -570,6 +544,19 @@
       "injury_detail": "Leg",
       "est_return_date": "2026-10-11",
       "injury_comment": "Tipton (leg) was moved to the reserve/PUP list by the Saints on Sunday."
+    },
+    {
+      "player_id": "4351",
+      "source_id": "3134353",
+      "player_name": "Tim Patrick",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Patrick (groin) did not participate at practice Thursday."
     },
     {
       "player_id": "6803",

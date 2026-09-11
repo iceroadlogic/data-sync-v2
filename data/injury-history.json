@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T15:30:35.348Z",
+  "lastUpdated": "2026-09-11T17:41:32.483Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5706,6 +5706,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "NE"
         }
       ]
     },
@@ -7286,6 +7293,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Back",
+          "team": "ATL"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Oblique",
           "team": "ATL"
         }
       ]
@@ -15707,6 +15721,13 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "TB"
         }
       ]
     },
@@ -19615,6 +19636,11 @@
           "to": "Questionable",
           "detail": "General Soreness",
           "team": "CAR"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20372,6 +20398,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "TB"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Knee",
           "team": "TB"
         }
@@ -26988,6 +27021,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
