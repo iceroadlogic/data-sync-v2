@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-10T22:04:33.707Z",
+  "lastUpdated": "2026-09-11T15:30:35.348Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "ir": 53,
+    "ir": 52,
     "suspended": 1
   },
   "ir": [
@@ -136,19 +136,6 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
       "injury_comment": "ir"
-    },
-    {
-      "player_id": "11633",
-      "source_id": "4428678",
-      "player_name": "Jamari Thrash",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "11508",
@@ -432,9 +419,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Rams placed Caldwell (undisclosed) on injured reserve Saturday, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8214",

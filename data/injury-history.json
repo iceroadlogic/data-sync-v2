@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T11:00:25.230Z",
+  "lastUpdated": "2026-09-11T15:30:35.348Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3412,6 +3412,13 @@
           "date": "2026-09-09",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "NYJ"
         }
@@ -10501,6 +10508,13 @@
           "date": "2025-11-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "Healthy",
+          "to": "Doubtful",
+          "detail": "Back",
+          "team": "NYJ"
         }
       ]
     },
@@ -21368,6 +21382,13 @@
           "date": "2026-08-19",
           "from": "Healthy",
           "to": "IR",
+          "detail": "Undisclosed",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-09-11",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Undisclosed",
           "team": "CLE"
         }
