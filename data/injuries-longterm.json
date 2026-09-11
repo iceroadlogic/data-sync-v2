@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T15:30:35.348Z",
+  "lastUpdated": "2026-09-11T18:52:09.837Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "ir": 52,
+    "ir": 53,
     "suspended": 1
   },
   "ir": [
@@ -461,6 +461,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
       "injury_comment": "Minnesota placed Yurosek on injured reserve Tuesday due to an undisclosed injury."
+    },
+    {
+      "player_id": "5859",
+      "source_id": "4047646",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Patriots are placing Brown (ankle) on injured reserve, ESPN's Adam Schefter reports."
     },
     {
       "player_id": "11371",
