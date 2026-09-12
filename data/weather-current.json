@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-12T18:10:00.731Z",
+  "lastUpdated": "2026-09-12T23:48:35.166Z",
   "games": [
     {
       "game_id": "401872656",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "2 to 7 mph NW",
-        "conditions": "Mostly Cloudy then Chance Light Rain",
-        "precipitation": "33%"
+        "wind": "3 mph WNW",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "15%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "5 to 10 mph SSW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "temp": 85,
+        "wind": "10 mph SW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
-        "wind": "0 to 6 mph W",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
-        "precipitation": "19%"
+        "temp": 88,
+        "wind": "0 to 7 mph W",
+        "conditions": "Areas Of Fog then Chance Showers And Thunderstorms",
+        "precipitation": "51%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "2 mph W",
+        "temp": 91,
+        "wind": "3 mph W",
         "conditions": "Patchy Fog then Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "5%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 92,
-        "wind": "6 mph SW",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "38%"
+        "wind": "3 to 9 mph W",
+        "conditions": "Mostly Cloudy then Showers And Thunderstorms Likely",
+        "precipitation": "65%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "5 mph SW",
-        "conditions": "Patchy Fog then Mostly Cloudy",
-        "precipitation": "83%"
+        "temp": 84,
+        "wind": "0 to 5 mph W",
+        "conditions": "Patchy Fog then Partly Sunny",
+        "precipitation": "91%"
       }
     },
     {
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "2 to 7 mph W",
-        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 67,
+        "wind": "2 to 9 mph W",
+        "conditions": "Partly Cloudy then Chance Rain Showers",
+        "precipitation": "38%"
       }
     },
     {
