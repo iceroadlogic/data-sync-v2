@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T22:05:58.799Z",
+  "lastUpdated": "2026-09-12T21:48:49.789Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3421,6 +3421,13 @@
           "to": "Out",
           "detail": "Groin",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Groin",
+          "team": "NYJ"
         }
       ]
     },
@@ -3602,6 +3609,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "ATL"
         }
       ]
     },
@@ -10539,6 +10553,13 @@
           "to": "Doubtful",
           "detail": "Back",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Back",
+          "team": "NYJ"
         }
       ]
     },
@@ -14365,6 +14386,13 @@
           "date": "2026-09-11",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Hip",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Out",
+          "to": "IR",
           "detail": "Hip",
           "team": "DAL"
         }
@@ -19598,6 +19626,13 @@
           "date": "2026-09-11",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Thigh",
+          "team": "NO"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Out",
+          "to": "IR",
           "detail": "Thigh",
           "team": "NO"
         }
@@ -29710,6 +29745,13 @@
           "date": "2026-08-24",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-09-12",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "PHI"
         }

@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-12T17:58:32.610Z",
+  "lastUpdated": "2026-09-12T21:48:49.789Z",
   "week": 1,
   "summary": {
-    "total_players": 752,
-    "ir": 52,
+    "total_players": 753,
+    "ir": 56,
     "suspended": 1
   },
   "ir": [
@@ -136,6 +136,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
       "injury_comment": "ir"
+    },
+    {
+      "player_id": "8800",
+      "source_id": "4240603",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "11508",
@@ -354,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Collier (undisclosed) reverted to injured reserve with the Raiders on Sunday, Sam Warren of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13898",
@@ -489,6 +502,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "11579",
+      "source_id": "4569682",
+      "player_name": "Audric Estime",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Thigh",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Saints placed Estime (thigh) on injured reserve Saturday, Ross Jackson of WWL Louisiana reports."
+    },
+    {
       "player_id": "8230",
       "source_id": "4242431",
       "player_name": "Ty Chandler",
@@ -552,6 +578,32 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "4351",
+      "source_id": "3134353",
+      "player_name": "Tim Patrick",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Jets placed Patrick (groin) on injured reserve Saturday, Zack Rosenblatt of The Athletic reports."
+    },
+    {
+      "player_id": "13349",
+      "source_id": "4431574",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Eagles placed Stowers (quadriceps/hamstring) on injured reserve Saturday."
     },
     {
       "player_id": "8177",
