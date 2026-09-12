@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-09-12T16:53:50.085Z",
+  "lastUpdated": "2026-09-12T23:53:37.208Z",
   "week": 1,
   "summary": {
-    "total_players": 752,
+    "total_players": 753,
     "questionable": 13,
-    "doubtful": 4,
-    "out": 28
+    "doubtful": 3,
+    "out": 26
   },
   "questionable": [
+    {
+      "player_id": "4574",
+      "source_id": "2972515",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports."
+    },
     {
       "player_id": "11629",
       "source_id": "4696882",
@@ -139,19 +152,6 @@
       "injury_comment": "Nabers (knee) is listed as questionable for Sunday's game against the Cowboys, Dan Salomone of the Giants' official site reports."
     },
     {
-      "player_id": "13349",
-      "source_id": "4431574",
-      "player_name": "Eli Stowers",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Stowers (hamstring) is listed as questionable for Sunday's game versus the Commanders."
-    },
-    {
       "player_id": "13417",
       "source_id": "4710714",
       "player_name": "De'Zhaun Stribling",
@@ -179,19 +179,6 @@
     }
   ],
   "doubtful": [
-    {
-      "player_id": "7720",
-      "source_id": "4035537",
-      "player_name": "Kene Nwangwu",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Nwangwu (back) is doubtful for Sunday's game against the Titans, Zack Rosenblatt of The Athletic reports."
-    },
     {
       "player_id": "4943",
       "source_id": "3912547",
@@ -284,19 +271,6 @@
       "injury_detail": "Personal",
       "est_return_date": "2026-10-11",
       "injury_comment": "The Browns placed Royer (personal) on the reserve/non-football illness list Sunday, Scott Petrak of the Elyria Chronicle-Telegram reports."
-    },
-    {
-      "player_id": "8800",
-      "source_id": "4240603",
-      "player_name": "Malik Davis",
-      "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-10-08",
-      "injury_comment": "Davis is slated to have surgery on his injured hip Saturday and is expected to be placed on IR, Todd Archer of ESPN.com reports."
     },
     {
       "player_id": "5850",
@@ -442,19 +416,6 @@
       "injury_comment": "Delp (hamstring) has been ruled out for Sunday's game against the Lions."
     },
     {
-      "player_id": "11579",
-      "source_id": "4569682",
-      "player_name": "Audric Estime",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Thigh",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Estime (thigh) has been ruled out for Sunday's game against the Lions."
-    },
-    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -468,17 +429,17 @@
       "injury_comment": "Tipton (leg) was moved to the reserve/PUP list by the Saints on Sunday."
     },
     {
-      "player_id": "4351",
-      "source_id": "3134353",
-      "player_name": "Tim Patrick",
-      "position": "WR",
+      "player_id": "7720",
+      "source_id": "4035537",
+      "player_name": "Kene Nwangwu",
+      "position": "RB",
       "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Groin",
+      "injury_detail": "Back",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Patrick (groin) has been ruled out ahead of Sunday's game against the Titans, Brian Costello of the New York Post reports."
+      "injury_comment": "Nwangwu (back) has been ruled out ahead of Sunday's game against the Titans."
     },
     {
       "player_id": "6803",
