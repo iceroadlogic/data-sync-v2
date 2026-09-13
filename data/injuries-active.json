@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-13T21:34:25.514Z",
+  "lastUpdated": "2026-09-13T23:31:21.228Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 10,
+    "questionable": 13,
     "doubtful": 2,
-    "out": 61
+    "out": 67
   },
   "questionable": [
     {
@@ -45,7 +45,33 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars."
+      "injury_comment": "Sampson was on crutches and wearing a brace on the left knee he injured during Sunday's loss to Jacksonville, Mary Kay Cabot of The Cleveland Plain Dealer reports."
+    },
+    {
+      "player_id": "8204",
+      "source_id": "4259305",
+      "player_name": "Bo Melton",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Melton (cramps) is questionable to return to Sunday's game against Minnesota."
+    },
+    {
+      "player_id": "10212",
+      "source_id": "4360086",
+      "player_name": "Josh Whyle",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Whyle (neck) is questionable to return to Sunday's game against the Vikings."
     },
     {
       "player_id": "8116",
@@ -74,6 +100,32 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Lambert-Smith (hamstring) is questionable to return to Sunday's game against the Cardinals."
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "McConkey is questionable to return to Sunday's game against Arizona due to a chest injury."
+    },
+    {
       "player_id": "10214",
       "source_id": "4426553",
       "player_name": "Davis Allen",
@@ -85,32 +137,6 @@
       "injury_detail": "Head",
       "est_return_date": "2026-09-21",
       "injury_comment": "Allen is getting examined for a possible concussion and is questionable to return to Thursday's matchup with the 49ers."
-    },
-    {
-      "player_id": "5849",
-      "source_id": "3917315",
-      "player_name": "Kyler Murray",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "11632",
-      "source_id": "4595348",
-      "player_name": "Malik Nabers",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Nabers' (knee) status for Sunday's game against the Cowboys remains \"murky at best,\" Adam Schefter of ESPN reports."
     },
     {
       "player_id": "13276",
@@ -137,6 +163,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
       "injury_comment": "Coach Kyle Shanahan said after Thursday night's win over the Rams that Tonges' knee injury \"does not look good,\" Vic Tafur of The Athletic reports."
+    },
+    {
+      "player_id": "8210",
+      "source_id": "4360635",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Okonkwo is questionable to return to Sunday's Week 1 game against Philadelphia due to a hamstring injury."
     }
   ],
   "doubtful": [
@@ -377,6 +416,32 @@
       "injury_comment": "The Browns placed Royer (personal) on the reserve/non-football illness list Sunday, Scott Petrak of the Elyria Chronicle-Telegram reports."
     },
     {
+      "player_id": "9227",
+      "source_id": "4429202",
+      "player_name": "Israel Abanikanda",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13726",
+      "source_id": "4808759",
+      "player_name": "Camden Brown",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -598,6 +663,19 @@
       "injury_comment": "McCarthy (coach's decision) is inactive but will serve as the Vikings' emergency third quarterback against the Packers on Sunday, Craig Peters of the Vikings' official site reports."
     },
     {
+      "player_id": "5849",
+      "source_id": "3917315",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Murray (concussion) has been ruled out of Sunday's contest against the Packers, Alec Lewis of The Athletic reports."
+    },
+    {
       "player_id": "12542",
       "source_id": "4695193",
       "player_name": "Efton Chism III",
@@ -684,9 +762,48 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Leg",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Tipton (leg) was moved to the reserve/PUP list by the Saints on Sunday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "12888",
+      "source_id": "4570296",
+      "player_name": "Dalen Cambre",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12715",
+      "source_id": "4590292",
+      "player_name": "Thomas Fidone II",
+      "position": "TE",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "7528",
+      "source_id": "4241457",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "inactive"
     },
     {
       "player_id": "7720",
