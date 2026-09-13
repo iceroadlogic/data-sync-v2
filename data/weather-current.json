@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-12T23:48:35.166Z",
+  "lastUpdated": "2026-09-13T17:19:39.837Z",
   "games": [
     {
       "game_id": "401872656",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "3 mph WNW",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "15%"
+        "temp": 65,
+        "wind": "9 mph SSW",
+        "conditions": "Rain Likely",
+        "precipitation": "53%"
       }
     },
     {
@@ -22,9 +22,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "10 mph SW",
-        "conditions": "Sunny",
+        "temp": 82,
+        "wind": "0 to 15 mph SSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 88,
-        "wind": "0 to 7 mph W",
-        "conditions": "Areas Of Fog then Chance Showers And Thunderstorms",
-        "precipitation": "51%"
+        "temp": 89,
+        "wind": "7 mph W",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "21%"
       }
     },
     {
@@ -57,8 +57,8 @@
       "is_dome": false,
       "weather": {
         "temp": 95,
-        "wind": "0 to 5 mph NNW",
-        "conditions": "Areas Of Fog then Sunny",
+        "wind": "0 to 5 mph NW",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     },
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "2 to 9 mph W",
-        "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "13%"
+        "wind": "5 to 8 mph W",
+        "conditions": "Partly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 91,
-        "wind": "3 mph W",
-        "conditions": "Patchy Fog then Mostly Sunny",
-        "precipitation": "5%"
+        "wind": "3 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 92,
-        "wind": "3 to 9 mph W",
-        "conditions": "Mostly Cloudy then Showers And Thunderstorms Likely",
-        "precipitation": "65%"
+        "wind": "7 mph W",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "43%"
       }
     },
     {
@@ -141,9 +141,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "0 to 5 mph W",
-        "conditions": "Patchy Fog then Partly Sunny",
-        "precipitation": "91%"
+        "wind": "5 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "8%"
       }
     },
     {
@@ -154,8 +154,8 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "0 to 10 mph SSW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "0 to 15 mph SSW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -168,8 +168,8 @@
       "weather": {
         "temp": 67,
         "wind": "2 to 9 mph W",
-        "conditions": "Partly Cloudy then Chance Rain Showers",
-        "precipitation": "38%"
+        "conditions": "Partly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
@@ -180,7 +180,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "13 mph S",
+        "wind": "10 to 14 mph S",
         "conditions": "Mostly Clear",
         "precipitation": "9%"
       }
