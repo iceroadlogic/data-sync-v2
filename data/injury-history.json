@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T19:27:50.617Z",
+  "lastUpdated": "2026-09-13T21:34:25.514Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5502,6 +5502,13 @@
           "date": "2026-03-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "MIN"
         }
       ]
     },
@@ -24181,6 +24188,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "CLE"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CLE"
         }
       ]
     },
@@ -29517,6 +29531,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -29685,6 +29706,13 @@
           "date": "2026-09-13",
           "from": "Healthy",
           "to": "Out",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Wrist",
           "team": "BAL"
         }
       ]
