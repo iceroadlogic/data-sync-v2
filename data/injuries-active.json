@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-09-13T17:11:35.775Z",
+  "lastUpdated": "2026-09-13T19:27:50.617Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 5,
+    "questionable": 6,
     "doubtful": 2,
-    "out": 49
+    "out": 64
   },
   "questionable": [
+    {
+      "player_id": "9997",
+      "source_id": "4429615",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-13",
+      "injury_comment": "Flowers is questionable to return to Sunday's game against the .Colts due to a hamstring injury, Ryan Mink of the Ravens' official site reports."
+    },
     {
       "player_id": "8116",
       "source_id": "4249836",
@@ -141,6 +154,19 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-20",
       "injury_comment": "Fagnano (coach's decision) is inactive for Sunday's matchup with the Colts."
+    },
+    {
+      "player_id": "13293",
+      "source_id": "4870847",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13268",
@@ -299,6 +325,19 @@
       "injury_comment": "Green (coach's decision) is inactive for Sunday's matchup with the Jaguars."
     },
     {
+      "player_id": "12469",
+      "source_id": "5081397",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars."
+    },
+    {
       "player_id": "13435",
       "source_id": "4565859",
       "player_name": "Joe Royer",
@@ -325,6 +364,19 @@
       "injury_comment": "Jacobs (personal) remains on the Commissioner's Exempt List, but the NFL may count time on the list as time served if it eventually issues a suspension to the running back, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "13770",
+      "source_id": "4635009",
+      "player_name": "J. Michael Sturdivant",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "9481",
       "source_id": "4428085",
       "player_name": "Luke Musgrave",
@@ -333,9 +385,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Packers general manager Brian Gutekunst said Tuesday that he's \"really hopeful\" Musgrave (neck) will be able to play at some point during the 2026 season, Ryan Wood of USA Today reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12471",
@@ -400,7 +452,20 @@
       "injury_description": null,
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-20",
-      "injury_comment": "The Raiders believe Bowers (knee) has a chance to return to action Week 2 at the Chargers on Sunday, Sept. 20, Adam Schefter of ESPN reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "O'Connell (coach's decision) is inactive but will serve as the Raiders' emergency third quarterback against the Dolphins on Sunday."
     },
     {
       "player_id": "7562",
@@ -453,6 +518,58 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12538",
+      "source_id": "4429435",
+      "player_name": "Brady Cook",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Cook (coach's decision) will be the emergency quarterback for Sunday's game against the Raiders."
+    },
+    {
+      "player_id": "8117",
+      "source_id": "4249417",
+      "player_name": "Jalen Tolbert",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Tolbert (coach's decision) is inactive for Sunday's game against the Raiders."
+    },
+    {
+      "player_id": "13347",
+      "source_id": "4832846",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "11565",
+      "source_id": "4433970",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
     },
     {
       "player_id": "12542",
@@ -546,6 +663,19 @@
       "injury_comment": "Tipton (leg) was moved to the reserve/PUP list by the Saints on Sunday."
     },
     {
+      "player_id": "13276",
+      "source_id": "4723820",
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "The Jets ruled out Cooper (ankle) for the remainder of Sunday's game against the Titans."
+    },
+    {
       "player_id": "7720",
       "source_id": "4035537",
       "player_name": "Kene Nwangwu",
@@ -556,6 +686,45 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-09-20",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "9230",
+      "source_id": "4685201",
+      "player_name": "Tanner McKee",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "7596",
+      "source_id": "4372414",
+      "player_name": "Elijah Moore",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13335",
+      "source_id": "4879250",
+      "player_name": "Cole Payton",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
       "injury_comment": "inactive"
     },
     {
@@ -739,6 +908,45 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-20",
       "injury_comment": "Singleton (coach's decision) is inactive for Sunday's game against the Jets."
+    },
+    {
+      "player_id": "8135",
+      "source_id": "4567156",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Burks (coach's decision) is inactive for Sunday's game against the Eagles."
+    },
+    {
+      "player_id": "13557",
+      "source_id": "4432722",
+      "player_name": "Athan Kaliakmanis",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "Kaliakmanis (coach's decision) is inactive but will serve as the Commanders' emergency third quarterback against the Eagles on Sunday."
+    },
+    {
+      "player_id": "11650",
+      "source_id": "4426948",
+      "player_name": "Luke McCaffrey",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "McCaffrey (coach's decision) is inactive for Sunday's game against the Eagles."
     }
   ]
 }

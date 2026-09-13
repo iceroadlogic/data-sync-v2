@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T17:11:35.775Z",
+  "lastUpdated": "2026-09-13T19:27:50.617Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -10076,6 +10076,13 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -11236,6 +11243,13 @@
           "date": "2025-12-22",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
         }
       ]
     },
@@ -11876,6 +11890,13 @@
           "date": "2026-08-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
@@ -14773,6 +14794,19 @@
         }
       ]
     },
+    "9230": {
+      "name": "Tanner McKee",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
+        }
+      ]
+    },
     "9479": {
       "name": "Darnell Washington",
       "position": "TE",
@@ -16242,6 +16276,13 @@
           "date": "2026-09-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BAL"
         }
       ]
     },
@@ -17653,6 +17694,13 @@
           "date": "2025-12-29",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LV"
         }
       ]
     },
@@ -19258,6 +19306,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIN"
         }
       ]
     },
@@ -22228,6 +22283,13 @@
           "date": "2026-05-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
@@ -24112,6 +24174,13 @@
           "date": "2025-12-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "CLE"
         }
       ]
     },
@@ -27348,6 +27417,19 @@
         }
       ]
     },
+    "12538": {
+      "name": "Brady Cook",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
+        }
+      ]
+    },
     "12539": {
       "name": "Arian Smith",
       "position": "WR",
@@ -29425,6 +29507,19 @@
         }
       ]
     },
+    "13276": {
+      "name": "Omar Cooper Jr.",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "NYJ"
+        }
+      ]
+    },
     "13278": {
       "name": "Max Klare",
       "position": "TE",
@@ -29579,6 +29674,18 @@
           "date": "2026-08-02",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13293": {
+      "name": "Ja'Kobi Lane",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "BAL"
         }
       ]
     },
@@ -29865,6 +29972,19 @@
         }
       ]
     },
+    "13335": {
+      "name": "Cole Payton",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
+        }
+      ]
+    },
     "13338": {
       "name": "Kevin Coleman Jr.",
       "position": "WR",
@@ -29912,6 +30032,19 @@
           "to": "IR",
           "detail": "Knee",
           "team": "KC"
+        }
+      ]
+    },
+    "13347": {
+      "name": "Demond Claiborne",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIN"
         }
       ]
     },
@@ -30441,6 +30574,19 @@
         }
       ]
     },
+    "13557": {
+      "name": "Athan Kaliakmanis",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
+        }
+      ]
+    },
     "13580": {
       "name": "Carsen Ryan",
       "position": "TE",
@@ -30568,6 +30714,13 @@
           "date": "2026-08-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "GB"
         }
       ]
     },
