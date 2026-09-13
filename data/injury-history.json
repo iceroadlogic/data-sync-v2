@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T21:48:49.789Z",
+  "lastUpdated": "2026-09-13T17:11:35.775Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2259,6 +2259,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee - MCL",
+          "team": "NO"
         }
       ]
     },
@@ -3616,6 +3623,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -6641,6 +6653,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "BUF"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "BUF"
         }
       ]
     },
@@ -9061,6 +9080,13 @@
           "date": "2025-12-07",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -12392,6 +12418,19 @@
           "date": "2026-05-28",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "8147": {
+      "name": "John Metchie III",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -15784,6 +15823,13 @@
           "to": "Doubtful",
           "detail": "Hamstring",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "TB"
         }
       ]
     },
@@ -18130,6 +18176,13 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "CHI"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Back",
+          "team": "CHI"
         }
       ]
     },
@@ -20264,6 +20317,13 @@
           "date": "2026-05-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -20482,6 +20542,13 @@
           "to": "Doubtful",
           "detail": "Knee",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "TB"
         }
       ]
     },
@@ -20638,6 +20705,11 @@
           "to": "Questionable",
           "detail": "Leg",
           "team": "CHI"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21212,6 +21284,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Undisclosed",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Groin",
           "team": "BAL"
         }
       ]
@@ -24061,6 +24140,13 @@
           "date": "2025-12-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "IND"
         }
       ]
     },
@@ -24167,6 +24253,13 @@
           "date": "2026-08-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "IND"
         }
       ]
     },
@@ -25595,6 +25688,13 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
         }
       ]
     },
@@ -26392,6 +26492,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -27486,6 +27593,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "JAX"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -28661,6 +28773,19 @@
         }
       ]
     },
+    "12971": {
+      "name": "Ke'Shawn Williams",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CIN"
+        }
+      ]
+    },
     "12984": {
       "name": "CJ Dippre",
       "position": "TE",
@@ -29243,6 +29368,19 @@
         }
       ]
     },
+    "13268": {
+      "name": "Elijah Sarratt",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
+        }
+      ]
+    },
     "13270": {
       "name": "CJ Daniels",
       "position": "WR",
@@ -29362,6 +29500,19 @@
         }
       ]
     },
+    "13282": {
+      "name": "Jack Endries",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CIN"
+        }
+      ]
+    },
     "13287": {
       "name": "Jeremiyah Love",
       "position": "RB",
@@ -29377,6 +29528,32 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13288": {
+      "name": "Nicholas Singleton",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "TEN"
+        }
+      ]
+    },
+    "13289": {
+      "name": "Drew Allar",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -29512,6 +29689,19 @@
           "date": "2026-07-22",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13306": {
+      "name": "Taylen Green",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CLE"
         }
       ]
     },
@@ -29757,6 +29947,19 @@
         }
       ]
     },
+    "13350": {
+      "name": "Joe Fagnano",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
+        }
+      ]
+    },
     "13353": {
       "name": "Chris Brazzell II",
       "position": "WR",
@@ -29891,6 +30094,13 @@
           "date": "2026-08-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BUF"
         }
       ]
     },
@@ -29904,6 +30114,19 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "IND"
+        }
+      ]
+    },
+    "13408": {
+      "name": "Tanner Koziol",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
         }
       ]
     },
@@ -29999,6 +30222,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -30046,6 +30276,13 @@
           "date": "2026-09-11",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SF"
+        },
+        {
+          "date": "2026-09-13",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Ankle",
           "team": "SF"
         }
