@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T22:51:03.524Z",
+  "lastUpdated": "2026-09-14T23:32:39.808Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9756,6 +9756,13 @@
           "date": "2026-01-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
@@ -13666,6 +13673,13 @@
           "date": "2025-10-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
@@ -20364,6 +20378,19 @@
           "date": "2026-07-30",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11595": {
+      "name": "Jared Wiley",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -30812,6 +30839,19 @@
         }
       ]
     },
+    "13404": {
+      "name": "Garrett Nussmeier",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
+        }
+      ]
+    },
     "13407": {
       "name": "Carson Towt",
       "position": "TE",
@@ -31174,6 +31214,19 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13577": {
+      "name": "Dallen Bentley",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
