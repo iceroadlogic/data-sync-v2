@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-14T17:14:23.148Z",
+  "lastUpdated": "2026-09-14T22:51:03.524Z",
   "week": 1,
   "summary": {
-    "total_players": 753,
+    "total_players": 752,
     "ir": 56,
     "suspended": 1
   },
@@ -212,8 +212,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Back",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Lions GM Brad Holmes said Wednesday that Pacheco (back) doesn't have a clear timetable for return, Colton Pouncy of The Athletic reports."
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Pacheco (back) underwent surgery Monday and is expected to be out for a significant amount of time, Nolan Bianchi of The Detroit News reports."
     },
     {
       "player_id": "12482",
@@ -328,9 +328,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Caldwell (knee) reverted to the Chiefs' injured reserve list Tuesday, Charles Goldman of AtoZSports.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13342",
