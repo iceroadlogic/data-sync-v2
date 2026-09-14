@@ -1,6 +1,6 @@
 {
   "week": 1,
-  "lastUpdated": "2026-09-14T01:32:21.388Z",
+  "lastUpdated": "2026-09-14T16:11:29.415Z",
   "games": [
     {
       "game_id": "401872656",
@@ -9,10 +9,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "7 to 13 mph S",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "9%"
+        "temp": 69,
+        "wind": "3 to 8 mph SSW",
+        "conditions": "Partly Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
+        "temp": 82,
         "wind": "5 to 10 mph SSW",
-        "conditions": "Mostly Cloudy then Patchy Fog",
-        "precipitation": "2%"
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 to 8 mph N",
-        "conditions": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "15%"
+        "temp": 78,
+        "wind": "6 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "0 to 5 mph NNW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "9%"
+        "temp": 94,
+        "wind": "5 to 10 mph NE",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "1 to 8 mph NW",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "19%"
+        "temp": 71,
+        "wind": "7 mph N",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -90,9 +90,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "3 mph NW",
-        "conditions": "Mostly Clear",
+        "temp": 92,
+        "wind": "8 mph NNE",
+        "conditions": "Sunny",
         "precipitation": "1%"
       }
     },
@@ -103,10 +103,10 @@
       "stadium": "TIAA Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "7 mph S",
-        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "38%"
+        "temp": 92,
+        "wind": "6 to 9 mph NE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "26%"
       }
     },
     {
@@ -140,10 +140,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 mph W",
-        "conditions": "Patchy Fog",
-        "precipitation": "5%"
+        "temp": 76,
+        "wind": "10 mph N",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -153,10 +153,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
+        "temp": 82,
         "wind": "5 to 10 mph SSW",
-        "conditions": "Mostly Cloudy then Patchy Fog",
-        "precipitation": "2%"
+        "conditions": "Patchy Fog then Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -166,10 +166,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "2 to 10 mph W",
-        "conditions": "Partly Cloudy then Isolated Rain Showers",
-        "precipitation": "15%"
+        "temp": 76,
+        "wind": "12 mph N",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -179,10 +179,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "14 mph S",
+        "temp": 77,
+        "wind": "15 mph SSW",
         "conditions": "Mostly Clear",
-        "precipitation": "4%"
+        "precipitation": "3%"
       }
     }
   ]
