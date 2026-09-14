@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-14T01:40:31.548Z",
+  "lastUpdated": "2026-09-14T12:25:43.917Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 14,
-    "doubtful": 2,
+    "questionable": 13,
+    "doubtful": 3,
     "out": 66
   },
   "questionable": [
@@ -20,19 +20,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-20",
       "injury_comment": "Flowers (hamstring) has been ruled out for remainder of Sunday's game against the Colts, Jonas Shaffer of TheBaltimoreBanner.com reports."
-    },
-    {
-      "player_id": "13293",
-      "source_id": "4870847",
-      "player_name": "Ja'Kobi Lane",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Wrist",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "The Ravens announced that Lane has been ruled out for the remainder of Sunday's game against the Colts due to a wrist injury."
     },
     {
       "player_id": "12469",
@@ -149,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Murray (concussion) has been ruled out of Sunday's contest against the Packers, Alec Lewis of The Athletic reports."
+      "injury_comment": "Murray is undergoing a concussion evaluation after taking a hard hit in Sunday's Week 1 matchup versus the Packers."
     },
     {
       "player_id": "13276",
@@ -192,6 +179,19 @@
     }
   ],
   "doubtful": [
+    {
+      "player_id": "13293",
+      "source_id": "4870847",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Wrist",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Lane (wrist) suffered a fractured wrist in Sunday's 41-23 win over the Colts and will undergo further testing Monday, including an MRI, Mike Garafolo of NFL Network reports."
+    },
     {
       "player_id": "13417",
       "source_id": "4710714",
@@ -296,7 +296,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-17",
-      "injury_comment": "Bell (coach's decision) is inactive Week 1 against the Texans."
+      "injury_comment": "Bell (coach's decision) is inactive for Week 1 against the Texans."
     },
     {
       "player_id": "6039",
