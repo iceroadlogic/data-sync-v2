@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-13T23:31:21.228Z",
+  "lastUpdated": "2026-09-14T01:40:31.548Z",
   "week": 1,
   "summary": {
     "total_players": 753,
-    "questionable": 13,
+    "questionable": 14,
     "doubtful": 2,
-    "out": 67
+    "out": 66
   },
   "questionable": [
     {
@@ -48,19 +48,6 @@
       "injury_comment": "Sampson was on crutches and wearing a brace on the left knee he injured during Sunday's loss to Jacksonville, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
-      "player_id": "8204",
-      "source_id": "4259305",
-      "player_name": "Bo Melton",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "Melton (cramps) is questionable to return to Sunday's game against Minnesota."
-    },
-    {
       "player_id": "10212",
       "source_id": "4360086",
       "player_name": "Josh Whyle",
@@ -70,7 +57,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-09-13",
+      "est_return_date": "2026-09-20",
       "injury_comment": "Whyle (neck) is questionable to return to Sunday's game against the Vikings."
     },
     {
@@ -85,6 +72,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hand",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Pierce went to the locker room during Sunday's 41-23 loss to the Ravens for X-rays on his left hand and wrist, which came back negative, Nathan Brown of the Indianapolis Star reports."
     },
     {
       "player_id": "6964",
@@ -109,7 +109,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
+      "est_return_date": "2026-09-20",
       "injury_comment": "Lambert-Smith (hamstring) is questionable to return to Sunday's game against the Cardinals."
     },
     {
@@ -122,8 +122,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Chest",
-      "est_return_date": "2026-09-13",
-      "injury_comment": "McConkey is questionable to return to Sunday's game against Arizona due to a chest injury."
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Head coach Jim Harbaugh didn't have a postgame update on McConkey (chest), who exited in the second half of Sunday's 26-14 loss to the Cardinals, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "10214",
@@ -139,6 +139,19 @@
       "injury_comment": "Allen is getting examined for a possible concussion and is questionable to return to Thursday's matchup with the 49ers."
     },
     {
+      "player_id": "5849",
+      "source_id": "3917315",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Murray (concussion) has been ruled out of Sunday's contest against the Packers, Alec Lewis of The Athletic reports."
+    },
+    {
       "player_id": "13276",
       "source_id": "4723820",
       "player_name": "Omar Cooper Jr.",
@@ -149,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "The Jets ruled out Cooper (ankle) for the remainder of Sunday's game against the Titans."
+      "injury_comment": "Cooper is dealing with an ankle sprain after exiting in the first quarter of Sunday's 23-10 win over the Titans, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "8698",
@@ -174,7 +187,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-13",
+      "est_return_date": "2026-09-20",
       "injury_comment": "Okonkwo is questionable to return to Sunday's Week 1 game against Philadelphia due to a hamstring injury."
     }
   ],
@@ -543,7 +556,7 @@
       "injury_description": null,
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-20",
-      "injury_comment": "inactive"
+      "injury_comment": "Bowers (knee) left the locker room after Sunday's 27-13 win over the Dolphins walking unaided with a sleeve on his left leg, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "10866",
@@ -661,19 +674,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-20",
       "injury_comment": "McCarthy (coach's decision) is inactive but will serve as the Vikings' emergency third quarterback against the Packers on Sunday, Craig Peters of the Vikings' official site reports."
-    },
-    {
-      "player_id": "5849",
-      "source_id": "3917315",
-      "player_name": "Kyler Murray",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Murray (concussion) has been ruled out of Sunday's contest against the Packers, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "12542",
@@ -803,7 +803,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-21",
-      "injury_comment": "inactive"
+      "injury_comment": "Harris (coach's decision) is inactive for Sunday's game against the Cowboys, Dan Salomone of the Giants' official site reports."
     },
     {
       "player_id": "7720",

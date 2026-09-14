@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T23:31:21.228Z",
+  "lastUpdated": "2026-09-14T01:40:31.548Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5514,6 +5514,13 @@
           "date": "2026-09-13",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Concussion",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-09-14",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Concussion",
           "team": "MIN"
         }
@@ -12202,6 +12209,13 @@
           "date": "2026-09-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "IND"
         }
       ]
     },
@@ -13339,6 +13353,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "GB"
+        },
+        {
+          "date": "2026-09-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
