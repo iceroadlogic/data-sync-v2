@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-15T14:40:11.902Z",
+  "lastUpdated": "2026-09-15T19:32:54.390Z",
   "games": [
     {
       "game_id": "401872932",
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "10 to 15 mph N",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "53%"
+        "temp": 76,
+        "wind": "10 mph NE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "67%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 96,
-        "wind": "5 to 10 mph SW",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "temp": 98,
+        "wind": "5 mph SW",
+        "conditions": "Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -56,8 +56,8 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "5 to 9 mph SW",
+        "temp": 67,
+        "wind": "2 to 6 mph SE",
         "conditions": "Rain Showers Likely",
         "precipitation": "55%"
       }
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "7 to 12 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "50%"
+        "temp": 75,
+        "wind": "6 to 9 mph S",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "56%"
       }
     },
     {
@@ -83,9 +83,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "7 mph SE",
+        "wind": "5 to 8 mph E",
         "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "71%"
+        "precipitation": "72%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
+        "temp": 84,
         "wind": "5 to 10 mph S",
-        "conditions": "Partly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "40%"
+        "conditions": "Chance Rain Showers",
+        "precipitation": "43%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "1 to 6 mph NNE",
+        "temp": 75,
+        "wind": "1 to 7 mph NE",
         "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "33%"
+        "precipitation": "26%"
       }
     },
     {
@@ -129,8 +129,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "0 to 10 mph S",
+        "temp": 79,
+        "wind": "0 to 10 mph SSW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -159,8 +159,8 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "2 to 13 mph WNW",
-        "conditions": "Mostly Sunny",
+        "wind": "2 to 10 mph WNW",
+        "conditions": "Partly Sunny",
         "precipitation": "1%"
       }
     },
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 to 9 mph NNE",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "temp": 64,
+        "wind": "7 mph N",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "45%"
       }
     },
     {
@@ -185,7 +185,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "5 to 10 mph S",
+        "wind": "0 to 10 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
