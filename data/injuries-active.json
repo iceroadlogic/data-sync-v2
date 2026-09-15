@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T00:25:49.448Z",
+  "lastUpdated": "2026-09-15T01:17:06.490Z",
   "week": 1,
   "summary": {
     "total_players": 751,
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Coker is in a walking boot Monday after sustaining an ankle injury in Sunday's loss to the Bears, Mike Kaye of ESPN.com reports."
+      "injury_comment": "Coker is in a walking boot Monday after sustaining a left ankle injury in Sunday's loss to the Bears, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "12469",
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_comment": "Davis (undisclosed) is day-to-day with an injury he suffered during Sunday's 26-14 loss to the Cardinals."
     },
     {
       "player_id": "11635",
@@ -253,9 +253,9 @@
       "injury_status": "active",
       "injury_designation": "Doubtful",
       "injury_description": null,
-      "injury_detail": "Hip",
+      "injury_detail": "Lower Body",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Darnold (glute) is dealing with a \"very unique\" soft-tissue injury, but his hip joint is unaffected and the issue is considered short term, Brady Henderson of ESPN.com reports."
+      "injury_comment": "Darnold (glute) is dealing with a \"very unique\" soft-tissue injury, but his hip joint is unaffected, and the issue is considered short term, Brady Henderson of ESPN.com reports."
     }
   ],
   "out": [
@@ -320,9 +320,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-10-12",
-      "injury_comment": "out"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11256",
@@ -346,9 +346,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "The Browns placed Royer (personal) on the reserve/non-football illness list Sunday, Scott Petrak of the Elyria Chronicle-Telegram reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8208",
