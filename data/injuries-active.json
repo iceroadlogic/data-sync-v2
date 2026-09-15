@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-15T01:17:06.490Z",
-  "week": 1,
+  "lastUpdated": "2026-09-15T11:30:45.465Z",
+  "week": 2,
   "summary": {
     "total_players": 751,
-    "questionable": 15,
+    "questionable": 14,
     "doubtful": 4,
-    "out": 26
+    "out": 27
   },
   "questionable": [
     {
@@ -33,19 +33,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
       "injury_comment": "Coker is in a walking boot Monday after sustaining a left ankle injury in Sunday's loss to the Bears, Mike Kaye of ESPN.com reports."
-    },
-    {
-      "player_id": "12469",
-      "source_id": "5081397",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Coach Todd Monken said Monday the team is still evaluating the severity of Sampson's knee injury, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "10212",
@@ -229,7 +216,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-20",
-      "injury_comment": "doubtful"
+      "injury_comment": "Lambert-Smith (hamstring) will miss some time after exiting last Sunday's game against the Cardinals early, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "13417",
@@ -320,9 +307,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-10-12",
+      "injury_comment": "out"
     },
     {
       "player_id": "11256",
@@ -336,6 +323,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-09-20",
       "injury_comment": "out"
+    },
+    {
+      "player_id": "12469",
+      "source_id": "5081397",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Coach Todd Monken said Monday the team is still evaluating the severity of Sampson's knee injury, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "13435",
