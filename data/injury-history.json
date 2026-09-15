@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T15:54:14.576Z",
+  "lastUpdated": "2026-09-15T22:32:23.960Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -24648,6 +24648,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "CLE"
+        },
+        {
+          "date": "2026-09-15",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "CLE"
         }
       ]
     },
@@ -28545,6 +28552,13 @@
           "date": "2026-09-14",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-09-15",
+          "from": "Doubtful",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "LAC"
         }

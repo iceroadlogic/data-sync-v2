@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-15T19:22:00.473Z",
+  "lastUpdated": "2026-09-15T22:32:23.960Z",
   "week": 2,
   "summary": {
-    "total_players": 751,
-    "ir": 56,
+    "total_players": 748,
+    "ir": 58,
     "suspended": 1
   },
   "ir": [
@@ -136,6 +136,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-11",
       "injury_comment": "ir"
+    },
+    {
+      "player_id": "12469",
+      "source_id": "5081397",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Sampson (knee) was placed on injured reserve Tuesday."
     },
     {
       "player_id": "8800",
@@ -328,9 +341,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Caldwell (knee) reverted to the Chiefs' injured reserve list Tuesday, Charles Goldman of AtoZSports.com reports."
     },
     {
       "player_id": "13342",
@@ -354,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Holiday (undisclosed) was placed on injured reserve by the Chiefs on Sunday."
     },
     {
       "player_id": "11963",
@@ -422,6 +435,19 @@
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
       "injury_comment": "ir"
+    },
+    {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Lambert-Smith (hamstring) will miss some time after exiting Sunday's game against the Cardinals early, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "13597",
