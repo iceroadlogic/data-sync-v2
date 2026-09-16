@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-15T18:04:16.123Z",
+  "lastUpdated": "2026-09-16T00:05:21.051Z",
   "week": 2,
   "summary": {
-    "total_players": 751,
+    "total_players": 748,
     "questionable": 27,
-    "doubtful": 4,
-    "out": 9
+    "doubtful": 3,
+    "out": 8
   },
   "questionable": [
     {
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-17",
-      "injury_comment": "The Bills listed Johnson (hamstring) as a limited participant on Monday's estimated practice report."
+      "injury_comment": "Johnson (hamstring) was a limited participant in Tuesday's practice."
     },
     {
       "player_id": "11646",
@@ -372,20 +372,7 @@
       "injury_description": null,
       "injury_detail": "Wrist",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Ravens head coach Jesse Minter said that Lane will receive second and third medical opinions on his injured wrist this week before a timeline for his return is established, Sam Cohn of The Baltimore Sun reports."
-    },
-    {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Lambert-Smith (hamstring) will miss some time after exiting last Sunday's game against the Cardinals early, Alex Insdorf of BoltBeat.com reports."
+      "injury_comment": "Lane (wrist) is expected to undergo surgery in the coming days, potentially as soon as Wednesday, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "13417",
@@ -427,19 +414,6 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-10-12",
       "injury_comment": "out"
-    },
-    {
-      "player_id": "12469",
-      "source_id": "5081397",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Sampson (knee) is expected to miss \"significant time,\" Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "13435",
