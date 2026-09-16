@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T18:04:32.415Z",
+  "lastUpdated": "2026-09-16T19:12:24.388Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -14202,6 +14202,13 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-16",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Thumb",
+          "team": "MIN"
         }
       ]
     },
@@ -14535,6 +14542,13 @@
           "date": "2026-09-11",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "SF"
+        },
+        {
+          "date": "2026-09-16",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Knee",
           "team": "SF"
         }
@@ -30374,6 +30388,13 @@
           "date": "2026-09-14",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Wrist",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-09-16",
+          "from": "Doubtful",
+          "to": "IR",
           "detail": "Wrist",
           "team": "BAL"
         }
