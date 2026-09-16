@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T22:32:23.960Z",
+  "lastUpdated": "2026-09-16T18:04:32.415Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -21000,6 +21000,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-16",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22882,6 +22887,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-16",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "NYG"
         }
       ]
     },

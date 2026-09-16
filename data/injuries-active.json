@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T11:16:42.146Z",
+  "lastUpdated": "2026-09-16T18:04:32.415Z",
   "week": 2,
   "summary": {
     "total_players": 747,
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Oblique",
       "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_comment": "Coach Kevin Stefanski said Tagovailoa (oblique) won't take part in Wednesday's practice, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "9997",
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Ravens head coach Jesse Minter said Monday that Flowers (hamstring) is considered day-to-day, Sam Cohn of The Baltimore Sun reports."
+      "injury_comment": "Flowers (hamstring) wasn't seen during the media-access portion of Wednesday's practice, Jeff Zrebiec of The Athletic reports."
     },
     {
       "player_id": "11629",
@@ -175,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Raiders head coach Klint Kubiak labeled Bowers (knee) as day-to-day Monday, Sam Warren of The Athletic reports."
+      "injury_comment": "The knee injury Bowers is recovering from \"is not overly serious,\" and it's \"possible\" he could return in Week 2, Dan Graziano of ESPN.com reports."
     },
     {
       "player_id": "10234",
@@ -240,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Coach Mike Vrabel said Henderson (ankle) will practice Monday, Mike Reiss of ESPN.com reports."
+      "injury_comment": "Head coach Mike Vrabel said Henderson (ankle) will \"do some more\" at Wednesday's practice, Mark Daniels of MassLive.com reports."
     },
     {
       "player_id": "13319",
@@ -267,6 +267,19 @@
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-20",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "11655",
+      "source_id": "4360516",
+      "player_name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "Coach John Harbaugh said Wednesday that Tracy is dealing with an illness, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "13276",
@@ -321,19 +334,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "11618",
-      "source_id": "4430834",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "9506",
       "source_id": "4430871",
       "player_name": "Sean Tucker",
@@ -357,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Okonkwo is questionable to return to Sunday's Week 1 game against Philadelphia due to a hamstring injury."
+      "injury_comment": "Okonkwo (hamstring) won't participate in practice Wednesday, Tashan Reed of The Washington Post reports."
     }
   ],
   "doubtful": [
@@ -385,7 +385,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports."
+      "injury_comment": "The 49ers are expected to place Stribling (ankle) on injured reserve, Adam Schefter of ESPN.com reports."
     },
     {
       "player_id": "4943",
