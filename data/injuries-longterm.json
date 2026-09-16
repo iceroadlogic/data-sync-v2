@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-15T22:32:23.960Z",
+  "lastUpdated": "2026-09-16T15:45:54.229Z",
   "week": 2,
   "summary": {
-    "total_players": 748,
+    "total_players": 747,
     "ir": 58,
     "suspended": 1
   },
@@ -42,9 +42,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Randall (undisclosed) was placed on injured reserve by the Ravens on Sunday with a designation to return, Ryan Mink of the team's official website reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8206",
@@ -263,9 +263,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Dell (knee) agreed to take a pay cut from the Texans on Friday, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12484",
@@ -276,9 +276,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12705",
@@ -341,9 +341,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Caldwell (knee) reverted to the Chiefs' injured reserve list Tuesday, Charles Goldman of AtoZSports.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13342",
@@ -406,9 +406,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Runyon (undisclosed) was placed on injured reserve by the Raiders on Sunday with a designation to return."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9489",
@@ -432,9 +432,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12670",
@@ -447,7 +447,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Lambert-Smith (hamstring) will miss some time after exiting Sunday's game against the Cardinals early, Alex Insdorf of BoltBeat.com reports."
+      "injury_comment": "The Chargers placed Lambert-Smith (hamstring) on injured reserve Tuesday."
     },
     {
       "player_id": "13597",
