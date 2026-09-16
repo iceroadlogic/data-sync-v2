@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-16T14:39:59.023Z",
+  "lastUpdated": "2026-09-16T19:24:02.463Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "3 mph N",
-        "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "21%"
+        "temp": 56,
+        "wind": "1 to 6 mph N",
+        "conditions": "Partly Cloudy",
+        "precipitation": "13%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "10 to 15 mph NE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "52%"
+        "temp": 72,
+        "wind": "10 to 15 mph NNE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "56%"
       }
     },
     {
@@ -46,7 +46,7 @@
         "temp": 99,
         "wind": "5 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "9%"
+        "precipitation": "6%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 64,
         "wind": "2 to 6 mph SE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "54%"
+        "conditions": "Rain Showers Likely",
+        "precipitation": "65%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "9 mph SE",
+        "temp": 73,
+        "wind": "7 to 10 mph S",
         "conditions": "Rain Showers Likely",
-        "precipitation": "65%"
+        "precipitation": "70%"
       }
     },
     {
@@ -83,9 +83,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "7 mph ESE",
-        "conditions": "Isolated Showers And Thunderstorms",
-        "precipitation": "78%"
+        "wind": "3 to 7 mph E",
+        "conditions": "Mostly Sunny then Showers And Thunderstorms",
+        "precipitation": "76%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "5 to 10 mph S",
+        "temp": 84,
+        "wind": "6 to 10 mph S",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "57%"
+        "precipitation": "59%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "1 to 7 mph SE",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "29%"
+        "wind": "2 to 7 mph NNE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "34%"
       }
     },
     {
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "0 to 10 mph S",
+        "wind": "0 to 10 mph SSE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -158,8 +158,8 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "2 to 13 mph WNW",
+        "temp": 74,
+        "wind": "2 to 10 mph WNW",
         "conditions": "Mostly Sunny",
         "precipitation": "3%"
       }
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 66,
         "wind": "6 mph N",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "54%"
+        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+        "precipitation": "68%"
       }
     },
     {
@@ -185,7 +185,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "0 to 10 mph S",
+        "wind": "0 to 10 mph SSE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
