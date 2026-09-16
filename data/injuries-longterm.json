@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T19:12:24.388Z",
+  "lastUpdated": "2026-09-16T22:28:59.236Z",
   "week": 2,
   "summary": {
     "total_players": 749,
@@ -29,9 +29,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13293",
@@ -43,8 +43,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Wrist",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Lane (wrist) is expected to undergo surgery in the coming days, potentially as soon as Wednesday, Matt Zenitz of CBS Sports reports."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Coach Jesse Minter said Lane underwent wrist surgery Wednesday, and the Ravens placed the rookie wide receiver on injured reserve, Brian Wacker of The Baltimore Sun reports."
     },
     {
       "player_id": "13302",
@@ -731,9 +731,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "ir"
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Tonges (knee) was placed on injured reserve Wednesday."
     },
     {
       "player_id": "10867",
