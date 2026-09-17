@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-17T00:10:16.890Z",
+  "lastUpdated": "2026-09-17T14:44:10.975Z",
   "games": [
     {
       "game_id": "401872932",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "1 to 6 mph N",
-        "conditions": "Partly Cloudy",
-        "precipitation": "13%"
+        "wind": "1 to 8 mph N",
+        "conditions": "Chance Rain Showers then Partly Cloudy",
+        "precipitation": "28%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "10 to 15 mph NNE",
+        "temp": 70,
+        "wind": "15 to 20 mph NNE",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "56%"
+        "precipitation": "71%"
       }
     },
     {
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 99,
-        "wind": "5 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "wind": "5 mph WSW",
+        "conditions": "Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
+        "temp": 62,
         "wind": "2 to 6 mph SE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "65%"
+        "conditions": "Rain Showers",
+        "precipitation": "79%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "7 to 10 mph S",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "70%"
+        "temp": 72,
+        "wind": "7 to 12 mph S",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "89%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "3 to 7 mph E",
-        "conditions": "Mostly Sunny then Showers And Thunderstorms",
-        "precipitation": "76%"
+        "temp": 89,
+        "wind": "6 mph ESE",
+        "conditions": "Isolated Showers And Thunderstorms",
+        "precipitation": "84%"
       }
     },
     {
@@ -96,9 +96,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "6 to 10 mph S",
+        "wind": "7 to 10 mph SW",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "59%"
+        "precipitation": "66%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "2 to 7 mph NNE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "34%"
+        "temp": 74,
+        "wind": "1 to 7 mph N",
+        "conditions": "Chance Rain Showers then Chance Showers And Thunderstorms",
+        "precipitation": "50%"
       }
     },
     {
@@ -130,9 +130,9 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "0 to 10 mph SSE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "wind": "0 to 10 mph S",
+        "conditions": "Patchy Fog then Partly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -159,9 +159,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "2 to 10 mph WNW",
+        "wind": "3 to 12 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "6 mph N",
-        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-        "precipitation": "68%"
+        "temp": 65,
+        "wind": "7 mph NE",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "78%"
       }
     },
     {
@@ -185,7 +185,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "0 to 10 mph SSE",
+        "wind": "5 to 10 mph S",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
