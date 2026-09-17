@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T22:32:03.823Z",
+  "lastUpdated": "2026-09-17T23:18:55.937Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2856,6 +2856,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CIN"
         }
       ]
     },
@@ -6754,6 +6761,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BUF"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "BUF"
         }
@@ -31184,6 +31198,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BUF"
         }
       ]
     },
@@ -31310,6 +31331,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "SF"
         }
       ]
     },
