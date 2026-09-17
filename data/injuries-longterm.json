@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-16T22:28:59.236Z",
+  "lastUpdated": "2026-09-17T15:52:34.488Z",
   "week": 2,
   "summary": {
-    "total_players": 749,
+    "total_players": 753,
     "ir": 61,
     "suspended": 1
   },
@@ -39,7 +39,7 @@
       "player_name": "Ja'Kobi Lane",
       "position": "WR",
       "team_abbr": "BAL",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Wrist",
@@ -494,7 +494,7 @@
       "player_name": "Jordan Mason",
       "position": "RB",
       "team_abbr": "MIN",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Thumb",
@@ -510,9 +510,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Minnesota placed Yurosek on injured reserve Tuesday due to an undisclosed injury."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5859",
@@ -733,7 +733,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Tonges (knee) was placed on injured reserve Wednesday."
+      "injury_comment": "Tonges (knee) requires surgery for an MCL tear and is done for the season, Cam Inman reports."
     },
     {
       "player_id": "10867",
