@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T00:15:59.698Z",
+  "lastUpdated": "2026-09-17T11:24:59.957Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2459,6 +2459,13 @@
           "date": "2025-11-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "SEA"
         }
       ]
     },
@@ -26146,6 +26153,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
