@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T22:28:59.236Z",
+  "lastUpdated": "2026-09-17T00:15:59.698Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3217,6 +3217,13 @@
           "date": "2026-09-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Achilles",
+          "team": "SF"
         }
       ]
     },
@@ -17446,6 +17453,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -31379,6 +31391,19 @@
           "to": "IR",
           "detail": "Pectoral",
           "team": "TEN"
+        }
+      ]
+    },
+    "13429": {
+      "name": "Seydou Traore",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "MIA"
         }
       ]
     },
