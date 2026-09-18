@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-18T00:57:35.985Z",
+  "lastUpdated": "2026-09-18T10:58:32.911Z",
   "week": 2,
   "summary": {
     "total_players": 755,
-    "questionable": 33,
+    "questionable": 34,
     "doubtful": 0,
     "out": 12
   },
@@ -46,6 +46,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-20",
       "injury_comment": "Flowers (hamstring) was listed as a non-participant for Thursday's practice."
+    },
+    {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Moore (shoulder) has been ruled out for the remainder of Thursday night's game against the Lions."
     },
     {
       "player_id": "11646",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T00:01:39.907Z",
+  "lastUpdated": "2026-09-18T10:58:32.911Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4339,6 +4339,13 @@
           "date": "2026-08-20",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "BUF"
         }
       ]
     },
