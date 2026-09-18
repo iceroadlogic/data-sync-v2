@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-18T18:55:09.585Z",
+  "lastUpdated": "2026-09-18T23:55:34.746Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "8 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 52,
+        "wind": "5 mph NE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 99,
+        "temp": 100,
         "wind": "5 mph SW",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "3%"
       }
     },
     {
@@ -70,8 +70,8 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "6 to 10 mph SE",
-        "conditions": "Rain Showers",
+        "wind": "5 to 10 mph SE",
+        "conditions": "Showers And Thunderstorms",
         "precipitation": "84%"
       }
     },
@@ -83,9 +83,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "2 to 6 mph ENE",
+        "wind": "5 mph ENE",
         "conditions": "Mostly Sunny then Showers And Thunderstorms",
-        "precipitation": "76%"
+        "precipitation": "82%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "2 to 8 mph NNW",
-        "conditions": "Chance Rain Showers then Chance Showers And Thunderstorms",
-        "precipitation": "36%"
+        "temp": 72,
+        "wind": "1 to 7 mph NNE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -185,7 +185,7 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "5 to 10 mph SSW",
+        "wind": "5 to 10 mph S",
         "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
