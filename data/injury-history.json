@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T15:26:24.494Z",
+  "lastUpdated": "2026-09-18T17:37:17.511Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7236,6 +7236,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "IND"
         }
       ]
     },
@@ -13900,6 +13907,13 @@
           "date": "2026-09-13",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "WAS"
         }
@@ -22876,6 +22890,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "CAR"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
