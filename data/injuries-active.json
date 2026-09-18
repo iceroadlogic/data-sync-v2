@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-17T23:18:55.937Z",
+  "lastUpdated": "2026-09-18T00:01:39.907Z",
   "week": 2,
   "summary": {
     "total_players": 755,
-    "questionable": 34,
+    "questionable": 33,
     "doubtful": 0,
     "out": 12
   },
@@ -110,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_comment": "Perine (knee) was listed as a non-participant at the Bengals' practice Thursday."
     },
     {
       "player_id": "12489",
@@ -188,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
-      "injury_comment": "questionable"
+      "injury_comment": "Giddens (knee) did not participate at practice Thursday."
     },
     {
       "player_id": "8142",
@@ -412,19 +412,6 @@
       "injury_comment": "Kittle (Achilles) practiced in a limited capacity Thursday, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
-      "player_id": "4039",
-      "source_id": "2977187",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Kupp was a limited participant in Wednesday's practice due to a back injury, John Boyle of the Seahawks' official site reports."
-    },
-    {
       "player_id": "12641",
       "source_id": "4602667",
       "player_name": "Jaylin Lane",
@@ -435,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Lane (groin) was a limited participant at the Commanders' practice Wednesday."
+      "injury_comment": "Lane (groin) was a limited participant at practice Thursday."
     },
     {
       "player_id": "8210",
@@ -464,7 +451,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Bell (coach's decision) is inactive for Thursday's game versus Detroit."
     },
     {
       "player_id": "6039",
