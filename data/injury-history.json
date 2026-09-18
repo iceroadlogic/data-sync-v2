@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T17:37:17.511Z",
+  "lastUpdated": "2026-09-18T18:44:31.923Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7496,6 +7496,13 @@
           "to": "Questionable",
           "detail": "Oblique",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Oblique",
+          "team": "ATL"
         }
       ]
     },
@@ -8579,6 +8586,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19611,6 +19623,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Knee - ACL",
+          "team": "ATL"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee - ACL",
           "team": "ATL"
         }
@@ -30886,6 +30905,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
