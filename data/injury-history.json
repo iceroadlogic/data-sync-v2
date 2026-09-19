@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T22:03:23.250Z",
+  "lastUpdated": "2026-09-19T00:04:50.854Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15886,6 +15886,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "LAR"
         }
       ]
     },
@@ -21558,6 +21565,13 @@
           "date": "2026-01-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "LAR"
         }
       ]
     },
@@ -31645,6 +31659,11 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "MIA"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
