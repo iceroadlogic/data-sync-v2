@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-19T18:17:22.733Z",
+  "lastUpdated": "2026-09-19T21:55:48.694Z",
   "week": 2,
   "summary": {
     "total_players": 754,
-    "ir": 61,
+    "ir": 63,
     "suspended": 1
   },
   "ir": [
@@ -575,9 +575,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Thigh",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "The Saints placed Estime (thigh) on injured reserve Saturday, Ross Jackson of WWL Louisiana reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12480",
@@ -630,6 +630,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13276",
+      "source_id": "4723820",
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "4351",
@@ -721,6 +734,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13417",
+      "source_id": "4710714",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The 49ers placed Stribling (ankle) on injured reserve Saturday."
     },
     {
       "player_id": "8698",

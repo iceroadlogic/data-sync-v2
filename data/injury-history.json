@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T17:07:10.542Z",
+  "lastUpdated": "2026-09-19T21:55:48.694Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16802,6 +16802,13 @@
           "to": "Doubtful",
           "detail": "Hamstring",
           "team": "BAL"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "BAL"
         }
       ]
     },
@@ -18265,6 +18272,13 @@
           "date": "2026-09-18",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Personal",
+          "team": "LV"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Personal",
           "team": "LV"
         }
@@ -21577,6 +21591,13 @@
           "date": "2026-09-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Quadriceps",
           "team": "LAR"
         }
@@ -30575,6 +30596,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -31620,6 +31648,13 @@
           "date": "2026-09-16",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "SF"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Out",
+          "to": "IR",
           "detail": "Ankle",
           "team": "SF"
         }
