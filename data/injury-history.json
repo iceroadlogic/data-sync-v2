@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T00:04:50.854Z",
+  "lastUpdated": "2026-09-19T17:07:10.542Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -8033,6 +8033,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Foot",
+          "team": "PIT"
+        },
+        {
+          "date": "2026-09-19",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
           "team": "PIT"
         }
       ]
