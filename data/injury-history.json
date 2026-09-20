@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T17:14:56.683Z",
+  "lastUpdated": "2026-09-20T19:29:20.224Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4832,6 +4832,13 @@
           "date": "2026-01-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "PHI"
         }
       ]
     },
@@ -11620,6 +11627,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
         }
       ]
     },
@@ -13928,6 +13942,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
@@ -17249,6 +17270,13 @@
           "date": "2026-01-02",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Neck",
+          "team": "GB"
         }
       ]
     },
@@ -21270,6 +21298,13 @@
           "to": "Doubtful",
           "detail": "Knee - Meniscus",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee - Meniscus",
+          "team": "LV"
         }
       ]
     },
@@ -22552,6 +22587,11 @@
           "to": "Questionable",
           "detail": "Chest",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23171,6 +23211,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
@@ -25651,6 +25698,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -26102,6 +26156,13 @@
           "date": "2026-09-16",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "DEN"
         }
@@ -26743,6 +26804,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
         }
       ]
     },
@@ -28466,6 +28534,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
         }
       ]
     },
@@ -28871,6 +28946,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -30466,6 +30548,19 @@
         }
       ]
     },
+    "13199": {
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
+        }
+      ]
+    },
     "13202": {
       "name": "Dalevon Campbell",
       "position": "WR",
@@ -31599,6 +31694,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
         }
       ]
     },
@@ -31683,6 +31785,11 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "SF"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -31808,6 +31915,19 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13421": {
+      "name": "Eli Raridon",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thigh",
+          "team": "NE"
         }
       ]
     },
@@ -31964,6 +32084,19 @@
         }
       ]
     },
+    "13554": {
+      "name": "CJ Williams",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
+        }
+      ]
+    },
     "13557": {
       "name": "Athan Kaliakmanis",
       "position": "QB",
@@ -31979,6 +32112,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
@@ -32110,6 +32250,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
