@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-20T21:45:41.276Z",
+  "lastUpdated": "2026-09-20T23:33:12.869Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,8 +9,8 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "7 mph N",
+        "temp": 50,
+        "wind": "2 to 6 mph NE",
         "conditions": "Mostly Cloudy",
         "precipitation": "3%"
       }
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "20 to 25 mph NE",
-        "conditions": "Rain Showers",
-        "precipitation": "88%"
+        "temp": 58,
+        "wind": "15 to 20 mph NE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "64%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 99,
-        "wind": "5 mph WSW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "temp": 75,
+        "wind": "5 mph SSW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "8%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "6 mph SE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "72%"
+        "temp": 55,
+        "wind": "2 to 7 mph E",
+        "conditions": "Light Rain",
+        "precipitation": "100%"
       }
     },
     {
@@ -69,8 +69,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "6 mph S",
+        "temp": 62,
+        "wind": "2 to 13 mph NW",
         "conditions": "Light Rain Likely",
         "precipitation": "66%"
       }
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "5 mph NNE",
-        "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "30%"
+        "temp": 74,
+        "wind": "3 mph ENE",
+        "conditions": "Scattered Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "37%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "6 mph SW",
-        "conditions": "Isolated Showers And Thunderstorms",
-        "precipitation": "20%"
+        "temp": 65,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "64%"
       }
     },
     {
