@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T21:55:48.694Z",
+  "lastUpdated": "2026-09-20T17:14:56.683Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -641,6 +641,13 @@
           "date": "2026-01-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CHI"
         }
       ]
     },
@@ -7525,6 +7532,13 @@
           "to": "Doubtful",
           "detail": "Oblique",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Oblique",
+          "team": "ATL"
         }
       ]
     },
@@ -7549,6 +7563,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "CIN"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9342,6 +9361,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -10374,6 +10400,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -10461,6 +10494,19 @@
           "date": "2026-02-22",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "7602": {
+      "name": "Kylen Granson",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "TEN"
         }
       ]
     },
@@ -12700,6 +12746,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15269,6 +15320,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -16694,6 +16752,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -21041,6 +21106,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -21327,6 +21399,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27480,6 +27557,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -29910,6 +29994,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CIN"
         }
       ]
     },
@@ -30755,6 +30846,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -30849,6 +30947,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
@@ -30946,6 +31051,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CLE"
         }
       ]
     },
@@ -31150,6 +31262,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -31268,6 +31387,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -31587,6 +31713,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -32074,6 +32207,19 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13827": {
+      "name": "Tanner Arkin",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
