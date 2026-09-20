@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T19:29:20.224Z",
+  "lastUpdated": "2026-09-20T21:45:16.625Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1675,6 +1675,19 @@
         }
       ]
     },
+    "3286": {
+      "name": "Demarcus Robinson",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SF"
+        }
+      ]
+    },
     "3294": {
       "name": "Dak Prescott",
       "position": "QB",
@@ -2041,6 +2054,13 @@
           "date": "2026-03-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "LAC"
         }
       ]
     },
@@ -3794,6 +3814,13 @@
           "date": "2025-12-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "PHI"
         }
       ]
     },
@@ -8690,6 +8717,13 @@
           "date": "2025-12-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "PIT"
         }
       ]
     },
@@ -13753,6 +13787,13 @@
           "date": "2026-09-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "GB"
         }
       ]
     },
@@ -17277,6 +17318,13 @@
           "to": "Out",
           "detail": "Neck",
           "team": "GB"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "GB"
         }
       ]
     },
@@ -19823,6 +19871,19 @@
         }
       ]
     },
+    "11560": {
+      "name": "Caleb Williams",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "CHI"
+        }
+      ]
+    },
     "11562": {
       "name": "Spencer Rattler",
       "position": "QB",
@@ -20556,6 +20617,13 @@
           "date": "2026-09-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "CAR"
         }
       ]
     },
@@ -23025,6 +23093,12 @@
           "date": "2025-11-03",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "MIA"
         }
       ]
     },
@@ -26624,6 +26698,13 @@
           "date": "2026-03-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "NYJ"
         }
       ]
     },

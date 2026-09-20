@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-20T19:29:20.224Z",
+  "lastUpdated": "2026-09-20T21:45:16.625Z",
   "week": 2,
   "summary": {
-    "total_players": 754,
-    "questionable": 7,
+    "total_players": 755,
+    "questionable": 17,
     "doubtful": 1,
-    "out": 54
+    "out": 53
   },
   "questionable": [
     {
@@ -20,6 +20,58 @@
       "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-09-27",
       "injury_comment": "The Bills are treating Moore as day-to-day after he was diagnosed with an AC joint sprain in his shoulder after exiting Thursday's 41-31 win over the Lions, Ian Rapoport of NFL Network reports."
+    },
+    {
+      "player_id": "11583",
+      "source_id": "4678008",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Head coach Dave Canales told reporters after Sunday's 34-3 win over the Falcons that Brooks is considered day-to-day due to a groin injury, Joe Person of The Athletic reports."
+    },
+    {
+      "player_id": "11560",
+      "source_id": "4431611",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-28",
+      "injury_comment": "Williams will undergo imaging on his right hamstring Monday, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "8204",
+      "source_id": "4259305",
+      "player_name": "Bo Melton",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Melton (neck) is questionable to return to Sunday's game against the Jets."
+    },
+    {
+      "player_id": "10222",
+      "source_id": "4362249",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-09-24",
+      "injury_comment": "Coach Matt LaFleur said Reed has movement in all of his extremities after he suffered a neck injury during Sunday's 20-17 overtime win at the Jets, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "8116",
@@ -61,6 +113,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Njoku (knee) is questionable to return to Sunday's game against the Raiders."
+    },
+    {
       "player_id": "9493",
       "source_id": "4426515",
       "player_name": "Puka Nacua",
@@ -74,6 +139,19 @@
       "injury_comment": "Nacua (hip), who is officially listed as questionable for Monday's game against the Giants \"is trending the wrong way\" in advance of the Week 2 contest, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "11643",
+      "source_id": "4682745",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": "Wright had two kick returns for 106 yards alongside one carry for a one-yard loss in Sunday's 27-13 loss to the Raiders."
+    },
+    {
       "player_id": "13421",
       "source_id": "4831959",
       "player_name": "Eli Raridon",
@@ -83,8 +161,34 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Thigh",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Raridon (thigh) has been ruled out for the remainder of Sunday's game against the Steelers."
+    },
+    {
+      "player_id": "12498",
+      "source_id": "4808766",
+      "player_name": "Mason Taylor",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thumb",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Raridon is questionable to return to Sunday's game against the Steelers due to a thigh injury."
+      "injury_comment": "Taylor (thumb) is questionable to return to Sunday's game against the Packers, Zack Rosenblatt of The Athletic reports."
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-09-28",
+      "injury_comment": "Barkley said after Sunday's 24-20 win at Tennessee that he feels \"alright,\" but he'll undergo an MRI after missing a portion of the game due to a stinger, Cameron Wolfe of NFL Network reports."
     },
     {
       "player_id": "5022",
@@ -98,6 +202,32 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-09-20",
       "injury_comment": "Goedert is questionable to return to Sunday's game against the Titans due to a knee injury."
+    },
+    {
+      "player_id": "7021",
+      "source_id": "4038815",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Dowdle has been ruled out for the remainder of Sunday's game against the Patriots, Brooke Pryor of ESPN.com reports. He finished with seven carries for 22 yards and two catches for 22 yards on two targets."
+    },
+    {
+      "player_id": "3286",
+      "source_id": "3043116",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Robinson (ankle) is questionable to return to Sunday's game against the Dolphins."
     }
   ],
   "doubtful": [
@@ -295,7 +425,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
-      "est_return_date": null,
+      "est_return_date": "2026-09-27",
       "injury_comment": "inactive"
     },
     {
@@ -349,19 +479,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "10222",
-      "source_id": "4362249",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-09-24",
-      "injury_comment": "Reed has been ruled out of Sunday's game at the Jets due to a neck injury."
     },
     {
       "player_id": "9481",
@@ -478,7 +595,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Cook (coach's decision) is inactive as the Dolphins' emergency third quarterback for Sunday's game against the 49ers."
     },
     {
       "player_id": "8117",
@@ -491,7 +608,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Tolbert (coach's decision) is inactive for Sunday's game against the 49ers."
     },
     {
       "player_id": "7049",
@@ -699,7 +816,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Rourke (coach's decision) is inactive for Sunday's game against the Dolphins but will serve as the emergency third quarterback."
     },
     {
       "player_id": "12634",
@@ -712,7 +829,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Watkins (coach's decision) is inactive for Sunday's game against the Dolphins."
     },
     {
       "player_id": "11651",
