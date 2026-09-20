@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-20T17:20:13.837Z",
+  "lastUpdated": "2026-09-20T19:31:46.336Z",
   "games": [
     {
       "game_id": "401872932",
@@ -12,7 +12,7 @@
         "temp": 67,
         "wind": "7 mph N",
         "conditions": "Mostly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "4%"
       }
     },
     {
@@ -44,7 +44,7 @@
       "is_dome": false,
       "weather": {
         "temp": 99,
-        "wind": "5 mph WSW",
+        "wind": "5 mph W",
         "conditions": "Mostly Sunny",
         "precipitation": "11%"
       }
@@ -56,9 +56,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 mph SE",
-        "conditions": "Rain",
+        "temp": 61,
+        "wind": "6 mph SE",
+        "conditions": "Light Rain",
         "precipitation": "100%"
       }
     },
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "7 to 10 mph SE",
-        "conditions": "Periods Of Rain",
-        "precipitation": "95%"
+        "temp": 70,
+        "wind": "8 mph S",
+        "conditions": "Light Rain Likely",
+        "precipitation": "70%"
       }
     },
     {
@@ -85,7 +85,7 @@
         "temp": 90,
         "wind": "5 mph NNE",
         "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "61%"
+        "precipitation": "30%"
       }
     },
     {
@@ -96,9 +96,9 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "8 to 12 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "69%"
+        "wind": "9 mph SW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "70%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "8 mph NE",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "wind": "7 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "14%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "5 to 10 mph SW",
-        "conditions": "Patchy Fog then Mostly Cloudy",
-        "precipitation": "2%"
+        "temp": 81,
+        "wind": "10 mph SW",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -173,8 +173,8 @@
       "weather": {
         "temp": 65,
         "wind": "7 mph N",
-        "conditions": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
-        "precipitation": "17%"
+        "conditions": "Mostly Cloudy then Patchy Fog",
+        "precipitation": "14%"
       }
     },
     {
@@ -184,9 +184,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
+        "temp": 79,
         "wind": "5 to 10 mph SSW",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "conditions": "Partly Sunny",
         "precipitation": "3%"
       }
     }
