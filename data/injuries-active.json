@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-20T21:45:16.625Z",
+  "lastUpdated": "2026-09-20T23:34:03.412Z",
   "week": 2,
   "summary": {
     "total_players": 755,
-    "questionable": 17,
+    "questionable": 22,
     "doubtful": 1,
-    "out": 53
+    "out": 56
   },
   "questionable": [
     {
@@ -48,6 +48,19 @@
       "injury_comment": "Williams will undergo imaging on his right hamstring Monday, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "6806",
+      "source_id": "4241985",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Dobbins exited Sunday's game versus the Jaguars due to a hamstring injury, Sam Jane of The Denver Post reports."
+    },
+    {
       "player_id": "8204",
       "source_id": "4259305",
       "player_name": "Bo Melton",
@@ -87,19 +100,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12471",
-      "source_id": "4874509",
-      "player_name": "DJ Giddens",
-      "position": "RB",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Giddens (knee) is listed as questionable for Sunday's game against the Chiefs."
-    },
-    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -113,6 +113,32 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "8527",
+      "source_id": "4401805",
+      "player_name": "Dareke Young",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Young (hamstring) is questionable to return to Sunday's game against the Chargers."
+    },
+    {
+      "player_id": "8127",
+      "source_id": "4241263",
+      "player_name": "Charlie Kolar",
+      "position": "TE",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Forearm",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Kolar (forearm) is questionable to return to Sunday's game against the Raiders."
+    },
+    {
       "player_id": "4033",
       "source_id": "3123076",
       "player_name": "David Njoku",
@@ -122,8 +148,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Njoku (knee) is questionable to return to Sunday's game against the Raiders."
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Njoku (knee) won't return to Sunday's game against the Raiders."
     },
     {
       "player_id": "9493",
@@ -139,6 +165,19 @@
       "injury_comment": "Nacua (hip), who is officially listed as questionable for Monday's game against the Giants \"is trending the wrong way\" in advance of the Week 2 contest, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "13296",
+      "source_id": "4869645",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Douglas (ankle) is questionable to return to Sunday's game against the 49ers."
+    },
+    {
       "player_id": "11643",
       "source_id": "4682745",
       "player_name": "Jaylen Wright",
@@ -147,9 +186,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": "Wright had two kick returns for 106 yards alongside one carry for a one-yard loss in Sunday's 27-13 loss to the Raiders."
+      "injury_detail": "Neck",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Wright (neck) is questionable to return to Sunday's game against the 49ers."
     },
     {
       "player_id": "13421",
@@ -217,6 +256,19 @@
       "injury_comment": "Dowdle has been ruled out for the remainder of Sunday's game against the Patriots, Brooke Pryor of ESPN.com reports. He finished with seven carries for 22 yards and two catches for 22 yards on two targets."
     },
     {
+      "player_id": "2216",
+      "source_id": "16737",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-09-20",
+      "injury_comment": "Evans sustained a hip injury during Sunday's contest against the Dolphins, Matt Barrows of The Athletic reports."
+    },
+    {
       "player_id": "3286",
       "source_id": "3043116",
       "player_name": "Demarcus Robinson",
@@ -226,8 +278,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Robinson (ankle) has been ruled out for the rest of Sunday's game against the Dolphins, Matt Barrows of The Athletic reports."
+    },
+    {
+      "player_id": "13286",
+      "source_id": "4685512",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
       "est_return_date": "2026-09-20",
-      "injury_comment": "Robinson (ankle) is questionable to return to Sunday's game against the Dolphins."
+      "injury_comment": "Price (chest) is questionable to return to Sunday's game against the Cardinals."
     }
   ],
   "doubtful": [
@@ -517,7 +582,33 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Dulin (ankle) is listed as out for Sunday's game against the Chiefs, Kevin Bowen of 107.5 The Fan Indianapolis reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12471",
+      "source_id": "4874509",
+      "player_name": "DJ Giddens",
+      "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Giddens (knee) is inactive for Sunday night's matchup with the Chiefs."
+    },
+    {
+      "player_id": "12470",
+      "source_id": "4683423",
+      "player_name": "Riley Leonard",
+      "position": "QB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Leonard (coach's decision) is inactive, but he'll serve as the Colts' emergency third quarterback for Sunday night's contest against Kansas City."
     },
     {
       "player_id": "12500",
@@ -895,6 +986,19 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
       "injury_comment": "Granson (coach's decision) is inactive for Sunday's game against Philadelphia."
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Daniels has been ruled out for the rest of Sunday's game against the Cowboys due to a left elbow injury."
     },
     {
       "player_id": "13557",
