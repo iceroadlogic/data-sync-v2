@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-19T17:07:10.542Z",
+  "lastUpdated": "2026-09-20T00:00:40.446Z",
   "week": 2,
   "summary": {
     "total_players": 754,
-    "questionable": 13,
+    "questionable": 11,
     "doubtful": 3,
     "out": 22
   },
@@ -87,19 +87,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "10866",
-      "source_id": "4260394",
-      "player_name": "Aidan O'Connell",
-      "position": "QB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "O'Connell is listed as questionable for Sunday's game against the Chargers due to personal reasons."
-    },
-    {
       "player_id": "11635",
       "source_id": "4612826",
       "player_name": "Ladd McConkey",
@@ -123,20 +110,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-09-21",
-      "injury_comment": "Nacua didn't practice Friday due to a hip injury, Benjamin Royer of The Orange County Register reports."
-    },
-    {
-      "player_id": "11623",
-      "source_id": "4569382",
-      "player_name": "Jordan Whittington",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-09-21",
-      "injury_comment": "Whittington (quadriceps) did not practice Friday."
+      "injury_comment": "Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports."
     },
     {
       "player_id": "8144",
@@ -193,19 +167,6 @@
       "injury_comment": "Tagovailoa (oblique) is doubtful for Sunday's game versus the Panthers, Will McFadden of the Falcons' official site reports."
     },
     {
-      "player_id": "9997",
-      "source_id": "4429615",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Flowers (hamstring) is listed as doubtful for Sunday's game against New Orleans."
-    },
-    {
       "player_id": "11604",
       "source_id": "4432665",
       "player_name": "Brock Bowers",
@@ -217,6 +178,19 @@
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-20",
       "injury_comment": "Bowers (knee) will be listed as doubtful for Sunday's game at the Chargers, and Raiders coach Klint Kubiak said Friday that the tight end will be worked out pregame before a final decision is made, Sam Warren of The Athletic reports."
+    },
+    {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "Whittington (quadriceps) is doubtful to play in Monday's game against the Giants, Benjamin Royer of The Orange County Register reports."
     }
   ],
   "out": [
@@ -232,6 +206,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-09-24",
       "injury_comment": "Penix (knee) won't play in Sunday's game against the Panthers, Will McFadden of the Falcons' official site reports."
+    },
+    {
+      "player_id": "9997",
+      "source_id": "4429615",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Flowers (hamstring) has been downgraded to out for Sunday's game against the Saints."
     },
     {
       "player_id": "13402",
@@ -335,7 +322,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Collins (hamstring) will not play Sunday against the Bengals."
+      "injury_comment": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "6427",
@@ -349,6 +336,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
       "injury_comment": "Dulin (ankle) is listed as out for Sunday's game against the Chiefs, Kevin Bowen of 107.5 The Fan Indianapolis reports."
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Personal",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "O'Connell (personal) has been ruled out ahead of Sunday's game against the Chargers, Paul Gutierrez of Raiders.com reports."
     },
     {
       "player_id": "7049",
@@ -390,19 +390,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13276",
-      "source_id": "4723820",
-      "player_name": "Omar Cooper Jr.",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports."
-    },
-    {
       "player_id": "7720",
       "source_id": "4035537",
       "player_name": "Kene Nwangwu",
@@ -424,9 +411,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Ankle",
+      "injury_detail": "Foot",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Pittman (foot) is listed as questionable for Sunday's game against the Patriots, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "Pittman (foot) has been ruled out for Sunday's game at New England, Burt Lauten of the Steelers' official site reports."
     },
     {
       "player_id": "6803",
@@ -440,19 +427,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13417",
-      "source_id": "4710714",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "The 49ers are expected to place Stribling (ankle) on injured reserve, Adam Schefter of ESPN.com reports."
     },
     {
       "player_id": "11651",
