@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T22:55:54.136Z",
+  "lastUpdated": "2026-09-21T23:41:58.326Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16168,6 +16168,13 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "LAR"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hip",
+          "team": "LAR"
         }
       ]
     },
@@ -21969,6 +21976,13 @@
           "date": "2026-09-19",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Quadriceps",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Quadriceps",
           "team": "LAR"
         }
@@ -29736,6 +29750,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NYG"
         }
       ]
     },
@@ -31050,6 +31071,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -31086,6 +31114,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
