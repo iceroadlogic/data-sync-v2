@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-20T23:33:12.869Z",
+  "lastUpdated": "2026-09-21T01:31:06.979Z",
   "games": [
     {
       "game_id": "401872932",
@@ -84,8 +84,8 @@
       "weather": {
         "temp": 74,
         "wind": "3 mph ENE",
-        "conditions": "Scattered Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "37%"
+        "conditions": "Isolated Showers And Thunderstorms then Mostly Clear",
+        "precipitation": "21%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "3 to 8 mph NW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "64%"
+        "temp": 66,
+        "wind": "3 to 7 mph NW",
+        "conditions": "Scattered Showers And Thunderstorms",
+        "precipitation": "39%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "7 mph NE",
-        "conditions": "Sunny",
-        "precipitation": "14%"
+        "temp": 52,
+        "wind": "1 to 6 mph NNW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "precipitation": "26%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 81,
-        "wind": "10 mph WSW",
+        "temp": 65,
+        "wind": "0 to 10 mph SSW",
         "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "3%"
       }
     },
     {
@@ -158,10 +158,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "9 mph NNW",
+        "temp": 56,
+        "wind": "2 to 8 mph N",
         "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
