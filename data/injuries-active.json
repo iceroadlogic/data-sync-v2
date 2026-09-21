@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-20T23:34:03.412Z",
+  "lastUpdated": "2026-09-21T01:41:09.731Z",
   "week": 2,
   "summary": {
     "total_players": 755,
-    "questionable": 22,
-    "doubtful": 1,
+    "questionable": 21,
+    "doubtful": 3,
     "out": 56
   },
   "questionable": [
@@ -31,7 +31,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Head coach Dave Canales told reporters after Sunday's 34-3 win over the Falcons that Brooks is considered day-to-day due to a groin injury, Joe Person of The Athletic reports."
     },
     {
@@ -57,7 +57,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Dobbins exited Sunday's game versus the Jaguars due to a hamstring injury, Sam Jane of The Denver Post reports."
     },
     {
@@ -70,7 +70,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-24",
       "injury_comment": "Melton (neck) is questionable to return to Sunday's game against the Jets."
     },
     {
@@ -135,7 +135,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Forearm",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Kolar (forearm) is questionable to return to Sunday's game against the Raiders."
     },
     {
@@ -174,7 +174,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Douglas (ankle) is questionable to return to Sunday's game against the 49ers."
     },
     {
@@ -213,7 +213,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Thumb",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Taylor (thumb) is questionable to return to Sunday's game against the Packers, Zack Rosenblatt of The Athletic reports."
     },
     {
@@ -239,7 +239,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-09-20",
+      "est_return_date": "2026-09-28",
       "injury_comment": "Goedert is questionable to return to Sunday's game against the Titans due to a knee injury."
     },
     {
@@ -265,21 +265,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Evans sustained a hip injury during Sunday's contest against the Dolphins, Matt Barrows of The Athletic reports."
-    },
-    {
-      "player_id": "3286",
-      "source_id": "3043116",
-      "player_name": "Demarcus Robinson",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Robinson (ankle) has been ruled out for the rest of Sunday's game against the Dolphins, Matt Barrows of The Athletic reports."
+      "injury_comment": "Head coach Kyle Shanahan said after Sunday's 35-13 win over the Dolphins that Evans (hip) is fine, Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "13286",
@@ -291,8 +278,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Chest",
-      "est_return_date": "2026-09-20",
-      "injury_comment": "Price (chest) is questionable to return to Sunday's game against the Cardinals."
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Head coach Mike McDaniel said after Sunday's 31-7 win over the Cardinals that X-rays came back negative on Price's chest injury, Curtis Crabtree of Fox 13 Seattle reports."
     }
   ],
   "doubtful": [
@@ -308,6 +295,32 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-09-21",
       "injury_comment": "Whittington (quadriceps) is doubtful to play in Monday's game against the Giants, Benjamin Royer of The Orange County Register reports."
+    },
+    {
+      "player_id": "3286",
+      "source_id": "3043116",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Coach Kyle Shanahan said Robinson is believed to have suffered a high-ankle sprain in Sunday's win over the Dolphins, Vic Tafur of The Athletic reports."
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Daniels (elbow) suffered a dislocated left elbow but isn't dealing with a fracture, head coach Dan Quinn revealed after Sunday's 37-20 loss to the Cowboys, Tashan Reed of the Washington Post reports."
     }
   ],
   "out": [
@@ -609,6 +622,19 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
       "injury_comment": "Leonard (coach's decision) is inactive, but he'll serve as the Colts' emergency third quarterback for Sunday night's contest against Kansas City."
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Pierce (heel) has been ruled out for the remainder of Sunday's game against the Chiefs, Stephen Holder of ESPN.com reports."
     },
     {
       "player_id": "12500",
@@ -946,7 +972,7 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-09-27",
-      "injury_comment": "inactive"
+      "injury_comment": "Darnold (glute) is ahead of schedule in his recovery and has a chance to practice ahead of Seattle's Week 3 road game against the Commanders, head coach Mike Macdonald said after Sunday's 31-7 victory over the Cardinals, Curtis Crabtree of Fox 13 Seattle reports."
     },
     {
       "player_id": "13199",
@@ -986,19 +1012,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-09-27",
       "injury_comment": "Granson (coach's decision) is inactive for Sunday's game against Philadelphia."
-    },
-    {
-      "player_id": "11566",
-      "source_id": "4426348",
-      "player_name": "Jayden Daniels",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Daniels has been ruled out for the rest of Sunday's game against the Cowboys due to a left elbow injury."
     },
     {
       "player_id": "13557",

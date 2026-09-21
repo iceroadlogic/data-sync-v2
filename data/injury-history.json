@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T23:34:03.412Z",
+  "lastUpdated": "2026-09-21T01:41:09.731Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1690,6 +1690,13 @@
           "date": "2026-09-20",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SF"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Ankle",
           "team": "SF"
         }
@@ -12649,6 +12656,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Heel",
+          "team": "IND"
         }
       ]
     },
@@ -20232,6 +20246,13 @@
           "date": "2026-09-20",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Elbow",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Out",
+          "to": "Doubtful",
           "detail": "Elbow",
           "team": "WAS"
         }
