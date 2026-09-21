@@ -1,6 +1,6 @@
 {
   "week": 2,
-  "lastUpdated": "2026-09-21T01:31:06.979Z",
+  "lastUpdated": "2026-09-21T16:16:00.801Z",
   "games": [
     {
       "game_id": "401872932",
@@ -9,10 +9,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "2 to 6 mph NE",
+        "temp": 62,
+        "wind": "10 mph NE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "0%"
       }
     },
     {
@@ -30,8 +30,8 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "15 to 20 mph NE",
+        "temp": 64,
+        "wind": "15 to 20 mph ENE",
         "conditions": "Rain Showers Likely",
         "precipitation": "64%"
       }
@@ -43,10 +43,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "5 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "8%"
+        "temp": 98,
+        "wind": "5 mph W",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "29%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "2 to 7 mph E",
-        "conditions": "Light Rain",
-        "precipitation": "100%"
+        "temp": 65,
+        "wind": "9 mph NE",
+        "conditions": "Partly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -69,10 +69,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 to 13 mph NW",
-        "conditions": "Light Rain Likely",
-        "precipitation": "66%"
+        "temp": 72,
+        "wind": "8 to 13 mph NE",
+        "conditions": "Partly Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -82,10 +82,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "3 mph ENE",
-        "conditions": "Isolated Showers And Thunderstorms then Mostly Clear",
-        "precipitation": "21%"
+        "temp": 90,
+        "wind": "5 mph ENE",
+        "conditions": "Scattered Showers And Thunderstorms",
+        "precipitation": "60%"
       }
     },
     {
@@ -95,10 +95,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "3 to 7 mph NW",
-        "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "39%"
+        "temp": 74,
+        "wind": "10 mph NE",
+        "conditions": "Scattered Rain Showers",
+        "precipitation": "47%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "1 to 6 mph NNW",
-        "conditions": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "precipitation": "26%"
+        "temp": 76,
+        "wind": "1 to 7 mph ENE",
+        "conditions": "Sunny",
+        "precipitation": "4%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 10 mph SSW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "3%"
+        "temp": 75,
+        "wind": "5 to 10 mph SSW",
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -158,9 +158,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "2 to 8 mph N",
-        "conditions": "Mostly Cloudy",
+        "temp": 74,
+        "wind": "2 to 13 mph NE",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -168,13 +168,13 @@
       "game_id": "401872945",
       "home_team": "KC",
       "away_team": "IND",
-      "stadium": "Arrowhead Stadium",
+      "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "7 mph N",
-        "conditions": "Mostly Cloudy then Patchy Fog",
-        "precipitation": "14%"
+        "temp": 73,
+        "wind": "8 mph N",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "17%"
       }
     },
     {
@@ -184,10 +184,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
+        "temp": 75,
         "wind": "5 to 10 mph SSW",
-        "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "conditions": "Slight Chance Rain Showers then Partly Sunny",
+        "precipitation": "5%"
       }
     }
   ]
