@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T19:13:00.636Z",
+  "lastUpdated": "2026-09-21T22:55:54.136Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1704,6 +1704,13 @@
           "to": "Doubtful",
           "detail": "Ankle",
           "team": "SF"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "SF"
         }
       ]
     },
@@ -2079,6 +2086,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Lower Leg",
           "team": "LAC"
         }
       ]
@@ -4884,6 +4898,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Knee - MCL",
           "team": "PHI"
         }
       ]
@@ -12151,6 +12172,13 @@
           "to": "Questionable",
           "detail": "Forearm",
           "team": "LAC"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Forearm",
+          "team": "LAC"
         }
       ]
     },
@@ -13088,6 +13116,19 @@
         }
       ]
     },
+    "8154": {
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ATL"
+        }
+      ]
+    },
     "8155": {
       "name": "Breece Hall",
       "position": "RB",
@@ -13866,6 +13907,11 @@
           "to": "Questionable",
           "detail": "Neck",
           "team": "GB"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14768,6 +14814,19 @@
           "date": "2026-03-24",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "8523": {
+      "name": "Nick Muse",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-09-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "ATL"
         }
       ]
     },
@@ -19962,6 +20021,11 @@
           "to": "Out",
           "detail": "Knee - ACL",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -20737,6 +20801,13 @@
           "date": "2026-09-20",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Groin",
           "team": "CAR"
         }
@@ -25393,6 +25464,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-21",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
