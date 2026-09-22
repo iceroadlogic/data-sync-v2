@@ -1,25 +1,12 @@
 {
-  "lastUpdated": "2026-09-22T15:56:35.412Z",
+  "lastUpdated": "2026-09-22T19:26:35.578Z",
   "week": 3,
   "summary": {
     "total_players": 755,
-    "ir": 53,
+    "ir": 33,
     "suspended": 1
   },
   "ir": [
-    {
-      "player_id": "12889",
-      "source_id": "4431210",
-      "player_name": "Beaux Collins",
-      "position": "WR",
-      "team_abbr": "ATL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
     {
       "player_id": "7593",
       "source_id": "4241401",
@@ -47,19 +34,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13353",
-      "source_id": "5091739",
-      "player_name": "Chris Brazzell II",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "12531",
       "source_id": "4685350",
       "player_name": "Trevor Etienne",
@@ -73,35 +47,9 @@
       "injury_comment": null
     },
     {
-      "player_id": "8423",
-      "source_id": "4036032",
-      "player_name": "Brittain Brown",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "8107",
       "source_id": "4916349",
       "player_name": "Nikola Kalinic",
-      "position": "TE",
-      "team_abbr": "CHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13712",
-      "source_id": "5150662",
-      "player_name": "Hayden Large",
       "position": "TE",
       "team_abbr": "CHI",
       "injury_status": "day-to-day",
@@ -125,48 +73,9 @@
       "injury_comment": "ir"
     },
     {
-      "player_id": "12469",
-      "source_id": "5081397",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Sampson (knee) was placed on injured reserve Tuesday."
-    },
-    {
-      "player_id": "8800",
-      "source_id": "4240603",
-      "player_name": "Malik Davis",
-      "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "11508",
       "source_id": "4242442",
       "player_name": "Princeton Fant",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13355",
-      "source_id": "4710711",
-      "player_name": "DJ Rogers",
       "position": "TE",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
@@ -203,32 +112,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8205",
-      "source_id": "4361529",
-      "player_name": "Isiah Pacheco",
-      "position": "RB",
-      "team_abbr": "DET",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "12482",
-      "source_id": "4431487",
-      "player_name": "Savion Williams",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "12113",
       "source_id": "4361027",
       "player_name": "Thomas Yassmin",
@@ -242,37 +125,11 @@
       "injury_comment": null
     },
     {
-      "player_id": "12484",
-      "source_id": "4877706",
-      "player_name": "Jayden Higgins",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "12705",
       "source_id": "4426335",
       "player_name": "Graham Mertz",
       "position": "QB",
       "team_abbr": "HOU",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
@@ -307,24 +164,11 @@
       "injury_comment": "ir"
     },
     {
-      "player_id": "13173",
-      "source_id": "4431142",
-      "player_name": "Jimmy Holiday",
+      "player_id": "13392",
+      "source_id": "4885466",
+      "player_name": "Jeff Caldwell",
       "position": "WR",
       "team_abbr": "KC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Holiday (undisclosed) was placed on injured reserve by the Chiefs on Sunday."
-    },
-    {
-      "player_id": "11963",
-      "source_id": "4698191",
-      "player_name": "Chris Collier",
-      "position": "RB",
-      "team_abbr": "LV",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
@@ -346,10 +190,10 @@
       "injury_comment": null
     },
     {
-      "player_id": "9489",
-      "source_id": "4361426",
-      "player_name": "Justin Shorter",
-      "position": "WR",
+      "player_id": "13122",
+      "source_id": "5155825",
+      "player_name": "Carter Runyon",
+      "position": "TE",
       "team_abbr": "LV",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -411,19 +255,6 @@
       "injury_comment": "ir"
     },
     {
-      "player_id": "13121",
-      "source_id": "4433959",
-      "player_name": "Ben Yurosek",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "5859",
       "source_id": "4047646",
       "player_name": "A.J. Brown",
@@ -450,35 +281,9 @@
       "injury_comment": null
     },
     {
-      "player_id": "13124",
-      "source_id": "4572655",
-      "player_name": "Jeremiah Webb",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "8230",
       "source_id": "4242431",
       "player_name": "Ty Chandler",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "11579",
-      "source_id": "4569682",
-      "player_name": "Audric Estime",
       "position": "RB",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
@@ -502,19 +307,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13281",
-      "source_id": "4880281",
-      "player_name": "Jordyn Tyson",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "8125",
       "source_id": "4243389",
       "player_name": "Calvin Austin III",
@@ -528,30 +320,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "6699",
-      "source_id": "4424106",
-      "player_name": "Gunner Olszewski",
-      "position": "WR",
-      "team_abbr": "NYG",
+      "player_id": "8177",
+      "source_id": "4241374",
+      "player_name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbr": "PHI",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13276",
-      "source_id": "4723820",
-      "player_name": "Omar Cooper Jr.",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "13349",
@@ -585,19 +364,6 @@
       "player_name": "Cole Burgess",
       "position": "WR",
       "team_abbr": "PIT",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "4950",
-      "source_id": "3895856",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "team_abbr": "SF",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
@@ -645,43 +411,17 @@
       "injury_comment": "Tonges (knee) requires surgery for an MCL tear and is done for the season, Cam Inman reports."
     },
     {
-      "player_id": "10867",
-      "source_id": "4360405",
-      "player_name": "Jake Bobo",
+      "player_id": "6154",
+      "source_id": "3871102",
+      "player_name": "David Sills V",
       "position": "WR",
-      "team_abbr": "SEA",
+      "team_abbr": "TB",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "8861",
-      "source_id": "3929636",
-      "player_name": "Irv Charles",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13422",
-      "source_id": "4877034",
-      "player_name": "Jaren Kanak",
-      "position": "TE",
-      "team_abbr": "TEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-08",
+      "injury_comment": "Sills (undisclosed) was placed on injured reserve by the Buccaneers on Sunday with a designation to return, Scott Smith of the team's official website reports."
     },
     {
       "player_id": "4219",
