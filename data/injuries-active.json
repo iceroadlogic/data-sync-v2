@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-22T00:41:00.828Z",
+  "lastUpdated": "2026-09-22T01:31:03.481Z",
   "week": 2,
   "summary": {
     "total_players": 755,
     "questionable": 17,
-    "doubtful": 4,
+    "doubtful": 5,
     "out": 31
   },
   "questionable": [
@@ -87,19 +87,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Colts head coach Shane Steichen said Monday that Pierce \"aggravated something in the heel he had surgery on\" during Sunday's 33-30 overtime loss to the Chiefs and is still being evaluated, Jake Arthur of Roundtable.io reports."
-    },
-    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -163,6 +150,19 @@
       "injury_detail": "Thigh",
       "est_return_date": "2026-09-27",
       "injury_comment": "Raridon (thigh) has been ruled out for the remainder of Sunday's game against the Steelers."
+    },
+    {
+      "player_id": "12508",
+      "source_id": "4689114",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-09-21",
+      "injury_comment": "Dart (knee) is officially questionable to return to Monday's matchup against the Rams."
     },
     {
       "player_id": "12498",
@@ -256,6 +256,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-28",
       "injury_comment": "Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports."
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Pierce (heel) will try to rehab his injured left shoulder without surgery and could return around midseason if all goes well, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "5022",
