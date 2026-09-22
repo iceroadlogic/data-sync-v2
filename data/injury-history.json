@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T01:31:03.481Z",
+  "lastUpdated": "2026-09-22T11:21:04.481Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -13892,6 +13892,19 @@
         }
       ]
     },
+    "8195": {
+      "name": "Ronnie Rivers",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "LAR"
+        }
+      ]
+    },
     "8204": {
       "name": "Bo Melton",
       "position": "WR",
@@ -22696,6 +22709,13 @@
           "date": "2026-09-13",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "NYG"
         }
       ]
     },

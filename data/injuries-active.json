@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-22T01:31:03.481Z",
-  "week": 2,
+  "lastUpdated": "2026-09-22T11:21:04.481Z",
+  "week": 3,
   "summary": {
     "total_players": 755,
-    "questionable": 17,
+    "questionable": 19,
     "doubtful": 5,
     "out": 31
   },
@@ -113,6 +113,19 @@
       "injury_comment": "Young (hamstring) is questionable to return to Sunday's game against the Chargers."
     },
     {
+      "player_id": "8195",
+      "source_id": "4243003",
+      "player_name": "Ronnie Rivers",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Rivers has been ruled out for the remainder of Monday's game against the Giants due to a calf injury."
+    },
+    {
       "player_id": "13296",
       "source_id": "4869645",
       "player_name": "Caleb Douglas",
@@ -160,9 +173,22 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-09-21",
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-09-27",
       "injury_comment": "Dart (knee) is officially questionable to return to Monday's matchup against the Rams."
+    },
+    {
+      "player_id": "11632",
+      "source_id": "4595348",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Nabers brought in one of four targets for one yard in the Giants' 28-6 loss to the Rams on Monday night."
     },
     {
       "player_id": "12498",
@@ -268,7 +294,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Pierce (heel) will try to rehab his injured left shoulder without surgery and could return around midseason if all goes well, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Pierce (heel) will try to rehab his injured left heel without surgery and could return around midseason if all goes well, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "5022",
