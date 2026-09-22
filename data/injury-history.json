@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T19:26:35.578Z",
+  "lastUpdated": "2026-09-22T22:31:14.643Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3573,6 +3573,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NYJ"
         }
       ]
     },
@@ -4144,6 +4150,13 @@
           "to": "Out",
           "detail": "Lower Body",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Lower Body",
+          "team": "SEA"
         }
       ]
     },
@@ -4215,6 +4228,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "SF"
         }
       ]
     },
@@ -6911,6 +6930,13 @@
           "to": "Out",
           "detail": "Hamstring",
           "team": "BUF"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BUF"
         }
       ]
     },
@@ -7384,6 +7410,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "IND"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "IND"
         }
       ]
     },
@@ -7545,6 +7578,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NYG"
         }
       ]
     },
@@ -7656,6 +7695,11 @@
           "to": "Out",
           "detail": "Oblique",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -8183,6 +8227,13 @@
           "from": "Questionable",
           "to": "Out",
           "detail": "Ankle",
+          "team": "PIT"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Foot",
           "team": "PIT"
         }
       ]
@@ -8853,6 +8904,13 @@
           "date": "2026-09-18",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Personal",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Personal",
           "team": "MIN"
         }
@@ -9913,6 +9971,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "HOU"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "HOU"
         }
@@ -11102,6 +11167,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Back",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Back",
           "team": "NYJ"
         }
@@ -13171,6 +13243,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14075,6 +14152,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "DET"
         }
       ]
     },
@@ -14291,6 +14374,13 @@
           "to": "Out",
           "detail": "Hamstring",
           "team": "WAS"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "WAS"
         }
       ]
     },
@@ -14327,6 +14417,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "MIA"
         }
       ]
     },
@@ -14794,6 +14890,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "CHI"
         }
       ]
     },
@@ -14922,6 +15024,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "ATL"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15241,6 +15348,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "DAL"
         }
       ]
     },
@@ -15312,6 +15425,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "SEA"
         }
       ]
     },
@@ -16174,6 +16293,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "LV"
         }
       ]
     },
@@ -16285,6 +16410,13 @@
           "to": "Out",
           "detail": "Hip",
           "team": "LAR"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "LAR"
         }
       ]
     },
@@ -16373,6 +16505,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Foot",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Foot",
           "team": "DEN"
         }
@@ -16637,6 +16776,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "HOU"
         }
       ]
     },
@@ -17222,6 +17367,13 @@
           "to": "Out",
           "detail": "Hamstring",
           "team": "BAL"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BAL"
         }
       ]
     },
@@ -17563,6 +17715,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "IND"
         }
       ]
     },
@@ -17614,6 +17772,13 @@
           "date": "2026-09-20",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Neck",
+          "team": "GB"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Neck",
           "team": "GB"
         }
@@ -18713,6 +18878,13 @@
           "to": "Out",
           "detail": "Personal",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Personal",
+          "team": "LV"
         }
       ]
     },
@@ -18829,6 +19001,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "SEA"
         }
       ]
     },
@@ -20870,6 +21048,13 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thigh",
+          "team": "NO"
         }
       ]
     },
@@ -21719,6 +21904,13 @@
           "to": "Out",
           "detail": "Knee - Meniscus",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee - Meniscus",
+          "team": "LV"
         }
       ]
     },
@@ -22143,6 +22335,13 @@
           "date": "2026-09-22",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Quadriceps",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Quadriceps",
           "team": "LAR"
         }
@@ -24849,6 +25048,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "LV"
         }
       ]
     },
@@ -25608,6 +25813,13 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "CLE"
         }
       ]
     },
@@ -25790,6 +26002,13 @@
           "date": "2026-09-20",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Knee",
+          "team": "IND"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Knee",
           "team": "IND"
         }
@@ -26421,6 +26640,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "GB"
         }
       ]
     },
@@ -26482,6 +26707,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "HOU"
         }
       ]
     },
@@ -26658,6 +26889,13 @@
           "date": "2026-09-20",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "DEN"
         }
@@ -27124,6 +27362,13 @@
           "date": "2026-09-20",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Thumb",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Thumb",
           "team": "NYJ"
         }
@@ -29096,6 +29341,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "NYJ"
         }
       ]
     },
@@ -29965,6 +30217,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "NYG"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -30373,6 +30630,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "ATL"
         }
       ]
     },
@@ -30957,6 +31220,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "MIN"
         }
       ]
     },
@@ -31017,6 +31286,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NE"
         }
       ]
     },
@@ -31131,6 +31406,13 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Undisclosed",
+          "team": "KC"
         }
       ]
     },
@@ -31421,6 +31703,13 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -31506,6 +31795,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NO"
         }
       ]
     },
@@ -31678,6 +31973,13 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "detail": "Wrist",
+          "team": "BAL"
         }
       ]
     },
@@ -31810,6 +32112,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "BAL"
         }
       ]
     },
@@ -32140,6 +32448,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "KC"
         }
       ]
     },
@@ -32264,6 +32578,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "CAR"
         }
       ]
     },
@@ -32294,6 +32614,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "DAL"
         }
       ]
     },
@@ -32713,6 +33039,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "TEN"
         }
       ]
     },
@@ -33002,6 +33334,12 @@
           "date": "2026-09-22",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-22",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "CHI"
         }
       ]
     },
