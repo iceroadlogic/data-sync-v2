@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-23T19:19:25.457Z",
+  "lastUpdated": "2026-09-23T22:33:19.668Z",
   "week": 3,
   "summary": {
-    "total_players": 758,
-    "ir": 64,
+    "total_players": 762,
+    "ir": 66,
     "suspended": 1
   },
   "ir": [
@@ -42,9 +42,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Wrist",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Coach Jesse Minter said Lane underwent wrist surgery Wednesday, and the Ravens placed the rookie wide receiver on injured reserve, Brian Wacker of The Baltimore Sun reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13302",
@@ -73,19 +73,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11583",
-      "source_id": "4678008",
-      "player_name": "Jonathon Brooks",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Abdomen",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "The Panthers placed Brooks (core) on injured reserve Wednesday, Darin Gantt of the team's official site reports."
-    },
-    {
       "player_id": "13353",
       "source_id": "5091739",
       "player_name": "Chris Brazzell II",
@@ -97,6 +84,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11583",
+      "source_id": "4678008",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Panthers placed Brooks (core) on injured reserve Wednesday, Darin Gantt of the team's official site reports."
     },
     {
       "player_id": "12531",
@@ -172,9 +172,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Sampson (knee) was placed on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8800",
@@ -476,6 +476,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "4033",
+      "source_id": "3123076",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Lower Leg",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "The Chargers placed Njoku (fibula) on injured reserve Wednesday."
+    },
+    {
       "player_id": "13597",
       "source_id": "4877717",
       "player_name": "Matthew Caldwell",
@@ -487,6 +500,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8195",
+      "source_id": "4243003",
+      "player_name": "Ronnie Rivers",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "ir"
     },
     {
       "player_id": "8214",
@@ -510,9 +536,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13121",
@@ -632,19 +658,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12539",
-      "source_id": "4429105",
-      "player_name": "Arian Smith",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Jets placed Smith (knee) on injured reserve Tuesday."
-    },
-    {
       "player_id": "13276",
       "source_id": "4723820",
       "player_name": "Omar Cooper Jr.",
@@ -669,6 +682,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12539",
+      "source_id": "4429105",
+      "player_name": "Arian Smith",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Smith (knee) underwent surgery Wednesday to repair a torn ACL and will miss the rest of the season, Antwan V. Staley of the New York Daily News reports."
     },
     {
       "player_id": "8177",
