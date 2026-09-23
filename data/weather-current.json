@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-22T19:35:41.316Z",
+  "lastUpdated": "2026-09-23T00:04:46.476Z",
   "games": [
     {
       "game_id": "401872948",
@@ -29,19 +29,6 @@
       }
     },
     {
-      "game_id": "401872949",
-      "home_team": "CLE",
-      "away_team": "CAR",
-      "stadium": "Huntington Bank Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 68,
-        "wind": "2 to 10 mph N",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
-      }
-    },
-    {
       "game_id": "401872954",
       "home_team": "DET",
       "away_team": "NYJ",
@@ -56,19 +43,6 @@
       "stadium": "Lucas Oil Stadium",
       "is_dome": true,
       "weather": null
-    },
-    {
-      "game_id": "401872952",
-      "home_team": "MIA",
-      "away_team": "KC",
-      "stadium": "Hard Rock Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 86,
-        "wind": "5 to 8 mph NE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "37%"
-      }
     },
     {
       "game_id": "401872956",
