@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-23T11:15:33.401Z",
+  "lastUpdated": "2026-09-23T18:20:36.727Z",
   "week": 3,
   "summary": {
     "total_players": 758,
-    "questionable": 31,
-    "doubtful": 8,
-    "out": 11
+    "questionable": 34,
+    "doubtful": 4,
+    "out": 15
   },
   "questionable": [
     {
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Flowers (hamstring) isn't participating in Wednesday's practice, Jamison Hensley of ESPN.com reports."
     },
     {
       "player_id": "6039",
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-28",
-      "injury_comment": "Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Coach Ben Johnson said Bagent (concussion) won't practice Wednesday, Kevin Fishbain of The Athletic reports."
     },
     {
       "player_id": "6806",
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Collins (hamstring) wasn't spotted at the media-access portion of Wednesday's practice, DJ Bien-Aime of ESPN.com reports."
     },
     {
       "player_id": "6427",
@@ -175,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Head coach Klint Kubiak said Bowers (knee) will practice Wednesday and termed the tight end \"day-to-day,\" Ryan McFadden of ESPN.com reports."
     },
     {
       "player_id": "10866",
@@ -253,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Dolphins head coach Jeff Hafley said Monday that it's \"too early to tell\" the severity of the ankle injury Douglas sustained in Sunday's 35-13 loss to the 49ers, C. Isaiah Smalls II of the Miami Herald reports."
+      "injury_comment": "Dolphins head coach Jeff Hafley said that Douglas (ankle) won't practice Wednesday, C. Isaiah Smalls II of the Miami Herald reports."
     },
     {
       "player_id": "11643",
@@ -344,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Dowdle \"checked out relatively OK\" after undergoing testing on his toe injury Tuesday and is considered day-to-day, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Dowdle (toe) isn't participating in practice Wednesday and was seen wearing a boot on his right foot, Mike DeFabo of The Athletic reports."
     },
     {
       "player_id": "6819",
@@ -357,7 +357,20 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Steelers head coach Mike McCarthy said Pittman (foot) will practice Wednesday and is likely to be a limited participant, Brooke Pryor of ESPN.com reports."
+    },
+    {
+      "player_id": "8228",
+      "source_id": "4569987",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Warren wasn't involved in the open portion of Wednesday's practice and appears likely to be listed as a non-participant on the Steelers' first Week 3 injury report, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "2216",
@@ -399,6 +412,32 @@
       "injury_comment": "Coach Mike Macdonald said Monday that Price suffered a shoulder injury during Sunday's win at Arizona, but \"it's intact and nothing serious, it seems like,\" Brady Henderson of ESPN.com reports."
     },
     {
+      "player_id": "5967",
+      "source_id": "3916148",
+      "player_name": "Tony Pollard",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Titans head coach Robert Saleh said that Pollard won't practice Wednesday due to unspecified soreness, Turron Davenport of ESPN.com reports."
+    },
+    {
+      "player_id": "9508",
+      "source_id": "4428557",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Titans head coach Robert Saleh said that Spears won't practice Wednesday due to unspecified soreness, Turron Davenport of ESPN.com reports."
+    },
+    {
       "player_id": "8210",
       "source_id": "4360635",
       "player_name": "Chig Okonkwo",
@@ -409,23 +448,10 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
+      "injury_comment": "Commanders head coach Dan Quinn implied that Okonkwo (hamstring) will be a non-participant for Wednesday's practice, Tashan Reed of The Washington Post reports."
     }
   ],
   "doubtful": [
-    {
-      "player_id": "11583",
-      "source_id": "4678008",
-      "player_name": "Jonathon Brooks",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Brooks is considered week-to-week while he receives further medical opinions on the groin injury he sustained in Sunday's 34-3 win over the Falcons, Tom Pelissero of Netflix reports."
-    },
     {
       "player_id": "11560",
       "source_id": "4431611",
@@ -437,7 +463,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-28",
-      "injury_comment": "Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports."
+      "injury_comment": "Coach Ben Johnson said Williams (hamstring) won't take part in Wednesday's practice, Courtney Cronin of ESPN reports."
     },
     {
       "player_id": "10222",
@@ -453,32 +479,6 @@
       "injury_comment": "Packers head coach Matt LaFleur said Tuesday that Reed has returned to Green Bay to undergo further testing and consultations with doctors for his neck injury, Ryan Wood of USA Today. The wide receiver remains without a timeline for a return."
     },
     {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Pierce will try to rehab his injured left heel without surgery and is expected to miss several weeks before potentially returning around midseason if all goes well, Ian Rapoport of NFL Network reports."
-    },
-    {
-      "player_id": "12508",
-      "source_id": "4689114",
-      "player_name": "Jaxson Dart",
-      "position": "QB",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Knee - MCL",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports."
-    },
-    {
       "player_id": "12498",
       "source_id": "4808766",
       "player_name": "Mason Taylor",
@@ -489,7 +489,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Taylor (thumb) is considered week-to-week and will likely miss Sunday's game against the Lions, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Jets head coach Aaron Glenn said that Taylor (thumb) won't participate in Wednesday's practice, Rich Cimini of ESPN.com reports."
     },
     {
       "player_id": "5022",
@@ -503,19 +503,6 @@
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-09-28",
       "injury_comment": "Goedert (knee) was diagnosed Monday with a sprained MCL and is expected to miss a few weeks, Ian Rapoport and Adam Schefter of ESPN report."
-    },
-    {
-      "player_id": "11566",
-      "source_id": "4426348",
-      "player_name": "Jayden Daniels",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Daniels (elbow) underwent imaging Monday and will consult with multiple experts over the next few days, Ian Rapoport of NFL Network reports."
     }
   ],
   "out": [
@@ -531,6 +518,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "10226",
+      "source_id": "4368003",
+      "player_name": "Andrei Iosivas",
+      "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Bengals head coach Zac Taylor said Wednesday that Iosivas tore a ligament in his thumb and will be placed on injured reserve, Ben Baby of ESPN.com reports."
     },
     {
       "player_id": "13435",
@@ -572,6 +572,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Colts head coach Shane Steichen said Wednesday that Pierce (heel) will be placed on injured reserve and is without a timeline for a return, Kevin Bowen of 107.5 The Fan Indianapolis reports."
+    },
+    {
       "player_id": "8127",
       "source_id": "4241263",
       "player_name": "Charlie Kolar",
@@ -582,7 +595,7 @@
       "injury_description": null,
       "injury_detail": "Forearm",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Kolar plans to undergo surgery to repair a broken forearm and is hopeful to return from injured reserve when first eligible for the Chargers' No. 1 game against the Rams, Jeremy Fowler of ESPN.com reports."
+      "injury_comment": "Kolar plans to undergo surgery to repair a broken forearm and is hoping to return from injured reserve when first eligible for the Chargers' Week 8 game against the Rams, Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "4033",
@@ -609,6 +622,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12508",
+      "source_id": "4689114",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee - Meniscus",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Dart is expected to undergo knee surgery that will end his 2026 season but lead to a full recovery heading into 2027, Ian Rapoport and Mike Garafolo of NFL Network report."
     },
     {
       "player_id": "6803",
@@ -661,6 +687,19 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-10-11",
       "injury_comment": "Coach Mike Macdonald said Friday that the Seahawks are drawing closer to setting a date for Charbonnet (knee) to resume practicing, Gregg Bell of The Tacoma News Tribune reports."
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Commanders head coach Dan Quinn confirmed that Daniels will be out for Sunday's game against the Seahawks, but the quarterback remains without a precise timeline for a return while he continues to receive more medical opinions on his left elbow injury, Ben Standig of The Team 980 Washington D.C. reports."
     }
   ]
 }

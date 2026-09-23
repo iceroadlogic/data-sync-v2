@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T15:46:10.620Z",
+  "lastUpdated": "2026-09-23T18:20:36.727Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6430,6 +6430,13 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
         }
       ]
     },
@@ -14717,6 +14724,13 @@
           "date": "2026-01-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "PIT"
         }
       ]
     },
@@ -16968,6 +16982,13 @@
           "date": "2025-10-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "TEN"
         }
       ]
     },
@@ -17901,6 +17922,19 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "10226": {
+      "name": "Andrei Iosivas",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-23",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Thumb",
+          "team": "CIN"
         }
       ]
     },
@@ -20711,6 +20745,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Elbow",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-09-23",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Elbow",
           "team": "WAS"
         }
@@ -28047,6 +28088,13 @@
           "from": "Questionable",
           "to": "Doubtful",
           "detail": "Knee - MCL",
+          "team": "NYG"
+        },
+        {
+          "date": "2026-09-23",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee - Meniscus",
           "team": "NYG"
         }
       ]
