@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-24T00:16:18.620Z",
+  "lastUpdated": "2026-09-24T14:40:18.210Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "0 to 5 mph E",
+        "temp": 55,
+        "wind": "0 to 3 mph E",
         "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "10%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
+        "temp": 68,
         "wind": "1 to 7 mph N",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "7%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "2 to 12 mph N",
+        "temp": 69,
+        "wind": "2 to 13 mph N",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "8 mph NE",
-        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "precipitation": "28%"
+        "wind": "5 to 8 mph NE",
+        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+        "precipitation": "16%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 65,
         "wind": "13 to 16 mph N",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "51%"
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "72%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 to 9 mph NW",
+        "wind": "5 to 12 mph NW",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "3%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "13 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "temp": 72,
+        "wind": "10 to 14 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "10%"
       }
     },
     {
@@ -119,7 +119,7 @@
         "temp": 84,
         "wind": "5 to 8 mph N",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "3 to 13 mph WSW",
+        "temp": 68,
+        "wind": "2 to 12 mph WSW",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "7 mph NNE",
+        "wind": "6 mph NNE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -171,10 +171,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 to 10 mph SSW",
+        "temp": 57,
+        "wind": "3 to 12 mph SSW",
         "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "2%"
       }
     },
     {
@@ -184,10 +184,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 58,
+        "temp": 57,
         "wind": "5 mph SE",
-        "conditions": "Mostly Clear",
-        "precipitation": "3%"
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     }
   ]
