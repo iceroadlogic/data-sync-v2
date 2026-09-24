@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T22:49:39.328Z",
+  "lastUpdated": "2026-09-24T23:42:57.233Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2545,6 +2545,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -3793,6 +3798,13 @@
           "date": "2026-09-13",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
@@ -4178,6 +4190,11 @@
           "to": "Questionable",
           "detail": "Lower Body",
           "team": "SEA"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8214,6 +8231,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "DEN"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9149,6 +9171,13 @@
           "date": "2026-08-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
         }
       ]
     },
@@ -27073,6 +27102,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "LAR"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27122,6 +27156,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "DEN"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -33601,6 +33640,19 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "LAR"
+        }
+      ]
+    },
+    "13602": {
+      "name": "Jack Strand",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
