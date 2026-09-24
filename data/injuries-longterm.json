@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-24T16:07:47.472Z",
+  "lastUpdated": "2026-09-24T22:49:39.328Z",
   "week": 3,
   "summary": {
-    "total_players": 762,
-    "ir": 66,
+    "total_players": 763,
+    "ir": 67,
     "suspended": 1
   },
   "ir": [
@@ -643,6 +643,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12508",
+      "source_id": "4689114",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - Meniscus",
+      "est_return_date": "2027-01-17",
+      "injury_comment": "The Giants officially placed Dart (knee) on injured reserve Thursday, Mike Garafolo of NFL Network reports."
     },
     {
       "player_id": "6699",
