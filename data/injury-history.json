@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T22:33:19.668Z",
+  "lastUpdated": "2026-09-24T00:21:14.467Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2538,6 +2538,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "SEA"
         }
       ]
     },
@@ -6965,6 +6972,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "BUF"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23451,6 +23463,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "BUF"
         }
       ]
     },
@@ -25303,6 +25322,13 @@
           "date": "2026-01-23",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "SEA"
         }
       ]
     },
@@ -29979,6 +30005,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "WAS"
         }
       ]
     },
@@ -32941,6 +32974,19 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13405": {
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-09-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "WAS"
         }
       ]
     },
