@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-25T00:23:57.499Z",
+  "lastUpdated": "2026-09-25T01:06:03.255Z",
   "week": 3,
   "summary": {
     "total_players": 763,
-    "questionable": 47,
+    "questionable": 46,
     "doubtful": 3,
     "out": 16
   },
@@ -188,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Allen (hip) was a limited participant at the Jaguars' practice Wednesday."
+      "injury_comment": "Allen (hip) was limited in practice Thursday."
     },
     {
       "player_id": "5947",
@@ -357,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Thigh",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Raridon (thigh) was a limited participant at practice Wednesday."
+      "injury_comment": "Raridon (thigh) did not practice Thursday."
     },
     {
       "player_id": "13533",
@@ -579,19 +579,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
       "injury_comment": "Spears (ankle) wasn't seen on the field during the open portion of Thursday's practice, Turron Davenport of ESPN reports."
-    },
-    {
-      "player_id": "13405",
-      "source_id": "4685246",
-      "player_name": "Kaytron Allen",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "questionable"
     },
     {
       "player_id": "12641",
