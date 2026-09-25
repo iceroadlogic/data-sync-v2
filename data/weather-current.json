@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-25T15:02:10.581Z",
+  "lastUpdated": "2026-09-25T19:52:29.240Z",
   "games": [
     {
       "game_id": "401872948",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "3 mph E",
+        "wind": "5 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "3 to 8 mph NE",
-        "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "wind": "5 to 9 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "10%"
       }
     },
     {
@@ -35,8 +35,8 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "3 to 13 mph N",
+        "temp": 70,
+        "wind": "5 to 14 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "3 to 7 mph NE",
-        "conditions": "Sunny",
-        "precipitation": "12%"
+        "wind": "2 to 7 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "20 mph N",
-        "conditions": "Light Rain",
-        "precipitation": "87%"
+        "temp": 67,
+        "wind": "17 to 22 mph N",
+        "conditions": "Rain",
+        "precipitation": "98%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
+        "temp": 65,
         "wind": "10 to 20 mph NW",
         "conditions": "Chance Light Rain",
-        "precipitation": "44%"
+        "precipitation": "50%"
       }
     },
     {
@@ -116,9 +116,9 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "5 to 9 mph W",
-        "conditions": "Mostly Sunny",
+        "temp": 86,
+        "wind": "6 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -129,7 +129,7 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
+        "temp": 68,
         "wind": "3 to 14 mph WSW",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
@@ -143,7 +143,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "5 mph NNE",
+        "wind": "1 to 5 mph NNE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "3 to 10 mph SSW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "wind": "5 to 10 mph SSW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -185,7 +185,7 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "0 to 5 mph SE",
+        "wind": "0 to 5 mph ESE",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
