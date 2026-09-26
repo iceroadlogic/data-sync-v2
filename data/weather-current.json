@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-25T19:52:29.240Z",
+  "lastUpdated": "2026-09-26T00:24:00.296Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,9 +9,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 mph ESE",
-        "conditions": "Sunny",
+        "temp": 49,
+        "wind": "1 to 5 mph ESE",
+        "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "10 to 20 mph NW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "50%"
+        "wind": "12 to 15 mph NW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "64%"
       }
     },
     {
