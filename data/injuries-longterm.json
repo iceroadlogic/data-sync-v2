@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-26T15:21:52.146Z",
+  "lastUpdated": "2026-09-26T18:50:51.638Z",
   "week": 3,
   "summary": {
     "total_players": 763,
-    "ir": 67,
+    "ir": 68,
     "suspended": 1
   },
   "ir": [
@@ -318,6 +318,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Pierce (heel) was placed on injured reserve Saturday."
     },
     {
       "player_id": "10220",
