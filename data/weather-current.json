@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-26T00:24:00.296Z",
+  "lastUpdated": "2026-09-26T14:11:04.251Z",
   "games": [
     {
       "game_id": "401872948",
@@ -9,9 +9,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "1 to 5 mph ESE",
-        "conditions": "Mostly Clear then Patchy Fog",
+        "temp": 69,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
+        "temp": 66,
         "wind": "5 to 9 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "10%"
+        "conditions": "Partly Sunny then Chance Rain Showers",
+        "precipitation": "39%"
       }
     },
     {
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 to 14 mph N",
+        "wind": "6 to 14 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -64,10 +64,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "2 to 7 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "7%"
+        "temp": 87,
+        "wind": "6 mph N",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "17 to 22 mph N",
-        "conditions": "Rain",
-        "precipitation": "98%"
+        "temp": 68,
+        "wind": "16 to 23 mph NE",
+        "conditions": "Rain Showers",
+        "precipitation": "97%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "7 to 14 mph N",
+        "temp": 68,
+        "wind": "8 to 16 mph NW",
         "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "12 to 15 mph NW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "64%"
+        "temp": 64,
+        "wind": "16 mph NW",
+        "conditions": "Light Rain Likely",
+        "precipitation": "68%"
       }
     },
     {
@@ -116,8 +116,8 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "6 mph W",
+        "temp": 87,
+        "wind": "3 to 10 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -130,9 +130,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "3 to 14 mph WSW",
+        "wind": "2 to 13 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "5 to 10 mph SSW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "wind": "3 to 10 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
