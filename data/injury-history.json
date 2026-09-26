@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T18:50:51.638Z",
+  "lastUpdated": "2026-09-26T22:15:43.050Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1709,6 +1709,13 @@
           "date": "2026-09-21",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "SF"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Out",
+          "to": "IR",
           "detail": "Ankle",
           "team": "SF"
         }
@@ -4994,6 +5001,13 @@
           "to": "Doubtful",
           "detail": "Knee - MCL",
           "team": "PHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee - MCL",
+          "team": "PHI"
         }
       ]
     },
@@ -5677,6 +5691,13 @@
           "date": "2026-09-25",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ankle",
           "team": "PHI"
         }
@@ -9219,6 +9240,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "PHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15793,6 +15819,11 @@
           "to": "Questionable",
           "detail": "Abdomen",
           "team": "PHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18181,6 +18212,13 @@
           "to": "Out",
           "detail": "Thumb",
           "team": "CIN"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Thumb",
+          "team": "CIN"
         }
       ]
     },
@@ -19170,6 +19208,13 @@
           "date": "2026-09-22",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Personal",
+          "team": "LV"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Personal",
           "team": "LV"
         }
@@ -20668,6 +20713,13 @@
           "to": "Doubtful",
           "detail": "Hamstring",
           "team": "CHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "CHI"
         }
       ]
     },
@@ -21318,6 +21370,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "PHI"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -32965,6 +33022,13 @@
           "date": "2026-09-25",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-09-26",
+          "from": "Out",
+          "to": "IR",
           "detail": "Ankle",
           "team": "DEN"
         }

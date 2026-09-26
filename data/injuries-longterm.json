@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-26T18:50:51.638Z",
+  "lastUpdated": "2026-09-26T22:15:43.050Z",
   "week": 3,
   "summary": {
     "total_players": 763,
-    "ir": 68,
+    "ir": 71,
     "suspended": 1
   },
   "ir": [
@@ -151,6 +151,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "10226",
+      "source_id": "4368003",
+      "player_name": "Andrei Iosivas",
+      "position": "WR",
+      "team_abbr": "CIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Bengals placed Iosivas (thumb) on injured reserve Saturday."
+    },
+    {
       "player_id": "12486",
       "source_id": "4427238",
       "player_name": "Dillon Gabriel",
@@ -214,6 +227,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13345",
+      "source_id": "4702555",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Coleman (ankle) is being placed on injured reserve Saturday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "12735",
@@ -320,19 +346,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Pierce (heel) was placed on injured reserve Saturday."
-    },
-    {
       "player_id": "10220",
       "source_id": "4362523",
       "player_name": "Will Mallory",
@@ -357,6 +370,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8142",
+      "source_id": "4360078",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Heel",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Pierce (heel) was placed on injured reserve Saturday."
     },
     {
       "player_id": "13407",
@@ -799,6 +825,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "3286",
+      "source_id": "3043116",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "The 49ers placed Robinson (ankle) on injured reserve Saturday."
     },
     {
       "player_id": "13417",
