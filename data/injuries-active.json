@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-26T11:10:33.363Z",
+  "lastUpdated": "2026-09-26T17:41:48.915Z",
   "week": 3,
   "summary": {
     "total_players": 763,
     "questionable": 24,
     "doubtful": 5,
-    "out": 25
+    "out": 24
   },
   "questionable": [
     {
@@ -84,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-09-28",
-      "injury_comment": "Bagent (concussion) didn't take part in practice Friday."
+      "injury_comment": "Bagent (concussion) will be back at practice Saturday after progressing through the league's concussion protocol, Kevin Fishbain of The Athletic reports."
     },
     {
       "player_id": "9494",
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Mitchell (finger) will be limited in Friday's practice."
+      "injury_comment": "Mitchell (finger) is listed as questionable for Sunday's game against Detroit."
     },
     {
       "player_id": "9225",
@@ -266,7 +266,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-28",
-      "injury_comment": "Smith (hamstring) practiced in a limited capacity Friday."
+      "injury_comment": "Smith (hamstring) is participating in Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "6819",
@@ -318,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Spears (ankle) was listed as limited for Friday's practice, Terry McCormick of TitanInsider reports."
+      "injury_comment": "Spears (ankle) is listed as questionable for Sunday's game against the Giants, Turron Davenport of ESPN.com reports."
     }
   ],
   "doubtful": [
@@ -333,7 +333,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-09-28",
-      "injury_comment": "Williams (hamstring) was a non-participant at Friday's practice."
+      "injury_comment": "Williams (hamstring) will not participate in Saturday's practice, Jason Lieser of the Chicago Suns-Times reports."
     },
     {
       "player_id": "9493",
@@ -465,7 +465,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coleman (ankle) returned to practice Friday, Zac Stevens of DNVR Sports reports."
+      "injury_comment": "Coleman (ankle) has been ruled out for Sunday's game against the Rams."
     },
     {
       "player_id": "5850",
@@ -531,19 +531,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
       "injury_comment": "Dulin (ankle) has been ruled out for Sunday's game against the Texans, Adam Caplan of SiriusXM NFL Radio reports."
-    },
-    {
-      "player_id": "8142",
-      "source_id": "4360078",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Colts head coach Shane Steichen said Wednesday that Pierce (heel) will be placed on injured reserve and is without a timeline for a return, Kevin Bowen of 107.5 The Fan Indianapolis reports."
     },
     {
       "player_id": "8127",
