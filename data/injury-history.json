@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:19:38.555Z",
+  "lastUpdated": "2026-09-27T23:52:01.851Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -933,6 +933,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "SF"
         }
       ]
     },
@@ -4123,6 +4130,13 @@
           "date": "2025-12-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "TB"
         }
       ]
     },
@@ -6310,6 +6324,19 @@
         }
       ]
     },
+    "5938": {
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
+        }
+      ]
+    },
     "5947": {
       "name": "Jakobi Meyers",
       "position": "WR",
@@ -6660,6 +6687,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Arm",
+          "team": "MIN"
         }
       ]
     },
@@ -8762,6 +8796,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "LAR"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9794,6 +9833,13 @@
           "date": "2026-09-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -10014,6 +10060,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -10413,6 +10466,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
@@ -16789,6 +16849,13 @@
           "to": "Doubtful",
           "detail": "Hip",
           "team": "LAR"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Hip",
+          "team": "LAR"
         }
       ]
     },
@@ -16884,6 +16951,13 @@
           "date": "2026-09-22",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Foot",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Foot",
           "team": "DEN"
         }
@@ -17352,6 +17426,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "TEN"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27332,6 +27411,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Forearm",
+          "team": "LV"
         }
       ]
     },
@@ -32384,6 +32470,13 @@
           "date": "2026-09-22",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -32444,6 +32537,13 @@
           "date": "2026-09-22",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -34230,6 +34330,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
