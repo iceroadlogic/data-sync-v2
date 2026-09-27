@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T18:01:42.286Z",
+  "lastUpdated": "2026-09-27T21:19:38.555Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -928,6 +928,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "SF"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8084,6 +8089,19 @@
         }
       ]
     },
+    "6794": {
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "MIN"
+        }
+      ]
+    },
     "6797": {
       "name": "Justin Herbert",
       "position": "QB",
@@ -9740,6 +9758,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -13568,6 +13593,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thigh",
+          "team": "NYJ"
         }
       ]
     },
@@ -15935,6 +15967,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "MIA"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Knee",
+          "team": "MIA"
         }
       ]
     },
@@ -17306,6 +17345,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "TEN"
         }
       ]
     },
@@ -17731,6 +17777,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "BAL"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19850,6 +19901,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "CHI"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21009,6 +21065,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIN"
         }
       ]
     },
@@ -21897,6 +21960,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -22365,6 +22435,11 @@
           "to": "Questionable",
           "detail": "Knee - Meniscus",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22499,6 +22574,13 @@
           "date": "2026-09-20",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "TB"
         }
       ]
     },
@@ -24334,6 +24416,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "CAR"
         }
       ]
     },
@@ -26970,6 +27059,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -32251,6 +32347,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -33290,6 +33393,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -33523,6 +33633,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -34262,6 +34379,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-27",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },

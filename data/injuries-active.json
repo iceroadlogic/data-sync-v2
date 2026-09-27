@@ -1,38 +1,25 @@
 {
-  "lastUpdated": "2026-09-27T18:01:42.286Z",
+  "lastUpdated": "2026-09-27T21:19:38.555Z",
   "week": 3,
   "summary": {
-    "total_players": 763,
+    "total_players": 765,
     "questionable": 10,
-    "doubtful": 1,
-    "out": 49
+    "doubtful": 2,
+    "out": 57
   },
   "questionable": [
     {
-      "player_id": "9997",
-      "source_id": "4429615",
-      "player_name": "Zay Flowers",
+      "player_id": "11646",
+      "source_id": "4695883",
+      "player_name": "Jalen Coker",
       "position": "WR",
-      "team_abbr": "BAL",
+      "team_abbr": "CAR",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "The Ravens continue to view Flowers (hamstring) as a game-time decision leading up to Sunday's tilt with the Cowboys in Rio de Janeiro, and the wide receiver is expected to be limited to \"somewhere in the realm of 20 to 30 plays\" if he suits up, Ian Rapoport of NFL Network reports."
-    },
-    {
-      "player_id": "11256",
-      "source_id": "4434153",
-      "player_name": "Tyson Bagent",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-09-28",
-      "injury_comment": "Bagent, who is listed as questionable for Monday's game against the Eagles, cleared concussion protocol Sunday and will serve as the Bears' No. 2 quarterback in Week 3, Jay Glazer reported on \"Fox NFL Sunday.\""
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13477",
@@ -44,8 +31,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Young (knee) is doubtful to return to Sunday's game against the Steelers."
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "9494",
@@ -87,19 +74,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11604",
-      "source_id": "4432665",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee - Meniscus",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Bowers (knee), who is listed as questionable for Week 3, is expected to make his season debut Sunday at New Orleans, Jeremy Fowler of ESPN reports."
-    },
-    {
       "player_id": "6865",
       "source_id": "4242557",
       "player_name": "Colby Parkinson",
@@ -113,30 +87,56 @@
       "injury_comment": "Parkinson (knee) is listed as questionable for Sunday's contest at Denver, Sarah Barshop of ESPN.com reports."
     },
     {
-      "player_id": "9226",
-      "source_id": "4429160",
-      "player_name": "De'Von Achane",
+      "player_id": "6794",
+      "source_id": "4262921",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-09-27",
+      "injury_comment": "Jefferson is questionable to return to Sunday's game at Tampa Bay due to an ankle injury."
+    },
+    {
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
       "position": "RB",
-      "team_abbr": "MIA",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thigh",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Hall (thigh) outlined that he \"felt something\" when running before departing Sunday's 31-24 loss to the Lions, Brian Costello of the New York Post reports."
+    },
+    {
+      "player_id": "11618",
+      "source_id": "4430834",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "team_abbr": "TB",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-09-27",
-      "injury_comment": "Achane (knee) went to the locker room during Sunday's game versus the Chiefs, Chris Perkins of the South Florida Sun Sentinel reports."
+      "injury_comment": "McMillan (knee) has been ruled out for the rest of Sunday's game against the Vikings, PewterReport.com reports."
     },
     {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "SF",
+      "player_id": "9508",
+      "source_id": "4428557",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbr": "TEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Evans (hip) remains listed as questionable for Sunday's game versus the Cardinals but intends to play, Jeremy Fowler of ESPN reports."
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Spears (ankle) is questionable to return to Sunday's game against the Giants, Turron Davenport of ESPN.com reports."
     }
   ],
   "doubtful": [
@@ -152,6 +152,19 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-09-27",
       "injury_comment": "Nacua (hip), who is listed as doubtful for Sunday's game at Denver, has been hampered by a groin injury that has impacted his explosiveness, and while the Rams haven't taken surgery \"entirely off the table,\" the issue is considered \"short term,\" with a return possible sooner rather than later, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "9226",
+      "source_id": "4429160",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Head coach Jeff Hafley said after Sunday's 24-10 loss to the Chiefs that Achane's knee injury \"does not sound very optimistic,\" but the running back will undergo additional testing to determine the extent of the issue, Cameron Wolfe of NFL Network reports."
     }
   ],
   "out": [
@@ -180,6 +193,32 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-05",
       "injury_comment": "Strand (coach's decision) is inactive for Thursday's game against the Packers."
+    },
+    {
+      "player_id": "13350",
+      "source_id": "4429582",
+      "player_name": "Joe Fagnano",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Fagnano (coach's decision) is inactive for Sunday's game against Dallas but will be available as the team's emergency quarterback if needed."
+    },
+    {
+      "player_id": "13268",
+      "source_id": "5088338",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Sarratt (coach's decision) is inactive for Sunday's game against Dallas."
     },
     {
       "player_id": "13402",
@@ -299,6 +338,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13726",
+      "source_id": "4808759",
+      "player_name": "Camden Brown",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -348,7 +400,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Collins (hamstring), who is missing a second game in a row Sunday at Indianapolis, has \"a decent chance\" to return to action in Week 4 against the Cowboys on Oct. 4, Adam Schefter of ESPN reports."
+      "injury_comment": "Collins (hamstring) is making good progress in his recovery, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "6427",
@@ -414,6 +466,32 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-04",
       "injury_comment": "Williams (coach's decision) is inactive for Sunday's game against the Patriots."
+    },
+    {
+      "player_id": "13404",
+      "source_id": "4567747",
+      "player_name": "Garrett Nussmeier",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "11595",
+      "source_id": "4430723",
+      "player_name": "Jared Wiley",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Wiley (coach's decision) is inactive for Sunday's game against Miami, Matt McMullen of the Chiefs' official site site reports."
     },
     {
       "player_id": "10866",
@@ -494,6 +572,19 @@
       "injury_comment": "Wright (foot) is inactive for Sunday's game against the Chiefs."
     },
     {
+      "player_id": "11565",
+      "source_id": "4433970",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "13295",
       "source_id": "4431465",
       "player_name": "Behren Morton",
@@ -530,7 +621,20 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-05",
-      "injury_comment": "Brown (hamstring) is listed as out for Sunday's game versus Las Vegas."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "7538",
+      "source_id": "4361259",
+      "player_name": "Zach Wilson",
+      "position": "QB",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-05",
+      "injury_comment": "Wilson (coach's decision) is inactive but will serve as the emergency third quarterback against the Raiders on Sunday."
     },
     {
       "player_id": "11895",
@@ -700,6 +804,19 @@
       "injury_detail": "Personal",
       "est_return_date": "2027-02-15",
       "injury_comment": "Head coach Kyle Shanahan said Sunday that he's not viewing Aiyuk as an option for the 49ers while the club contends with multiple injuries at receiver, Matt Barrows of The Athletic reports."
+    },
+    {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "inactive"
     },
     {
       "player_id": "11651",
