@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-27T23:52:01.851Z",
+  "lastUpdated": "2026-09-28T13:31:36.352Z",
   "week": 3,
   "summary": {
     "total_players": 767,
-    "questionable": 11,
-    "doubtful": 1,
-    "out": 66
+    "questionable": 10,
+    "doubtful": 3,
+    "out": 65
   },
   "questionable": [
     {
@@ -71,20 +71,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Jefferson has been ruled out for the rest of Sunday's game in Tampa Bay due to an ankle injury."
-    },
-    {
-      "player_id": "5973",
-      "source_id": "3921690",
-      "player_name": "Josh Oliver",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Arm",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Oliver (arm) has been ruled out for the rest of Sunday's game against the Buccaneers, Kevin Seifert of ESPN.com reports."
+      "injury_comment": "Jefferson (ankle) \"got close a couple times\" to returning to Sunday's 23-16 win over the Buccaneers, head coach Kevin O'Connell said after the game, Ben Goessling of the Minnesota Star Tribune reports."
     },
     {
       "player_id": "7543",
@@ -96,8 +83,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Etienne (hamstring) is questionable to return to Sunday's game against the Raiders."
+      "est_return_date": "2026-10-05",
+      "injury_comment": "Etienne exited Sunday's 35-27 loss to the Raiders due to an injury to the same hamstring that bothered him in practice leading up to the game, head coach Kellen Moore revealed after the loss, John Hendrix of NewOrleans.Football reports."
     },
     {
       "player_id": "8155",
@@ -123,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Evans (rib) is dealing with a rib strain after exiting Sunday's game against the Cardinals, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Evans has a rib/oblique injury, head coach Kyle Shanahan revealed after Sunday's 36-30 win over the Cardinals, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "4892",
@@ -134,9 +121,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hand",
-      "est_return_date": "2026-09-27",
-      "injury_comment": "Mayfield left the field accompanied by training staff in the fourth quarter of Sunday's game against the Vikings after sustaining an apparent hand injury, Brianna Dix of the Buccaneers' official site reports."
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Mayfield is dealing with a dislocated right thumb and will have an MRI on the injury, head coach Todd Bowles relayed after Sunday's 23-16 loss to the Vikings, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "11618",
@@ -148,11 +135,24 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-09-27",
+      "est_return_date": "2026-10-04",
       "injury_comment": "McMillan (knee) has been ruled out for the rest of Sunday's game against the Vikings, PewterReport.com reports."
     }
   ],
   "doubtful": [
+    {
+      "player_id": "12483",
+      "source_id": "4603186",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Forearm",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Bech suffered a broken forearm in Sunday's game against the Saints and is expected to go on injured reserve, Ian Rapoport of NFL Network reports."
+    },
     {
       "player_id": "9226",
       "source_id": "4429160",
@@ -165,6 +165,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
       "injury_comment": "Head coach Jeff Hafley said after Sunday's 24-10 loss to the Chiefs that Achane's knee injury \"does not sound very optimistic,\" but the running back will undergo additional testing to determine the extent of the issue, Cameron Wolfe of NFL Network reports."
+    },
+    {
+      "player_id": "5973",
+      "source_id": "3921690",
+      "player_name": "Josh Oliver",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Biceps",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Oliver (arm) has been ruled out for the rest of Sunday's game against the Buccaneers, Kevin Seifert of ESPN.com reports."
     }
   ],
   "out": [
@@ -546,19 +559,6 @@
       "injury_comment": "Wiley (coach's decision) is inactive for Sunday's game against Miami, Matt McMullen of the Chiefs' official site site reports."
     },
     {
-      "player_id": "12483",
-      "source_id": "4603186",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Bech suffered a broken forearm in Sunday's game against the Saints and is expected to go on injured reserve, Ian Rapoport of NFL Network reports."
-    },
-    {
       "player_id": "10866",
       "source_id": "4260394",
       "player_name": "Aidan O'Connell",
@@ -918,9 +918,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Head coach Kyle Shanahan said Sunday that he's not viewing Aiyuk as an option for the 49ers while the club contends with multiple injuries at receiver, Matt Barrows of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12477",
