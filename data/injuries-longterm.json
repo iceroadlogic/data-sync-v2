@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-29T17:15:22.048Z",
+  "lastUpdated": "2026-09-29T23:16:46.685Z",
   "week": 4,
   "summary": {
-    "total_players": 767,
-    "ir": 72,
+    "total_players": 765,
+    "ir": 73,
     "suspended": 0
   },
   "ir": [
@@ -437,6 +437,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12483",
+      "source_id": "4603186",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Forearm",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "The Raiders placed Bech (forearm) on injured reserve Tuesday."
+    },
+    {
       "player_id": "11963",
       "source_id": "4698191",
       "player_name": "Chris Collier",
@@ -467,19 +480,6 @@
       "source_id": "5155825",
       "player_name": "Carter Runyon",
       "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "9489",
-      "source_id": "4361426",
-      "player_name": "Justin Shorter",
-      "position": "WR",
       "team_abbr": "LV",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
@@ -578,6 +578,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "5973",
+      "source_id": "3921690",
+      "player_name": "Josh Oliver",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Biceps",
+      "est_return_date": "2027-01-17",
+      "injury_comment": "ir"
     },
     {
       "player_id": "8408",

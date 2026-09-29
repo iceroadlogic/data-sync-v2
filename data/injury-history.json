@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T17:15:22.048Z",
+  "lastUpdated": "2026-09-29T23:16:46.685Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6746,6 +6746,13 @@
           "to": "Out",
           "detail": "Biceps",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Biceps",
+          "team": "MIN"
         }
       ]
     },
@@ -9489,6 +9496,12 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "DEN"
         }
       ]
     },
@@ -16889,6 +16902,13 @@
           "date": "2026-09-22",
           "from": "Healthy",
           "to": "IR",
+          "team": "LV"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Undisclosed",
           "team": "LV"
         }
       ]
@@ -27701,6 +27721,13 @@
           "date": "2026-09-29",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Forearm",
+          "team": "LV"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Out",
+          "to": "IR",
           "detail": "Forearm",
           "team": "LV"
         }
