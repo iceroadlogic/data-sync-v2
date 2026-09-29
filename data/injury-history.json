@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T20:28:03.881Z",
+  "lastUpdated": "2026-09-29T00:03:05.303Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4604,6 +4604,13 @@
           "date": "2026-05-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "BUF"
         }
       ]
     },
@@ -8842,6 +8849,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder - AC Joint",
+          "team": "LAR"
         }
       ]
     },
@@ -10890,6 +10904,13 @@
           "date": "2025-12-29",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CLE"
         }
       ]
     },
@@ -16268,6 +16289,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -25533,6 +25561,11 @@
           "to": "Suspended",
           "detail": "Suspension",
           "team": "MIN"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Suspended",
+          "to": "Healthy"
         }
       ]
     },
@@ -27537,6 +27570,13 @@
           "to": "Doubtful",
           "detail": "Forearm",
           "team": "LV"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Forearm",
+          "team": "LV"
         }
       ]
     },
@@ -27723,6 +27763,13 @@
           "date": "2026-09-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Doubtful",
+          "detail": "Ankle",
+          "team": "LAR"
         }
       ]
     },
@@ -33493,6 +33540,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -34439,6 +34493,13 @@
           "date": "2026-09-27",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "CIN"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee",
           "team": "CIN"
         }

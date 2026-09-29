@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-28T18:56:44.226Z",
+  "lastUpdated": "2026-09-29T00:03:05.303Z",
   "week": 3,
   "summary": {
     "total_players": 767,
-    "ir": 71,
-    "suspended": 1
+    "ir": 72,
+    "suspended": 0
   },
   "ir": [
     {
@@ -382,7 +382,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Colts head coach Shane Steichen reiterated Monday that Pierce (heel) didn't undergo surgery on his left heel and is continuing to rehab the injury, James Boyd of The Indianapolis Star reports."
+      "injury_comment": "Colts head coach Shane Steichen reiterated Monday that Pierce didn't undergo surgery on his left heel and is continuing to rehab the injury, James Boyd of The Athletic reports."
     },
     {
       "player_id": "13407",
@@ -552,6 +552,19 @@
       "injury_detail": "Calf",
       "est_return_date": "2026-10-25",
       "injury_comment": "The Rams placed Rivers (calf) on their injured reserve list Wednesday."
+    },
+    {
+      "player_id": "9226",
+      "source_id": "4429160",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Dolphins placed Achane (knee) on injured reserve Monday."
     },
     {
       "player_id": "8214",
@@ -931,19 +944,5 @@
       "injury_comment": null
     }
   ],
-  "suspended": [
-    {
-      "player_id": "11911",
-      "source_id": "4360637",
-      "player_name": "Jeshaun Jones",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "news",
-      "injury_designation": "Suspension",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    }
-  ]
+  "suspended": []
 }
