@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-29T12:33:24.931Z",
+  "lastUpdated": "2026-09-29T19:14:25.466Z",
   "week": 4,
   "summary": {
     "total_players": 767,
-    "questionable": 9,
-    "doubtful": 1,
-    "out": 38
+    "questionable": 27,
+    "doubtful": 5,
+    "out": 16
   },
   "questionable": [
     {
@@ -35,6 +35,19 @@
       "injury_comment": "Coker has been diagnosed with a minor quadriceps strain and could be available to play in next Sunday's game against the Lions, Ian Rapoport of NFL Network reports."
     },
     {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "7595",
       "source_id": "4241424",
       "player_name": "Tylan Wallace",
@@ -46,6 +59,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-01",
       "injury_comment": "Wallace (knee) did not participate in the Browns' estimated practice Monday, Adam Caplan of SiriusXM NFL Radio reports."
+    },
+    {
+      "player_id": "9494",
+      "source_id": "4686472",
+      "player_name": "Marvin Mims Jr.",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "8116",
@@ -61,6 +87,32 @@
       "injury_comment": null
     },
     {
+      "player_id": "7569",
+      "source_id": "4258173",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Head coach DeMeco Ryans said Monday that he's \"hopeful\" to have Collins available for the Texans' Week 4 game against the Cowboys, Aaron Wilson of KPRC 2 Houston reports."
+    },
+    {
+      "player_id": "6427",
+      "source_id": "4061956",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "6964",
       "source_id": "4036275",
       "player_name": "Sean McKeon",
@@ -72,6 +124,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Personal",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13380",
+      "source_id": "4685553",
+      "player_name": "Brenen Thompson",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Head coach Sean McVay said Monday that the Rams are \"hopeful\" Nacua (hip) will return to action for Sunday's game at Philadelphia, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "6865",
@@ -87,6 +178,32 @@
       "injury_comment": "Head coach Sean McVay said Monday that Parkinson is day-to-day due to an AC joint sprain in his shoulder that he picked up during the Rams' 30-26 loss to the Broncos on Sunday, Adam Grosbard of The Orange County Register reports."
     },
     {
+      "player_id": "13296",
+      "source_id": "4869645",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Dolphins head coach Jeff Hafley said Douglas (ankle) is day-to-day and could practice Wednesday, Travis Wingfield of the team's official site reports."
+    },
+    {
+      "player_id": "11643",
+      "source_id": "4682745",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Head coach Jeff Hafley said Monday that he considers Wright (stinger/foot) to be \"day-to-day,\" Joe Schad of The Palm Beach Post reports."
+    },
+    {
       "player_id": "6794",
       "source_id": "4262921",
       "player_name": "Justin Jefferson",
@@ -98,6 +215,32 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
       "injury_comment": "Jefferson was diagnosed Monday with a sprained left ankle following an MRI, and the Vikings are hopeful that he'll be able to play Sunday versus the Dolphins, Ian Rapoport of NFL Network reports."
+    },
+    {
+      "player_id": "13421",
+      "source_id": "4831959",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thigh",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13533",
+      "source_id": "4698597",
+      "player_name": "Barion Brown",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-05",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "8155",
@@ -113,6 +256,71 @@
       "injury_comment": "Hall is considered week-to-week after an MRI on Monday revealed that his thigh injury isn't significant as feared, Ian Rapoport and Adam Schefter of ESPN report."
     },
     {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7720",
+      "source_id": "4035537",
+      "player_name": "Kene Nwangwu",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "12498",
+      "source_id": "4808766",
+      "player_name": "Mason Taylor",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "5848",
+      "source_id": "4241372",
+      "player_name": "Hollywood Brown",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7021",
+      "source_id": "4038815",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-10-01",
+      "injury_comment": "Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports."
+    },
+    {
       "player_id": "2216",
       "source_id": "16737",
       "player_name": "Mike Evans",
@@ -124,9 +332,74 @@
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-04",
       "injury_comment": "Evans is considered day-to-day after sustaining a rib strain during Sunday's 36-30 win over the Cardinals, Ian Rapoport of NFL Network reports."
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season."
+    },
+    {
+      "player_id": "8210",
+      "source_id": "4360635",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Commanders head coach Dan Quinn said that Okonkwo (hamstring) will make the trip to London and will practice in some capacity leading up to Sunday's game against the Colts, Nicki Jhabvala of The Athletic reports."
     }
   ],
   "doubtful": [
+    {
+      "player_id": "11560",
+      "source_id": "4431611",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "doubtful"
+    },
+    {
+      "player_id": "10222",
+      "source_id": "4362249",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Packers head coach Matt LaFleur said Monday that he still has no update regarding how long Reed (neck) will be sidelined, Matt Schneidman of The Athletic reports."
+    },
+    {
+      "player_id": "8127",
+      "source_id": "4241263",
+      "player_name": "Charlie Kolar",
+      "position": "TE",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Forearm",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "doubtful"
+    },
     {
       "player_id": "12487",
       "source_id": "4570037",
@@ -139,6 +412,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
       "injury_comment": "Coach Sean McVay said Monday that Ferguson \"likely\" will be sidelined for Sunday's game in Philadelphia, Adam Grosbard of The Orange County Register reports."
+    },
+    {
+      "player_id": "5022",
+      "source_id": "3121023",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "doubtful"
     }
   ],
   "out": [
@@ -154,32 +440,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "11560",
-      "source_id": "4431611",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "inactive"
     },
     {
       "player_id": "13477",
@@ -208,19 +468,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "9494",
-      "source_id": "4686472",
-      "player_name": "Marvin Mims Jr.",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -232,19 +479,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "10222",
-      "source_id": "4362249",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Packers head coach Matt LaFleur said Monday that he still has no update regarding how long Reed (neck) will be sidelined, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "9481",
@@ -260,32 +494,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "7569",
-      "source_id": "4258173",
-      "player_name": "Nico Collins",
-      "position": "WR",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
       "player_id": "12483",
       "source_id": "4603186",
       "player_name": "Jack Bech",
@@ -299,84 +507,6 @@
       "injury_comment": "Raiders head coach Klint Kubiak confirmed Monday that Bech (forearm) is slated to be placed on injured reserve, Paul Gutierrez of the team's official site reports."
     },
     {
-      "player_id": "10866",
-      "source_id": "4260394",
-      "player_name": "Aidan O'Connell",
-      "position": "QB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "8127",
-      "source_id": "4241263",
-      "player_name": "Charlie Kolar",
-      "position": "TE",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13380",
-      "source_id": "4685553",
-      "player_name": "Brenen Thompson",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Head coach Sean McVay said Monday that the Rams are \"hopeful\" Nacua (hip) will return to action for Sunday's game at Philadelphia, Adam Grosbard of The Orange County Register reports."
-    },
-    {
-      "player_id": "13296",
-      "source_id": "4869645",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Dolphins head coach Jeff Hafley said Douglas (ankle) is day-to-day and could practice Wednesday, Travis Wingfield of the team's official site reports."
-    },
-    {
-      "player_id": "11643",
-      "source_id": "4682745",
-      "player_name": "Jaylen Wright",
-      "position": "RB",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Head coach Jeff Hafley said Monday that he considers Wright (stinger/foot) to be \"day-to-day,\" Joe Schad of The Palm Beach Post reports."
-    },
-    {
       "player_id": "5973",
       "source_id": "3921690",
       "player_name": "Josh Oliver",
@@ -386,34 +516,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Biceps",
-      "est_return_date": "2027-01-16",
+      "est_return_date": "2027-01-17",
       "injury_comment": "Oliver was diagnosed with a torn biceps following an MRI on Monday and is expected to undergo surgery in the coming days, Jeremy Fowler of ESPN.com reports."
-    },
-    {
-      "player_id": "13421",
-      "source_id": "4831959",
-      "player_name": "Eli Raridon",
-      "position": "TE",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Thigh",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13533",
-      "source_id": "4698597",
-      "player_name": "Barion Brown",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-05",
-      "injury_comment": "out"
     },
     {
       "player_id": "7543",
@@ -442,71 +546,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "7720",
-      "source_id": "4035537",
-      "player_name": "Kene Nwangwu",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "12498",
-      "source_id": "4808766",
-      "player_name": "Mason Taylor",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "5848",
-      "source_id": "4241372",
-      "player_name": "Hollywood Brown",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "5022",
-      "source_id": "3121023",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - MCL",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "inactive"
-    },
-    {
       "player_id": "9230",
       "source_id": "4685201",
       "player_name": "Tanner McKee",
@@ -531,19 +570,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-04",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "7021",
-      "source_id": "4038815",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-10-01",
-      "injury_comment": "Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports."
     },
     {
       "player_id": "6803",
@@ -609,32 +635,6 @@
       "injury_detail": "Knee - PCL",
       "est_return_date": "2026-11-22",
       "injury_comment": "McMillan has been diagnosed with a PCL sprain in his left knee, Jenna Laine of ESPN.com reports."
-    },
-    {
-      "player_id": "11566",
-      "source_id": "4426348",
-      "player_name": "Jayden Daniels",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Head coach Dan Quinn said that Daniels (elbow) will join the team in London and practice in some form this week ahead of Sunday's game against the Colts, Zach Selby of the Commanders' official site reports."
-    },
-    {
-      "player_id": "8210",
-      "source_id": "4360635",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Commanders head coach Dan Quinn said that Okonkwo (hamstring) will make the trip to London and will practice in some capacity leading up to Sunday's game against the Colts, Nicki Jhabvala of The Athletic reports."
     }
   ]
 }
