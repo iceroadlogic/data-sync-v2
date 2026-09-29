@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T00:03:05.303Z",
-  "week": 3,
+  "lastUpdated": "2026-09-29T17:15:22.048Z",
+  "week": 4,
   "summary": {
     "total_players": 767,
     "ir": 72,
@@ -94,9 +94,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "12531",
@@ -523,9 +523,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Lower Leg",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "The Chargers placed Njoku (fibula) on injured reserve Wednesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13597",
@@ -559,7 +559,7 @@
       "player_name": "De'Von Achane",
       "position": "RB",
       "team_abbr": "MIA",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
