@@ -1,194 +1,194 @@
 {
-  "week": 3,
-  "lastUpdated": "2026-09-29T02:32:57.602Z",
+  "week": 4,
+  "lastUpdated": "2026-09-29T16:21:33.349Z",
   "games": [
     {
-      "game_id": "401872948",
-      "home_team": "GB",
-      "away_team": "ATL",
-      "stadium": "Lambeau Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 51,
-        "wind": "2 mph S",
-        "conditions": "Mostly Clear then Areas Of Fog",
-        "precipitation": "1%"
-      }
-    },
-    {
-      "game_id": "401872953",
-      "home_team": "BUF",
-      "away_team": "LAC",
-      "stadium": "Highmark Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 55,
-        "wind": "2 mph S",
-        "conditions": "Mostly Cloudy then Patchy Fog",
-        "precipitation": "4%"
-      }
-    },
-    {
-      "game_id": "401872949",
+      "game_id": "401872964",
       "home_team": "CLE",
-      "away_team": "CAR",
+      "away_team": "PIT",
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "1 to 5 mph S",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "temp": 64,
+        "wind": "5 to 9 mph W",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "49%"
       }
     },
     {
-      "game_id": "401872954",
-      "home_team": "DET",
-      "away_team": "NYJ",
-      "stadium": "Ford Field",
-      "is_dome": true,
-      "weather": null
-    },
-    {
-      "game_id": "401872951",
-      "home_team": "IND",
-      "away_team": "HOU",
-      "stadium": "Lucas Oil Stadium",
-      "is_dome": true,
-      "weather": null
-    },
-    {
-      "game_id": "401872952",
-      "home_team": "MIA",
-      "away_team": "KC",
-      "stadium": "Hard Rock Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 74,
-        "wind": "1 to 6 mph SW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "2%"
-      }
-    },
-    {
-      "game_id": "401872956",
-      "home_team": "NYG",
-      "away_team": "TEN",
-      "stadium": "MetLife Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 58,
-        "wind": "5 mph NW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
-      }
-    },
-    {
-      "game_id": "401872950",
-      "home_team": "PIT",
-      "away_team": "CIN",
-      "stadium": "Acrisure Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 58,
-        "wind": "0 mph ",
-        "conditions": "Patchy Fog",
-        "precipitation": "4%"
-      }
-    },
-    {
-      "game_id": "401872955",
+      "game_id": "401872965",
       "home_team": "WAS",
-      "away_team": "SEA",
+      "away_team": "IND",
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "2 mph W",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "10%"
+        "temp": 69,
+        "wind": "8 mph SE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "64%"
       }
     },
     {
-      "game_id": "401872957",
-      "home_team": "JAX",
+      "game_id": "401872971",
+      "home_team": "BUF",
       "away_team": "NE",
-      "stadium": "EverBank Stadium",
+      "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "7 mph S",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
-      }
-    },
-    {
-      "game_id": "401872958",
-      "home_team": "SF",
-      "away_team": "ARI",
-      "stadium": "Levi's Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 54,
-        "wind": "1 to 13 mph NW",
-        "conditions": "Mostly Clear",
-        "precipitation": "0%"
-      }
-    },
-    {
-      "game_id": "401872959",
-      "home_team": "TB",
-      "away_team": "MIN",
-      "stadium": "Raymond James Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 72,
-        "wind": "2 mph SW",
-        "conditions": "Partly Cloudy",
-        "precipitation": "2%"
-      }
-    },
-    {
-      "game_id": "401872960",
-      "home_team": "DAL",
-      "away_team": "BAL",
-      "stadium": "AT&T Stadium",
-      "is_dome": true,
-      "weather": null
-    },
-    {
-      "game_id": "401872961",
-      "home_team": "NO",
-      "away_team": "LV",
-      "stadium": "Caesars Superdome",
-      "is_dome": true,
-      "weather": null
-    },
-    {
-      "game_id": "401872962",
-      "home_team": "DEN",
-      "away_team": "LAR",
-      "stadium": "Empower Field at Mile High",
-      "is_dome": false,
-      "weather": {
-        "temp": 57,
-        "wind": "2 to 8 mph WSW",
+        "temp": 67,
+        "wind": "6 mph SW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "51%"
+        "precipitation": "33%"
       }
     },
     {
-      "game_id": "401872963",
+      "game_id": "401872972",
       "home_team": "CHI",
-      "away_team": "PHI",
+      "away_team": "NYJ",
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "0 to 5 mph SE",
-        "conditions": "Partly Cloudy then Patchy Fog",
+        "temp": 62,
+        "wind": "5 to 10 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "5%"
+      }
+    },
+    {
+      "game_id": "401872969",
+      "home_team": "CIN",
+      "away_team": "JAX",
+      "stadium": "Paycor Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 68,
+        "wind": "3 to 8 mph N",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "48%"
+      }
+    },
+    {
+      "game_id": "401872966",
+      "home_team": "NYG",
+      "away_team": "ARI",
+      "stadium": "MetLife Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 68,
+        "wind": "9 mph E",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "60%"
+      }
+    },
+    {
+      "game_id": "401872970",
+      "home_team": "PHI",
+      "away_team": "LAR",
+      "stadium": "Lincoln Financial Field",
+      "is_dome": false,
+      "weather": {
+        "temp": 69,
+        "wind": "5 mph E",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "59%"
+      }
+    },
+    {
+      "game_id": "401872968",
+      "home_team": "TB",
+      "away_team": "GB",
+      "stadium": "Raymond James Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 90,
+        "wind": "7 mph ESE",
+        "conditions": "Mostly Sunny then Scattered Showers And Thunderstorms",
+        "precipitation": "39%"
+      }
+    },
+    {
+      "game_id": "401872973",
+      "home_team": "BAL",
+      "away_team": "TEN",
+      "stadium": "M&T Bank Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 70,
+        "wind": "5 to 8 mph SE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "61%"
+      }
+    },
+    {
+      "game_id": "401872967",
+      "home_team": "HOU",
+      "away_team": "DAL",
+      "stadium": "NRG Stadium",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401872974",
+      "home_team": "MIN",
+      "away_team": "MIA",
+      "stadium": "U.S. Bank Stadium",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401872976",
+      "home_team": "LV",
+      "away_team": "KC",
+      "stadium": "Allegiant Stadium",
+      "is_dome": true,
+      "weather": null
+    },
+    {
+      "game_id": "401872975",
+      "home_team": "SF",
+      "away_team": "DEN",
+      "stadium": "Levi's Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 83,
+        "wind": "1 to 10 mph NNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
+    },
+    {
+      "game_id": "401872977",
+      "home_team": "SEA",
+      "away_team": "LAC",
+      "stadium": "Lumen Field",
+      "is_dome": false,
+      "weather": {
+        "temp": 70,
+        "wind": "6 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "0%"
+      }
+    },
+    {
+      "game_id": "401872978",
+      "home_team": "CAR",
+      "away_team": "DET",
+      "stadium": "Bank of America Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 61,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "66%"
+      }
+    },
+    {
+      "game_id": "401872979",
+      "home_team": "NO",
+      "away_team": "ATL",
+      "stadium": "Caesars Superdome",
+      "is_dome": true,
+      "weather": null
     }
   ]
 }
