@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T00:03:05.303Z",
+  "lastUpdated": "2026-09-29T00:38:55.221Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -22784,6 +22784,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "TB"
+        },
+        {
+          "date": "2026-09-29",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee - PCL",
           "team": "TB"
         }
       ]
