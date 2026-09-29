@@ -1,6 +1,6 @@
 {
   "week": 3,
-  "lastUpdated": "2026-09-29T01:31:07.620Z",
+  "lastUpdated": "2026-09-29T02:32:57.602Z",
   "games": [
     {
       "game_id": "401872948",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "3 mph SSE",
+        "wind": "2 mph S",
         "conditions": "Mostly Clear then Areas Of Fog",
         "precipitation": "1%"
       }
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "2 mph SW",
+        "wind": "2 mph S",
         "conditions": "Mostly Cloudy then Patchy Fog",
         "precipitation": "4%"
       }
@@ -36,7 +36,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "2 mph S",
+        "wind": "1 to 5 mph S",
         "conditions": "Partly Cloudy",
         "precipitation": "1%"
       }
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "3 mph SW",
+        "wind": "1 to 6 mph SW",
         "conditions": "Partly Cloudy",
         "precipitation": "2%"
       }
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "3 mph NW",
+        "wind": "5 mph NW",
         "conditions": "Mostly Cloudy",
         "precipitation": "2%"
       }
@@ -93,7 +93,7 @@
         "temp": 58,
         "wind": "0 mph ",
         "conditions": "Patchy Fog",
-        "precipitation": "5%"
+        "precipitation": "4%"
       }
     },
     {
@@ -172,7 +172,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "2 to 7 mph WSW",
+        "wind": "2 to 8 mph WSW",
         "conditions": "Chance Rain Showers",
         "precipitation": "51%"
       }
