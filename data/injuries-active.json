@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-30T01:11:14.737Z",
+  "lastUpdated": "2026-09-30T12:20:37.022Z",
   "week": 4,
   "summary": {
-    "total_players": 765,
-    "questionable": 29,
+    "total_players": 763,
+    "questionable": 28,
     "doubtful": 5,
     "out": 14
   },
@@ -150,19 +150,6 @@
       "injury_detail": "Personal",
       "est_return_date": "2026-10-04",
       "injury_comment": "questionable"
-    },
-    {
-      "player_id": "9489",
-      "source_id": "4361426",
-      "player_name": "Justin Shorter",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "13380",
@@ -370,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season."
+      "injury_comment": "Daniels (elbow) is traveling with the Commanders to London ahead of Sunday's game against the Colts, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "8210",
@@ -383,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Commanders head coach Dan Quinn said that Okonkwo (hamstring) will make the trip to London and will practice in some capacity leading up to Sunday's game against the Colts, Nicki Jhabvala of The Athletic reports."
+      "injury_comment": "Okonkwo (hamstring) will travel with the Commanders to London ahead of the team's Week 4 game against the Colts this Sunday, Adam Schefter of ESPN reports."
     }
   ],
   "doubtful": [
