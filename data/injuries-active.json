@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-29T19:14:25.466Z",
+  "lastUpdated": "2026-09-30T01:11:14.737Z",
   "week": 4,
   "summary": {
-    "total_players": 767,
-    "questionable": 27,
+    "total_players": 765,
+    "questionable": 29,
     "doubtful": 5,
-    "out": 16
+    "out": 14
   },
   "questionable": [
     {
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-01",
-      "injury_comment": "Wallace (knee) did not participate in the Browns' estimated practice Monday, Adam Caplan of SiriusXM NFL Radio reports."
+      "injury_comment": "Wallace (knee) didn't participate in Cleveland's practice Tuesday, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "9494",
@@ -70,6 +70,19 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Foot",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7526",
+      "source_id": "4372016",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Leg",
       "est_return_date": "2026-10-04",
       "injury_comment": "questionable"
     },
@@ -137,6 +150,19 @@
       "injury_detail": "Personal",
       "est_return_date": "2026-10-04",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "9489",
+      "source_id": "4361426",
+      "player_name": "Justin Shorter",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13380",
@@ -318,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-10-01",
-      "injury_comment": "Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "Dowdle (toe) was estimated as a non-participant on Tuesday's injury report, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "2216",
@@ -492,32 +518,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12483",
-      "source_id": "4603186",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Raiders head coach Klint Kubiak confirmed Monday that Bech (forearm) is slated to be placed on injured reserve, Paul Gutierrez of the team's official site reports."
-    },
-    {
-      "player_id": "5973",
-      "source_id": "3921690",
-      "player_name": "Josh Oliver",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Biceps",
-      "est_return_date": "2027-01-17",
-      "injury_comment": "Oliver was diagnosed with a torn biceps following an MRI on Monday and is expected to undergo surgery in the coming days, Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "7543",
