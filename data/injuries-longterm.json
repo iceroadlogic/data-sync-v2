@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-30T17:13:32.630Z",
+  "lastUpdated": "2026-09-30T23:19:43.798Z",
   "week": 4,
   "summary": {
-    "total_players": 763,
-    "ir": 74,
+    "total_players": 772,
+    "ir": 75,
     "suspended": 0
   },
   "ir": [
@@ -279,6 +279,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "10222",
+      "source_id": "4362249",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Packers officially placed Reed (neck) on injured reserve Wednesday."
     },
     {
       "player_id": "12482",
@@ -720,7 +733,7 @@
       "injury_description": null,
       "injury_detail": "Knee - Meniscus",
       "est_return_date": "2027-01-17",
-      "injury_comment": "The Giants officially placed Dart (knee) on injured reserve Thursday, Mike Garafolo of NFL Network reports."
+      "injury_comment": "Dart recently underwent surgery to repair the meniscus and MCL in his left knee, Dan Duggan of The Athletic reports."
     },
     {
       "player_id": "6699",
@@ -923,7 +936,7 @@
       "player_name": "Jalen McMillan",
       "position": "WR",
       "team_abbr": "TB",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee - PCL",
