@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-09-30T01:07:28.211Z",
+  "lastUpdated": "2026-09-30T16:17:13.080Z",
   "games": [
     {
       "game_id": "401872964",
@@ -9,10 +9,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 to 8 mph SW",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "58%"
+        "temp": 62,
+        "wind": "6 to 9 mph SW",
+        "conditions": "Rain Showers",
+        "precipitation": "82%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "7 mph NE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "62%"
+        "temp": 66,
+        "wind": "6 mph E",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "51%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "6 mph SW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "19%"
+        "wind": "3 to 7 mph S",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "5 mph NW",
+        "temp": 65,
+        "wind": "5 to 10 mph NW",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "3%"
       }
     },
     {
@@ -62,9 +62,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "6 mph N",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "28%"
+        "wind": "1 to 5 mph N",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "8 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "47%"
+        "wind": "5 to 8 mph E",
+        "conditions": "Partly Sunny then Chance Rain Showers",
+        "precipitation": "28%"
       }
     },
     {
@@ -90,7 +90,7 @@
         "temp": 68,
         "wind": "5 mph E",
         "conditions": "Chance Rain Showers",
-        "precipitation": "54%"
+        "precipitation": "40%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "8 mph SE",
+        "wind": "7 mph SE",
         "conditions": "Mostly Sunny then Scattered Showers And Thunderstorms",
-        "precipitation": "37%"
+        "precipitation": "43%"
       }
     },
     {
@@ -114,9 +114,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "7 mph E",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "59%"
+        "wind": "2 to 6 mph E",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "46%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "0 to 9 mph NW",
+        "temp": 83,
+        "wind": "0 to 10 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -164,8 +164,8 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "6 mph N",
-        "conditions": "Mostly Sunny",
+        "wind": "5 mph N",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -176,10 +176,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "3 to 7 mph NNE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "74%"
+        "temp": 58,
+        "wind": "6 mph NNE",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "76%"
       }
     },
     {
