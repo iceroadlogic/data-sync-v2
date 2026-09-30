@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-09-29T16:21:33.349Z",
+  "lastUpdated": "2026-09-30T01:07:28.211Z",
   "games": [
     {
       "game_id": "401872964",
@@ -9,10 +9,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "5 to 9 mph W",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "49%"
+        "temp": 65,
+        "wind": "5 to 8 mph SW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "58%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "8 mph SE",
+        "temp": 67,
+        "wind": "7 mph NE",
         "conditions": "Rain Showers Likely",
-        "precipitation": "64%"
+        "precipitation": "62%"
       }
     },
     {
@@ -37,8 +37,8 @@
       "weather": {
         "temp": 67,
         "wind": "6 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "33%"
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "19%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 to 10 mph NW",
+        "temp": 64,
+        "wind": "5 mph NW",
         "conditions": "Mostly Sunny",
-        "precipitation": "5%"
+        "precipitation": "4%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "3 to 8 mph N",
+        "temp": 70,
+        "wind": "6 mph N",
         "conditions": "Chance Rain Showers",
-        "precipitation": "48%"
+        "precipitation": "28%"
       }
     },
     {
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "9 mph E",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "60%"
+        "temp": 67,
+        "wind": "8 mph E",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "47%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
+        "temp": 68,
         "wind": "5 mph E",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "59%"
+        "conditions": "Chance Rain Showers",
+        "precipitation": "54%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "7 mph ESE",
+        "wind": "8 mph SE",
         "conditions": "Mostly Sunny then Scattered Showers And Thunderstorms",
-        "precipitation": "39%"
+        "precipitation": "37%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 to 8 mph SE",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "61%"
+        "temp": 68,
+        "wind": "7 mph E",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "59%"
       }
     },
     {
@@ -150,8 +150,8 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "1 to 10 mph NNW",
+        "temp": 85,
+        "wind": "0 to 9 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -176,10 +176,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "3 to 8 mph NW",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "66%"
+        "temp": 60,
+        "wind": "3 to 7 mph NNE",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "74%"
       }
     },
     {
