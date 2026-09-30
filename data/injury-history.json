@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T12:20:37.022Z",
+  "lastUpdated": "2026-09-30T17:13:32.630Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6605,6 +6605,13 @@
           "date": "2026-09-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "TEN"
         }
       ]
     },
@@ -13013,6 +13020,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "WAS"
         }
       ]
     },
@@ -13809,6 +13823,13 @@
           "date": "2026-09-27",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Thigh",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Thigh",
           "team": "NYJ"
         }
@@ -17636,6 +17657,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "TEN"
         }
       ]
     },
@@ -18485,6 +18513,13 @@
           "date": "2026-09-29",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Neck",
+          "team": "GB"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Neck",
           "team": "GB"
         }
@@ -22915,6 +22950,13 @@
           "to": "Out",
           "detail": "Knee - PCL",
           "team": "TB"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee - PCL",
+          "team": "TB"
         }
       ]
     },
@@ -23390,6 +23432,13 @@
           "date": "2026-09-29",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Finger",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Finger",
           "team": "NYJ"
         }
@@ -28467,6 +28516,13 @@
           "date": "2026-09-29",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Thumb",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Thumb",
           "team": "NYJ"
         }
@@ -33682,6 +33738,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-09-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYJ"
         }
       ]
     },
