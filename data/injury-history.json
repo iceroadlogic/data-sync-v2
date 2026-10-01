@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T17:42:33.733Z",
+  "lastUpdated": "2026-10-01T23:33:57.918Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -464,6 +464,19 @@
           "date": "2025-10-24",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "1479": {
+      "name": "Keenan Allen",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "IND"
         }
       ]
     },
@@ -2536,6 +2549,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "TB"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -4120,6 +4138,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -4931,6 +4954,11 @@
           "to": "Questionable",
           "detail": "Heel",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -5660,6 +5688,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "SF"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -6120,6 +6153,13 @@
           "date": "2025-12-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Abdomen",
+          "team": "NO"
         }
       ]
     },
@@ -6691,6 +6731,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "TEN"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -7755,6 +7800,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8282,6 +8332,13 @@
           "date": "2026-09-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CHI"
         }
       ]
     },
@@ -10056,6 +10113,13 @@
           "date": "2026-09-28",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "NO"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Out",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "NO"
         }
@@ -18260,6 +18324,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -24895,6 +24964,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "MIA"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29848,6 +29922,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -33501,6 +33582,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -33703,6 +33791,19 @@
         }
       ]
     },
+    "13299": {
+      "name": "Nate Boerkircher",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "JAX"
+        }
+      ]
+    },
     "13302": {
       "name": "Adam Randall",
       "position": "RB",
@@ -33807,6 +33908,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CLE"
         }
       ]
     },
@@ -34870,6 +34978,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -35010,6 +35125,13 @@
           "date": "2026-08-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Quadriceps",
+          "team": "HOU"
         }
       ]
     },

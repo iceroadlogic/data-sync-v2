@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-01T17:42:33.733Z",
+  "lastUpdated": "2026-10-01T23:33:57.918Z",
   "week": 4,
   "summary": {
     "total_players": 773,
-    "ir": 78,
+    "ir": 79,
     "suspended": 0
   },
   "ir": [
@@ -198,9 +198,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "The Bengals placed Iosivas (thumb) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12486",
@@ -736,6 +736,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "7543",
+      "source_id": "4239996",
+      "player_name": "Travis Etienne Jr.",
+      "position": "RB",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Saints are placing Etienne (hamstring) on injured reserve, Katherine Terrell of ESPN.com reports."
+    },
+    {
       "player_id": "12480",
       "source_id": "4432731",
       "player_name": "Moliki Matavao",
@@ -757,9 +770,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Head coach Kellen Moore said Thursday that he doesn't expect Tyson (hamstring) to practice next week, Matthew Paras of The New Orleans Times-Picayune reports."
     },
     {
       "player_id": "8125",
