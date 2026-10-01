@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T01:11:04.321Z",
+  "lastUpdated": "2026-10-01T17:42:33.733Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1632,6 +1632,19 @@
         }
       ]
     },
+    "3269": {
+      "name": "Chris Moore",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "BAL"
+        }
+      ]
+    },
     "3271": {
       "name": "Tyler Higbee",
       "position": "TE",
@@ -2898,6 +2911,12 @@
           "date": "2026-09-08",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "ARI"
         }
       ]
     },
@@ -9129,6 +9148,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22423,6 +22447,12 @@
           "date": "2026-09-08",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "ARI"
         }
       ]
     },
@@ -25303,6 +25333,12 @@
           "date": "2026-09-08",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "ARI"
         }
       ]
     },
@@ -26646,6 +26682,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -35518,6 +35559,12 @@
           "date": "2026-09-08",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "ARI"
         }
       ]
     },
@@ -35561,6 +35608,12 @@
           "date": "2026-09-08",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "IR",
+          "team": "NE"
         }
       ]
     },
