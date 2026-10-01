@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T23:19:43.798Z",
+  "lastUpdated": "2026-10-01T01:11:04.321Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -11748,6 +11748,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13616,6 +13621,19 @@
           "date": "2026-09-20",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "8145": {
+      "name": "Jeremy Ruckert",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NYJ"
         }
       ]
     },
@@ -16486,6 +16504,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -21980,6 +22003,13 @@
           "date": "2026-09-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "PHI"
         }
       ]
     },
@@ -26383,6 +26413,13 @@
           "date": "2026-09-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "SEA"
         }
       ]
     },
@@ -33338,6 +33375,13 @@
           "date": "2026-09-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "SEA"
         }
       ]
     },
@@ -33971,6 +34015,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-01",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
