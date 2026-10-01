@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-09-30T16:17:13.080Z",
+  "lastUpdated": "2026-10-01T01:06:26.987Z",
   "games": [
     {
       "game_id": "401872964",
@@ -9,10 +9,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "6 to 9 mph SW",
-        "conditions": "Rain Showers",
-        "precipitation": "82%"
+        "temp": 63,
+        "wind": "7 to 10 mph SW",
+        "conditions": "Mostly Cloudy then Rain Showers Likely",
+        "precipitation": "66%"
       }
     },
     {
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 66,
         "wind": "6 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "51%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "37%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "3 to 7 mph S",
-        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 68,
+        "wind": "3 to 7 mph SW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -48,10 +48,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 to 10 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "3%"
+        "temp": 67,
+        "wind": "5 mph W",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -61,10 +61,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "1 to 5 mph N",
+        "temp": 72,
+        "wind": "3 mph N",
         "conditions": "Slight Chance Rain Showers",
-        "precipitation": "20%"
+        "precipitation": "15%"
       }
     },
     {
@@ -76,8 +76,8 @@
       "weather": {
         "temp": 67,
         "wind": "5 to 8 mph E",
-        "conditions": "Partly Sunny then Chance Rain Showers",
-        "precipitation": "28%"
+        "conditions": "Mostly Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
+        "temp": 69,
         "wind": "5 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "40%"
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "7 mph SE",
-        "conditions": "Mostly Sunny then Scattered Showers And Thunderstorms",
-        "precipitation": "43%"
+        "wind": "7 mph ESE",
+        "conditions": "Mostly Sunny then Chance Showers And Thunderstorms",
+        "precipitation": "56%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "2 to 6 mph E",
+        "temp": 67,
+        "wind": "6 mph E",
         "conditions": "Chance Rain Showers",
-        "precipitation": "46%"
+        "precipitation": "33%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "0 to 10 mph NNW",
+        "temp": 87,
+        "wind": "0 to 9 mph NNW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "3%"
       }
     },
     {
@@ -163,9 +163,9 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
+        "temp": 69,
         "wind": "5 mph N",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -176,10 +176,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "6 mph NNE",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "76%"
+        "temp": 60,
+        "wind": "2 to 7 mph NNE",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "66%"
       }
     },
     {
