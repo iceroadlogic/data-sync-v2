@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-01T12:54:22.905Z",
+  "lastUpdated": "2026-10-01T19:23:04.285Z",
   "week": 4,
   "summary": {
     "total_players": 773,
     "questionable": 46,
     "doubtful": 8,
-    "out": 13
+    "out": 14
   },
   "questionable": [
     {
@@ -32,7 +32,20 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Jackson was listed as limited Wednesday due to a back injury, Mike Garafolo of NFL Network reports."
+      "injury_comment": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
+    },
+    {
+      "player_id": "3269",
+      "source_id": "2576581",
+      "player_name": "Chris Moore",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "5008",
@@ -84,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
-      "injury_comment": "The Panthers listed Coker as a non-participant on Wednesday's practice estimate, Darin Gantt of the team's official site reports."
+      "injury_comment": "Coker (quadriceps) was in uniform at the start of Thursday's practice but worked on the side with a team trainer, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "8116",
@@ -123,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Collins (hamstring) was limited in Wednesday's practice."
+      "injury_comment": "Collins (hamstring) is taking part in Thursday's padded practice, DJ Bien-Aime of ESPN.com reports."
     },
     {
       "player_id": "4054",
@@ -150,19 +163,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
       "injury_comment": "Dulin (ankle) is not practicing Wednesday, James Boyd of The Athletic reports."
-    },
-    {
-      "player_id": "6964",
-      "source_id": "4036275",
-      "player_name": "Sean McKeon",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "day-to-day",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12544",
@@ -305,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Dolphins head coach Jeff Hafley said that Douglas (ankle) won't practice Wednesday, Travis Wingfield of the team's official site reports."
+      "injury_comment": "Douglas (ankle) remained a non-participant during the media-viewing portion of Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "11643",
@@ -435,7 +435,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Smith missed Wednesday's walkthrough due to a hamstring injury."
+      "injury_comment": "Smith (hamstring) is not practicing Thursday, Jeff McLane of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "2216",
@@ -500,7 +500,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Godwin (ankle) did not practice Wednesday."
+      "injury_comment": "Godwin (ankle) is participating in Thursday's practice, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "11584",
@@ -539,7 +539,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Pollard (ankle) won't practice Wednesday, Terry McCormick of TitanInsider.com reports."
+      "injury_comment": "Titans head coach Robert Saleh said that Pollard (foot) is expected to practice Thursday, Jim Wyatt of the Titans' official site reports."
     },
     {
       "player_id": "9508",
@@ -552,7 +552,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Spears (ankle) won't practice Wednesday, Terry McCormick of TitanInsider.com reports."
+      "injury_comment": "Spears (ankle) and Tony Pollard (foot) will both practice Thursday, per head coach Robert Saleh, Jim Wyatt of the Titans' official site reports."
     },
     {
       "player_id": "11566",
@@ -565,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Commanders head coach Dan Quinn said that Daniels (elbow) will be a limited participant in Wednesday's practice, John Keim of ESPN.com reports."
+      "injury_comment": "Daniels (elbow) remained limited at practice Thursday, John Keim of ESPN.com reports."
     },
     {
       "player_id": "8210",
@@ -604,7 +604,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Commanders head coach Dan Quinn said that White (shoulder) won't participate in Wednesday's practice, Tashan Reed of The Washington Post reports."
+      "injury_comment": "White (shoulder) isn't practicing again Thursday, Tashan Reed of The Washington Post reports."
     }
   ],
   "doubtful": [
@@ -710,10 +710,23 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Goedert (knee) didn't take part in Wednesday's walkthrough."
+      "injury_comment": "Goedert (knee) isn't present for the start of practice Thursday, Dave Zangaro of NBC Sports Philadelphia reports."
     }
   ],
   "out": [
+    {
+      "player_id": "11716",
+      "source_id": "4696700",
+      "player_name": "Tip Reiman",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
     {
       "player_id": "11377",
       "source_id": "4241476",
@@ -868,7 +881,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Coach Mike Macdonald said Wednesday that Charbonnet (knee) may take part in Thursday's practice, which would open a 21-day window in which he can be evaluated and eventually be activated from the reserve/PUP list, Gregg Bell of The Tacoma News Tribune reports."
+      "injury_comment": "Charbonnet (knee) was designated to return to practice Thursday."
     },
     {
       "player_id": "4892",
