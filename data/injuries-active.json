@@ -1,39 +1,13 @@
 {
-  "lastUpdated": "2026-10-01T19:23:04.285Z",
+  "lastUpdated": "2026-10-02T00:25:28.584Z",
   "week": 4,
   "summary": {
     "total_players": 773,
-    "questionable": 46,
+    "questionable": 42,
     "doubtful": 8,
-    "out": 14
+    "out": 18
   },
   "questionable": [
-    {
-      "player_id": "9997",
-      "source_id": "4429615",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Flowers (hamstring) was limited in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
-    },
-    {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports."
-    },
     {
       "player_id": "3269",
       "source_id": "2576581",
@@ -48,19 +22,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "5008",
-      "source_id": "3052897",
-      "player_name": "Durham Smythe",
-      "position": "TE",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Smythe (heel) was a limited participant in Wednesday's practice."
-    },
-    {
       "player_id": "11637",
       "source_id": "4635008",
       "player_name": "Keon Coleman",
@@ -71,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coleman (ankle) did not practice Wednesday."
+      "injury_comment": "Coleman (ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "4983",
@@ -84,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Moore (shoulder) was limited in Wednesday's practice."
+      "injury_comment": "Moore (shoulder) remained a limited participant at Thursday's practice."
     },
     {
       "player_id": "11646",
@@ -97,7 +58,20 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coker (quadriceps) was in uniform at the start of Thursday's practice but worked on the side with a team trainer, Mike Kaye of ESPN.com reports."
+      "injury_comment": "Coker (quadriceps) was a limited participant in Thursday's practice."
+    },
+    {
+      "player_id": "6790",
+      "source_id": "4259545",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Swift didn't participate in Thursday's practice due to a knee injury."
     },
     {
       "player_id": "8116",
@@ -123,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "questionable"
+      "injury_comment": "Brooks (hamstring) did not participate at the Texans' practice Thursday."
     },
     {
       "player_id": "7569",
@@ -136,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Collins (hamstring) is taking part in Thursday's padded practice, DJ Bien-Aime of ESPN.com reports."
+      "injury_comment": "Collins (hamstring) remained limited at Thursday's practice."
     },
     {
       "player_id": "4054",
@@ -149,20 +123,20 @@
       "injury_description": null,
       "injury_detail": "Illness",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Alie-Cox (illness) did not participate at practice Wednesday."
+      "injury_comment": "Alie-Cox (illness) did not participate in practice Thursday."
     },
     {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
+      "player_id": "1479",
+      "source_id": "15818",
+      "player_name": "Keenan Allen",
       "position": "WR",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ankle",
+      "injury_detail": "Groin",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Dulin (ankle) is not practicing Wednesday, James Boyd of The Athletic reports."
+      "injury_comment": "Allen was a limited participant in Thursday's practice due to a groin injury."
     },
     {
       "player_id": "12544",
@@ -175,7 +149,20 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Allen (hip) was a limited participant in Wednesday's practice."
+      "injury_comment": "Allen (hip) was limited in Thursday's practice."
+    },
+    {
+      "player_id": "13299",
+      "source_id": "4686248",
+      "player_name": "Nate Boerkircher",
+      "position": "TE",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Boerkircher (illness) did not practice Thursday, Michael DiRocco of ESPN.com reports."
     },
     {
       "player_id": "5947",
@@ -188,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Meyers (thumb) was limited in Wednesday's practice."
+      "injury_comment": "Meyers (thumb) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "10866",
@@ -201,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Personal",
       "est_return_date": "2026-10-04",
-      "injury_comment": "O'Connell (personal) is not practicing Wednesday, Ryan McFadden of ESPN.com reports."
+      "injury_comment": "O'Connell (personal) won't practice Wednesday, Ryan McFadden of ESPN.com reports."
     },
     {
       "player_id": "7610",
@@ -227,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-04",
-      "injury_comment": "McConkey was limited at Wednesday's practice due to a foot injury."
+      "injury_comment": "McConkey (foot) was seen walking out of the locker room with a limp after not taking part in Thursday's practice, Kris Rhim of ESPN reports."
     },
     {
       "player_id": "9511",
@@ -240,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Mitchell (ankle) was a limited participant at the Chargers' practice Wednesday, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Mitchell (ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "13380",
@@ -266,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Nacua (hip) officially was limited at Wednesday's practice, Adam Caplan of SiriusXM NFL Radio reports."
+      "injury_comment": "Nacua (hip) officially was listed as a limited participant on Thursday's injury report, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "6865",
@@ -279,7 +266,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Head coach Sean McVay said Parkinson (shoulder) will not practice Wednesday, Stu Jackson of the Rams' official site reports."
+      "injury_comment": "Parkinson (knee/shoulder) remained sidelined at Thursday's practice, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "13311",
@@ -292,7 +279,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Bell (knee) was limited in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
+      "injury_comment": "Bell (knee) was a limited participant in Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "13296",
@@ -308,19 +295,6 @@
       "injury_comment": "Douglas (ankle) remained a non-participant during the media-viewing portion of Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
     },
     {
-      "player_id": "11643",
-      "source_id": "4682745",
-      "player_name": "Jaylen Wright",
-      "position": "RB",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Wright (foot) officially was limited at Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
       "player_id": "6794",
       "source_id": "4262921",
       "player_name": "Justin Jefferson",
@@ -331,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Vikings head coach Kevin O'Connell said that Jefferson (ankle) won't practice Wednesday and is viewed as day-to-day."
+      "injury_comment": "Jefferson (ankle) officially didn't participate in Thursday's practice."
     },
     {
       "player_id": "13421",
@@ -344,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Thigh",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Raridon (thigh) was limited in Wednesday's practice."
+      "injury_comment": "Raridon (thigh) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "13533",
@@ -360,6 +334,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "5857",
+      "source_id": "4036131",
+      "player_name": "Noah Fant",
+      "position": "TE",
+      "team_abbr": "NO",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-10-05",
+      "injury_comment": "Fant was limited in practice Thursday due to an abdominal injury."
+    },
+    {
       "player_id": "11655",
       "source_id": "4360516",
       "player_name": "Tyrone Tracy Jr.",
@@ -370,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Tracy (knee) did not practice Wednesday, Dan Salomone of the Giants' official site reports."
+      "injury_comment": "Tracy (knee) practiced in a limited capacity Thursday, Dan Salomone of the Giants' official site reports."
     },
     {
       "player_id": "8145",
@@ -383,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Ruckert (knee) was limited in Wednesday's practice."
+      "injury_comment": "Ruckert (knee) was a limited participant in practice Thursday."
     },
     {
       "player_id": "13330",
@@ -396,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Sadiq was limited at Wednesday's practice due to a back injury."
+      "injury_comment": "Sadiq (back) remained limited at practice Thursday."
     },
     {
       "player_id": "5848",
@@ -409,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Brown (ankle) did not participate in Wednesday's practice."
+      "injury_comment": "Brown (ankle) did not participate in practice Thursday, Olivia Reiner of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "11577",
@@ -435,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Smith (hamstring) is not practicing Thursday, Jeff McLane of The Philadelphia Inquirer reports."
+      "injury_comment": "Smith (hamstring) isn't expected to be available Sunday versus the Rams, Tim McManus of ESPN.com reports."
     },
     {
       "player_id": "2216",
@@ -448,20 +435,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coach Kyle Shanahan said Evans (ribs) won't practice Wednesday, Cam Inman of The San Jose Mercury News reports."
-    },
-    {
-      "player_id": "5773",
-      "source_id": "3047876",
-      "player_name": "KhaDarel Hodge",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Hodge (knee) did not practice Wednesday, Vic Tafur of The Athletic reports."
+      "injury_comment": "Evans (ribs) was a non-participant at Thursday's practice, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "12048",
@@ -474,7 +448,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Holani (ribs) was a limited participant at the Seahawks' practice Wednesday, John Boyle of the team's official site reports."
+      "injury_comment": "Holani (ribs) remained limited in Thursday's practice, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "13286",
@@ -487,20 +461,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Price was limited in practice Wednesday due to a chest injury, Bob Condotta of The Seattle Times reports."
-    },
-    {
-      "player_id": "4037",
-      "source_id": "3116165",
-      "player_name": "Chris Godwin Jr.",
-      "position": "WR",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Godwin (ankle) is participating in Thursday's practice, Greg Auman of Fox Sports reports."
+      "injury_comment": "Price (chest) didn't practice Thursday, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "11584",
@@ -513,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Lower Body",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Irving was limited at Wednesday's practice due to a glute injury."
+      "injury_comment": "Irving (glute) remained limited at Thursday's practice."
     },
     {
       "player_id": "8484",
@@ -526,20 +487,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-10-04",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "5967",
-      "source_id": "3916148",
-      "player_name": "Tony Pollard",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Titans head coach Robert Saleh said that Pollard (foot) is expected to practice Thursday, Jim Wyatt of the Titans' official site reports."
+      "injury_comment": "Kieft (elbow) did not participate in practice Thursday, per Greg Auman of Fox Sports."
     },
     {
       "player_id": "9508",
@@ -552,7 +500,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Spears (ankle) and Tony Pollard (foot) will both practice Thursday, per head coach Robert Saleh, Jim Wyatt of the Titans' official site reports."
+      "injury_comment": "Spears (ankle) was a limited participant at Thursday's practice."
     },
     {
       "player_id": "11566",
@@ -578,7 +526,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Okonkwo (hamstring) was estimated as a limited participant in Wednesday's practice."
+      "injury_comment": "Okonkwo (hamstring) was a limited participant at Thursday's practice."
     },
     {
       "player_id": "11596",
@@ -591,7 +539,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Sinnott (ribs) was estimated as limited in Wednesday's practice."
+      "injury_comment": "Sinnott (ribs) was a limited participant at Thursday's practice."
     },
     {
       "player_id": "8136",
@@ -619,7 +567,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Legette (knee) did not practice Wednesday, Alex Zietlow of The Charlotte Observer reports."
+      "injury_comment": "Legette (knee) remained a non-participant at Thursday's practice."
     },
     {
       "player_id": "11560",
@@ -632,7 +580,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coach Ben Johnson said Williams is \"getting better every singly day\" but won't participate in Wednesday's walkthrough, Sean Hammond of the Chicago Tribune reports."
+      "injury_comment": "Williams (hamstring) remained a non-participant at practice Thursday."
     },
     {
       "player_id": "8127",
@@ -645,7 +593,7 @@
       "injury_description": null,
       "injury_detail": "Forearm",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Kolar (forearm) is not practicing Wednesday, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Kolar (forearm) didn't practice Thursday."
     },
     {
       "player_id": "12487",
@@ -658,7 +606,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Ferguson (ankle) officially didn't practice Wednesday, Adam Caplan of SiriusXM NFL Radio reports."
+      "injury_comment": "Ferguson (ankle) remained sidelined at Thursday's practice, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "8155",
@@ -671,7 +619,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Jets head coach Aaron Glenn said that Hall (thigh) won't practice Wednesday and confirmed the running back is being viewed as week-to-week, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Hall (quadriceps) didn't practice Thursday."
     },
     {
       "player_id": "11625",
@@ -684,7 +632,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Jets head coach Aaron Glenn said that Mitchell (finger) won't practice Wednesday and is considered week-to-week, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Mitchell (finger) didn't practice Thursday."
     },
     {
       "player_id": "12498",
@@ -697,7 +645,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Taylor (thumb) will not practice Wednesday and remains week-to-week, Zack Rosenblatt of The Athletic reports."
+      "injury_comment": "Taylor (thumb) didn't practice Thursday."
     },
     {
       "player_id": "5022",
@@ -710,7 +658,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Goedert (knee) isn't present for the start of practice Thursday, Dave Zangaro of NBC Sports Philadelphia reports."
+      "injury_comment": "Goedert (knee) officially didn't practice Thursday."
     }
   ],
   "out": [
@@ -752,6 +700,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-11",
       "injury_comment": "Young (knee) is not expected to play in Week 4 against the Jaguars, Jay Morrison of SI.com reports."
+    },
+    {
+      "player_id": "13306",
+      "source_id": "4431325",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Green (coach's decision) is inactive for Thursday's game against the Steelers, though he will serve as the Browns' emergency quarterback."
     },
     {
       "player_id": "7595",
@@ -806,17 +767,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "7543",
-      "source_id": "4239996",
-      "player_name": "Travis Etienne Jr.",
+      "player_id": "13437",
+      "source_id": "4432631",
+      "player_name": "Noah Whittington",
       "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
+      "team_abbr": "HOU",
+      "injury_status": "practice-squad",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Saints head coach Kellen Moore said that Etienne will have some \"time lost\" due to the hamstring injury he sustained in Sunday's 35-27 loss to the Raiders, Mike Triplett of NewOrleans.Football reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11895",
@@ -832,6 +793,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "13289",
+      "source_id": "4714771",
+      "player_name": "Drew Allar",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Allar (coach's decision) is inactive for Thursday's game against Cleveland, Teresa Varley of the team's official site reports."
+    },
+    {
       "player_id": "7021",
       "source_id": "4038815",
       "player_name": "Rico Dowdle",
@@ -842,7 +816,33 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Steelers ruled Dowdle (toe) out for Thursday's game in Cleveland, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13423",
+      "source_id": "5081508",
+      "player_name": "Eli Heidenreich",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Howard (coach's decision) is inactive for Thursday's game against Cleveland. However, he is listed as the Steelers' emergency quarterback, Teresa Varley of the team's official site reports."
     },
     {
       "player_id": "6803",
