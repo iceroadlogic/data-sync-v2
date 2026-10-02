@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-02T17:01:45.839Z",
+  "lastUpdated": "2026-10-02T23:25:09.490Z",
   "week": 4,
   "summary": {
-    "total_players": 773,
-    "ir": 79,
+    "total_players": 772,
+    "ir": 81,
     "suspended": 0
   },
   "ir": [
@@ -359,6 +359,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12171",
+      "source_id": "4373273",
+      "player_name": "British Brooks",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Brooks (hamstring) did not participate at the Texans' practice Thursday."
+    },
+    {
       "player_id": "9502",
       "source_id": "4366031",
       "player_name": "Tank Dell",
@@ -549,9 +562,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Head coach Klint Kubiak said Friday that the hope is that Thornton (undisclosed) will be back at practice for practice ahead of the Raiders' Week 5 road tilt against the Patriots, Levi Edwards of the Raiders' official site reports."
     },
     {
       "player_id": "12670",
@@ -578,6 +591,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12487",
+      "source_id": "4570037",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "The Rams placed Ferguson (ankle) on injured reserve Friday."
     },
     {
       "player_id": "13597",
@@ -900,9 +926,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Calf",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Head coach Kyle Shanahan said Friday that the 49ers could open Kirk's (calf) practice window to return from injured reserve in two weeks, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "11638",
