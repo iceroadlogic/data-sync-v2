@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-02T00:25:28.584Z",
+  "lastUpdated": "2026-10-02T01:29:50.527Z",
   "week": 4,
   "summary": {
-    "total_players": 773,
-    "questionable": 42,
-    "doubtful": 8,
+    "total_players": 749,
+    "questionable": 41,
+    "doubtful": 7,
     "out": 18
   },
   "questionable": [
@@ -59,19 +59,6 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
       "injury_comment": "Coker (quadriceps) was a limited participant in Thursday's practice."
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Swift didn't participate in Thursday's practice due to a knee injury."
     },
     {
       "player_id": "8116",
@@ -201,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-04",
-      "injury_comment": "questionable"
+      "injury_comment": "Lance (groin) was limited at the Chargers' practice Thursday."
     },
     {
       "player_id": "11635",
@@ -240,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Thompson (quadriceps) did not practice Wednesday, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Thompson (quadriceps) didn't practice Thursday."
     },
     {
       "player_id": "9493",
@@ -500,7 +487,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Spears (ankle) was a limited participant at Thursday's practice."
+      "injury_comment": "Spears (ankle) and Tony Pollard (foot) will both practice Thursday, per head coach Robert Saleh, Jim Wyatt of the Titans' official site reports."
     },
     {
       "player_id": "11566",
@@ -568,19 +555,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
       "injury_comment": "Legette (knee) remained a non-participant at Thursday's practice."
-    },
-    {
-      "player_id": "11560",
-      "source_id": "4431611",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Williams (hamstring) remained a non-participant at practice Thursday."
     },
     {
       "player_id": "8127",
