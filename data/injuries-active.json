@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-02T12:17:14.170Z",
+  "lastUpdated": "2026-10-02T19:06:22.318Z",
   "week": 4,
   "summary": {
     "total_players": 773,
-    "questionable": 42,
-    "doubtful": 8,
-    "out": 18
+    "questionable": 34,
+    "doubtful": 2,
+    "out": 30
   },
   "questionable": [
     {
@@ -35,6 +35,19 @@
       "injury_comment": "Coleman (ankle) was a limited participant in Thursday's practice."
     },
     {
+      "player_id": "11575",
+      "source_id": "4429501",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Davis (hamstring) is questionable for Sunday's game against the Patriots."
+    },
+    {
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
@@ -45,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Moore (shoulder) remained a limited participant at Thursday's practice."
+      "injury_comment": "Moore (shoulder) is practicing in a non-contact jersey Friday, Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
     },
     {
       "player_id": "11646",
@@ -58,20 +71,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Coker (quadriceps) was a limited participant in Thursday's practice."
-    },
-    {
-      "player_id": "6790",
-      "source_id": "4259545",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Swift didn't participate in Thursday's practice due to a knee injury."
+      "injury_comment": "Coker (quadriceps) is listed as questionable for Sunday night's game against the Lions, Joe Person of The Athletic reports."
     },
     {
       "player_id": "8116",
@@ -87,19 +87,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12171",
-      "source_id": "4373273",
-      "player_name": "British Brooks",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Brooks (hamstring) did not participate at the Texans' practice Thursday."
-    },
-    {
       "player_id": "7569",
       "source_id": "4258173",
       "player_name": "Nico Collins",
@@ -110,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Collins (hamstring) remained limited at Thursday's practice."
+      "injury_comment": "Collins (hamstring) was on the field for Friday's practice, Jonathan M. Alexander of the Houston Chronicle reports."
     },
     {
       "player_id": "4054",
@@ -136,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Allen was a limited participant in Thursday's practice due to a groin injury."
+      "injury_comment": "Allen (groin) was listed as a non-participant for Friday's practice and is questionable for Sunday's game against the Commanders, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "12544",
@@ -243,19 +230,6 @@
       "injury_comment": "Thompson (quadriceps) didn't practice Thursday."
     },
     {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Nacua (hip) officially was listed as a limited participant on Thursday's injury report, Adam Grosbard of The Orange County Register reports."
-    },
-    {
       "player_id": "6865",
       "source_id": "4242557",
       "player_name": "Colby Parkinson",
@@ -280,32 +254,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
       "injury_comment": "Bell (knee) was a limited participant in Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "13296",
-      "source_id": "4869645",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Douglas (ankle) remained a non-participant during the media-viewing portion of Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
-      "player_id": "6794",
-      "source_id": "4262921",
-      "player_name": "Justin Jefferson",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Jefferson (ankle) officially didn't participate in Thursday's practice."
     },
     {
       "player_id": "13421",
@@ -422,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Smith (hamstring) isn't expected to be available Sunday versus the Rams, Tim McManus of ESPN.com reports."
+      "injury_comment": "Smith (hamstring) remained sidelined for Friday's practice, Zach Berman of The Athletic reports."
     },
     {
       "player_id": "2216",
@@ -477,19 +425,6 @@
       "injury_comment": "Irving (glute) remained limited at Thursday's practice."
     },
     {
-      "player_id": "8484",
-      "source_id": "4034779",
-      "player_name": "Ko Kieft",
-      "position": "TE",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Kieft (elbow) did not participate in practice Thursday, per Greg Auman of Fox Sports."
-    },
-    {
       "player_id": "9508",
       "source_id": "4428557",
       "player_name": "Tyjae Spears",
@@ -500,88 +435,23 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Spears (ankle) was a limited participant at Thursday's practice."
+      "injury_comment": "Head coach Robert Saleh said Friday that Spears (ankle) is trending in the right direction to play Sunday against the Ravens, Terry McCormick of TitanInsider.com reports."
     },
     {
-      "player_id": "11566",
-      "source_id": "4426348",
-      "player_name": "Jayden Daniels",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Daniels (elbow) remained limited at practice Thursday, John Keim of ESPN.com reports."
-    },
-    {
-      "player_id": "8210",
-      "source_id": "4360635",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
+      "player_id": "5927",
+      "source_id": "3121422",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
       "team_abbr": "WAS",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Okonkwo (hamstring) was a limited participant at Thursday's practice."
-    },
-    {
-      "player_id": "11596",
-      "source_id": "4690923",
-      "player_name": "Ben Sinnott",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Sinnott (ribs) was a limited participant at Thursday's practice."
-    },
-    {
-      "player_id": "8136",
-      "source_id": "4697815",
-      "player_name": "Rachaad White",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "White (shoulder) isn't practicing again Thursday, Tashan Reed of The Washington Post reports."
+      "injury_comment": "McLaurin (hamstring) was added to the injury report Friday and is listed as questionable for Sunday's game against the Colts, Nicki Jhabvala of The Athletic reports."
     }
   ],
   "doubtful": [
-    {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Legette (knee) remained a non-participant at Thursday's practice."
-    },
-    {
-      "player_id": "11560",
-      "source_id": "4431611",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Williams (hamstring) remained a non-participant at practice Thursday."
-    },
     {
       "player_id": "8127",
       "source_id": "4241263",
@@ -594,58 +464,6 @@
       "injury_detail": "Forearm",
       "est_return_date": "2026-10-04",
       "injury_comment": "Kolar (forearm) didn't practice Thursday."
-    },
-    {
-      "player_id": "12487",
-      "source_id": "4570037",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Ferguson (ankle) remained sidelined at Thursday's practice, Adam Grosbard of The Orange County Register reports."
-    },
-    {
-      "player_id": "8155",
-      "source_id": "4427366",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Hall (quadriceps) didn't practice Thursday."
-    },
-    {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Mitchell (finger) didn't practice Thursday."
-    },
-    {
-      "player_id": "12498",
-      "source_id": "4808766",
-      "player_name": "Mason Taylor",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Taylor (thumb) didn't practice Thursday."
     },
     {
       "player_id": "5022",
@@ -687,6 +505,32 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Legette (knee) has been ruled out for Sunday night's game against the Lions, Alex Zietlow of The Charlotte Observer reports."
+    },
+    {
+      "player_id": "11560",
+      "source_id": "4431611",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "out"
     },
     {
       "player_id": "13477",
@@ -767,6 +611,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12171",
+      "source_id": "4373273",
+      "player_name": "British Brooks",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Brooks (hamstring) did not participate at the Texans' practice Thursday."
+    },
+    {
       "player_id": "13437",
       "source_id": "4432631",
       "player_name": "Noah Whittington",
@@ -780,6 +637,45 @@
       "injury_comment": null
     },
     {
+      "player_id": "12487",
+      "source_id": "4570037",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-12",
+      "injury_comment": "Ferguson (ankle) is out for Sunday's game against Philadelphia, Nate Atkins of The Athletic reports."
+    },
+    {
+      "player_id": "13296",
+      "source_id": "4869645",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Douglas (ankle) has been ruled out for Sunday's game against the Vikings, Marcel Louis-Jacques of ESPN.com reports."
+    },
+    {
+      "player_id": "6794",
+      "source_id": "4262921",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Jefferson (ankle) has been ruled out for Sunday's game versus the Dolphins."
+    },
+    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -791,6 +687,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Hall (quadriceps) is out for Sunday's game at Chicago, according to Zack Rosenblatt of The Athletic."
+    },
+    {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Mitchell (finger) is out for Sunday's game against the Bears, Zack Rosenblatt reports."
+    },
+    {
+      "player_id": "12498",
+      "source_id": "4808766",
+      "player_name": "Mason Taylor",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Taylor (thumb) has been ruled out for Sunday's game against the Bears, Zack Rosenblatt of The Athletic reports."
     },
     {
       "player_id": "13289",
@@ -884,6 +819,19 @@
       "injury_comment": "Charbonnet (knee) was designated to return to practice Thursday."
     },
     {
+      "player_id": "8484",
+      "source_id": "4034779",
+      "player_name": "Ko Kieft",
+      "position": "TE",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Kieft (elbow) has been ruled out for Sunday's game against the Packers, Scott Smith of the Buccaneers' official site reports."
+    },
+    {
       "player_id": "4892",
       "source_id": "3052587",
       "player_name": "Baker Mayfield",
@@ -895,6 +843,32 @@
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
       "injury_comment": "Buccaneers head coach Todd Bowles said Monday that Mayfield (thumb) is expected to miss three weeks, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "11566",
+      "source_id": "4426348",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Daniels (elbow), per head coach Dan Quinn, has been ruled out for Sunday's game against the Colts in London, Nicki Jhabvala of The Athletic reports."
+    },
+    {
+      "player_id": "8136",
+      "source_id": "4697815",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "White (shoulder) has been ruled out for Sunday's game against the Colts."
     }
   ]
 }
