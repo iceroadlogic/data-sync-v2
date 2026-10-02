@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-02T01:29:50.527Z",
+  "lastUpdated": "2026-10-02T01:56:06.228Z",
   "week": 4,
   "summary": {
-    "total_players": 749,
-    "questionable": 41,
-    "doubtful": 7,
+    "total_players": 773,
+    "questionable": 42,
+    "doubtful": 8,
     "out": 18
   },
   "questionable": [
@@ -59,6 +59,19 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-04",
       "injury_comment": "Coker (quadriceps) was a limited participant in Thursday's practice."
+    },
+    {
+      "player_id": "6790",
+      "source_id": "4259545",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Swift didn't participate in Thursday's practice due to a knee injury."
     },
     {
       "player_id": "8116",
@@ -555,6 +568,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-04",
       "injury_comment": "Legette (knee) remained a non-participant at Thursday's practice."
+    },
+    {
+      "player_id": "11560",
+      "source_id": "4431611",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Williams (hamstring) remained a non-participant at practice Thursday."
     },
     {
       "player_id": "8127",
