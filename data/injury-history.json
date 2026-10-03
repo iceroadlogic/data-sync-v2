@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T15:24:55.249Z",
+  "lastUpdated": "2026-10-03T22:32:34.376Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -20026,6 +20026,11 @@
           "to": "Questionable",
           "detail": "Personal",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-03",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23949,6 +23954,13 @@
           "date": "2026-10-02",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Knee",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-10-03",
+          "from": "Out",
+          "to": "IR",
           "detail": "Knee",
           "team": "CAR"
         }
@@ -33740,6 +33752,13 @@
           "to": "Out",
           "detail": "Chest",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-03",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Chest",
+          "team": "SEA"
         }
       ]
     },
@@ -35439,6 +35458,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-03",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },

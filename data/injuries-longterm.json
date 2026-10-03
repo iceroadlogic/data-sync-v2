@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-03T18:53:34.104Z",
+  "lastUpdated": "2026-10-03T22:32:34.376Z",
   "week": 4,
   "summary": {
     "total_players": 771,
-    "ir": 81,
+    "ir": 83,
     "suspended": 0
   },
   "ir": [
@@ -110,6 +110,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Panthers placed Legette (knee) on injured reserve Saturday, Darin Gantt of the team's official site reports."
     },
     {
       "player_id": "13353",
@@ -981,6 +994,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13286",
+      "source_id": "4685512",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "Price (chest) was placed on injured reserve Saturday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "10867",
