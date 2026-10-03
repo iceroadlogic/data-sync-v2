@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-03T11:27:31.125Z",
+  "lastUpdated": "2026-10-03T17:52:15.822Z",
   "week": 4,
   "summary": {
     "total_players": 771,
-    "questionable": 18,
-    "doubtful": 0,
-    "out": 34
+    "questionable": 16,
+    "doubtful": 1,
+    "out": 35
   },
   "questionable": [
     {
@@ -85,19 +85,6 @@
       "injury_detail": "Illness",
       "est_return_date": "2026-10-04",
       "injury_comment": "Alie-Cox (illness) did not participate in practice Thursday."
-    },
-    {
-      "player_id": "1479",
-      "source_id": "15818",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Allen (groin) was listed as a non-participant for Friday's practice and is questionable for Sunday's game against the Commanders, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "10866",
@@ -228,7 +215,9 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-04",
       "injury_comment": "Spears (ankle) is questionable for Sunday's game against the Ravens, Jim Wyatt of the Titans' official site reports."
-    },
+    }
+  ],
+  "doubtful": [
     {
       "player_id": "5927",
       "source_id": "3121422",
@@ -236,14 +225,13 @@
       "position": "WR",
       "team_abbr": "WAS",
       "injury_status": "active",
-      "injury_designation": "Questionable",
+      "injury_designation": "Doubtful",
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "McLaurin (hamstring) was added to the injury report Friday and is listed as questionable for Sunday's game against the Colts, Nicki Jhabvala of The Athletic reports."
+      "injury_comment": "McLaurin (hamstring) is now likely to miss Sunday's game against the Colts in London, Ben Standig of The Team 980 Washington D.C. reports."
     }
   ],
-  "doubtful": [],
   "out": [
     {
       "player_id": "11716",
@@ -389,6 +377,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "1479",
+      "source_id": "15818",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Allen (groin) has been downgraded to out for Sunday's game against Washington."
+    },
+    {
       "player_id": "8127",
       "source_id": "4241263",
       "player_name": "Charlie Kolar",
@@ -438,7 +439,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Jefferson (ankle) has been ruled out for Sunday's game versus the Dolphins."
+      "injury_comment": "Jefferson (ankle) has been already been ruled out for Sunday's game against the Dolphins, but the Vikings are hopeful that the superstar wide receiver will return for Week 5 against the Saints, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "11895",
