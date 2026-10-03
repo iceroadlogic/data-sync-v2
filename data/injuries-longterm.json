@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-02T23:25:09.490Z",
+  "lastUpdated": "2026-10-03T15:24:55.249Z",
   "week": 4,
   "summary": {
-    "total_players": 772,
+    "total_players": 771,
     "ir": 81,
     "suspended": 0
   },
@@ -364,12 +364,12 @@
       "player_name": "British Brooks",
       "position": "RB",
       "team_abbr": "HOU",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Brooks (hamstring) did not participate at the Texans' practice Thursday."
+      "injury_comment": "Brooks (hamstring) was placed on injured reserve Friday."
     },
     {
       "player_id": "9502",
@@ -564,7 +564,7 @@
       "injury_description": null,
       "injury_detail": "Undisclosed",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Klint Kubiak said Friday that the hope is that Thornton (undisclosed) will be back at practice for practice ahead of the Raiders' Week 5 road tilt against the Patriots, Levi Edwards of the Raiders' official site reports."
+      "injury_comment": "Head coach Klint Kubiak said Friday that the hope is that Thornton (undisclosed) will be back at practice ahead of the Raiders' Week 5 road tilt against the Patriots, Levi Edwards of the Raiders' official site reports."
     },
     {
       "player_id": "12670",
@@ -593,19 +593,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12487",
-      "source_id": "4570037",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "The Rams placed Ferguson (ankle) on injured reserve Friday."
-    },
-    {
       "player_id": "13597",
       "source_id": "4877717",
       "player_name": "Matthew Caldwell",
@@ -617,6 +604,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12487",
+      "source_id": "4570037",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Ferguson (ankle) is out for Sunday's game against Philadelphia, Nate Atkins of The Athletic reports."
     },
     {
       "player_id": "8195",
