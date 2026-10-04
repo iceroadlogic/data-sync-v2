@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-03T17:52:15.822Z",
+  "lastUpdated": "2026-10-04T00:26:39.763Z",
   "week": 4,
   "summary": {
     "total_players": 771,
-    "questionable": 16,
+    "questionable": 14,
     "doubtful": 1,
-    "out": 35
+    "out": 33
   },
   "questionable": [
     {
@@ -87,19 +87,6 @@
       "injury_comment": "Alie-Cox (illness) did not participate in practice Thursday."
     },
     {
-      "player_id": "10866",
-      "source_id": "4260394",
-      "player_name": "Aidan O'Connell",
-      "position": "QB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "O'Connell (personal) won't practice Wednesday, Ryan McFadden of ESPN.com reports."
-    },
-    {
       "player_id": "7610",
       "source_id": "4383351",
       "player_name": "Trey Lance",
@@ -152,19 +139,6 @@
       "injury_comment": "Raridon (thigh) is listed as questionable for Sunday's game against the Bills, Phil Perry of NBC Sports Boston reports."
     },
     {
-      "player_id": "13533",
-      "source_id": "4698597",
-      "player_name": "Barion Brown",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-05",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "5857",
       "source_id": "4036131",
       "player_name": "Noah Fant",
@@ -175,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-10-05",
-      "injury_comment": "Fant (abdomen) practiced in a limited capacity Friday, Mike Triplett of NewOrleans.Football reports."
+      "injury_comment": "Fant (abdomen) is listed as questionable for Monday's game against the Falcons, Matthew Paras of The New Orleans Times-Picayune reports."
     },
     {
       "player_id": "13330",
@@ -229,7 +203,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "McLaurin (hamstring) is now likely to miss Sunday's game against the Colts in London, Ben Standig of The Team 980 Washington D.C. reports."
+      "injury_comment": "McLaurin (hamstring) is expected to miss Sunday's game against the Colts in London, Ben Standig of The Team 980 Washington D.C. reports."
     }
   ],
   "out": [
@@ -258,19 +232,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Legette (knee) has been ruled out for Sunday night's game against the Lions, Alex Zietlow of The Charlotte Observer reports."
     },
     {
       "player_id": "11560",
@@ -609,19 +570,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13286",
-      "source_id": "4685512",
-      "player_name": "Jadarian Price",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Coach Mike Macdonald said Friday that Price has been ruled out for Sunday's game against the Chargers, Curtis Crabtree of Fox 13 Seattle reports."
     },
     {
       "player_id": "9753",
