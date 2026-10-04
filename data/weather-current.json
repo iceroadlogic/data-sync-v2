@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-10-04T00:22:57.371Z",
+  "lastUpdated": "2026-10-04T18:02:12.161Z",
   "games": [
     {
       "game_id": "401872964",
@@ -9,9 +9,9 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "2 to 9 mph SE",
-        "conditions": "Mostly Clear",
+        "temp": 69,
+        "wind": "8 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "6 mph NE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "58%"
+        "temp": 66,
+        "wind": "5 mph NE",
+        "conditions": "Cloudy",
+        "precipitation": "14%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "8 mph SW",
+        "wind": "13 to 16 mph W",
         "conditions": "Mostly Sunny",
-        "precipitation": "7%"
+        "precipitation": "8%"
       }
     },
     {
@@ -48,8 +48,8 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "10 mph W",
+        "temp": 72,
+        "wind": "10 to 15 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -62,8 +62,8 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "0 to 5 mph N",
-        "conditions": "Patchy Fog then Mostly Sunny",
+        "wind": "3 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -75,9 +75,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "8 mph E",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "51%"
+        "wind": "7 mph NE",
+        "conditions": "Rain Showers",
+        "precipitation": "70%"
       }
     },
     {
@@ -88,9 +88,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 to 10 mph NE",
+        "wind": "5 mph NE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "47%"
+        "precipitation": "35%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "3 to 7 mph SE",
-        "conditions": "Partly Sunny then Scattered Showers And Thunderstorms",
-        "precipitation": "35%"
+        "wind": "6 mph S",
+        "conditions": "Isolated Showers And Thunderstorms",
+        "precipitation": "24%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "7 mph NE",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "58%"
+        "temp": 67,
+        "wind": "6 mph NE",
+        "conditions": "Areas Of Drizzle",
+        "precipitation": "20%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 91,
-        "wind": "0 to 9 mph NW",
+        "temp": 92,
+        "wind": "1 to 10 mph NW",
         "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -163,9 +163,9 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 mph NNW",
-        "conditions": "Mostly Sunny",
+        "temp": 71,
+        "wind": "5 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -177,9 +177,9 @@
       "is_dome": false,
       "weather": {
         "temp": 62,
-        "wind": "2 mph NNW",
-        "conditions": "Chance Rain",
-        "precipitation": "43%"
+        "wind": "1 mph NNW",
+        "conditions": "Chance Rain Showers then Patchy Fog",
+        "precipitation": "35%"
       }
     },
     {
