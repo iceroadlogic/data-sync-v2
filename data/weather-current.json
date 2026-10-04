@@ -1,6 +1,6 @@
 {
   "week": 4,
-  "lastUpdated": "2026-10-04T18:02:12.161Z",
+  "lastUpdated": "2026-10-04T21:11:00.555Z",
   "games": [
     {
       "game_id": "401872964",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "8 mph W",
+        "wind": "7 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "5 mph NE",
-        "conditions": "Cloudy",
-        "precipitation": "14%"
+        "temp": 65,
+        "wind": "3 mph NE",
+        "conditions": "Patchy Fog",
+        "precipitation": "6%"
       }
     },
     {
@@ -36,9 +36,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "13 to 16 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "8%"
+        "wind": "13 mph W",
+        "conditions": "Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -49,7 +49,7 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "10 to 15 mph NW",
+        "wind": "10 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -74,10 +74,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 63,
         "wind": "7 mph NE",
-        "conditions": "Rain Showers",
-        "precipitation": "70%"
+        "conditions": "Rain Showers Likely",
+        "precipitation": "65%"
       }
     },
     {
@@ -87,10 +87,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 62,
         "wind": "5 mph NE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "35%"
+        "conditions": "Rain Showers Likely",
+        "precipitation": "63%"
       }
     },
     {
@@ -101,9 +101,9 @@
       "is_dome": false,
       "weather": {
         "temp": 90,
-        "wind": "6 mph S",
+        "wind": "3 mph SW",
         "conditions": "Isolated Showers And Thunderstorms",
-        "precipitation": "24%"
+        "precipitation": "22%"
       }
     },
     {
@@ -113,10 +113,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "6 mph NE",
-        "conditions": "Areas Of Drizzle",
-        "precipitation": "20%"
+        "temp": 64,
+        "wind": "5 mph NE",
+        "conditions": "Patchy Fog",
+        "precipitation": "7%"
       }
     },
     {
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 92,
-        "wind": "1 to 10 mph NW",
+        "wind": "6 to 9 mph NW",
         "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
@@ -164,7 +164,7 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "5 mph NW",
+        "wind": "3 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -176,10 +176,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "1 mph NNW",
-        "conditions": "Chance Rain Showers then Patchy Fog",
-        "precipitation": "35%"
+        "temp": 63,
+        "wind": "1 mph NE",
+        "conditions": "Cloudy then Patchy Fog",
+        "precipitation": "10%"
       }
     },
     {
