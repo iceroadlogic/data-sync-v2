@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-04T20:55:31.934Z",
+  "lastUpdated": "2026-10-04T23:47:28.719Z",
   "week": 4,
   "summary": {
     "total_players": 772,
-    "questionable": 15,
-    "doubtful": 3,
-    "out": 72
+    "questionable": 17,
+    "doubtful": 2,
+    "out": 78
   },
   "questionable": [
     {
@@ -32,20 +32,20 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Jesse Minter said after Sunday's 24-18 win versus the the Titans that the Ravens are optimistic about the ankle issue that he suffered in the first half of the game, Jonas Shaffer of TheBaltimoreBanner.com reports."
+      "injury_comment": "Jackson (ankle) was seen wearing a walking boot on his left foot after Sunday's 24-18 victory against the Titans, Brian Wacker of The Baltimore Sun reports."
     },
     {
-      "player_id": "11646",
-      "source_id": "4695883",
-      "player_name": "Jalen Coker",
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
       "position": "WR",
-      "team_abbr": "CAR",
+      "team_abbr": "BUF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Coker (quadriceps) is unlikely to suit up for Sunday night's game against the Lions, Adam Schefter of ESPN reports."
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-12",
+      "injury_comment": "Moore (shoulder) is considered doubtful to return to Sunday's contest versus the Patriots."
     },
     {
       "player_id": "12534",
@@ -84,7 +84,20 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-11",
-      "injury_comment": "questionable"
+      "injury_comment": "Higgins sustained an adductor issue during Sunday's 22-17 loss to the Jaguars, Ben Baby of ESPN.com reports."
+    },
+    {
+      "player_id": "12492",
+      "source_id": "4600981",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-04",
+      "injury_comment": "Bryant (ankle) is questionable to return to Sunday's game against the 49ers, Chris Tomasson of The Denver Gazette reports."
     },
     {
       "player_id": "11370",
@@ -123,7 +136,20 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-04",
-      "injury_comment": "Rice caught seven of nine targets for 88 yards in Sunday's 24-10 win over the Dolphins."
+      "injury_comment": "Rice (hamstring) is doubtful to return to Sunday's contest in Las Vegas."
+    },
+    {
+      "player_id": "8180",
+      "source_id": "4382466",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Nailor (concussion) has been ruled out for the remainder of Sunday's contest against the Chiefs."
     },
     {
       "player_id": "4177",
@@ -205,19 +231,6 @@
     }
   ],
   "doubtful": [
-    {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-04",
-      "injury_comment": "Moore (shoulder) is considered doubtful to return to Sunday's contest versus the Patriots."
-    },
     {
       "player_id": "12641",
       "source_id": "4602667",
@@ -351,6 +364,45 @@
       "injury_comment": null
     },
     {
+      "player_id": "11646",
+      "source_id": "4695883",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Coker (quadriceps) is inactive for Sunday's game against the Lions, Darin Gantt of the Panthers' official site reports."
+    },
+    {
+      "player_id": "13415",
+      "source_id": "4428993",
+      "player_name": "Haynes King",
+      "position": "QB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "King (coach's decision) is inactive but will operate as the Panthers' emergency third quarterback Sunday night versus Detroit."
+    },
+    {
+      "player_id": "11600",
+      "source_id": "4431588",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "11560",
       "source_id": "4431611",
       "player_name": "Caleb Williams",
@@ -460,6 +512,19 @@
       "player_name": "Sam Ehlinger",
       "position": "QB",
       "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "5133",
+      "source_id": "3915486",
+      "player_name": "Tyler Conklin",
+      "position": "TE",
+      "team_abbr": "DET",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
@@ -598,6 +663,19 @@
       "injury_comment": "Nussmeier (coach's decision) is inactive but will serve as the emergency third quarterback against the Raiders on Sunday."
     },
     {
+      "player_id": "8188",
+      "source_id": "4362921",
+      "player_name": "Tyquan Thornton",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Thornton exited Sunday's game agains the Raiders with a left ankle injury and will not return."
+    },
+    {
       "player_id": "11595",
       "source_id": "4430723",
       "player_name": "Jared Wiley",
@@ -635,6 +713,19 @@
       "injury_detail": "Forearm",
       "est_return_date": "2026-10-11",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "McConkey won't return to Sunday's contest at Seattle due to a foot injury."
     },
     {
       "player_id": "13380",
