@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T23:47:28.719Z",
+  "lastUpdated": "2026-10-05T14:15:15.687Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5035,6 +5035,13 @@
           "date": "2026-10-04",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Achilles",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-05",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Achilles",
           "team": "BAL"
         }
@@ -24920,6 +24927,13 @@
           "date": "2026-10-04",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Foot",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-10-05",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Foot",
           "team": "LAC"
         }
