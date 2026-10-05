@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-03T22:32:34.376Z",
+  "lastUpdated": "2026-10-05T19:56:13.386Z",
   "week": 4,
   "summary": {
-    "total_players": 771,
+    "total_players": 772,
     "ir": 83,
     "suspended": 0
   },
@@ -112,19 +112,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "The Panthers placed Legette (knee) on injured reserve Saturday, Darin Gantt of the team's official site reports."
-    },
-    {
       "player_id": "13353",
       "source_id": "5091739",
       "player_name": "Chris Brazzell II",
@@ -162,6 +149,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Panthers placed Legette (knee) on injured reserve Saturday, Darin Gantt of the team's official site reports."
     },
     {
       "player_id": "8423",
@@ -393,9 +393,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL + MCL",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Head coach DeMeco Ryans said Monday that he expects the Texans to open Dell's (knee) 21-day practice window this week, Jonathan M. Alexander of the Houston Chronicle reports."
     },
     {
       "player_id": "12484",
@@ -640,9 +640,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "The Rams placed Rivers (calf) on their injured reserve list Wednesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9226",
@@ -810,8 +810,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Kellen Moore said Thursday that he doesn't expect Tyson (hamstring) to practice next week, Matthew Paras of The New Orleans Times-Picayune reports."
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Tyson (hamstring) is said to be making progress and feeling good but isn't expected to be activated from injured reserve until Week 7 at the soonest, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "8125",
