@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T01:02:14.455Z",
+  "lastUpdated": "2026-10-06T19:23:29.754Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -482,6 +482,13 @@
           "date": "2026-10-03",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Groin",
+          "team": "IND"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Groin",
           "team": "IND"
         }
@@ -1679,6 +1686,13 @@
           "date": "2026-10-04",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Ankle",
           "team": "BAL"
         }
@@ -3936,6 +3950,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "ATL"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -5051,6 +5070,13 @@
           "to": "Questionable",
           "detail": "Achilles",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Achilles",
+          "team": "BAL"
         }
       ]
     },
@@ -5248,6 +5274,13 @@
           "date": "2026-10-02",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Knee - MCL",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Doubtful",
           "detail": "Knee - MCL",
           "team": "PHI"
         }
@@ -6001,6 +6034,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "PHI"
         }
       ]
     },
@@ -6304,6 +6344,13 @@
           "date": "2026-10-06",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Abdomen",
+          "team": "NO"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Abdomen",
           "team": "NO"
         }
@@ -6631,6 +6678,13 @@
           "date": "2026-10-04",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "WAS"
         }
@@ -8560,6 +8614,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "MIN"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "MIN"
         }
       ]
     },
@@ -9249,6 +9310,13 @@
           "to": "Out",
           "detail": "Shoulder - AC Joint",
           "team": "LAR"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Shoulder - AC Joint",
+          "team": "LAR"
         }
       ]
     },
@@ -9550,6 +9618,13 @@
           "to": "Out",
           "detail": "Toe",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "PIT"
         }
       ]
     },
@@ -9811,6 +9886,13 @@
           "date": "2026-10-02",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "PHI"
         }
@@ -10315,6 +10397,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -11405,6 +11492,13 @@
           "date": "2026-09-30",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Knee",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Knee",
           "team": "CLE"
         }
@@ -13270,6 +13364,13 @@
           "to": "Out",
           "detail": "Forearm",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Forearm",
+          "team": "LAC"
         }
       ]
     },
@@ -13527,6 +13628,13 @@
           "date": "2026-10-02",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Shoulder",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Shoulder",
           "team": "WAS"
         }
@@ -14357,6 +14465,13 @@
           "date": "2026-10-02",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Quadriceps",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Doubtful",
           "detail": "Quadriceps",
           "team": "NYJ"
         }
@@ -16061,6 +16176,13 @@
           "date": "2026-10-02",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Elbow",
+          "team": "TB"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Elbow",
           "team": "TB"
         }
@@ -22232,6 +22354,13 @@
           "to": "Out",
           "detail": "Elbow",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Elbow",
+          "team": "WAS"
         }
       ]
     },
@@ -24220,6 +24349,13 @@
           "to": "Out",
           "detail": "Finger",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Doubtful",
+          "detail": "Finger",
+          "team": "NYJ"
         }
       ]
     },
@@ -25675,6 +25811,13 @@
           "date": "2026-10-04",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Quadriceps",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Quadriceps",
           "team": "CAR"
         }
@@ -29524,6 +29667,13 @@
           "date": "2026-10-02",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Thumb",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Doubtful",
           "detail": "Thumb",
           "team": "NYJ"
         }
@@ -34653,6 +34803,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "MIA"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "MIA"
         }
       ]
     },
@@ -35449,6 +35606,13 @@
           "to": "Out",
           "detail": "Quadriceps",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "LAC"
         }
       ]
     },
@@ -36187,6 +36351,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "CIN"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CIN"
         }
       ]
     },
@@ -36389,6 +36560,11 @@
           "to": "Out",
           "detail": "Coach's Decision",
           "team": "ATL"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
