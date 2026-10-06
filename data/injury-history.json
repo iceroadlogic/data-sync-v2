@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T19:56:13.386Z",
+  "lastUpdated": "2026-10-06T01:02:14.455Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3929,6 +3929,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
@@ -5488,6 +5495,13 @@
           "to": "Out",
           "detail": "Foot",
           "team": "NYG"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "Doubtful",
+          "detail": "Foot",
+          "team": "NYG"
         }
       ]
     },
@@ -6283,6 +6297,13 @@
           "date": "2026-10-01",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Abdomen",
+          "team": "NO"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Abdomen",
           "team": "NO"
         }
@@ -10287,6 +10308,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -16680,6 +16708,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Undisclosed",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Abdomen",
           "team": "PHI"
         }
       ]
@@ -32545,6 +32580,13 @@
           "date": "2025-11-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "LAR"
         }
       ]
     },
@@ -34332,6 +34374,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -36333,6 +36382,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
