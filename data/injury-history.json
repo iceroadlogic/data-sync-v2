@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T19:23:29.754Z",
+  "lastUpdated": "2026-10-06T23:27:01.442Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -10280,6 +10280,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "ARI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "ARI"
         }
       ]
     },
@@ -16836,6 +16843,13 @@
           "date": "2026-10-06",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Abdomen",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "IR",
           "detail": "Abdomen",
           "team": "PHI"
         }
@@ -32278,6 +32292,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-06",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "WAS"
         }
       ]
     },
@@ -33482,6 +33503,18 @@
           "date": "2026-08-23",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13047": {
+      "name": "Jacardia Wright",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-10-06",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "SEA"
         }
       ]
     },

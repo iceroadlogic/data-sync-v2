@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-06T17:35:56.405Z",
+  "lastUpdated": "2026-10-06T23:27:01.442Z",
   "week": 5,
   "summary": {
-    "total_players": 770,
-    "ir": 83,
+    "total_players": 773,
+    "ir": 86,
     "suspended": 0
   },
   "ir": [
@@ -45,6 +45,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "7535",
+      "source_id": "4239944",
+      "player_name": "Hunter Long",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "ir"
     },
     {
       "player_id": "12889",
@@ -224,9 +237,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Back",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Browns opened Gabriel's (back) 21-day practice window Tuesday."
     },
     {
       "player_id": "12469",
@@ -892,6 +905,19 @@
       "injury_comment": "Smith (knee) underwent surgery Wednesday to repair a torn ACL and will miss the rest of the season, Antwan V. Staley of the New York Daily News reports."
     },
     {
+      "player_id": "9225",
+      "source_id": "4429013",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports."
+    },
+    {
       "player_id": "8177",
       "source_id": "4241374",
       "player_name": "Grant Calcaterra",
@@ -1072,6 +1098,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12641",
+      "source_id": "4602667",
+      "player_name": "Jaylin Lane",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Commanders placed Lane (ankle) on injured reserve Tuesday."
     },
     {
       "player_id": "4219",
