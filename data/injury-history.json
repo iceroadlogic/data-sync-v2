@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T18:07:18.133Z",
+  "lastUpdated": "2026-10-07T19:50:36.946Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4867,6 +4867,19 @@
         }
       ]
     },
+    "4992": {
+      "name": "Dante Pettis",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "SF"
+        }
+      ]
+    },
     "4993": {
       "name": "Mike Gesicki",
       "position": "TE",
@@ -5288,6 +5301,13 @@
           "date": "2026-10-06",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Knee - MCL",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Doubtful",
+          "to": "Questionable",
           "detail": "Knee - MCL",
           "team": "PHI"
         }
@@ -8943,6 +8963,13 @@
           "date": "2026-09-27",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "PIT"
         }
       ]
     },
@@ -16213,6 +16240,11 @@
           "to": "Questionable",
           "detail": "Elbow",
           "team": "TB"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18630,6 +18662,13 @@
           "date": "2025-12-12",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "MIN"
         }
       ]
     },
@@ -18881,6 +18920,13 @@
           "date": "2026-10-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BAL"
         }
       ]
     },
@@ -19429,6 +19475,13 @@
           "date": "2026-07-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "DAL"
         }
       ]
     },
@@ -24997,6 +25050,13 @@
           "date": "2026-09-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYG"
         }
       ]
     },
