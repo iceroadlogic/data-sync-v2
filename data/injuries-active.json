@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-10-06T19:23:29.754Z",
+  "lastUpdated": "2026-10-07T01:21:48.093Z",
   "week": 5,
   "summary": {
-    "total_players": 770,
+    "total_players": 773,
     "questionable": 34,
-    "doubtful": 7,
+    "doubtful": 6,
     "out": 16
   },
   "questionable": [
-    {
-      "player_id": "7535",
-      "source_id": "4239944",
-      "player_name": "Hunter Long",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Long (knee) is questionable to return against the Giants on Sunday."
-    },
     {
       "player_id": "13287",
       "source_id": "4870808",
@@ -45,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Jackson (ankle) is not dealing with a long-term injury, but he has \"only an outside chance to play\" in Week 5 and \"could end up missing multiple games,\" Ian Rapoport of NFL Network reports."
+      "injury_comment": "Jackson appears \"unlikely\" to play Sunday against the Falcons due to a \"rarer type of ankle sprain\" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "3269",
@@ -162,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Brooks is questionable to return to Sunday's Week 4 matchup against Tampa Bay due to an ankle injury, Rob Demovsky of ESPN.com reports."
+      "injury_comment": "Brooks underwent further tests on his ankle Monday, Weston Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "8116",
@@ -170,6 +157,19 @@
       "player_name": "Pierre Strong Jr.",
       "position": "RB",
       "team_abbr": "GB",
+      "injury_status": "practice-squad",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "13862",
+      "source_id": "5085942",
+      "player_name": "Treyvhon Saunders",
+      "position": "WR",
+      "team_abbr": "HOU",
       "injury_status": "practice-squad",
       "injury_designation": "Questionable",
       "injury_description": null,
@@ -409,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-10-08",
-      "injury_comment": "questionable"
+      "injury_comment": "Kieft (elbow) was a limited participant in practice Tuesday."
     },
     {
       "player_id": "11566",
@@ -464,19 +464,6 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
       "injury_comment": "The Broncos are confident that Bryant avoided a long-term right ankle injury after an MRI on Monday yielded good news, Ian Rapoport of NFL Network reports."
-    },
-    {
-      "player_id": "5121",
-      "source_id": "3123075",
-      "player_name": "Braxton Berrios",
-      "position": "WR",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Giants head coach John Harbaugh confirmed Berrios is dealing with a foot/ankle injury, but a decision has yet to be made regarding whether the wideout will be placed on injured reserve, Paul Schwartz of the New York Post reports."
     },
     {
       "player_id": "8155",
@@ -676,17 +663,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "9225",
-      "source_id": "4429013",
-      "player_name": "Tank Bigsby",
-      "position": "RB",
-      "team_abbr": "PHI",
+      "player_id": "5121",
+      "source_id": "3123075",
+      "player_name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbr": "NYG",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Abdomen",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Bigsby will undergo core muscle surgery and be placed on injured reserve, Ian Rapoport of NFL Network reports."
+      "injury_detail": "Foot",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Berrios announced Tuesday that he will undergo foot surgery and be out for the rest of the 2026 season, Ryan Dunleavy of the New York Post reports."
     },
     {
       "player_id": "6803",
@@ -728,6 +715,19 @@
       "injury_comment": "Seahawks head coach Mike Macdonald said Monday that Charbonnet (knee) won't be activated from the reserve/PUP list in advance of Sunday's game against the 49ers, Gregg Bell of The Tacoma News Tribune reports."
     },
     {
+      "player_id": "13047",
+      "source_id": "4428943",
+      "player_name": "Jacardia Wright",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "practice-squad",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "4892",
       "source_id": "3052587",
       "player_name": "Baker Mayfield",
@@ -739,19 +739,6 @@
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
       "injury_comment": "out"
-    },
-    {
-      "player_id": "12641",
-      "source_id": "4602667",
-      "player_name": "Jaylin Lane",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Head coach Dan Quinn confirmed Monday that Lane (ankle) will miss the remainder of the season."
     }
   ]
 }
