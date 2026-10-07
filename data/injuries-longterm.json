@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-07T18:07:18.133Z",
+  "lastUpdated": "2026-10-07T23:55:49.173Z",
   "week": 5,
   "summary": {
-    "total_players": 775,
-    "ir": 86,
+    "total_players": 777,
+    "ir": 88,
     "suspended": 0
   },
   "ir": [
@@ -110,6 +110,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "5008",
+      "source_id": "3052897",
+      "player_name": "Durham Smythe",
+      "position": "TE",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Achilles",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Ravens placed Smythe (Achilles) on their injured reserve list Wednesday, Ryan Mink of the Ravens' official site reports."
     },
     {
       "player_id": "8206",
@@ -239,7 +252,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-18",
-      "injury_comment": "The Browns opened the 21-day practice window for Gabriel (back) on Tuesday."
+      "injury_comment": "Gabriel (back) was a full participant at practice Wednesday."
     },
     {
       "player_id": "12469",
@@ -354,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Packers are expected to place Reed (neck) on injured reserve Wednesday, Adam Schefter of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12482",
@@ -367,9 +380,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Packers designated Williams (ankle) to return from injured reserve ahead of Wednesday's practice session."
     },
     {
       "player_id": "12113",
@@ -393,9 +406,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Brooks (hamstring) was placed on injured reserve Friday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9502",
@@ -408,7 +421,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach DeMeco Ryans said Monday that he expects the Texans to open Dell's (knee) 21-day practice window this week, Jonathan M. Alexander of the Houston Chronicle reports."
+      "injury_comment": "Dell (knee) was a limited participant in Wednesday's practice."
     },
     {
       "player_id": "12484",
@@ -445,9 +458,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Colts head coach Shane Steichen said that Mallory (thumb) will have his 21-day practice window opened Wednesday, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "6453",
@@ -536,9 +549,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "The Raiders placed Bech (forearm) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11963",
@@ -588,9 +601,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Klint Kubiak said Friday that the hope is that Thornton (undisclosed) will be back at practice ahead of the Raiders' Week 5 road tilt against the Patriots, Levi Edwards of the Raiders' official site reports."
+      "injury_comment": "Raiders head coach Klint Kubiak announced Wednesday that Thornton has been designated for return from injured reserve, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "12670",
@@ -666,9 +679,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Dolphins placed Achane (knee) on injured reserve Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8214",
@@ -718,9 +731,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Yurosek (undisclosed) practiced Wednesday."
     },
     {
       "player_id": "5859",
@@ -732,8 +745,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Brown was spotted Monday in the Patriots' locker room walking without a limp and wearing a small wrap on his injured right ankle, Taylor Kyles of CLNSMedia.com reports."
+      "est_return_date": "2026-10-22",
+      "injury_comment": "Brown (ankle) was seen in the locker room Wednesday without a noticeable limp, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "11371",
@@ -796,9 +809,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "The Saints are placing Etienne (hamstring) on injured reserve, Katherine Terrell of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12480",
@@ -838,6 +851,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "5121",
+      "source_id": "3123075",
+      "player_name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Giants placed Berrios (foot) on their injured reserve list Wednesday, Dan Salomone of the Giants' official site reports."
     },
     {
       "player_id": "12508",
@@ -887,9 +913,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Groin",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "The Jets designated Patrick (groin) for return from injured reserve Wednesday, John Pullano of the team's official site reports."
     },
     {
       "player_id": "12539",
@@ -1030,9 +1056,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-11-02",
-      "injury_comment": "Price (chest) was placed on injured reserve Saturday, Adam Schefter of ESPN reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10867",
@@ -1056,9 +1082,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Charles (undisclosed) practiced Wednesday, John Boyle of the team's official site reports."
     },
     {
       "player_id": "11618",
@@ -1121,9 +1147,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "McNichols (quadriceps) had his 21-day practice window opened prior to Wednesday's session, during which he was a limited participant."
     }
   ],
   "suspended": []
