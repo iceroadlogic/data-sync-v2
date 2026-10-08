@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-08T13:11:50.837Z",
+  "lastUpdated": "2026-10-08T19:46:20.455Z",
   "week": 5,
   "summary": {
-    "total_players": 780,
-    "questionable": 61,
+    "total_players": 779,
+    "questionable": 60,
     "doubtful": 4,
-    "out": 15
+    "out": 16
   },
   "questionable": [
     {
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Flowers (foot) was limited in Wednesday's practice."
+      "injury_comment": "Flowers was a limited participant in Wednesday's practice due to a foot injury."
     },
     {
       "player_id": "4881",
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Ravens listed Jackson (ankle) as a non-participant in Wednesday's practice."
+      "injury_comment": "Jackson (ankle) remained absent from practice Thursday, Sam Cohn of the Baltimore Sun reports."
     },
     {
       "player_id": "3269",
@@ -82,9 +82,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Shoulder",
+      "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-10-12",
-      "injury_comment": "Moore (shoulder) is dealing with an injury that isn't considered long-term, Adam Schefter of ESPN reports."
+      "injury_comment": "Moore (shoulder) was not participating during the media viewing period of Thursday's practice,  Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
     },
     {
       "player_id": "11646",
@@ -110,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Ben Johnson said Wednesday that Monangai's thumb injury is not an issue, Courtney Cronin of ESPN.com reports."
+      "injury_comment": "Monangai (thumb/toe) was a non-participant at Thursday's practice."
     },
     {
       "player_id": "6790",
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Swift didn't practice Wednesday due to hip and knee injuries."
+      "injury_comment": "Swift (hip/knee) returned to practice on a limited basis Thursday, Sean Hammond of the Chicago Tribune reports."
     },
     {
       "player_id": "7564",
@@ -136,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Bengals head coach Zac Taylor said that Chase remains in concussion protocol and won't practice Wednesday, Paul Dehner Jr. of The Athletic reports."
+      "injury_comment": "Chase (concussion) was present for the media-access portion of Thursday's practice, Ben Baby of ESPN.com reports."
     },
     {
       "player_id": "6801",
@@ -149,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Higgins didn't practice Wednesday due to groin and neck injuries, Jay Morrison of SI.com reports."
+      "injury_comment": "Higgins (groin/neck) was spotted on a side field during the open portion of Thursday's practice, Ben Baby of ESPN.com reports."
     },
     {
       "player_id": "13477",
@@ -370,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McConkey (foot) is expected to be at practice Wednesday, Kris Rhim of ESPN.com reports."
+      "injury_comment": "Chargers head coach Jim Harbaugh said that McConkey (foot) is expected to be at practice Wednesday, Kris Rhim of ESPN.com reports."
     },
     {
       "player_id": "13380",
@@ -435,7 +435,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Dolphins head coach Jeff Hafley said that Douglas (ankle) won't practice Wednesday, Marcel Louis-Jacques of ESPN.com reports."
+      "injury_comment": "Douglas (ankle) didn't practice Thursday, C. Isaiah Smalls of the Miami Herald reports."
     },
     {
       "player_id": "9756",
@@ -474,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Patriots head coach Mike Vrabel said that he doesn't anticipate Hollins (calf) practicing Wednesday, Evan Lazar of the Patriots' official site reports."
+      "injury_comment": "Hollins (calf) wasn't spotted during the portion of Thursday's practice available to media, Evan Lazar of the Patriots' official site reports."
     },
     {
       "player_id": "7611",
@@ -578,7 +578,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Nabers said he took on \"as much as I could\" at Wednesday's practice, after which he noted he's dealing with soreness, Connor Hughes of SNY.tv reports."
+      "injury_comment": "Nabers (knee) was seen practicing during Thursday's media viewing period, Art Stapleton of USA Today reports."
     },
     {
       "player_id": "12481",
@@ -604,7 +604,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Barkley (hamstring) officially didn't practice Wednesday"
+      "injury_comment": "Barkley (hamstring) wasn't present during the open portion of Thursday's practice, Tim McManus of ESPN reports."
     },
     {
       "player_id": "5848",
@@ -643,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Smith (hamstring) isn't taking part in Wednesday's practice, Brooks Kubena of The Athletic reports."
+      "injury_comment": "Smith (hamstring) was spotted running on a side field during Thursday's practice, Tim McManus of ESPN.com reports."
     },
     {
       "player_id": "7021",
@@ -656,20 +656,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Dowdle (toe) was listed as a limited participant in Wednesday's practice, Alan Saunders of SteelersNow.com reports."
-    },
-    {
-      "player_id": "6819",
-      "source_id": "4035687",
-      "player_name": "Michael Pittman Jr.",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Pittman (foot) was a limited participant in Wednesday's practice, Brooke Pryor of ESPN.com reports."
+      "injury_comment": "Head coach mike McCarthy said Thursday that it remains up in the air whether Dowdle (toe) will be available Sunday against the Colts, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "13414",
@@ -747,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Diggs was a non-participant at Wednesday's practice due to a hamstring injury."
+      "injury_comment": "Diggs (hamstring) returned to practice Thursday, Zach Selby of the Commanders' official site reports."
     },
     {
       "player_id": "5927",
@@ -760,7 +747,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McLaurin (hamstring) won't practice Wednesday, Tashan Reed of The Washington Post reports."
+      "injury_comment": "McLaurin (hamstring) wasn't present for warmups Thursday after missing Wednesday's practice, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "8210",
@@ -827,7 +814,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Hall (quadriceps) didn't practice Wednesday."
+      "injury_comment": "Hall (quadriceps) wasn't present for warmups at the start of Thursday's practice, Al Iannazzone of Newsday reports."
     },
     {
       "player_id": "11625",
@@ -840,7 +827,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Head coach Aaron Glenn said Wednesday that Mitchell (finger) remains week-to-week, Brian Costello of the New York Post reports."
+      "injury_comment": "Mitchell (finger) wasn't present for warmups at the start of Thursday's practice, Al Iannazzone of Newsday reports."
     },
     {
       "player_id": "2307",
@@ -894,7 +881,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Bears head coach Ben Johnson said Monday that Williams (hamstring) won't practice during Week 5 and is still being classified as week-to-week rather than day-to-day, Courtney Cronin of ESPN.com reports."
+      "injury_comment": "Williams (hamstring) has made tangible progress in his recovery from a Grade 2 hamstring strain sustained in the Week 2 loss to the Vikings, Dan Wiederer of The Athletic reports."
     },
     {
       "player_id": "13435",
@@ -973,6 +960,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6819",
+      "source_id": "4035687",
+      "player_name": "Michael Pittman Jr.",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Pittman is expected to miss multiple weeks after aggravating his foot injury, Ray Fittipaldo of the Pittsburgh Post-Gazette reports Thursday."
     },
     {
       "player_id": "6803",
