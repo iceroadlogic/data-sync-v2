@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-07T23:55:49.173Z",
+  "lastUpdated": "2026-10-08T18:09:39.688Z",
   "week": 5,
   "summary": {
-    "total_players": 777,
+    "total_players": 780,
     "ir": 88,
     "suspended": 0
   },
@@ -382,7 +382,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Packers designated Williams (ankle) to return from injured reserve ahead of Wednesday's practice session."
+      "injury_comment": "Williams (ankle) was a limited participant Wednesday after the Packers opened his 21-day practice window."
     },
     {
       "player_id": "12113",
@@ -603,7 +603,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Raiders head coach Klint Kubiak announced Wednesday that Thornton has been designated for return from injured reserve, Sam Warren of The Athletic reports."
+      "injury_comment": "Thornton (hamstring) was a full participant at practice Wednesday, Anthony Galaviz of The Fresno Bee reports."
     },
     {
       "player_id": "12670",
@@ -926,9 +926,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Smith (knee) underwent surgery Wednesday to repair a torn ACL and will miss the rest of the season, Antwan V. Staley of the New York Daily News reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9225",
