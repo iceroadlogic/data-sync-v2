@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-09T17:43:14.266Z",
+  "lastUpdated": "2026-10-09T23:42:01.822Z",
   "week": 5,
   "summary": {
     "total_players": 778,
-    "ir": 88,
+    "ir": 89,
     "suspended": 0
   },
   "ir": [
@@ -94,9 +94,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Wrist",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Ravens coach Jesse Minter said Friday that Lane (wrist) is \"doing really well\" and \"has put himself in a great position to be ready to roll when the time permits.\""
     },
     {
       "player_id": "13302",
@@ -307,6 +307,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12492",
+      "source_id": "4600981",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Bryant (ankle) was placed on the Broncos' injured reserve Friday."
+    },
+    {
       "player_id": "13345",
       "source_id": "4702555",
       "player_name": "Jonah Coleman",
@@ -381,8 +394,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Williams (ankle) was a limited participant Wednesday after the Packers opened his 21-day practice window."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Williams (ankle) has been ruled out for Sunday's game against the Bears, Wes Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "12113",
@@ -420,8 +433,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Dell (knee) was a limited participant in Thursday's practice."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Dell (knee) has been ruled out for Sunday's game against the Titans."
     },
     {
       "player_id": "12484",
@@ -459,7 +472,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Thumb",
-      "est_return_date": "2026-10-11",
+      "est_return_date": "2026-10-18",
       "injury_comment": "Mallory (thumb) was a full participant at practice Thursday."
     },
     {
@@ -602,8 +615,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Thornton (hamstring) was a full participant at practice Wednesday, Anthony Galaviz of The Fresno Bee reports."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Thornton (hamstring) has been ruled out ahead of Sunday's game against the Patriots, Paul Gutierrez of Raiders.com reports."
     },
     {
       "player_id": "12670",
@@ -733,7 +746,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Yurosek (undisclosed) practiced Wednesday."
+      "injury_comment": "Yurosek (ankle) is listed as questionable for Sunday's game against the Saints."
     },
     {
       "player_id": "5859",
@@ -915,7 +928,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-11",
-      "injury_comment": "The Jets designated Patrick (groin) for return from injured reserve Wednesday, John Pullano of the team's official site reports."
+      "injury_comment": "Patrick (groin) is listed as questionable for Sunday's game against the Browns."
     },
     {
       "player_id": "12539",
