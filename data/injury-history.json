@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T00:55:22.924Z",
+  "lastUpdated": "2026-10-09T12:58:29.995Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4910,6 +4910,11 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "SF"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8563,6 +8568,13 @@
           "date": "2025-12-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "DAL"
         }
       ]
     },

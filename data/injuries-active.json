@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-09T02:41:46.039Z",
+  "lastUpdated": "2026-10-09T12:58:29.995Z",
   "week": 5,
   "summary": {
-    "total_players": 780,
+    "total_players": 778,
     "questionable": 58,
     "doubtful": 4,
     "out": 16
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-10-12",
-      "injury_comment": "Moore (shoulder) didn't practice Thursday."
+      "injury_comment": "Moore (shoulder) was not participating during the media viewing period of Thursday's practice,  Sal Capaccio of WGR Sports Radio 550 Buffalo reports."
     },
     {
       "player_id": "11646",
@@ -150,6 +150,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-11",
       "injury_comment": "Wallace (knee) didn't practice Thursday."
+    },
+    {
+      "player_id": "6786",
+      "source_id": "4241389",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Lamb is believed to be dealing with a \"quad bruise\" that is \"not considered to be serious,\" Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "11370",
@@ -422,7 +435,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Hollins (calf) wasn't spotted during the portion of Thursday's practice available to media, Evan Lazar of the Patriots' official site reports."
+      "injury_comment": "Hollins (calf) wasn't spotted during the portion of Thursday's practice open to media, Evan Lazar of the Patriots' official site reports."
     },
     {
       "player_id": "7611",
@@ -552,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Barkley (hamstring) officially didn't practice Thursday."
+      "injury_comment": "Barkley (hamstring) wasn't present during the open portion of Thursday's practice, Tim McManus of ESPN.com reports."
     },
     {
       "player_id": "5848",
@@ -631,19 +644,6 @@
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-11",
       "injury_comment": "Evans (ribs) didn't practice Thursday, but he was able to run on a side field during the open portion of the session, Cam Inman of The San Jose Mercury News reports."
-    },
-    {
-      "player_id": "4992",
-      "source_id": "3127306",
-      "player_name": "Dante Pettis",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "practice-squad",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "12048",
@@ -734,7 +734,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McLaurin (hamstring) officially didn't practice Thursday."
+      "injury_comment": "McLaurin (hamstring) wasn't present for warmups Thursday after missing Wednesday's practice, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "8210",
