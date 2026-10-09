@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T00:02:37.827Z",
+  "lastUpdated": "2026-10-09T00:55:22.924Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4902,6 +4902,13 @@
           "from": "Healthy",
           "to": "Out",
           "detail": "Undisclosed",
+          "team": "SF"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Calf",
           "team": "SF"
         }
       ]
@@ -33121,6 +33128,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "LAR"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
