@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-08T17:14:02.415Z",
+  "lastUpdated": "2026-10-09T01:10:01.700Z",
   "games": [
     {
       "game_id": "401872980",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 88,
-        "wind": "9 to 13 mph S",
-        "conditions": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-        "precipitation": "65%"
+        "wind": "12 mph S",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "63%"
       }
     },
     {
@@ -45,8 +45,8 @@
       "weather": {
         "temp": 90,
         "wind": "12 mph SE",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "22%"
+        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+        "precipitation": "24%"
       }
     },
     {
@@ -56,9 +56,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "3 to 9 mph SW",
-        "conditions": "Mostly Cloudy",
+        "temp": 66,
+        "wind": "1 to 8 mph S",
+        "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
     },
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "2 to 8 mph S",
-        "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "49%"
+        "wind": "1 to 8 mph SE",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "54%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "6 to 12 mph E",
+        "wind": "7 to 13 mph E",
         "conditions": "Rain Showers",
-        "precipitation": "86%"
+        "precipitation": "89%"
       }
     },
     {
@@ -116,8 +116,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "5 to 15 mph WSW",
+        "temp": 78,
+        "wind": "5 to 20 mph WSW",
         "conditions": "Chance Rain Showers",
         "precipitation": "47%"
       }
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "8 mph SSW",
+        "wind": "6 to 9 mph SSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "5 to 10 mph N",
+        "wind": "5 to 10 mph NNE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -172,9 +172,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "5 to 15 mph SSW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "54%"
+        "wind": "5 to 10 mph SSW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "57%"
       }
     }
   ]
