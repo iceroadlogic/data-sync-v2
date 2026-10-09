@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T18:09:39.688Z",
+  "lastUpdated": "2026-10-09T00:02:37.827Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1716,6 +1716,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -7038,6 +7043,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "TEN"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9434,6 +9444,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "DEN"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11162,6 +11177,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12984,6 +13004,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "GB"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14298,6 +14323,13 @@
           "date": "2026-09-20",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "NO"
         }
       ]
     },
@@ -17695,6 +17727,13 @@
           "date": "2026-04-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "PHI"
         }
       ]
     },
@@ -19606,6 +19645,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "DAL"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23478,6 +23522,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23934,6 +23983,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25891,6 +25945,13 @@
           "date": "2026-10-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "MIA"
         }
       ]
     },
@@ -27758,6 +27819,19 @@
           "date": "2026-08-30",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "12357": {
+      "name": "David Martin-Robinson",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "TEN"
         }
       ]
     },
@@ -30292,6 +30366,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "TEN"
         }
       ]
     },
@@ -31602,6 +31683,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "LV"
         }
       ]
     },
@@ -32326,6 +32414,11 @@
           "to": "Questionable",
           "detail": "Hand",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -34697,6 +34790,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "TEN"
         }
       ]
     },
@@ -35971,6 +36071,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "MIA"
         }
       ]
     },
@@ -36254,6 +36361,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "SF"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36680,6 +36792,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "CIN"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36851,6 +36968,13 @@
           "date": "2026-08-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "CLE"
         }
       ]
     },
@@ -37023,6 +37147,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
