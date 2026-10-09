@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:58:29.995Z",
+  "lastUpdated": "2026-10-09T17:43:14.266Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3203,6 +3203,13 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Calf",
+          "team": "NE"
         }
       ]
     },
@@ -4252,6 +4259,13 @@
           "date": "2026-10-04",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ankle",
           "team": "BAL"
         }
@@ -14690,6 +14704,13 @@
           "to": "Doubtful",
           "detail": "Quadriceps",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Quadriceps",
+          "team": "NYJ"
         }
       ]
     },
@@ -24660,6 +24681,13 @@
           "to": "Doubtful",
           "detail": "Finger",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Finger",
+          "team": "NYJ"
         }
       ]
     },
@@ -31982,6 +32010,13 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "CHI"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Toe",
+          "team": "CHI"
         }
       ]
     },
@@ -34821,6 +34856,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "TEN"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36997,6 +37037,13 @@
           "date": "2026-10-09",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Calf",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Calf",
           "team": "CLE"
         }
