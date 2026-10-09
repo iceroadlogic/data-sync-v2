@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T17:43:14.266Z",
+  "lastUpdated": "2026-10-09T19:23:07.448Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6453,6 +6453,11 @@
           "to": "Questionable",
           "detail": "Abdomen",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8727,6 +8732,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "CHI"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9803,6 +9813,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11696,6 +11711,13 @@
           "date": "2026-10-06",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee",
           "team": "CLE"
         }
@@ -14363,6 +14385,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15251,6 +15278,13 @@
           "date": "2026-10-04",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Concussion",
+          "team": "LV"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Concussion",
           "team": "LV"
         }
@@ -22283,6 +22317,13 @@
           "date": "2026-10-02",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "CHI"
+        },
+        {
+          "date": "2026-10-09",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "CHI"
         }
