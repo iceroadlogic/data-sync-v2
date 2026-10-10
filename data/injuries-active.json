@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-10T12:16:02.936Z",
+  "lastUpdated": "2026-10-10T18:23:36.113Z",
   "week": 5,
   "summary": {
     "total_players": 778,
-    "questionable": 26,
+    "questionable": 25,
     "doubtful": 1,
-    "out": 34
+    "out": 37
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-10-12",
-      "injury_comment": "Moore (shoulder) remained a non-participant in Friday's practice for the Bills."
+      "injury_comment": "Moore (shoulder) is listed as questionable for Monday's game against the Rams, Katherine Fitzgerald of The Buffalo News reports."
     },
     {
       "player_id": "11646",
@@ -136,20 +136,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Allen (groin) is questionable for Sunday's game against the Steelers."
-    },
-    {
-      "player_id": "6149",
-      "source_id": "3916945",
-      "player_name": "Darius Slayton",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Slayton (knee) is listed as questionable for Sunday's game against the Steelers."
+      "injury_comment": "Allen (groin) is listed as questionable for Sunday's game against the Steelers."
     },
     {
       "player_id": "10229",
@@ -175,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Jeanty (ankle/foot) is questionable for Sunday's game against the Patriots, with Raiders coach Klint Kubiak saying Friday that the running back will \"do his best to go,\"Levi Edwards of the Raiders' official site reports."
+      "injury_comment": "Jeanty (ankle/foot) is questionable for Sunday's game against the Patriots, with Raiders coach Klint Kubiak saying Friday that the running back will \"do his best to go,\" Levi Edwards of the team's official site reports."
     },
     {
       "player_id": "8127",
@@ -188,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Forearm",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Kolar (forearm) remained limited in Thursday's practice."
+      "injury_comment": "Kolar (forearm) is listed as questionable for Sunday's game against the Broncos."
     },
     {
       "player_id": "11635",
@@ -240,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-11",
-      "injury_comment": "Jefferson (ankle) is listed as questionable for Sunday's game at New Orleans."
+      "injury_comment": "Jefferson (ankle) and Jordan Addison (hamstring) were at practice Friday, Kevin Seifert of ESPN.com reports."
     },
     {
       "player_id": "7611",
@@ -344,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McLaurin (hamstring), who is officially questionable for Sunday's game against the Giants, will be a game-time decision, as Jeremy Fowler of ESPN highlighted Friday in a Week 5 injury update on SportsCenter."
+      "injury_comment": "McLaurin (hamstring), who officially is listed as questionable for Sunday's contest against the Giants, will be a game-time decision, as Jeremy Fowler of ESPN highlighted Friday in a Week 5 injury update on SportsCenter."
     }
   ],
   "doubtful": [
@@ -363,6 +350,19 @@
     }
   ],
   "out": [
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "A trade for Harrison will not be completed \"until after Sunday's games are played,\" but the Cardinals \"feel comfortable enough\" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports."
+    },
     {
       "player_id": "11716",
       "source_id": "4696700",
@@ -388,6 +388,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
       "injury_comment": "Jackson (ankle) has been ruled out for Sunday night's game against the Falcons, Cordell Woodland of 105.7 The Fan Baltimore reports."
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Palmer (shoulder) has been ruled out for Monday's game against the Rams, Katherine Fitzgerald of The Buffalo News reports."
     },
     {
       "player_id": "11377",
@@ -533,6 +546,19 @@
       "injury_comment": "Dulin (hamstring) has been ruled out ahead of Sunday's game against the Steelers."
     },
     {
+      "player_id": "6149",
+      "source_id": "3916945",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Slayton (knee) has been downgraded to out for Sunday's game against the Steelers."
+    },
+    {
       "player_id": "8188",
       "source_id": "4362921",
       "player_name": "Tyquan Thornton",
@@ -556,7 +582,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Nailor (concussion) has been ruled out for Sunday's game at New England, ESPN's Paul Gutierrez reports."
+      "injury_comment": "Nailor (concussion) has been ruled out for Sunday's game at New England, Paul Gutierrez of ESPN.com reports."
     },
     {
       "player_id": "9754",
@@ -569,7 +595,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Johnston (chest) has been ruled out for Sunday's game against Denver"
+      "injury_comment": "Johnston (chest) has been ruled out for Sunday's game against Denver."
     },
     {
       "player_id": "13380",
@@ -673,7 +699,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Barkley (hamstring) has been ruled out for Sunday's contest against the Jaguars in London."
+      "injury_comment": "Barkley (hamstring) wasn't spotted at Friday's practice, EJ Smith of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "5848",
@@ -699,7 +725,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Smith (hamstring) has been ruled out for Sunday's contest versus the Jaguars in London."
+      "injury_comment": "Smith (hamstring) is doing rehab work on a side field at Friday's practice, EJ Smith of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "6819",
@@ -777,7 +803,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Todd Bowles said Friday that Mayfield (thumb) is now in a smaller splint, and the Bucs will see if he can progress to gripping the football next week, Rick Stroud of the Tampa Bay Times reports."
+      "injury_comment": "Head coach Todd Bowles said Friday that Mayfield (thumb) now is in a smaller splint, and the Bucs will see if he can progress to gripping the football next week, Rick Stroud of the Tampa Bay Times reports."
     },
     {
       "player_id": "2449",
@@ -790,7 +816,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Diggs (hamstring) won't play Sunday against the Giants, Tashan Reed of The Washington Post reports after Commanders coach Dan Quinn provided injury updates Friday."
+      "injury_comment": "Diggs (hamstring) wasn't spotted at Friday's practice, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "2307",
