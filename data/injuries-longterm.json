@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-10T16:35:11.693Z",
+  "lastUpdated": "2026-10-10T23:05:42.281Z",
   "week": 5,
   "summary": {
-    "total_players": 778,
-    "ir": 89,
+    "total_players": 773,
+    "ir": 91,
     "suspended": 0
   },
   "ir": [
@@ -372,6 +372,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "11370",
+      "source_id": "3149687",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Packers placed Brooks (ankle) on injured reserve Saturday."
+    },
+    {
       "player_id": "10222",
       "source_id": "4362249",
       "player_name": "Jayden Reed",
@@ -497,9 +510,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Colts head coach Shane Steichen reiterated Monday that Pierce didn't undergo surgery on his left heel and is continuing to rehab the injury, James Boyd of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13407",
@@ -632,6 +645,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "7610",
+      "source_id": "4383351",
+      "player_name": "Trey Lance",
+      "position": "QB",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-16",
+      "injury_comment": "Lance (groin) is listed as doubtful for Sunday's game against the Broncos."
+    },
+    {
       "player_id": "4033",
       "source_id": "3123076",
       "player_name": "David Njoku",
@@ -692,9 +718,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Dolphins placed Achane (knee) on injured reserve Monday."
     },
     {
       "player_id": "8214",
@@ -736,19 +762,6 @@
       "injury_comment": "The Vikings placed Oliver (biceps) on injured reserve Tuesday, Craig Peters of the team's official site reports."
     },
     {
-      "player_id": "13121",
-      "source_id": "4433959",
-      "player_name": "Ben Yurosek",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Yurosek (ankle) is listed as questionable for Sunday's game against the Saints."
-    },
-    {
       "player_id": "5859",
       "source_id": "4047646",
       "player_name": "A.J. Brown",
@@ -773,6 +786,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "4177",
+      "source_id": "2991662",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Patriots placed Hollins (calf) on injured reserve Saturday, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "13964",
@@ -918,19 +944,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "4351",
-      "source_id": "3134353",
-      "player_name": "Tim Patrick",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Patrick (groin) is listed as questionable for Sunday's game against the Browns."
-    },
-    {
       "player_id": "12539",
       "source_id": "4429105",
       "player_name": "Arian Smith",
@@ -994,6 +1007,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6819",
+      "source_id": "4035687",
+      "player_name": "Michael Pittman Jr.",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "The Steelers placed Pittman (foot) on injured reserve Saturday."
     },
     {
       "player_id": "4950",
@@ -1096,7 +1122,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-10-11",
+      "est_return_date": "2026-10-15",
       "injury_comment": "Charles (undisclosed) practiced Wednesday, John Boyle of the team's official site reports."
     },
     {
@@ -1161,7 +1187,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-11",
+      "est_return_date": "2026-10-19",
       "injury_comment": "McNichols (quadriceps) is listed as questionable for Sunday's game against the Giants."
     }
   ],

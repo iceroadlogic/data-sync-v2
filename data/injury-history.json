@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T18:23:36.113Z",
+  "lastUpdated": "2026-10-10T23:05:42.281Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3234,6 +3234,13 @@
           "to": "Out",
           "detail": "Calf",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Calf",
+          "team": "NE"
         }
       ]
     },
@@ -3802,6 +3809,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -9150,6 +9162,13 @@
           "to": "Out",
           "detail": "Foot",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Foot",
+          "team": "PIT"
         }
       ]
     },
@@ -12060,6 +12079,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Groin",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Doubtful",
+          "to": "IR",
           "detail": "Groin",
           "team": "LAC"
         }
@@ -21841,6 +21867,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "GB"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Out",
+          "to": "IR",
           "detail": "Ankle",
           "team": "GB"
         }
@@ -34414,6 +34447,13 @@
           "date": "2026-09-22",
           "from": "Healthy",
           "to": "IR",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
           "team": "MIN"
         }
       ]
