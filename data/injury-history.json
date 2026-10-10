@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T23:42:01.822Z",
+  "lastUpdated": "2026-10-10T16:35:11.693Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7955,6 +7955,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "IND"
         }
       ]
     },
@@ -12368,6 +12375,13 @@
           "date": "2026-06-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "BUF"
         }
       ]
     },
@@ -25104,6 +25118,13 @@
           "date": "2026-07-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ARI"
         }
       ]
     },
