@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-10T01:32:42.237Z",
+  "lastUpdated": "2026-10-10T15:45:37.550Z",
   "games": [
     {
       "game_id": "401872980",
@@ -18,9 +18,9 @@
       "is_dome": false,
       "weather": {
         "temp": 85,
-        "wind": "9 to 14 mph SW",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "42%"
+        "wind": "12 mph SW",
+        "conditions": "Chance Showers And Thunderstorms then Partly Sunny",
+        "precipitation": "40%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "5 to 10 mph SW",
+        "temp": 75,
+        "wind": "5 to 10 mph WSW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "37%"
+        "precipitation": "54%"
       }
     },
     {
@@ -46,7 +46,7 @@
         "temp": 91,
         "wind": "9 mph SE",
         "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "17%"
+        "precipitation": "25%"
       }
     },
     {
@@ -58,8 +58,8 @@
       "weather": {
         "temp": 62,
         "wind": "1 to 7 mph S",
-        "conditions": "Partly Sunny",
-        "precipitation": "8%"
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "23%"
       }
     },
     {
@@ -78,9 +78,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "3 to 8 mph E",
-        "conditions": "Periods Of Rain",
-        "precipitation": "94%"
+        "wind": "5 to 12 mph E",
+        "conditions": "Rain",
+        "precipitation": "93%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "13 mph E",
+        "temp": 66,
+        "wind": "9 to 13 mph E",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "99%"
+        "precipitation": "97%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "14 mph E",
-        "conditions": "Rain then Showers And Thunderstorms",
-        "precipitation": "99%"
+        "temp": 70,
+        "wind": "10 to 15 mph E",
+        "conditions": "Rain Showers",
+        "precipitation": "100%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "10 to 15 mph WSW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "47%"
+        "wind": "10 to 15 mph SW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "73%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "7 mph S",
+        "temp": 80,
+        "wind": "10 mph S",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -150,8 +150,8 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 to 10 mph NNE",
+        "temp": 61,
+        "wind": "5 to 10 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -172,7 +172,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "5 to 10 mph SSW",
+        "wind": "5 to 10 mph SW",
         "conditions": "Rain Showers Likely",
         "precipitation": "72%"
       }
