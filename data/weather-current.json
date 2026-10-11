@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-11T00:42:30.501Z",
+  "lastUpdated": "2026-10-11T18:41:19.765Z",
   "games": [
     {
       "game_id": "401872980",
@@ -17,10 +17,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "10 to 14 mph SW",
-        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "44%"
+        "temp": 84,
+        "wind": "14 mph W",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
+        "temp": 73,
         "wind": "5 to 10 mph WNW",
-        "conditions": "Rain Showers Likely then Mostly Cloudy",
-        "precipitation": "56%"
+        "conditions": "Partly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 91,
-        "wind": "9 mph SE",
-        "conditions": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-        "precipitation": "19%"
+        "wind": "10 mph SE",
+        "conditions": "Slight Chance Showers And Thunderstorms",
+        "precipitation": "17%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "1 to 7 mph S",
-        "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "28%"
+        "temp": 61,
+        "wind": "6 mph SE",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "36%"
       }
     },
     {
@@ -78,8 +78,8 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "6 to 13 mph E",
-        "conditions": "Periods Of Rain",
+        "wind": "12 mph E",
+        "conditions": "Rain",
         "precipitation": "100%"
       }
     },
@@ -90,10 +90,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "9 to 15 mph E",
-        "conditions": "Rain Showers",
-        "precipitation": "99%"
+        "temp": 64,
+        "wind": "1 to 12 mph NE",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "77%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "12 to 15 mph E",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "100%"
+        "temp": 68,
+        "wind": "12 mph E",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "64%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "10 to 15 mph SW",
-        "conditions": "Rain Likely",
-        "precipitation": "74%"
+        "wind": "15 to 20 mph SW",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "28%"
       }
     },
     {
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 80,
-        "wind": "9 mph SSW",
+        "wind": "10 mph SSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "3 to 9 mph NNE",
+        "wind": "9 mph N",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "5 to 10 mph SW",
+        "temp": 67,
+        "wind": "5 to 10 mph WSW",
         "conditions": "Rain Showers Likely",
-        "precipitation": "72%"
+        "precipitation": "63%"
       }
     }
   ]
