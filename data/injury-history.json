@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T18:35:06.989Z",
+  "lastUpdated": "2026-10-11T22:28:22.737Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6075,6 +6075,13 @@
           "to": "Out",
           "detail": "Concussion",
           "team": "MIN"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "MIN"
         }
       ]
     },
@@ -8321,6 +8328,19 @@
           "to": "IR",
           "detail": "Abdomen",
           "team": "IND"
+        }
+      ]
+    },
+    "6588": {
+      "name": "Tom Kennedy",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "DET"
         }
       ]
     },
@@ -11498,6 +11518,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
@@ -13816,6 +13843,11 @@
           "to": "Questionable",
           "detail": "Forearm",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25493,6 +25525,13 @@
           "date": "2026-01-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Finger",
+          "team": "PIT"
         }
       ]
     },
@@ -25852,6 +25891,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -27957,6 +28001,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29005,6 +29054,13 @@
           "date": "2025-12-08",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "CLE"
         }
       ]
     },
@@ -29333,6 +29389,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -31175,6 +31238,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "LAC"
         }
       ]
     },
@@ -31382,6 +31452,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
@@ -31630,6 +31707,13 @@
           "date": "2026-08-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "CLE"
         }
       ]
     },
@@ -34811,6 +34895,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
@@ -34878,6 +34969,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
@@ -35117,6 +35215,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ARI"
         }
       ]
     },
@@ -35800,6 +35905,13 @@
           "to": "Out",
           "detail": "Head",
           "team": "CLE"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "CLE"
         }
       ]
     },
@@ -36197,6 +36309,13 @@
           "date": "2026-10-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "NYJ"
         }
       ]
     },
@@ -37109,6 +37228,19 @@
         }
       ]
     },
+    "13418": {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
+        }
+      ]
+    },
     "13420": {
       "name": "Bryce Lance",
       "position": "WR",
@@ -37587,6 +37719,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },

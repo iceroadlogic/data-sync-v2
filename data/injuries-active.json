@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-11T18:35:06.989Z",
+  "lastUpdated": "2026-10-11T22:28:22.737Z",
   "week": 5,
   "summary": {
     "total_players": 773,
-    "questionable": 14,
+    "questionable": 19,
     "doubtful": 0,
-    "out": 59
+    "out": 65
   },
   "questionable": [
     {
@@ -48,6 +48,45 @@
       "injury_comment": "The Panthers are hopeful that Coker (quadriceps) will be ready to return to action following their Week 5 bye, Jeremy Fowler of ESPN.com reports."
     },
     {
+      "player_id": "13298",
+      "source_id": "4870653",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Conception has entered the NFL's concussion protocol, Daniel Oyefusi of ESPN.com reported Sunday."
+    },
+    {
+      "player_id": "12512",
+      "source_id": "4685702",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Judkins was wearing a walking boot on his right foot after Sunday's 17-12 loss at the Jets, Chris Easterling of the Akron Beacon Journal reports."
+    },
+    {
+      "player_id": "12472",
+      "source_id": "4601080",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Sanders (hip) is questionable to return to Sunday's game against the Jets."
+    },
+    {
       "player_id": "6786",
       "source_id": "4241389",
       "player_name": "CeeDee Lamb",
@@ -61,6 +100,19 @@
       "injury_comment": "Lamb is believed to be dealing with a \"quad bruise\" that is \"not considered to be serious,\" Ian Rapoport of NFL Network reports."
     },
     {
+      "player_id": "6588",
+      "source_id": "3126997",
+      "player_name": "Tom Kennedy",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Kennedy (knee) is questionable to return to Sunday's contest against the Cardinals."
+    },
+    {
       "player_id": "8168",
       "source_id": "4430191",
       "player_name": "Skyy Moore",
@@ -70,8 +122,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Moore is questionable to return to Sunday's game against the Bears due to an ankle injury."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Packers ruled out Moore (ankle) for the remainder of Sunday's game against the Bears."
     },
     {
       "player_id": "5892",
@@ -83,8 +135,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Montgomery suffered a groin injury during Sunday's game at Tennessee."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Texans ruled out Montgomery (groin) for the remainder of Sunday's game against the Titans."
     },
     {
       "player_id": "13862",
@@ -113,30 +165,30 @@
       "injury_comment": "Rice (hamstring) is believed to have sustained a \"relatively minor\" injury in Sunday's win over the Raiders and could be ready to play following the Chiefs' Week 5 bye, Ian Rapoport of NFL Network reports."
     },
     {
-      "player_id": "8127",
-      "source_id": "4241263",
-      "player_name": "Charlie Kolar",
-      "position": "TE",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Kolar (forearm) is listed as questionable for Sunday's game against the Broncos."
-    },
-    {
-      "player_id": "11635",
-      "source_id": "4612826",
-      "player_name": "Ladd McConkey",
+      "player_id": "12509",
+      "source_id": "4686612",
+      "player_name": "Tre' Harris",
       "position": "WR",
       "team_abbr": "LAC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Foot",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McConkey (foot) isn't expected to play Sunday versus the Broncos, Adam Schefter of ESPN reports."
+      "injury_comment": "Harris (hamstring) is questionable to return to Sunday's contest against the Broncos."
+    },
+    {
+      "player_id": "5844",
+      "source_id": "4036133",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
       "player_id": "12529",
@@ -148,8 +200,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Henderson suffered a right ankle injury during Sunday's game against the Raiders."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Patriots ruled out Henderson (ankle) for the remainder of Sunday's game against the Raiders, Evan Lazar of the team's official site reports."
+    },
+    {
+      "player_id": "13330",
+      "source_id": "5083315",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Sadiq won't return to Sunday's game versus the Browns due to a concussion."
     },
     {
       "player_id": "11577",
@@ -174,37 +239,37 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Leg",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Skowronek (leg) is questionable to return to Sunday's game against the Colts, Jake Arthur of Roundtable.io reports."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Skowronek (leg) has been ruled out for the remainder of Sunday's game against the Colts, Brooke Pryor of ESPN.com reports."
     },
     {
-      "player_id": "12048",
-      "source_id": "4429835",
-      "player_name": "George Holani",
-      "position": "RB",
-      "team_abbr": "SEA",
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Holani (ribs/knee) is listed as questionable for Sunday's game against the 49ers, Bob Condotta of The Seattle Times reports."
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Steelers ruled out Wilson (finger) for the rest of Sunday's game against the Colts, Brooke Pryor of ESPN.com reports."
     }
   ],
   "doubtful": [],
   "out": [
     {
-      "player_id": "11628",
-      "source_id": "4432708",
-      "player_name": "Marvin Harrison Jr.",
-      "position": "WR",
+      "player_id": "13272",
+      "source_id": "4430841",
+      "player_name": "Carson Beck",
+      "position": "QB",
       "team_abbr": "ARI",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-18",
-      "injury_comment": "A trade for Harrison will not be completed \"until after Sunday's games are played,\" but the Cardinals \"feel comfortable enough\" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports."
+      "injury_comment": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Lions."
     },
     {
       "player_id": "11716",
@@ -282,7 +347,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Williams (hamstring) is listed as inactive Sunday in Green Bay."
+      "injury_comment": "Head coach Ben Johnson wouldn't commit to a return date for Williams (hamstring) after Sunday's loss at Green Bay, Chris Emma of 670TheScore.com reports. \"He's on track. We'll see if that's Atlanta or after,\" Johnson said. \"I think it's going to be close.\""
     },
     {
       "player_id": "13282",
@@ -309,19 +374,6 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-25",
       "injury_comment": "Young (knee) is inactive for Sunday's game versus the Dolphins."
-    },
-    {
-      "player_id": "13298",
-      "source_id": "4870653",
-      "player_name": "KC Concepcion",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Head",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Concepcion (head) has been ruled out for the rest of Sunday's game at the Jets."
     },
     {
       "player_id": "13306",
@@ -389,6 +441,32 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "13577",
+      "source_id": "5159802",
+      "player_name": "Dallen Bentley",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "7583",
+      "source_id": "4241820",
+      "player_name": "Sam Ehlinger",
+      "position": "QB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-15",
+      "injury_comment": "Ehlinger (coach's decision) is inactive but will serve as the emergency third quarterback in Sunday's game against the Chargers, Aric DiLalla of the Broncos' official site reports."
+    },
+    {
       "player_id": "5850",
       "source_id": "4047365",
       "player_name": "Josh Jacobs",
@@ -408,6 +486,19 @@
       "position": "TE",
       "team_abbr": "GB",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "11628",
+      "source_id": "4432708",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,
@@ -555,7 +646,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Johnston (chest) has been ruled out for Sunday's game against Denver."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13380",
@@ -568,7 +659,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Thompson (quadriceps) has been ruled out for Sunday's game against the Broncos."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13405",
@@ -634,19 +725,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-25",
       "injury_comment": "Brosmer (coach's decision) is listed as inactive but will serve as the Vikings' third quarterback for Sunday's games versus the Saints, Craig Peters of the Vikings' official site reports."
-    },
-    {
-      "player_id": "5844",
-      "source_id": "4036133",
-      "player_name": "T.J. Hockenson",
-      "position": "TE",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
       "player_id": "13295",
@@ -844,6 +922,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-19",
+      "injury_comment": "Rourke (coach's decision) is inactive for Sunday's game against the Seahawks."
+    },
+    {
       "player_id": "11651",
       "source_id": "4372561",
       "player_name": "Isaac Guerendo",
@@ -855,6 +946,58 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13199",
+      "source_id": "4600597",
+      "player_name": "Montorie Foster Jr.",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-15",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13418",
+      "source_id": "5151317",
+      "player_name": "Robert Henry Jr.",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-15",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13151",
+      "source_id": "4569547",
+      "player_name": "Nick Kallerup",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-15",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12510",
+      "source_id": "4432734",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-15",
+      "injury_comment": "Milroe (coach's decision) is inactive but will serve as the Seahawks' emergency third quarterback against the 49ers on Sunday."
     },
     {
       "player_id": "9753",
