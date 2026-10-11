@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-11T18:41:19.765Z",
+  "lastUpdated": "2026-10-11T22:29:07.318Z",
   "games": [
     {
       "game_id": "401872980",
@@ -17,9 +17,9 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "14 mph W",
-        "conditions": "Mostly Cloudy",
+        "temp": 66,
+        "wind": "8 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 73,
-        "wind": "5 to 10 mph WNW",
-        "conditions": "Partly Sunny",
-        "precipitation": "2%"
+        "wind": "5 mph WNW",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -43,10 +43,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 91,
-        "wind": "10 mph SE",
-        "conditions": "Slight Chance Showers And Thunderstorms",
-        "precipitation": "17%"
+        "temp": 78,
+        "wind": "1 to 7 mph NE",
+        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+        "precipitation": "15%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "6 mph SE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "36%"
+        "temp": 51,
+        "wind": "3 to 7 mph E",
+        "conditions": "Rain Showers",
+        "precipitation": "94%"
       }
     },
     {
@@ -71,42 +71,16 @@
       "weather": null
     },
     {
-      "game_id": "401872983",
-      "home_team": "NYJ",
-      "away_team": "CLE",
-      "stadium": "MetLife Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 61,
-        "wind": "12 mph E",
-        "conditions": "Rain",
-        "precipitation": "100%"
-      }
-    },
-    {
       "game_id": "401872985",
       "home_team": "PIT",
       "away_team": "IND",
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "1 to 12 mph NE",
-        "conditions": "Showers And Thunderstorms",
-        "precipitation": "77%"
-      }
-    },
-    {
-      "game_id": "401872988",
-      "home_team": "WAS",
-      "away_team": "NYG",
-      "stadium": "Northwest Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 68,
-        "wind": "12 mph E",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "64%"
+        "temp": 58,
+        "wind": "3 to 9 mph N",
+        "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
+        "precipitation": "22%"
       }
     },
     {
@@ -117,22 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "15 to 20 mph SW",
+        "wind": "15 mph SW",
         "conditions": "Chance Rain Showers",
         "precipitation": "28%"
-      }
-    },
-    {
-      "game_id": "401872990",
-      "home_team": "GB",
-      "away_team": "CHI",
-      "stadium": "Lambeau Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 80,
-        "wind": "10 mph SSW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
       }
     },
     {
