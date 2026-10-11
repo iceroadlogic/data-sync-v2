@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-10T18:23:36.113Z",
+  "lastUpdated": "2026-10-11T00:46:32.430Z",
   "week": 5,
   "summary": {
-    "total_players": 778,
-    "questionable": 25,
-    "doubtful": 1,
-    "out": 37
+    "total_players": 773,
+    "questionable": 26,
+    "doubtful": 0,
+    "out": 34
   },
   "questionable": [
     {
@@ -230,6 +230,19 @@
       "injury_comment": "Jefferson (ankle) and Jordan Addison (hamstring) were at practice Friday, Kevin Seifert of ESPN.com reports."
     },
     {
+      "player_id": "13121",
+      "source_id": "4433959",
+      "player_name": "Ben Yurosek",
+      "position": "TE",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-11",
+      "injury_comment": "Yurosek (ankle) is listed as questionable for Sunday's game against the Saints."
+    },
+    {
       "player_id": "7611",
       "source_id": "4569173",
       "player_name": "Rhamondre Stevenson",
@@ -331,24 +344,10 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-11",
-      "injury_comment": "McLaurin (hamstring), who officially is listed as questionable for Sunday's contest against the Giants, will be a game-time decision, as Jeremy Fowler of ESPN highlighted Friday in a Week 5 injury update on SportsCenter."
+      "injury_comment": "McLaurin (hamstring) remains a game-time decision for Sunday's game against the Giants, with a \"slight lean\" toward him playing, John Keim of ESPN.com reports."
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "7610",
-      "source_id": "4383351",
-      "player_name": "Trey Lance",
-      "position": "QB",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Lance (groin) is listed as doubtful for Sunday's game against the Broncos."
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11628",
@@ -479,19 +478,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-18",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "11370",
-      "source_id": "3149687",
-      "player_name": "Chris Brooks",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Brooks (ankle) has been ruled out for Sunday's game versus the Bears, Wes Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "5850",
@@ -637,19 +623,6 @@
       "injury_comment": "Joly (concussion) has been ruled out ahead of Sunday's game against the Bengals."
     },
     {
-      "player_id": "4177",
-      "source_id": "2991662",
-      "player_name": "Mack Hollins",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Hollins (calf) is ruled out for Sunday's game against the Raiders."
-    },
-    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -726,19 +699,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
       "injury_comment": "Smith (hamstring) is doing rehab work on a side field at Friday's practice, EJ Smith of The Philadelphia Inquirer reports."
-    },
-    {
-      "player_id": "6819",
-      "source_id": "4035687",
-      "player_name": "Michael Pittman Jr.",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Pittman is expected to miss multiple weeks after aggravating his foot injury, Ray Fittipaldo of the Pittsburgh Post-Gazette reports Thursday."
     },
     {
       "player_id": "6803",
