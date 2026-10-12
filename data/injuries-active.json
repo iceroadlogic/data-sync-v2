@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-10-11T22:28:22.737Z",
+  "lastUpdated": "2026-10-12T01:34:56.954Z",
   "week": 5,
   "summary": {
     "total_players": 773,
     "questionable": 19,
     "doubtful": 0,
-    "out": 65
+    "out": 68
   },
   "questionable": [
-    {
-      "player_id": "9997",
-      "source_id": "4429615",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-11",
-      "injury_comment": "Flowers (foot) is slated to play in Sunday night's game in Atlanta, Adam Schefter of ESPN reports."
-    },
     {
       "player_id": "4983",
       "source_id": "3915416",
@@ -110,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Kennedy (knee) is questionable to return to Sunday's contest against the Cardinals."
+      "injury_comment": "Kennedy (knee) left Sunday's 45-21 win over the Cardinals on crutches, Richard Silva of The Detroit News reports."
     },
     {
       "player_id": "8168",
@@ -174,7 +161,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-11",
+      "est_return_date": "2026-10-18",
       "injury_comment": "Harris (hamstring) is questionable to return to Sunday's contest against the Broncos."
     },
     {
@@ -254,6 +241,19 @@
       "injury_detail": "Finger",
       "est_return_date": "2026-10-18",
       "injury_comment": "The Steelers ruled out Wilson (finger) for the rest of Sunday's game against the Colts, Brooke Pryor of ESPN.com reports."
+    },
+    {
+      "player_id": "5872",
+      "source_id": "3126486",
+      "player_name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-19",
+      "injury_comment": "Samuel (hamstring) has been ruled out for the remainder of Sunday's game against the Seahawks, Ian Rapoport of NFL Network reports."
     }
   ],
   "doubtful": [],
@@ -285,6 +285,32 @@
       "injury_comment": null
     },
     {
+      "player_id": "4574",
+      "source_id": "2972515",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Rush (coach's decision) is inactive for Sunday's game against the Ravens but will serve as the emergency quarterback, Tori McElhaney of the Falcons' official site reports."
+    },
+    {
+      "player_id": "13602",
+      "source_id": "5344782",
+      "player_name": "Jack Strand",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "4881",
       "source_id": "3916387",
       "player_name": "Lamar Jackson",
@@ -295,7 +321,20 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Jackson (ankle), who has been ruled out for Sunday's game against the Falcons, has a \"real chance\" to return to action next week against Cleveland, pending how he responds to rehab, Ian Rapoport of NFL Network reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13268",
+      "source_id": "5088338",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "inactive"
     },
     {
       "player_id": "7670",
@@ -1009,8 +1048,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-10-15",
-      "injury_comment": "Seahawks head coach Mike Macdonald said Monday that Charbonnet (knee) won't be activated from the reserve/PUP list in advance of Sunday's game against the 49ers, Gregg Bell of The Tacoma News Tribune reports."
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Charbonnet (knee) won't be activated from the reserve/PUP list ahead of Thursday's game versus the Broncos, Seahawks coach Mike Macdonald said after Sunday's 32-29 loss to the 49ers, Corbin Smith of Emerald City Spectrum reports."
     },
     {
       "player_id": "13047",
