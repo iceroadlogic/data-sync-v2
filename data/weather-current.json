@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-11T22:29:07.318Z",
+  "lastUpdated": "2026-10-12T01:34:47.930Z",
   "games": [
     {
       "game_id": "401872980",
@@ -18,7 +18,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "8 mph W",
+        "wind": "7 mph W",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -30,10 +30,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "5 mph WNW",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 56,
+        "wind": "0 to 5 mph SSW",
+        "conditions": "Patchy Fog",
+        "precipitation": "0%"
       }
     },
     {
@@ -44,9 +44,9 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "1 to 7 mph NE",
-        "conditions": "Slight Chance Showers And Thunderstorms then Mostly Clear",
-        "precipitation": "15%"
+        "wind": "3 mph NE",
+        "conditions": "Mostly Clear",
+        "precipitation": "5%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "3 to 7 mph E",
-        "conditions": "Rain Showers",
-        "precipitation": "94%"
+        "temp": 52,
+        "wind": "3 to 7 mph NE",
+        "conditions": "Rain",
+        "precipitation": "100%"
       }
     },
     {
@@ -71,6 +71,19 @@
       "weather": null
     },
     {
+      "game_id": "401872983",
+      "home_team": "NYJ",
+      "away_team": "CLE",
+      "stadium": "MetLife Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 57,
+        "wind": "13 mph NE",
+        "conditions": "Rain",
+        "precipitation": "80%"
+      }
+    },
+    {
       "game_id": "401872985",
       "home_team": "PIT",
       "away_team": "IND",
@@ -78,9 +91,22 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "3 to 9 mph N",
-        "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "22%"
+        "wind": "6 mph NW",
+        "conditions": "Cloudy",
+        "precipitation": "7%"
+      }
+    },
+    {
+      "game_id": "401872988",
+      "home_team": "WAS",
+      "away_team": "NYG",
+      "stadium": "Northwest Stadium",
+      "is_dome": false,
+      "weather": {
+        "temp": 62,
+        "wind": "6 to 12 mph N",
+        "conditions": "Patchy Fog",
+        "precipitation": "95%"
       }
     },
     {
@@ -90,10 +116,23 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "15 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "28%"
+        "temp": 62,
+        "wind": "5 to 15 mph SW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "63%"
+      }
+    },
+    {
+      "game_id": "401872990",
+      "home_team": "GB",
+      "away_team": "CHI",
+      "stadium": "Lambeau Field",
+      "is_dome": false,
+      "weather": {
+        "temp": 63,
+        "wind": "6 mph SSW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -111,9 +150,9 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "9 mph N",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "1 to 6 mph NE",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
