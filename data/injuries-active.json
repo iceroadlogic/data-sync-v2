@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-10-12T01:34:56.954Z",
+  "lastUpdated": "2026-10-12T15:03:54.653Z",
   "week": 5,
   "summary": {
     "total_players": 773,
-    "questionable": 19,
-    "doubtful": 0,
+    "questionable": 20,
+    "doubtful": 1,
     "out": 68
   },
   "questionable": [
+    {
+      "player_id": "11559",
+      "source_id": "4360423",
+      "player_name": "Michael Penix Jr.",
+      "position": "QB",
+      "team_abbr": "ATL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
+    },
     {
       "player_id": "4983",
       "source_id": "3915416",
@@ -45,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Conception has entered the NFL's concussion protocol, Daniel Oyefusi of ESPN.com reported Sunday."
+      "injury_comment": "Concepcion has entered the NFL's concussion protocol, Daniel Oyefusi of ESPN.com reported Sunday."
     },
     {
       "player_id": "12512",
@@ -70,7 +83,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-10-11",
+      "est_return_date": "2026-10-18",
       "injury_comment": "Sanders (hip) is questionable to return to Sunday's game against the Jets."
     },
     {
@@ -165,6 +178,19 @@
       "injury_comment": "Harris (hamstring) is questionable to return to Sunday's contest against the Broncos."
     },
     {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "McConkey (foot) was active but didn't play any snaps in Sunday's 23-17 loss to the Broncos."
+    },
+    {
       "player_id": "5844",
       "source_id": "4036133",
       "player_name": "T.J. Hockenson",
@@ -188,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "The Patriots ruled out Henderson (ankle) for the remainder of Sunday's game against the Raiders, Evan Lazar of the team's official site reports."
+      "injury_comment": "Henderson (ankle) is slated to undergo further medical testing Monday after exiting Sunday's 45-17 win over the Raiders, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "13330",
@@ -230,19 +256,6 @@
       "injury_comment": "Skowronek (leg) has been ruled out for the remainder of Sunday's game against the Colts, Brooke Pryor of ESPN.com reports."
     },
     {
-      "player_id": "11630",
-      "source_id": "4431492",
-      "player_name": "Roman Wilson",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "The Steelers ruled out Wilson (finger) for the rest of Sunday's game against the Colts, Brooke Pryor of ESPN.com reports."
-    },
-    {
       "player_id": "5872",
       "source_id": "3126486",
       "player_name": "Deebo Samuel Sr.",
@@ -253,10 +266,24 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Samuel (hamstring) has been ruled out for the remainder of Sunday's game against the Seahawks, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Samuel is scheduled to undergo an MRI after exiting Sunday's 32-29 win over the Seahawks due to a hamstring injury, Ian Rapoport of NFL Network reports."
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Wilson (finger) is expected to miss a couple of weeks after exiting Sunday's 34-22 win over the Colts, Jeremy Fowler of ESPN.com reports."
+    }
+  ],
   "out": [
     {
       "player_id": "13272",
@@ -386,7 +413,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Ben Johnson wouldn't commit to a return date for Williams (hamstring) after Sunday's loss at Green Bay, Chris Emma of 670TheScore.com reports. \"He's on track. We'll see if that's Atlanta or after,\" Johnson said. \"I think it's going to be close.\""
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13282",
@@ -489,7 +516,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
-      "est_return_date": null,
+      "est_return_date": "2026-10-15",
       "injury_comment": "inactive"
     },
     {
@@ -789,7 +816,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Wilson (coach's decision) is inactivefor Sunday's game against the Vikings as the Saints' emergency third quarterback."
+      "injury_comment": "Wilson (coach's decision) is inactive for Sunday's game against the Vikings as the Saints' emergency third quarterback."
     },
     {
       "player_id": "11895",

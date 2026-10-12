@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T01:34:56.954Z",
+  "lastUpdated": "2026-10-12T15:03:54.653Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -22611,6 +22611,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-12",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "ATL"
         }
       ]
     },
@@ -25551,6 +25558,13 @@
           "to": "Questionable",
           "detail": "Finger",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-12",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Finger",
+          "team": "PIT"
         }
       ]
     },
@@ -25915,6 +25929,13 @@
           "date": "2026-10-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-12",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "LAC"
         }
       ]
     },
