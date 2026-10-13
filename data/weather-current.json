@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-13T02:51:57.488Z",
+  "lastUpdated": "2026-10-13T03:29:14.133Z",
   "games": [
     {
       "game_id": "401872980",
@@ -46,7 +46,7 @@
         "temp": 75,
         "wind": "7 mph N",
         "conditions": "Mostly Clear",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "3 mph W",
+        "wind": "2 mph W",
         "conditions": "Partly Cloudy then Patchy Fog",
         "precipitation": "2%"
       }
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "0 to 10 mph WNW",
+        "wind": "0 to 5 mph NNW",
         "conditions": "Slight Chance Rain Showers then Mostly Clear",
         "precipitation": "20%"
       }
@@ -132,7 +132,7 @@
         "temp": 62,
         "wind": "3 mph N",
         "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
-        "precipitation": "30%"
+        "precipitation": "26%"
       }
     },
     {
@@ -142,19 +142,6 @@
       "stadium": "State Farm Stadium",
       "is_dome": true,
       "weather": null
-    },
-    {
-      "game_id": "401872992",
-      "home_team": "SEA",
-      "away_team": "SF",
-      "stadium": "Lumen Field",
-      "is_dome": false,
-      "weather": {
-        "temp": 48,
-        "wind": "2 mph E",
-        "conditions": "Partly Cloudy",
-        "precipitation": "9%"
-      }
     },
     {
       "game_id": "401872993",
@@ -172,7 +159,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "0 to 10 mph WNW",
+        "wind": "0 to 5 mph NNW",
         "conditions": "Slight Chance Rain Showers then Mostly Clear",
         "precipitation": "20%"
       }
