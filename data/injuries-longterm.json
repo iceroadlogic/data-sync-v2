@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-13T18:39:14.830Z",
+  "lastUpdated": "2026-10-13T23:31:02.923Z",
   "week": 6,
   "summary": {
-    "total_players": 773,
+    "total_players": 771,
     "ir": 92,
     "suspended": 0
   },
@@ -29,9 +29,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Conner (foot) is \"getting close\" to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
     },
     {
       "player_id": "13879",
@@ -174,7 +174,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Dave Canales said Etienne (ankle) will \"for sure\" be back following the Panthers' Week 5 bye, Mike Kaye of ESPN.com reports."
+      "injury_comment": "The Panthers announced Tuesday that Etienne (ankle) is designated to return from injured reserve."
     },
     {
       "player_id": "11626",
@@ -266,6 +266,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-18",
       "injury_comment": "Head coach Todd Monken said Monday that there is a \"possibility\" that the Browns open the 21-day practice window for Sampson (knee) this week, Daniel Oyefusi of ESPN.com reports."
+    },
+    {
+      "player_id": "12472",
+      "source_id": "4601080",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "team_abbr": "CLE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "The Browns placed Sanders (hip) on injured reserve Tuesday."
     },
     {
       "player_id": "8800",
@@ -510,9 +523,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Colts head coach Shane Steichen reiterated Monday that Pierce didn't undergo surgery on his left heel and is continuing to rehab the injury, James Boyd of The Athletic reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13407",
@@ -526,19 +539,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "8188",
-      "source_id": "4362921",
-      "player_name": "Tyquan Thornton",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2027-01-17",
-      "injury_comment": "The Chiefs placed Thornton (ankle) on injured reserve Tuesday."
     },
     {
       "player_id": "13392",
@@ -578,6 +578,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8188",
+      "source_id": "4362921",
+      "player_name": "Tyquan Thornton",
+      "position": "WR",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2027-01-17",
+      "injury_comment": "The Chiefs placed Thornton (ankle) on injured reserve Tuesday."
     },
     {
       "player_id": "12483",
@@ -653,9 +666,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Chargers designated Lambert-Smith (hamstring) for return from injured reserve Tuesday."
     },
     {
       "player_id": "7610",
@@ -1124,19 +1137,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "8861",
-      "source_id": "3929636",
-      "player_name": "Irv Charles",
-      "position": "WR",
-      "team_abbr": "SEA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-15",
-      "injury_comment": "Charles (knee) was estimated as a full practice participant on Monday's injury report, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "11618",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:39:14.830Z",
+  "lastUpdated": "2026-10-13T23:31:02.923Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -17441,6 +17441,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -29385,6 +29390,13 @@
           "date": "2026-10-11",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hip",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Hip",
           "team": "CLE"
         }
