@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-13T13:58:01.557Z",
+  "lastUpdated": "2026-10-13T20:11:16.813Z",
   "week": 6,
   "summary": {
     "total_players": 773,
-    "questionable": 16,
-    "doubtful": 3,
-    "out": 45
+    "questionable": 38,
+    "doubtful": 5,
+    "out": 18
   },
   "questionable": [
     {
@@ -22,6 +22,45 @@
       "injury_comment": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder - AC Joint",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "11646",
       "source_id": "4695883",
       "player_name": "Jalen Coker",
@@ -32,20 +71,46 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Dave Canales said Monday that Coker is \"on track\" to return from a one-game absence against the Eagles on Sunday, Joe Person of The Athletic reports."
+      "injury_comment": "Coker (quadriceps) was spotted participating in the Panthers' unofficial practice session Tuesday, Alex Zietlow of The Charlotte Observer reports."
     },
     {
-      "player_id": "5409",
-      "source_id": "3050481",
-      "player_name": "Tanner Hudson",
-      "position": "TE",
+      "player_id": "12534",
+      "source_id": "4608686",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "11560",
+      "source_id": "4431611",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13477",
+      "source_id": "5092508",
+      "player_name": "Colbie Young",
+      "position": "WR",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Pectoral",
+      "injury_detail": "Knee",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Hudson suffered a pectoral injury during the Bengals' 31-24 win over the Dolphins on Sunday, Ben Baby of ESPN.com reports."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13298",
@@ -74,6 +139,19 @@
       "injury_comment": "Browns head coach Todd Monken said that Judkins is considered day-to-day after sustaining a \"tweak\" to his ankle in Sunday's 17-12 loss to the Jets, and the running back hasn't been ruled out for a Week 6 game against the Ravens, Daniel Oyefusi of ESPN.com reports."
     },
     {
+      "player_id": "13580",
+      "source_id": "4685540",
+      "player_name": "Carsen Ryan",
+      "position": "TE",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "12472",
       "source_id": "4601080",
       "player_name": "Raheim Sanders",
@@ -85,6 +163,19 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-10-18",
       "injury_comment": "Sanders (hip) is questionable to return to Sunday's game against the Jets."
+    },
+    {
+      "player_id": "7595",
+      "source_id": "4241424",
+      "player_name": "Tylan Wallace",
+      "position": "WR",
+      "team_abbr": "CLE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "6786",
@@ -126,6 +217,32 @@
       "injury_comment": null
     },
     {
+      "player_id": "6427",
+      "source_id": "4061956",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "6149",
+      "source_id": "3916945",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "10229",
       "source_id": "4428331",
       "player_name": "Rashee Rice",
@@ -137,6 +254,32 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
       "injury_comment": "Rice (hamstring) is believed to have sustained a \"relatively minor\" injury in Sunday's win over the Raiders and could be ready to play following the Chiefs' Week 5 bye, Ian Rapoport of NFL Network reports."
+    },
+    {
+      "player_id": "8180",
+      "source_id": "4382466",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "9754",
+      "source_id": "4429025",
+      "player_name": "Quentin Johnston",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11635",
@@ -152,6 +295,58 @@
       "injury_comment": "McConkey (foot) was active but didn't play any snaps in Sunday's 23-17 loss to the Broncos."
     },
     {
+      "player_id": "13380",
+      "source_id": "4685553",
+      "player_name": "Brenen Thompson",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13296",
+      "source_id": "4869645",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "13400",
+      "source_id": "4912052",
+      "player_name": "Justin Joly",
+      "position": "TE",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "9756",
+      "source_id": "4429205",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "5844",
       "source_id": "4036133",
       "player_name": "T.J. Hockenson",
@@ -165,17 +360,30 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
-      "player_id": "12529",
-      "source_id": "4432710",
-      "player_name": "TreVeyon Henderson",
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
       "position": "RB",
-      "team_abbr": "NE",
+      "team_abbr": "NYJ",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ankle",
+      "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Henderson (ankle) is slated to undergo further medical testing Monday after exiting Sunday's 45-17 win over the Raiders, Ian Rapoport of NFL Network reports."
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13330",
@@ -189,6 +397,58 @@
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
       "injury_comment": "Sadiq won't return to Sunday's game versus the Browns due to a concussion."
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "5848",
+      "source_id": "4241372",
+      "player_name": "Hollywood Brown",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7525",
+      "source_id": "4241478",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "7021",
+      "source_id": "4038815",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "5854",
@@ -215,6 +475,32 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-15",
       "injury_comment": "Smith-Njigba was estimated as a limited practice participant Monday due to an ankle injury, Bob Condotta of The Seattle Times reports."
+    },
+    {
+      "player_id": "12357",
+      "source_id": "4360978",
+      "player_name": "David Martin-Robinson",
+      "position": "TE",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
+    },
+    {
+      "player_id": "2449",
+      "source_id": "2976212",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-19",
+      "injury_comment": "questionable"
     }
   ],
   "doubtful": [
@@ -245,6 +531,19 @@
       "injury_comment": "Head coach Jim Harbaugh said Monday that Harris is \"week-to-week\" due to a hamstring injury that he sustained during Sunday's 23-17 loss to the Broncos, Alex Insdorf of BoltBeat.com reports."
     },
     {
+      "player_id": "12529",
+      "source_id": "4432710",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports."
+    },
+    {
       "player_id": "11577",
       "source_id": "4431545",
       "player_name": "Will Shipley",
@@ -256,6 +555,19 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
       "injury_comment": "Shipley (foot) was diagnosed with a partial tear of his plantar fascia after exiting Sunday's 19-17 loss to the Jaguars in London and could be sidelined multiple weeks, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "2307",
+      "source_id": "2576980",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-10-19",
+      "injury_comment": "doubtful"
     }
   ],
   "out": [
@@ -273,45 +585,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Jesse Minter said Monday that Jackson is \"definitely doing better\" in his recovery from a sprained left ankle, Jamison Hensley of ESPN.com reports."
-    },
-    {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Shoulder - AC Joint",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Moore (shoulder) is listed as inactive Monday at the Rams."
-    },
-    {
-      "player_id": "7670",
-      "source_id": "4242433",
-      "player_name": "Joshua Palmer",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "inactive"
-    },
-    {
       "player_id": "11377",
       "source_id": "4241476",
       "player_name": "Tyrell Shavers",
@@ -325,69 +598,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "12534",
-      "source_id": "4608686",
-      "player_name": "Kyle Monangai",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "11560",
-      "source_id": "4431611",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Bears head coach Ben Johnson was non-committal on a return date for Williams (hamstring) after Sunday's 31-7 loss to the Packers, Chris Emma of 670TheScore.com reports. \"He's on track. We'll see if that's Atlanta [in Week 6] or after,\" Johnson said. \"I think it's going to be close.\""
-    },
-    {
-      "player_id": "13477",
-      "source_id": "5092508",
-      "player_name": "Colbie Young",
-      "position": "WR",
+      "player_id": "5409",
+      "source_id": "3050481",
+      "player_name": "Tanner Hudson",
+      "position": "TE",
       "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13580",
-      "source_id": "4685540",
-      "player_name": "Carsen Ryan",
-      "position": "TE",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "7595",
-      "source_id": "4241424",
-      "player_name": "Tylan Wallace",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
+      "injury_detail": "Pectoral",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Hudson's agent revealed Tuesday that the tight end sustained a torn pectoral in Sunday's 31-24 win over the Dolphins and is expected to miss the rest of the season, Charlie Clifford of WLWT News 5 Cincinnati reports."
     },
     {
       "player_id": "13435",
@@ -455,45 +676,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "6149",
-      "source_id": "3916945",
-      "player_name": "Darius Slayton",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "8180",
-      "source_id": "4382466",
-      "player_name": "Jalen Nailor",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Raiders head coach Klint Kubiak said Monday that Nailor (concussion) is expected to practice this week, Sam Warren of The Athletic reports."
-    },
-    {
       "player_id": "9490",
       "source_id": "4565908",
       "player_name": "Tyler Scott",
@@ -507,110 +689,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "9754",
-      "source_id": "4429025",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13380",
-      "source_id": "4685553",
-      "player_name": "Brenen Thompson",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13270",
-      "source_id": "4605951",
-      "player_name": "CJ Daniels",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13278",
-      "source_id": "4833029",
-      "player_name": "Max Klare",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13275",
-      "source_id": "4685522",
-      "player_name": "Ty Simpson",
-      "position": "QB",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Simpson (coach's decision) is inactive but will serve as the Rams' emergency third quarterback against the Bills on Monday, Nate Atkins of The Athletic reports."
-    },
-    {
-      "player_id": "13296",
-      "source_id": "4869645",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "13400",
-      "source_id": "4912052",
-      "player_name": "Justin Joly",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "9756",
-      "source_id": "4429205",
-      "player_name": "Jordan Addison",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "out"
-    },
-    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -622,84 +700,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "8155",
-      "source_id": "4427366",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "4866",
-      "source_id": "3929630",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Nick Sirianni said Monday that he's \"hopeful\" that both Barkley (hamstring) and DeVonta Smith (hamstring) will both be cleared to play against the Panthers this coming Sunday, Zach Berman of The Athletic reports."
-    },
-    {
-      "player_id": "5848",
-      "source_id": "4241372",
-      "player_name": "Hollywood Brown",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "7525",
-      "source_id": "4241478",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Nick Sirianni expressed hope Monday that Smith (hamstring) will return for this Sunday's game against the Panthers, Zach Berman of The Athletic reports."
-    },
-    {
-      "player_id": "7021",
-      "source_id": "4038815",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action in Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports."
     },
     {
       "player_id": "7757",
@@ -803,45 +803,6 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "12357",
-      "source_id": "4360978",
-      "player_name": "David Martin-Robinson",
-      "position": "TE",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "2449",
-      "source_id": "2976212",
-      "player_name": "Stefon Diggs",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "out"
-    },
-    {
-      "player_id": "2307",
-      "source_id": "2576980",
-      "player_name": "Marcus Mariota",
-      "position": "QB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - MCL",
-      "est_return_date": "2026-10-19",
       "injury_comment": "out"
     }
   ]
