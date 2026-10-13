@@ -1,6 +1,6 @@
 {
   "week": 5,
-  "lastUpdated": "2026-10-12T19:39:25.842Z",
+  "lastUpdated": "2026-10-13T02:31:19.719Z",
   "games": [
     {
       "game_id": "401872980",
@@ -17,9 +17,9 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "14 mph NW",
-        "conditions": "Sunny",
+        "temp": 66,
+        "wind": "3 mph N",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -30,9 +30,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 87,
-        "wind": "5 mph SW",
-        "conditions": "Sunny",
+        "temp": 62,
+        "wind": "5 mph SSW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -43,10 +43,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 90,
-        "wind": "9 mph NE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "32%"
+        "temp": 75,
+        "wind": "7 mph N",
+        "conditions": "Mostly Clear",
+        "precipitation": "4%"
       }
     },
     {
@@ -56,10 +56,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "6 mph NW",
-        "conditions": "Partly Sunny",
-        "precipitation": "1%"
+        "temp": 51,
+        "wind": "6 mph N",
+        "conditions": "Mostly Cloudy then Patchy Fog",
+        "precipitation": "19%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "8 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 57,
+        "wind": "3 mph W",
+        "conditions": "Partly Cloudy then Patchy Fog",
+        "precipitation": "2%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "8 mph SW",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "temp": 59,
+        "wind": "7 mph S",
+        "conditions": "Partly Cloudy",
+        "precipitation": "1%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "9 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 55,
+        "wind": "3 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "10 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "43%"
+        "temp": 54,
+        "wind": "0 to 10 mph WNW",
+        "conditions": "Slight Chance Rain Showers then Mostly Clear",
+        "precipitation": "20%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 83,
-        "wind": "5 mph SSW",
-        "conditions": "Sunny",
-        "precipitation": "8%"
+        "temp": 62,
+        "wind": "3 mph N",
+        "conditions": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "precipitation": "30%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "2 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 48,
+        "wind": "2 mph E",
+        "conditions": "Partly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -171,10 +171,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "10 mph SW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "43%"
+        "temp": 54,
+        "wind": "0 to 10 mph WNW",
+        "conditions": "Slight Chance Rain Showers then Mostly Clear",
+        "precipitation": "20%"
       }
     }
   ]
