@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T20:35:22.509Z",
+  "lastUpdated": "2026-10-13T02:16:44.031Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4839,6 +4839,13 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BUF"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Shoulder - AC Joint",
+          "team": "BUF"
         }
       ]
     },
@@ -6501,6 +6508,19 @@
           "to": "Out",
           "detail": "Groin",
           "team": "GB"
+        }
+      ]
+    },
+    "5854": {
+      "name": "Drew Lock",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-10-13",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Forearm",
+          "team": "SEA"
         }
       ]
     },
@@ -18294,6 +18314,18 @@
           "date": "2026-09-30",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "9490": {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-13",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "LV"
         }
       ]
     },
@@ -31404,6 +31436,13 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "LAC"
         }
       ]
     },
@@ -35381,6 +35420,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -35489,6 +35535,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -35553,6 +35606,13 @@
           "date": "2026-09-14",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-13",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
