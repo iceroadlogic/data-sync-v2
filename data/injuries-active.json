@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-14T11:34:46.452Z",
+  "lastUpdated": "2026-10-14T18:26:50.878Z",
   "week": 6,
   "summary": {
     "total_players": 770,
     "questionable": 37,
-    "doubtful": 5,
-    "out": 18
+    "doubtful": 8,
+    "out": 17
   },
   "questionable": [
     {
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Penix is scheduled to undergo an MRI on Monday after exiting Sunday's 30-23 overtime loss to the Ravens due to a rib injury, Adam Schefter of ESPN reports."
+      "injury_comment": "Falcons head coach Kevin Stefanski said that Penix (ribs) will practice Wednesday but will be limited in some fashion, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "4881",
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "questionable"
+      "injury_comment": "Jackson (ankle) wasn't present for the media-access portion of Wednesday's practice, Cordell Woodland of 105.7 The Fan Baltimore reports."
     },
     {
       "player_id": "4983",
@@ -97,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "questionable"
+      "injury_comment": "Bears head coach Ben Johnson said that Williams (hamstring) will listed as a full practice participant on Wednesday's estimated injury report, Sean Hammond of the Chicago Tribune reports."
     },
     {
       "player_id": "13477",
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Concepcion has entered the NFL's concussion protocol, Daniel Oyefusi of ESPN.com reported Sunday."
+      "injury_comment": "Concepcion is progressing well in his recovery from a concussion and is set to practice Wednesday, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
       "player_id": "12512",
@@ -136,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Browns head coach Todd Monken said that Judkins is considered day-to-day after sustaining a \"tweak\" to his ankle in Sunday's 17-12 loss to the Jets, and the running back hasn't been ruled out for a Week 6 game against the Ravens, Daniel Oyefusi of ESPN.com reports."
+      "injury_comment": "Judkins was spotted Wednesday moving around the Cleveland locker room without a boot on his injured right ankle, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "13580",
@@ -204,6 +204,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "1479",
+      "source_id": "15818",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": "Allen (groin) isn't practicing Wednesday, Nathan Brown of The Indianapolis Star reports."
+    },
+    {
       "player_id": "6427",
       "source_id": "4061956",
       "player_name": "Ashton Dulin",
@@ -240,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Rice (hamstring) is believed to have sustained a \"relatively minor\" injury in Sunday's win over the Raiders and could be ready to play following the Chiefs' Week 5 bye, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Chiefs head coach Andy Reid said that Rice (hamstring) won't practice Wednesday, Nate Taylor of ESPN.com reports."
     },
     {
       "player_id": "8180",
@@ -347,32 +360,6 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
-      "player_id": "8155",
-      "source_id": "4427366",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "questionable"
-    },
-    {
       "player_id": "13330",
       "source_id": "5083315",
       "player_name": "Kenyon Sadiq",
@@ -383,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Sadiq won't return to Sunday's game versus the Browns due to a concussion."
+      "injury_comment": "Jets head coach Aaron Glenn said that Sadiq remains in concussion protocol and won't practice Wednesday, Zack Rosenblatt of The Athletic reports."
     },
     {
       "player_id": "4866",
@@ -477,6 +464,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "5967",
+      "source_id": "3916148",
+      "player_name": "Tony Pollard",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Titans head coach Robert Saleh said that Pollard (foot) won't practice Wednesday, Turron Davenport of ESPN.com reports."
+    },
+    {
       "player_id": "2449",
       "source_id": "2976212",
       "player_name": "Stefon Diggs",
@@ -502,7 +502,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Texans head coach DeMeco Ryans said Monday that Montgomery (groin) is considered week-to-week, Jonathan M. Alexander of the Houston Chronicle reports."
+      "injury_comment": "Montgomery (groin) isn't practicing Wednesday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "12509",
@@ -531,6 +531,32 @@
       "injury_comment": "Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports."
     },
     {
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Jets head coach Aaron Glenn said that Hall (quadriceps) won't practice Wednesday and remains week-to-week, Al Iannazzone of Newsday reports."
+    },
+    {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Jets head coach Aaron Glenn said Wednesday that Mitchell (finger) underwent a small procedure on his hand and remains week-to-week, Zack Rosenblatt of The Athletic reports."
+    },
+    {
       "player_id": "11577",
       "source_id": "4431545",
       "player_name": "Will Shipley",
@@ -542,6 +568,19 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
       "injury_comment": "Shipley (foot) was diagnosed with a partial tear of his plantar fascia after exiting Sunday's 19-17 loss to the Jaguars in London and could be sidelined multiple weeks, Adam Schefter of ESPN reports."
+    },
+    {
+      "player_id": "4892",
+      "source_id": "3052587",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Mayfield (thumb) wasn't spotted on the field for Wednesday's practice, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "2307",
@@ -778,19 +817,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "4892",
-      "source_id": "3052587",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "out"
     }
   ]
 }

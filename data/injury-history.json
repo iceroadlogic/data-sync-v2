@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T16:09:38.445Z",
+  "lastUpdated": "2026-10-14T18:26:50.878Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -496,6 +496,12 @@
           "date": "2026-10-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "IND"
         }
       ]
     },
@@ -7286,6 +7292,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "TEN"
         }
       ]
     },
@@ -15184,6 +15197,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Quadriceps",
           "team": "NYJ"
         }
@@ -25355,6 +25375,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Finger",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Finger",
           "team": "NYJ"
         }
