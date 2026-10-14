@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:26:50.878Z",
+  "lastUpdated": "2026-10-14T22:50:16.208Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -502,6 +502,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -1370,6 +1375,13 @@
           "date": "2026-03-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "CAR"
         }
       ]
     },
@@ -1738,6 +1750,13 @@
           "date": "2026-01-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "BAL"
         }
       ]
     },
@@ -2531,6 +2550,13 @@
           "date": "2026-10-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "NO"
         }
       ]
     },
@@ -5522,6 +5548,12 @@
           "date": "2025-10-19",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "LAC"
         }
       ]
     },
@@ -7299,6 +7331,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "TEN"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8158,6 +8195,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8881,6 +8923,11 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "DAL"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9580,6 +9627,13 @@
           "date": "2026-01-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "CAR"
         }
       ]
     },
@@ -10267,6 +10321,13 @@
           "date": "2026-01-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "NYG"
         }
       ]
     },
@@ -11584,6 +11645,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "BAL"
         }
       ]
     },
@@ -12717,6 +12785,19 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BUF"
+        }
+      ]
+    },
+    "7694": {
+      "name": "Tommy Tremble",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "CAR"
         }
       ]
     },
@@ -14844,6 +14925,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "NO"
         }
       ]
     },
@@ -18312,6 +18400,12 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "PHI"
         }
       ]
     },
@@ -18394,6 +18488,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18927,6 +19026,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "IND"
         }
       ]
     },
@@ -19131,6 +19237,13 @@
           "date": "2026-09-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "TB"
         }
       ]
     },
@@ -19206,6 +19319,13 @@
           "date": "2026-10-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "TEN"
         }
       ]
     },
@@ -22891,6 +23011,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "ATL"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -24318,6 +24443,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "NYG"
         }
       ]
     },
@@ -26917,6 +27049,11 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "CAR"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -32693,6 +32830,13 @@
           "to": "Doubtful",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Doubtful",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NE"
         }
       ]
     },
@@ -36036,6 +36180,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -36982,6 +37133,19 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "DEN"
+        }
+      ]
+    },
+    "13346": {
+      "name": "Denzel Boston",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "CLE"
         }
       ]
     },
@@ -38418,6 +38582,19 @@
           "date": "2026-07-27",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13630": {
+      "name": "Evan Svoboda",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-14",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "LAC"
         }
       ]
     },

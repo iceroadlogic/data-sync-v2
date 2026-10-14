@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-14T16:09:38.445Z",
+  "lastUpdated": "2026-10-14T22:50:16.208Z",
   "week": 6,
   "summary": {
-    "total_players": 770,
+    "total_players": 775,
     "ir": 92,
     "suspended": 0
   },
@@ -31,7 +31,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Conner (foot) is \"getting close\" to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
+      "injury_comment": "Conner (foot) is close to practicing, but the Cardinals aren't expected to open his 21-day evaluation window this week, John Gambadoro of Arizona Sports 98.7 FM reports."
     },
     {
       "player_id": "13879",
@@ -96,7 +96,7 @@
       "injury_description": null,
       "injury_detail": "Wrist",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Lane (wrist) \"is expected to return to practice\" and per head coach Jesse Minter \"has a shot\" to play Sunday against the Browns, Mike Garafolo of NFL Network reports."
+      "injury_comment": "Lane (wrist) was a full participant in practice Wednesday after being designated for return from injured reserve."
     },
     {
       "player_id": "13302",
@@ -120,9 +120,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Ravens placed Smythe (Achilles) on their injured reserve list Wednesday, Ryan Mink of the Ravens' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8206",
@@ -265,7 +265,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Todd Monken said Monday that there is a \"possibility\" that the Browns open the 21-day practice window for Sampson (knee) this week, Daniel Oyefusi of ESPN.com reports."
+      "injury_comment": "Sampson (knee) was a non-participant in Wednesday's practice."
     },
     {
       "player_id": "12472",
@@ -797,8 +797,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-10-22",
-      "injury_comment": "Patriots head coach Mike Vrabel said Monday that Brown (ankle) has \"a chance\" to return to practice this week, Mark Daniels of MassLive.com reports."
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Brown (ankle) was a limited practice participant Wednesday."
     },
     {
       "player_id": "11371",
@@ -928,7 +928,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Giants placed Berrios (foot) on their injured reserve list Wednesday, Dan Salomone of the Giants' official site reports."
+      "injury_comment": "Berrios (foot) underwent successful surgery Friday to repair a Lisfranc injury, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "12508",
@@ -965,9 +965,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Cooper (ankle) was a limited participant in Wednesday's practice."
     },
     {
       "player_id": "12539",
@@ -1004,9 +1004,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Back",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Eagles opened the 21-day practice window for Calcaterra (back) on Wednesday."
     },
     {
       "player_id": "13349",
@@ -1017,9 +1017,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Eagles opened the 21-day practice window for Stowers (quadriceps/hamstring) on Wednesday."
     },
     {
       "player_id": "11636",
