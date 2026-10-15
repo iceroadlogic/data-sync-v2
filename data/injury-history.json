@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T22:50:16.208Z",
+  "lastUpdated": "2026-10-15T00:22:52.602Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6615,6 +6615,11 @@
           "to": "Questionable",
           "detail": "Forearm",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -7876,6 +7881,13 @@
           "date": "2026-09-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BUF"
         }
       ]
     },
@@ -9651,6 +9663,12 @@
           "date": "2025-12-26",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "ARI"
         }
       ]
     },
@@ -9837,6 +9855,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "LAR"
         }
       ]
     },
@@ -19963,6 +19988,12 @@
           "date": "2026-09-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "LAR"
         }
       ]
     },
@@ -22286,6 +22317,19 @@
           "date": "2025-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "11304": {
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "PHI"
         }
       ]
     },
@@ -24842,6 +24886,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "LV"
         }
       ]
     },
@@ -36584,6 +36635,13 @@
           "date": "2026-10-02",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "JAX"
         }
       ]
     },
