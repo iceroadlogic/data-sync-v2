@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-14T22:50:16.208Z",
+  "lastUpdated": "2026-10-15T15:57:44.667Z",
   "week": 6,
   "summary": {
-    "total_players": 775,
+    "total_players": 779,
     "ir": 92,
     "suspended": 0
   },
@@ -55,9 +55,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "The Cardinals placed Long (knee) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12889",
@@ -174,7 +174,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "The Panthers announced Tuesday that Etienne (ankle) is designated to return from injured reserve."
+      "injury_comment": "Etienne (ankle) was a full participant at practice Wednesday."
     },
     {
       "player_id": "11626",
@@ -419,9 +419,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Williams (ankle) has been ruled out for Sunday's game against the Bears, Wes Hodkiewicz of the Packers' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12113",
@@ -458,9 +458,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL + MCL",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Dell (knee) was a full participant in Wednesday's practice."
     },
     {
       "player_id": "12484",
@@ -523,9 +523,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Heel",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Pierce was spotted without a cast on his left ankle/heel Wednesday, James Boyd of The Athletic reports."
     },
     {
       "player_id": "13407",
@@ -640,9 +640,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Raiders designated Runyon (lower body) for return to practice from their injured reserve list Wednesday."
     },
     {
       "player_id": "12541",
@@ -655,7 +655,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Thornton (hamstring) has been ruled out ahead of Sunday's game against the Patriots, Paul Gutierrez of Raiders.com reports."
+      "injury_comment": "Thornton (hamstring) was a full participant at the Raiders' practice Wednesday."
     },
     {
       "player_id": "12670",
@@ -679,9 +679,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-16",
-      "injury_comment": "The Chargers placed Lance (groin) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4033",
@@ -718,9 +718,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Ferguson (ankle) is expected to be ready to return after his four-game stint on injured reserve, Cameron DaSilva of USA Today reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8195",
@@ -1017,9 +1017,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
+      "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "The Eagles opened the 21-day practice window for Stowers (quadriceps/hamstring) on Wednesday."
+      "injury_comment": "Stowers (quadriceps) was a limited participant at the Eagles' practice Wednesday."
     },
     {
       "player_id": "11636",
