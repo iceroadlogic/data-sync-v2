@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-15T00:22:52.602Z",
+  "lastUpdated": "2026-10-15T11:13:23.958Z",
   "week": 6,
   "summary": {
-    "total_players": 776,
+    "total_players": 779,
     "questionable": 53,
     "doubtful": 7,
     "out": 18
@@ -17,9 +17,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "13287",
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Concepcion (concussion) was a limited participant in Wednesday's practice."
+      "injury_comment": "Concepcion is progressing well in his recovery from a concussion and is set to practice Wednesday, Mary Kay Cabot of The Cleveland Plain Dealer reports."
     },
     {
       "player_id": "12512",
@@ -383,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "McConkey (foot) was listed as a limited participant on Wednesday's injury report."
+      "injury_comment": "Chargers head coach Jim Harbaugh said McConkey (foot) will practice Wednesday, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "13380",
@@ -420,9 +420,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Allen (foot) was listed as a non-participant on the Rams' estimated injury report, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "6865",
@@ -435,7 +435,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Parkinson (shoulder/knee) was limited in Thursday's practice, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Parkinson (shoulder) was listed as a limited participant on the Rams' estimated injury report Wednesday, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "13296",
@@ -591,7 +591,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "questionable"
+      "injury_comment": "Brown (ankle) was a limited participant at the Eagles' practice Wednesday."
     },
     {
       "player_id": "11304",
