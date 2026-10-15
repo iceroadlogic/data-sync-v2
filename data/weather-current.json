@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2026-10-15T00:18:38.052Z",
+  "lastUpdated": "2026-10-15T14:42:13.330Z",
   "games": [
     {
       "game_id": "401872995",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 31,
-        "wind": "1 to 6 mph SW",
+        "wind": "2 to 7 mph NE",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "20 to 23 mph NE",
+        "temp": 72,
+        "wind": "22 mph NE",
         "conditions": "Partly Sunny then Chance Rain Showers",
-        "precipitation": "26%"
+        "precipitation": "27%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 53,
-        "wind": "3 to 7 mph W",
-        "conditions": "Areas Of Frost then Sunny",
-        "precipitation": "1%"
+        "temp": 54,
+        "wind": "3 to 7 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "7 mph W",
+        "temp": 56,
+        "wind": "3 to 7 mph NW",
         "conditions": "Sunny",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "5 mph NW",
+        "wind": "5 mph N",
         "conditions": "Sunny",
-        "precipitation": "2%"
+        "precipitation": "5%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
-        "wind": "14 to 18 mph NE",
-        "conditions": "Partly Sunny then Isolated Rain Showers",
-        "precipitation": "16%"
+        "temp": 78,
+        "wind": "14 to 17 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "9%"
       }
     },
     {
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "0 to 10 mph S",
+        "wind": "0 to 10 mph SSE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "6 to 12 mph S",
+        "wind": "6 to 10 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -150,8 +150,8 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "6 to 12 mph SW",
+        "temp": 42,
+        "wind": "5 to 10 mph SW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "3 to 13 mph WNW",
+        "wind": "2 to 12 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     }
   ]
