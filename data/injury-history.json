@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T00:22:52.602Z",
+  "lastUpdated": "2026-10-15T18:09:06.501Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9880,6 +9880,19 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "6904": {
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-10-15",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Calf",
+          "team": "PHI"
         }
       ]
     },

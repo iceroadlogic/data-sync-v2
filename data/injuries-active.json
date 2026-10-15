@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-15T11:13:23.958Z",
+  "lastUpdated": "2026-10-15T18:09:06.501Z",
   "week": 6,
   "summary": {
     "total_players": 779,
     "questionable": 53,
     "doubtful": 7,
-    "out": 18
+    "out": 19
   },
   "questionable": [
     {
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Jackson (ankle) was a non-participant in Wednesday's practice, Sam Cohn of The Baltimore Sun reports."
+      "injury_comment": "Jackson (ankle) wasn't spotted at Thursday's practice, Jeff Zrebiec of The Athletic reports."
     },
     {
       "player_id": "3258",
@@ -123,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Dillon (ankle) did not participate at practice Wednesday."
+      "injury_comment": "Dillon didn't practice Wednesday due to an ankle injury."
     },
     {
       "player_id": "7694",
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Concepcion is progressing well in his recovery from a concussion and is set to practice Wednesday, Mary Kay Cabot of The Cleveland Plain Dealer reports."
+      "injury_comment": "Concepcion (concussion) was a limited participant in Wednesday's practice."
     },
     {
       "player_id": "12512",
@@ -227,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Judkins (foot) didn't participate in Wednesday's practice, Chris Easterling of the Akron Beacon Journal reports."
+      "injury_comment": "Judkins (foot) was present for Thursday's practice but didn't participate in stretching or individual drills during the portion of practice open to the media, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "13580",
@@ -383,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Chargers head coach Jim Harbaugh said McConkey (foot) will practice Wednesday, Alex Insdorf of BoltBeat.com reports."
+      "injury_comment": "McConkey (foot) was listed as a limited participant on Wednesday's injury report."
     },
     {
       "player_id": "13380",
@@ -422,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Allen (foot) was listed as a non-participant on the Rams' estimated injury report, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Allen was listed as a non-participant Wednesday on the Rams' estimated injury report due to a foot injury, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "6865",
@@ -656,7 +656,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Tucker did not participate in Wednesday's practice session due to a quadriceps injury."
+      "injury_comment": "Tucker didn't participate in Wednesday's practice session due to a quadriceps injury."
     },
     {
       "player_id": "12357",
@@ -695,7 +695,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "questionable"
+      "injury_comment": "Diggs (hamstring) won't practice Thursday, Zach Selby of the Commanders' official site reports."
     }
   ],
   "doubtful": [
@@ -736,7 +736,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Jets head coach Aaron Glenn said that Hall (quadriceps) won't practice Wednesday and remains week-to-week, Al Iannazzone of Newsday reports."
+      "injury_comment": "Hall (quadriceps) is working on a side field with trainers at Thursday's practice, Zack Rosenblatt of The Athletic reports."
     },
     {
       "player_id": "11625",
@@ -775,7 +775,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Mayfield (right thumb) officially didn't practice Wednesday."
+      "injury_comment": "Mayfield (thumb) wasn't spotted at practice Thursday, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "2307",
@@ -934,6 +934,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6904",
+      "source_id": "4040715",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-10-26",
+      "injury_comment": "The Eagles have ruled Hurts out for Sunday's game against the Panthers after a follow-up ultrasound performed on his calf Wednesday revealed movement in a small blood clot, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "7757",
