@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2026-10-16T14:35:35.553Z",
+  "lastUpdated": "2026-10-16T19:22:51.270Z",
   "games": [
     {
       "game_id": "401872995",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "6 mph SE",
+        "wind": "5 mph ESE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -22,10 +22,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "23 mph NE",
-        "conditions": "Partly Sunny",
-        "precipitation": "10%"
+        "temp": 68,
+        "wind": "21 mph N",
+        "conditions": "Mostly Sunny",
+        "precipitation": "5%"
       }
     },
     {
@@ -43,9 +43,9 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "8 mph S",
-        "conditions": "Sunny",
+        "temp": 61,
+        "wind": "7 mph S",
+        "conditions": "Patchy Frost then Sunny",
         "precipitation": "0%"
       }
     },
@@ -64,9 +64,9 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "5 mph NW",
-        "conditions": "Patchy Frost then Sunny",
+        "temp": 51,
+        "wind": "5 mph N",
+        "conditions": "Widespread Frost then Sunny",
         "precipitation": "0%"
       }
     },
@@ -77,8 +77,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "6 mph NE",
+        "temp": 56,
+        "wind": "6 to 9 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "14 to 18 mph NE",
+        "wind": "16 mph NE",
         "conditions": "Sunny",
         "precipitation": "2%"
       }
@@ -116,8 +116,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 85,
-        "wind": "5 to 10 mph ENE",
+        "temp": 86,
+        "wind": "0 to 10 mph SSW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -129,8 +129,8 @@
       "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "6 to 12 mph S",
+        "temp": 67,
+        "wind": "6 to 10 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -150,9 +150,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 42,
+        "temp": 41,
         "wind": "5 to 10 mph SW",
-        "conditions": "Mostly Clear",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -164,9 +164,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "3 to 13 mph WNW",
+        "wind": "3 to 14 mph WNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "precipitation": "2%"
       }
     }
   ]
