@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-15T22:46:24.882Z",
+  "lastUpdated": "2026-10-16T15:45:50.295Z",
   "week": 6,
   "summary": {
-    "total_players": 780,
+    "total_players": 781,
     "ir": 92,
     "suspended": 0
   },
@@ -419,9 +419,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Williams (ankle) was a limited participant at practice Thursday."
     },
     {
       "player_id": "12113",
@@ -967,7 +967,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Cooper (ankle) was a limited participant in Thursday's practice."
+      "injury_comment": "Cooper (ankle) will be a full participant in Friday's practice, according to the Jets' official X account."
     },
     {
       "player_id": "12539",
@@ -1053,12 +1053,12 @@
       "player_name": "Christian Kirk",
       "position": "WR",
       "team_abbr": "SF",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Calf",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Kirk (calf) had his 21-day practice window opened Thursday."
+      "est_return_date": "2026-10-19",
+      "injury_comment": "Kirk (calf) was limited in his return to practice Thursday, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "11638",
