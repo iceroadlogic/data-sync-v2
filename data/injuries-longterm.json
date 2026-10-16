@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-16T19:07:50.031Z",
+  "lastUpdated": "2026-10-16T22:19:10.293Z",
   "week": 6,
   "summary": {
     "total_players": 780,
-    "ir": 92,
+    "ir": 94,
     "suspended": 0
   },
   "ir": [
@@ -96,7 +96,7 @@
       "injury_description": null,
       "injury_detail": "Wrist",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Lane (wrist) was a full participant in practice Wednesday after being designated for return from injured reserve."
+      "injury_comment": "Lane (wrist) is listed as questionable for Sunday's game at Cleveland."
     },
     {
       "player_id": "13302",
@@ -138,6 +138,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12531",
+      "source_id": "4685350",
+      "player_name": "Trevor Etienne",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Etienne (ankle) is listed as questionablefor Sunday's game against the Eagles."
+    },
+    {
       "player_id": "13353",
       "source_id": "5091739",
       "player_name": "Chris Brazzell II",
@@ -162,19 +175,6 @@
       "injury_detail": "Abdomen",
       "est_return_date": "2026-11-08",
       "injury_comment": "Brooks (core) was seen jogging at practice Thursday, Sheena Quick of Fox Sports Radio 1340 reports."
-    },
-    {
-      "player_id": "12531",
-      "source_id": "4685350",
-      "player_name": "Trevor Etienne",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Etienne (ankle) was a full participant at practice Wednesday."
     },
     {
       "player_id": "11626",
@@ -359,6 +359,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "6588",
+      "source_id": "3126997",
+      "player_name": "Tom Kennedy",
+      "position": "WR",
+      "team_abbr": "DET",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "13412",
       "source_id": "4685441",
       "player_name": "Kendrick Law",
@@ -393,9 +406,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "The Packers placed Brooks (ankle) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10222",
@@ -641,7 +654,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Lower Body",
-      "est_return_date": "2026-10-18",
+      "est_return_date": "2026-10-25",
       "injury_comment": "The Raiders designated Runyon (lower body) for return to practice from their injured reserve list Wednesday."
     },
     {
@@ -654,7 +667,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
+      "est_return_date": "2026-10-25",
       "injury_comment": "Thornton (hamstring) was a full participant at the Raiders' practice Wednesday."
     },
     {
@@ -798,7 +811,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Head coach Mike Vrabel said Friday that the Patriots won't make a call on Brown's (ankle) status for Sunday's game against the Jets until Saturday, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Brown (ankle) practiced all three days this week, Mark Daniels of MassLive.com reports."
     },
     {
       "player_id": "11371",
@@ -967,7 +980,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Cooper (ankle) will be a full participant in Friday's practice, according to the Jets' official X account."
+      "injury_comment": "Cooper (ankle) is listed as questionable for Sunday's game at New England."
     },
     {
       "player_id": "12539",
@@ -1007,6 +1020,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-10-18",
       "injury_comment": "The Eagles opened the 21-day practice window for Calcaterra (back) on Wednesday."
+    },
+    {
+      "player_id": "11577",
+      "source_id": "4431545",
+      "player_name": "Will Shipley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Eagles placed Shipley (foot) on injured reserve Friday."
     },
     {
       "player_id": "13349",
