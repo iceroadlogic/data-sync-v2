@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T17:55:04.542Z",
+  "lastUpdated": "2026-10-16T19:07:50.031Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4415,6 +4415,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ankle",
           "team": "BAL"
         }
@@ -20801,6 +20808,13 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "KC"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "KC"
         }
       ]
     },
@@ -33290,6 +33304,13 @@
           "to": "Questionable",
           "detail": "Toe",
           "team": "CHI"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Toe",
+          "team": "CHI"
         }
       ]
     },
@@ -36422,6 +36443,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -36801,6 +36829,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "CLE"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36826,6 +36859,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "JAX"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
