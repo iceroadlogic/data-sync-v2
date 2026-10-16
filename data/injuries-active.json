@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-16T00:57:24.628Z",
+  "lastUpdated": "2026-10-16T11:08:05.355Z",
   "week": 6,
   "summary": {
-    "total_players": 780,
-    "questionable": 53,
+    "total_players": 781,
+    "questionable": 55,
     "doubtful": 6,
     "out": 25
   },
@@ -84,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Johnson (hamstring) was considered limited at the Bills' walkthrough practice Wednesday."
+      "injury_comment": "Johnson (hamstring) was a limited participant at practice Thursday."
     },
     {
       "player_id": "4983",
@@ -110,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Palmer (shoulder) was listed as a limited participant at the Bills' walkthrough practice Wednesday."
+      "injury_comment": "Palmer (shoulder) was a limited participant at practice Thursday."
     },
     {
       "player_id": "6828",
@@ -256,6 +256,19 @@
       "injury_comment": "Wallace (knee) was a limited participant at practice Thursday."
     },
     {
+      "player_id": "8208",
+      "source_id": "4362748",
+      "player_name": "Tyler Badie",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Badie (thumb) won't return to Thursday's game against Seattle, Zac Stevens of TheDNVR.com reports. He finished with one carry for six yards."
+    },
+    {
       "player_id": "8168",
       "source_id": "4430191",
       "player_name": "Skyy Moore",
@@ -331,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Nailor (concussion) isn't participating in Wednesday's practice, Sam Warren of The Athletic reports."
+      "injury_comment": "Nailor (concussion) was a limited participant at practice Thursday."
     },
     {
       "player_id": "9754",
@@ -370,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Thompson (quadriceps) was a limited participant in Wednesday's practice."
+      "injury_comment": "Thompson (quadriceps) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "10214",
@@ -396,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Parkinson (shoulder) was listed as a limited participant on the Rams' estimated injury report Wednesday, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Parkinson (shoulder) was a limited participant at practice Thursday, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "13296",
@@ -594,6 +607,19 @@
       "injury_comment": "Head coach Kyle Shanahan said Evans won't practice Thursday due to rib and Achilles injuries, Cam Inman of The San Jose Mercury News reports."
     },
     {
+      "player_id": "12521",
+      "source_id": "4678006",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "9506",
       "source_id": "4430871",
       "player_name": "Sean Tucker",
@@ -775,7 +801,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-10-19",
-      "injury_comment": "doubtful"
+      "injury_comment": "Mariota (knee) did not participate at practice Thursday."
     }
   ],
   "out": [

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T00:57:24.628Z",
+  "lastUpdated": "2026-10-16T11:08:05.355Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16442,6 +16442,13 @@
           "date": "2026-09-15",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "DEN"
         }
       ]
     },
@@ -32724,6 +32731,13 @@
           "date": "2026-01-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-16",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "SEA"
         }
       ]
     },
