@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-16T11:08:05.355Z",
+  "lastUpdated": "2026-10-16T17:55:04.542Z",
   "week": 6,
   "summary": {
-    "total_players": 781,
-    "questionable": 55,
-    "doubtful": 6,
-    "out": 25
+    "total_players": 780,
+    "questionable": 51,
+    "doubtful": 3,
+    "out": 30
   },
   "questionable": [
     {
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Flowers (toe) was a limited participant at Thursday's practice."
+      "injury_comment": "Flowers (toe) is practicing Friday after being added to the injury report Thursday, Jamison Hensley of ESPN.com reports."
     },
     {
       "player_id": "4881",
@@ -71,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Jackson (ankle) officially went down as a non-participant at Thursday's practice."
+      "injury_comment": "Jackson (ankle) isn't practicing Friday, making him unlikely to play Sunday at Cleveland, according to Brian Wacker of The Baltimore Sun."
     },
     {
       "player_id": "6039",
@@ -111,45 +111,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-18",
       "injury_comment": "Palmer (shoulder) was a limited participant at practice Thursday."
-    },
-    {
-      "player_id": "6828",
-      "source_id": "4239934",
-      "player_name": "AJ Dillon",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Dillon didn't practice Wednesday due to an ankle injury."
-    },
-    {
-      "player_id": "7694",
-      "source_id": "4372780",
-      "player_name": "Tommy Tremble",
-      "position": "TE",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Tremble (ribs) was a limited participant at practice Wednesday."
-    },
-    {
-      "player_id": "2505",
-      "source_id": "2576925",
-      "player_name": "Darren Waller",
-      "position": "TE",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Waller (toe) remained limited at Thursday's practice."
     },
     {
       "player_id": "12534",
@@ -227,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Judkins (foot) was present for Thursday's practice but didn't participate in stretching or individual drills during the portion of practice open to the media, Daniel Oyefusi of ESPN.com reports."
+      "injury_comment": "Judkins (foot) was back at practice Friday, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "13580",
@@ -293,19 +254,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "6427",
-      "source_id": "4061956",
-      "player_name": "Ashton Dulin",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Dulin (hamstring) did not participate at practice Thursday."
     },
     {
       "player_id": "13299",
@@ -474,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Henderson (ankle) remained limited at Thursday's practice, Mark Daniels of MassLive reports."
+      "injury_comment": "Henderson (ankle) is practicing Friday, Mark Daniels of MassLive.com reports."
     },
     {
       "player_id": "4035",
@@ -526,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Sadiq (concussion) remained limited at Thursday's practice."
+      "injury_comment": "Sadiq (concussion) is trending toward playing in Sunday's game against the Patriots, according to Around The NFL."
     },
     {
       "player_id": "4866",
@@ -539,7 +487,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Barkley (hamstring) was listed as a non-participant on Thursday's injury report."
+      "injury_comment": "Barkley (hamstring) wasn't spotted at Friday's practice, Jimmy Kempski of PhillyVoice.com reports."
     },
     {
       "player_id": "5848",
@@ -578,7 +526,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Smith (hamstring) practiced on a limited basis Thursday."
+      "injury_comment": "Smith (hamstring) is practicing Friday, Jimmy Kempski of The Philly Voice reports."
     },
     {
       "player_id": "9486",
@@ -591,7 +539,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Wicks (hamstring) didn't practice Thursday, Zach Berman of The Athletic reports."
+      "injury_comment": "Wicks (hamstring) is practicing Friday, Andrew DiCecco reports."
     },
     {
       "player_id": "2216",
@@ -682,7 +630,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Croskey-Merritt was held out of Thursday's practice due to a groin injury."
+      "injury_comment": "Croskey-Merritt (groin) wasn't present for Friday's practice, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "2449",
@@ -695,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Diggs (hamstring) won't practice Thursday, Zach Selby of the Commanders' official site reports."
+      "injury_comment": "Diggs (hamstring) was going through stretching at Friday's practice, John Keim of ESPN.com reports."
     },
     {
       "player_id": "4663",
@@ -721,7 +669,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "McLaurin (hamstring) practiced in a limited capacity Thursday."
+      "injury_comment": "McLaurin is getting a veteran rest day Friday, John Keim of ESPN.com reports."
     }
   ],
   "doubtful": [
@@ -739,32 +687,6 @@
       "injury_comment": "Harris (hamstring) was a non-participant in Thursday's practice."
     },
     {
-      "player_id": "8155",
-      "source_id": "4427366",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Hall (quadriceps) wasn't taking part in practice but was spotted working out on a side field with trainers Thursday, Zack Rosenblatt of The Athletic reports."
-    },
-    {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Mitchell (finger) didn't practice Thursday."
-    },
-    {
       "player_id": "11577",
       "source_id": "4431545",
       "player_name": "Will Shipley",
@@ -776,19 +698,6 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-10-18",
       "injury_comment": "Shipley (foot) didn't practice Thursday."
-    },
-    {
-      "player_id": "4892",
-      "source_id": "3052587",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Buccaneers offensive coordinator Zac Robinson said Thursday that Mayfield's right thumb is \"just not quite ready\" this week, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "2307",
@@ -830,6 +739,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6828",
+      "source_id": "4239934",
+      "player_name": "AJ Dillon",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "out"
     },
     {
       "player_id": "5409",
@@ -949,6 +871,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "6427",
+      "source_id": "4061956",
+      "player_name": "Ashton Dulin",
+      "position": "WR",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Dulin (hamstring) did not participate at practice Thursday."
+    },
+    {
       "player_id": "9490",
       "source_id": "4565908",
       "player_name": "Tyler Scott",
@@ -986,6 +921,32 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8155",
+      "source_id": "4427366",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Hall (quadriceps) is out for Sunday's game, Brian Costello of the New York Post reports."
+    },
+    {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Mitchell (finger) has been ruled out for Sunday's game, Brian Costello of the New York Post reports."
     },
     {
       "player_id": "6904",
@@ -1129,6 +1090,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "4892",
+      "source_id": "3052587",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Mayfield (thumb) will not play Sunday, Brianna Dix of the Buccaneers' official site reports."
     }
   ]
 }
