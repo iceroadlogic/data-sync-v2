@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T14:38:34.087Z",
+  "lastUpdated": "2026-10-17T18:02:38.405Z",
   "week": 6,
   "summary": {
     "total_players": 780,
-    "ir": 94,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -96,7 +96,7 @@
       "injury_description": null,
       "injury_detail": "Wrist",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Lane (wrist) is listed as questionable for Sunday's game at Cleveland."
+      "injury_comment": "Lane (wrist) is \"good to go\" after practicing fully this week and is expected to be activated from injured reserve ahead of Sunday's game against the Browns, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "13302",
@@ -136,19 +136,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12531",
-      "source_id": "4685350",
-      "player_name": "Trevor Etienne",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Etienne (ankle) is listed as questionablefor Sunday's game against the Eagles."
     },
     {
       "player_id": "13353",
@@ -502,19 +489,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Mallory (thumb) is listed as questionable for Sunday's game against the Titans."
-    },
-    {
       "player_id": "6453",
       "source_id": "4249030",
       "player_name": "D.J. Montgomery",
@@ -811,7 +785,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Brown will likely be activated from injured reserve to play Sunday against the Jets, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Brown (ankle) will likely be activated from injured reserve to play Sunday against the Jets, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "11371",
@@ -980,7 +954,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Cooper (ankle) is listed as questionable for Sunday's game at New England."
+      "injury_comment": "Cooper (ankle) is being activated from injured reserve Saturday and is expected to be available for Sunday's AFC East tilt against the Patriots, Connor Hughes of SNY TV reports."
     },
     {
       "player_id": "12539",
