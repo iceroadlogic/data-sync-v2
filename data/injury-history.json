@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T18:02:38.405Z",
+  "lastUpdated": "2026-10-17T21:52:03.669Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4153,6 +4153,11 @@
           "to": "Questionable",
           "detail": "Chest",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -6803,6 +6808,13 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NE"
         }
       ]
     },
@@ -7130,6 +7142,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10015,6 +10032,13 @@
           "date": "2026-10-15",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Calf",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Out",
+          "to": "IR",
           "detail": "Calf",
           "team": "PHI"
         }
@@ -14593,6 +14617,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14644,6 +14673,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15846,6 +15880,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Ankle",
+          "team": "GB"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Out",
+          "to": "IR",
           "detail": "Ankle",
           "team": "GB"
         }
@@ -26376,6 +26417,13 @@
           "to": "Out",
           "detail": "Finger",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Finger",
+          "team": "PIT"
         }
       ]
     },
@@ -30535,6 +30583,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "GB"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "GB"
         }
       ]
     },
@@ -34332,6 +34387,13 @@
           "to": "IR",
           "detail": "Hamstring",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "LAC"
         }
       ]
     },
@@ -36381,6 +36443,13 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -36809,6 +36878,13 @@
           "date": "2026-09-22",
           "from": "Healthy",
           "to": "IR",
+          "detail": "Wrist",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Wrist",
           "team": "BAL"
         }
