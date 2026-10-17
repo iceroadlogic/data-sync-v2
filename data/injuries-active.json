@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-10-17T16:56:38.110Z",
+  "lastUpdated": "2026-10-17T23:54:38.169Z",
   "week": 6,
   "summary": {
-    "total_players": 780,
-    "questionable": 28,
+    "total_players": 779,
+    "questionable": 30,
     "doubtful": 0,
-    "out": 39
+    "out": 36
   },
   "questionable": [
+    {
+      "player_id": "13293",
+      "source_id": "4870847",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Wrist",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Lane (wrist) was activated from injured reserve by Baltimore on Saturday."
+    },
     {
       "player_id": "4983",
       "source_id": "3915416",
@@ -35,6 +48,19 @@
       "injury_comment": "Palmer (shoulder) and DJ Moore (shoulder) are listed as questionable for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
     },
     {
+      "player_id": "12531",
+      "source_id": "4685350",
+      "player_name": "Trevor Etienne",
+      "position": "RB",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Panthers activated Etienne (ankle) from injured reserve Saturday."
+    },
+    {
       "player_id": "11560",
       "source_id": "4431611",
       "player_name": "Caleb Williams",
@@ -45,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-18",
-      "injury_comment": "Williams (hamstring) is listed as questionable for Sunday's game against Atlanta."
+      "injury_comment": "Williams (hamstring) is expected to start Sunday's game against the Falcons, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "13477",
@@ -87,6 +113,19 @@
       "injury_comment": "Badie (thumb) won't return to Thursday's game against Seattle, Zac Stevens of TheDNVR.com reports. He finished with one carry for six yards."
     },
     {
+      "player_id": "12482",
+      "source_id": "4431487",
+      "player_name": "Savion Williams",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Williams (ankle) is questionable for Sunday's game against the Cowboys, Wes Hodkiewicz of the Packers' official site reports."
+    },
+    {
       "player_id": "13862",
       "source_id": "5085942",
       "player_name": "Treyvhon Saunders",
@@ -124,6 +163,19 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-18",
       "injury_comment": "Thompson (quadriceps) is listed as questionable for Sunday's game against the Chiefs."
+    },
+    {
+      "player_id": "12670",
+      "source_id": "4430870",
+      "player_name": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Lambert-Smith (hamstring) is questionable for Sunday's game against Kansas City."
     },
     {
       "player_id": "13296",
@@ -178,6 +230,19 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
+      "player_id": "5859",
+      "source_id": "4047646",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "The Patriots activated Brown (ankle) from injured reserve Saturday, but he's still listed as questionable for Sunday's game against the Jets."
+    },
+    {
       "player_id": "12529",
       "source_id": "4432710",
       "player_name": "TreVeyon Henderson",
@@ -230,6 +295,19 @@
       "injury_comment": "Sadiq (concussion) is listed as questionable for Sunday's game against the Patriots after logging a full practice Friday."
     },
     {
+      "player_id": "13276",
+      "source_id": "4723820",
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Cooper (ankle) was activated from injured reserve Saturday."
+    },
+    {
       "player_id": "7021",
       "source_id": "4038815",
       "player_name": "Rico Dowdle",
@@ -266,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Evans (ribs/Achilles) was a non-participant at Friday's practice, Harrison Rich of the San Francisco Chronicle reports."
+      "injury_comment": "Evans (ribs) is listed as questionable for Monday's game against Washington, Vic Tafur of The Athletic reports."
     },
     {
       "player_id": "12521",
@@ -308,19 +386,6 @@
       "injury_comment": "Spears (knee) is listed as questionable for Sunday's game against the Colts."
     },
     {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "Burks (shoulder) remained limited in Friday's practice."
-    },
-    {
       "player_id": "2449",
       "source_id": "2976212",
       "player_name": "Stefon Diggs",
@@ -331,46 +396,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Diggs (hamstring) was on the field for Saturday's practice session, Jonah Keim of ESPN.com reports."
-    },
-    {
-      "player_id": "4663",
-      "source_id": "3068267",
-      "player_name": "Austin Ekeler",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "Ekeler (chest) remained limited in Friday's practice."
-    },
-    {
-      "player_id": "5927",
-      "source_id": "3121422",
-      "player_name": "Terry McLaurin",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "McLaurin (hamstring) was on the field for Saturday's practice session, Jonah Keim of ESPN.com reports."
-    },
-    {
-      "player_id": "8136",
-      "source_id": "4697815",
-      "player_name": "Rachaad White",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "White practiced in a limited capacity Friday due to a shoulder injury."
+      "injury_comment": "Diggs (hamstring) is listed as questionable for Monday's game against San Francisco."
     }
   ],
   "doubtful": [],
@@ -517,19 +543,6 @@
       "injury_detail": "Personal",
       "est_return_date": "2026-10-25",
       "injury_comment": "Jacobs (personal) will be removed from the Commissioner's Exempt List on Monday and be eligible to play as soon as the Packers' Week 7 game at Detroit, Tom Pelissero of Netflix reports."
-    },
-    {
-      "player_id": "8168",
-      "source_id": "4430191",
-      "player_name": "Skyy Moore",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Moore (ankle) has been ruled out for Sunday night's game against the Cowboys, Wes Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "9481",
@@ -701,19 +714,6 @@
       "injury_comment": "Barkley (hamstring) wasn't spotted at Friday's practice, Jimmy Kempski of PhillyVoice.com reports."
     },
     {
-      "player_id": "6904",
-      "source_id": "4040715",
-      "player_name": "Jalen Hurts",
-      "position": "QB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Hurts remains sidelined indefinitely due to a superficial blood clot in his calf, but the Eagles are not planning to place the Philadelphia quarterback on injured reserve, Adam Schefter of ESPN reports."
-    },
-    {
       "player_id": "7757",
       "source_id": "4035656",
       "player_name": "Ben Skowronek",
@@ -725,19 +725,6 @@
       "injury_detail": "Calf",
       "est_return_date": "2026-10-25",
       "injury_comment": "Head coach Mike McCarthy said Monday that Skowronek (calf) will not play against the Buccaneers this Sunday, Alan Saunders of SteelersNow.com reports."
-    },
-    {
-      "player_id": "11630",
-      "source_id": "4431492",
-      "player_name": "Roman Wilson",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Steelers head coach Mike McCarthy said Monday that Wilson (finger) has been ruled out for Sunday's game against the Buccaneers, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "6803",
@@ -880,7 +867,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-11-01",
-      "injury_comment": "out"
+      "injury_comment": "Mariota (knee) has been ruled out for Monday's game against the 49ers, Tashan Reed of The Washington Post reports."
     }
   ]
 }
