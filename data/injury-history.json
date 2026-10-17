@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T00:15:07.286Z",
+  "lastUpdated": "2026-10-17T16:56:38.110Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1168,6 +1168,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Knee - MCL",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Knee - MCL",
           "team": "WAS"
         }
@@ -6303,6 +6310,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12489,6 +12501,13 @@
           "date": "2025-10-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "PIT"
         }
       ]
     },
@@ -20483,6 +20502,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -33339,6 +33363,13 @@
           "date": "2026-10-15",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-17",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "WAS"
         }
