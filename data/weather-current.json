@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2026-10-17T13:29:16.143Z",
+  "lastUpdated": "2026-10-17T18:13:30.583Z",
   "games": [
     {
       "game_id": "401872995",
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "20 to 24 mph N",
+        "wind": "22 mph N",
         "conditions": "Partly Sunny",
-        "precipitation": "8%"
+        "precipitation": "1%"
       }
     },
     {
@@ -43,7 +43,7 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 62,
+        "temp": 61,
         "wind": "8 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -97,19 +97,6 @@
       }
     },
     {
-      "game_id": "401873002",
-      "home_team": "TB",
-      "away_team": "PIT",
-      "stadium": "Raymond James Stadium",
-      "is_dome": false,
-      "weather": {
-        "temp": 79,
-        "wind": "14 to 17 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
-      }
-    },
-    {
       "game_id": "401873004",
       "home_team": "LAR",
       "away_team": "ARI",
@@ -129,7 +116,7 @@
       "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 68,
         "wind": "6 to 12 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -164,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "3 to 14 mph WNW",
+        "wind": "3 to 13 mph WNW",
         "conditions": "Partly Sunny",
         "precipitation": "2%"
       }
