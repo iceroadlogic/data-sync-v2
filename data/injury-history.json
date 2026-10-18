@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T21:52:03.669Z",
+  "lastUpdated": "2026-10-18T17:02:34.456Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -696,6 +696,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CHI"
         }
       ]
     },
@@ -2581,6 +2588,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -4123,6 +4135,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
@@ -6419,6 +6438,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -6815,6 +6841,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10375,6 +10406,11 @@
           "to": "Questionable",
           "detail": "Toe",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11220,6 +11256,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NO"
         }
       ]
     },
@@ -12532,6 +12575,11 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12597,6 +12645,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "TEN"
         }
       ]
     },
@@ -15193,6 +15248,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19548,6 +19608,13 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "TB"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Quadriceps",
+          "team": "TB"
         }
       ]
     },
@@ -19630,6 +19697,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "TEN"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20313,6 +20385,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NYG"
         }
       ]
     },
@@ -23282,6 +23361,19 @@
         }
       ]
     },
+    "11557": {
+      "name": "Joe Milton",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
+        }
+      ]
+    },
     "11559": {
       "name": "Michael Penix Jr.",
       "position": "QB",
@@ -23452,6 +23544,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "CHI"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25042,6 +25139,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -29718,6 +29822,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "IND"
         }
       ]
     },
@@ -32607,6 +32718,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -32689,6 +32807,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Foot",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
           "team": "CLE"
         }
       ]
@@ -32869,6 +32994,13 @@
           "date": "2026-10-16",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "IND"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "IND"
         }
@@ -33296,6 +33428,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -33357,6 +33494,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "CAR"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36211,6 +36353,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -36450,6 +36599,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36732,6 +36886,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "TEN"
         }
       ]
     },
@@ -36798,6 +36959,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -36887,6 +37055,11 @@
           "to": "Questionable",
           "detail": "Wrist",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36971,6 +37144,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
@@ -37254,6 +37434,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CLE"
         }
       ]
     },
@@ -37296,6 +37483,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "HOU"
         }
       ]
     },
@@ -37519,6 +37713,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -38382,6 +38581,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CAR"
         }
       ]
     },
@@ -38623,6 +38829,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PIT"
         }
       ]
     },
@@ -38921,6 +39134,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "JAX"
         }
       ]
     },
@@ -39111,6 +39331,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ATL"
         }
       ]
     },
@@ -39392,6 +39619,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
