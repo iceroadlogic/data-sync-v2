@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T17:02:34.456Z",
+  "lastUpdated": "2026-10-18T19:25:10.139Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4994,6 +4994,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Shoulder - AC Joint",
+          "team": "BUF"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Shoulder - AC Joint",
           "team": "BUF"
         }
@@ -11545,6 +11552,13 @@
           "date": "2026-09-28",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -11908,6 +11922,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Shoulder",
+          "team": "BAL"
         }
       ]
     },
@@ -13072,6 +13093,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BUF"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -14034,6 +14060,13 @@
           "date": "2025-12-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Shoulder",
+          "team": "NE"
         }
       ]
     },
@@ -21908,6 +21941,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LV"
         }
       ]
     },
@@ -24392,6 +24432,19 @@
         }
       ]
     },
+    "11582": {
+      "name": "Carson Steele",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "PHI"
+        }
+      ]
+    },
     "11583": {
       "name": "Jonathon Brooks",
       "position": "RB",
@@ -24787,6 +24840,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -28163,6 +28223,13 @@
           "date": "2026-08-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "IND"
         }
       ]
     },
@@ -34536,6 +34603,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -36426,6 +36498,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -36468,6 +36547,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "ARI"
         }
       ]
     },
@@ -36546,6 +36632,13 @@
           "date": "2026-10-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -38146,6 +38239,11 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "LAC"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -38341,6 +38439,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },

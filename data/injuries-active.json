@@ -1,39 +1,13 @@
 {
-  "lastUpdated": "2026-10-18T17:02:34.456Z",
+  "lastUpdated": "2026-10-18T19:25:10.139Z",
   "week": 6,
   "summary": {
     "total_players": 777,
-    "questionable": 15,
+    "questionable": 13,
     "doubtful": 0,
-    "out": 60
+    "out": 70
   },
   "questionable": [
-    {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder - AC Joint",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Moore (shoulder) will be listed as questionable for Sunday's game at Las Vegas, Jay Skurski of The Buffalo News reports."
-    },
-    {
-      "player_id": "7670",
-      "source_id": "4242433",
-      "player_name": "Joshua Palmer",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Palmer (shoulder) and DJ Moore (shoulder) are listed as questionable for Sunday's game at Las Vegas, Sam Warren of The Athletic reports."
-    },
     {
       "player_id": "13477",
       "source_id": "5092508",
@@ -87,30 +61,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
+      "player_id": "11762",
+      "source_id": "4429684",
+      "player_name": "Anthony Gould",
       "position": "WR",
-      "team_abbr": "LAC",
+      "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "The Chargers activated Lambert-Smith (hamstring) from injured reserve Saturday, and he is questionable for Sunday's matchup versus Kansas City."
-    },
-    {
-      "player_id": "13380",
-      "source_id": "4685553",
-      "player_name": "Brenen Thompson",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Thompson (quadriceps) is listed as questionable for Sunday's game against the Chiefs."
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Gould (concussion) won't return to Sunday's game against the Titans, Mike Chappell of Fox 59 News Indianapolis reports."
     },
     {
       "player_id": "13296",
@@ -165,6 +126,19 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
+      "player_id": "11582",
+      "source_id": "4714365",
+      "player_name": "Carson Steele",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-26",
+      "injury_comment": "Steele (shoulder) has been ruled out for the remainder of Sunday's game against the Panthers."
+    },
+    {
       "player_id": "2216",
       "source_id": "16737",
       "player_name": "Mike Evans",
@@ -207,6 +181,19 @@
   "doubtful": [],
   "out": [
     {
+      "player_id": "13272",
+      "source_id": "4430841",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Beck (coach's decision) is inactive and is designated as Arizona's emergency third quarterback for Sunday's matchup versus the Rams, Darren Urban of the Cardinals' official site reports."
+    },
+    {
       "player_id": "13287",
       "source_id": "4870808",
       "player_name": "Jeremiyah Love",
@@ -217,7 +204,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Love (ankle) has been ruled out for Sunday's game at the Rams, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "11716",
@@ -259,6 +246,19 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "7571",
+      "source_id": "4360939",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Bateman (shoulder) has been ruled out of Sunday's game in Cleveland."
+    },
+    {
       "player_id": "4881",
       "source_id": "3916387",
       "player_name": "Lamar Jackson",
@@ -283,6 +283,19 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-25",
       "injury_comment": "Sarratt (coach's decision) is listed as inactive for Sunday's game against the Browns."
+    },
+    {
+      "player_id": "4983",
+      "source_id": "3915416",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder - AC Joint",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Moore (shoulder) is listed as inactive Sunday in Las Vegas."
     },
     {
       "player_id": "11377",
@@ -386,7 +399,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Green (coach's decision) is listed as inactive but will serve as the Browns' emergency third quarterback for Sunday's game against the Ravens, Kelsey Russo of the Browns' official site r eports."
+      "injury_comment": "Green (coach's decision) is listed as inactive but will serve as the Browns' emergency third quarterback for Sunday's game against the Ravens, Kelsey Russo of the Browns' official site reports."
     },
     {
       "player_id": "12512",
@@ -558,6 +571,19 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "13404",
+      "source_id": "4567747",
+      "player_name": "Garrett Nussmeier",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "10229",
       "source_id": "4428331",
       "player_name": "Rashee Rice",
@@ -568,7 +594,33 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Rice (hamstring/knee) will not play Sunday against the Chargers, Sam McDowell of The Kansas City Star reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "11595",
+      "source_id": "4430723",
+      "player_name": "Jared Wiley",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": null,
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "O'Connell (coach's decision) is inactive but will serve as the Raiders' emergency third quarterback against the Bills on Sunday."
     },
     {
       "player_id": "9490",
@@ -594,7 +646,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Harris (hamstring) has been ruled out for Sunday's game against the Chiefs."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13630",
@@ -610,6 +662,45 @@
       "injury_comment": null
     },
     {
+      "player_id": "7562",
+      "source_id": "4360797",
+      "player_name": "Tutu Atwell",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Atwell (coach's decision) is inactive for Sunday's game against the Cardinals."
+    },
+    {
+      "player_id": "13270",
+      "source_id": "4605951",
+      "player_name": "CJ Daniels",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13275",
+      "source_id": "4685522",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Simpson (coach's decision) is inactive but will serve as the Rams' emergency third quarterback against the Cardinals on Sunday."
+    },
+    {
       "player_id": "13827",
       "source_id": "4683308",
       "player_name": "Tanner Arkin",
@@ -621,6 +712,19 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-22",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "8121",
+      "source_id": "4361432",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-22",
+      "injury_comment": "Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "13295",
