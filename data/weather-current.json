@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2026-10-18T19:25:46.297Z",
+  "lastUpdated": "2026-10-18T21:42:15.163Z",
   "games": [
     {
       "game_id": "401872995",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "8 mph E",
+        "wind": "8 mph ENE",
         "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
@@ -24,7 +24,7 @@
       "weather": {
         "temp": 70,
         "wind": "22 mph N",
-        "conditions": "Partly Sunny",
+        "conditions": "Mostly Cloudy",
         "precipitation": "2%"
       }
     },
@@ -44,7 +44,7 @@
       "is_dome": false,
       "weather": {
         "temp": 61,
-        "wind": "9 mph S",
+        "wind": "8 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "2 mph NE",
+        "wind": "2 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -77,8 +77,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "5 mph NE",
+        "temp": 60,
+        "wind": "3 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "16 mph NE",
+        "wind": "15 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 86,
-        "wind": "5 to 10 mph WSW",
+        "wind": "10 mph WSW",
         "conditions": "Sunny",
         "precipitation": "1%"
       }
