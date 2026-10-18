@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-10-18T19:25:10.139Z",
+  "lastUpdated": "2026-10-18T21:38:48.912Z",
   "week": 6,
   "summary": {
     "total_players": 777,
-    "questionable": 13,
+    "questionable": 16,
     "doubtful": 0,
-    "out": 70
+    "out": 69
   },
   "questionable": [
+    {
+      "player_id": "7571",
+      "source_id": "4360939",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Bateman (shoulder) has been ruled out of Sunday's game in Cleveland."
+    },
     {
       "player_id": "13477",
       "source_id": "5092508",
@@ -126,6 +139,32 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
+      "player_id": "8121",
+      "source_id": "4361432",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-22",
+      "injury_comment": "Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports."
+    },
+    {
+      "player_id": "7090",
+      "source_id": "4040655",
+      "player_name": "Darnell Mooney",
+      "position": "WR",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Mooney (neck) is questionable to return to Sunday's game against the Saints, Ross Jackson of WWL Louisiana reports."
+    },
+    {
       "player_id": "11582",
       "source_id": "4714365",
       "player_name": "Carson Steele",
@@ -136,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Steele (shoulder) has been ruled out for the remainder of Sunday's game against the Panthers."
+      "injury_comment": "Steele is questionable to return to Sunday's game against the Panthers due to a right shoulder injury."
     },
     {
       "player_id": "2216",
@@ -244,19 +283,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-25",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "7571",
-      "source_id": "4360939",
-      "player_name": "Rashod Bateman",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Bateman (shoulder) has been ruled out of Sunday's game in Cleveland."
     },
     {
       "player_id": "4881",
@@ -580,7 +606,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
-      "est_return_date": null,
+      "est_return_date": "2026-10-25",
       "injury_comment": "inactive"
     },
     {
@@ -606,7 +632,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
-      "est_return_date": null,
+      "est_return_date": "2026-10-25",
       "injury_comment": "inactive"
     },
     {
@@ -647,6 +673,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "McConkey won't return to Sunday's game at Kansas City due to a concussion."
     },
     {
       "player_id": "13630",
@@ -712,19 +751,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-10-22",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "8121",
-      "source_id": "4361432",
-      "player_name": "Romeo Doubs",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-22",
-      "injury_comment": "Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "13295",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T19:25:10.139Z",
+  "lastUpdated": "2026-10-18T21:38:48.912Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -10574,6 +10574,13 @@
           "date": "2026-10-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "NYG"
         }
       ]
     },
@@ -11927,6 +11934,13 @@
           "date": "2026-10-18",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Shoulder",
+          "team": "BAL"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Shoulder",
           "team": "BAL"
         }
@@ -14065,6 +14079,13 @@
           "date": "2026-10-18",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Shoulder",
+          "team": "NE"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Shoulder",
           "team": "NE"
         }
@@ -26964,6 +26985,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Concussion",
+          "team": "LAC"
         }
       ]
     },
