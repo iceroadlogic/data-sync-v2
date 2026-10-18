@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T21:38:48.912Z",
+  "lastUpdated": "2026-10-18T23:39:43.719Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -21496,6 +21496,13 @@
           "date": "2026-05-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "BUF"
         }
       ]
     },
@@ -22309,6 +22316,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
@@ -30796,6 +30810,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "GB"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -39625,6 +39644,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-18",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
