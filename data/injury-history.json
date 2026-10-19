@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T01:42:38.762Z",
+  "lastUpdated": "2026-10-19T12:46:54.003Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -27011,6 +27011,13 @@
           "date": "2026-10-18",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Concussion",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Concussion",
           "team": "LAC"
         }

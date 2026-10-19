@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-19T01:42:38.762Z",
+  "lastUpdated": "2026-10-19T12:46:54.003Z",
   "week": 6,
   "summary": {
     "total_players": 777,
-    "questionable": 17,
+    "questionable": 18,
     "doubtful": 0,
-    "out": 71
+    "out": 70
   },
   "questionable": [
     {
@@ -31,7 +31,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ribs",
-      "est_return_date": "2026-10-18",
+      "est_return_date": "2026-11-01",
       "injury_comment": "Kincaid (ribs) is questionable to return to Sunday's game against the Raiders."
     },
     {
@@ -57,8 +57,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ribs",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Turpin (ribs) is questionable to return to Sunday night's matchup against Green Bay, Tommy Yarrish of the Cowboys' official site reports."
+      "est_return_date": "2026-10-26",
+      "injury_comment": "Turpin (ribs) has been ruled out for the rest of Sunday night's contest versus the Packers, Tommy Yarrish of the Cowboys' official site reports."
     },
     {
       "player_id": "8208",
@@ -98,6 +98,19 @@
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-25",
       "injury_comment": "Gould (concussion) won't return to Sunday's game against the Titans, Mike Chappell of Fox 59 News Indianapolis reports."
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "McConkey won't return to Sunday's game at Kansas City due to a concussion."
     },
     {
       "player_id": "13296",
@@ -174,7 +187,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-10-18",
+      "est_return_date": "2026-10-25",
       "injury_comment": "Mooney (neck) is questionable to return to Sunday's game against the Saints, Ross Jackson of WWL Louisiana reports."
     },
     {
@@ -712,19 +725,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "11635",
-      "source_id": "4612826",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "McConkey won't return to Sunday's game at Kansas City due to a concussion."
     },
     {
       "player_id": "13630",
