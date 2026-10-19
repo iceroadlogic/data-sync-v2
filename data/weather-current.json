@@ -1,6 +1,6 @@
 {
   "week": 6,
-  "lastUpdated": "2026-10-18T23:41:11.041Z",
+  "lastUpdated": "2026-10-19T01:45:16.112Z",
   "games": [
     {
       "game_id": "401872995",
@@ -9,9 +9,9 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "6 mph ENE",
-        "conditions": "Partly Sunny",
+        "temp": 43,
+        "wind": "1 to 5 mph N",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 60,
-        "wind": "15 to 18 mph N",
+        "wind": "17 mph N",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 35,
-        "wind": "0 to 3 mph NE",
+        "wind": "2 mph NE",
         "conditions": "Clear then Patchy Frost",
         "precipitation": "0%"
       }
@@ -104,7 +104,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "9 to 15 mph NNE",
+        "wind": "9 to 13 mph NNE",
         "conditions": "Mostly Clear",
         "precipitation": "3%"
       }
@@ -116,9 +116,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "10 mph WSW",
-        "conditions": "Sunny",
+        "temp": 63,
+        "wind": "5 to 10 mph SE",
+        "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
     },
@@ -130,7 +130,7 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "3 to 8 mph S",
+        "wind": "6 mph S",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -151,7 +151,7 @@
       "is_dome": false,
       "weather": {
         "temp": 44,
-        "wind": "6 to 13 mph SSW",
+        "wind": "6 to 10 mph SW",
         "conditions": "Clear",
         "precipitation": "0%"
       }
