@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T21:52:03.669Z",
+  "lastUpdated": "2026-10-19T17:57:04.910Z",
   "week": 6,
   "summary": {
-    "total_players": 779,
-    "ir": 90,
+    "total_players": 777,
+    "ir": 91,
     "suspended": 0
   },
   "ir": [
@@ -203,6 +203,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "5409",
+      "source_id": "3050481",
+      "player_name": "Tanner Hudson",
+      "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Pectoral",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "10226",
       "source_id": "4368003",
       "player_name": "Andrei Iosivas",
@@ -224,9 +237,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Gabriel (back) has been ruled out ahead of Sunday's game against the Jets, Daniel Oyefusi of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12469",
@@ -250,9 +263,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "The Browns placed Sanders (hip) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8800",
@@ -395,7 +408,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "ir"
+      "injury_comment": "The Packers placed Moore (ankle) on injured reserve Saturday."
     },
     {
       "player_id": "10222",
@@ -849,8 +862,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Saints head coach Kellen Moore said Monday that Tyson (hamstring) is \"progressing well\" but isn't on track to return to practice this week, Jeff Nowak of WWL New Orleans reports."
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Saints head coach Kellen Moore said that Tyson (hamstring) traveled to Paris in advance of Sunday's game against the Steelers, NewOrleans.football reports."
     },
     {
       "player_id": "8125",
@@ -931,19 +944,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "6904",
-      "source_id": "4040715",
-      "player_name": "Jalen Hurts",
-      "position": "QB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "The Eagles placed Hurts (calf) on injured reserve Saturday, Adam Schefter of ESPN reports."
-    },
-    {
       "player_id": "8177",
       "source_id": "4241374",
       "player_name": "Grant Calcaterra",
@@ -953,8 +953,21 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Back",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Calcaterra (back) is questionable for Sunday's game against the Panthers."
+      "est_return_date": "2026-10-26",
+      "injury_comment": "The Eagles downgraded Calcaterra (back) to out Saturday for Sunday's game against the Panthers."
+    },
+    {
+      "player_id": "6904",
+      "source_id": "4040715",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "11577",
@@ -965,9 +978,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "The Eagles placed Shipley (foot) on injured reserve Friday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13349",
@@ -979,8 +992,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-18",
-      "injury_comment": "Stowers (quadriceps) is questionable for Sunday's game against the Panthers."
+      "est_return_date": "2026-10-26",
+      "injury_comment": "The Eagles have downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers."
     },
     {
       "player_id": "11636",
@@ -996,19 +1009,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11630",
-      "source_id": "4431492",
-      "player_name": "Roman Wilson",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Wilson (finger) was placed on injured reserve Saturday, Ray Fittipaldo of the Pittsburgh Post-Gazette reports."
-    },
-    {
       "player_id": "6819",
       "source_id": "4035687",
       "player_name": "Michael Pittman Jr.",
@@ -1022,6 +1022,19 @@
       "injury_comment": "The Steelers placed Pittman (foot) on injured reserve Saturday."
     },
     {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Wilson (finger) was placed on injured reserve Saturday, Ray Fittipaldo of the Pittsburgh Post-Gazette reports."
+    },
+    {
       "player_id": "4950",
       "source_id": "3895856",
       "player_name": "Christian Kirk",
@@ -1032,7 +1045,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-10-19",
-      "injury_comment": "Head coach Kyle Shanahan said Saturday that the 49ers may activate Kirk (calf) from injured reserve ahead of Monday's game against the Commanders, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Kirk (calf), who is listed as questionable for Monday's matchup with the Commanders, is expected to be reinstated from injured reserve ahead of the Week 6 game, Cam Inman of The San Jose Mercury News reports."
     },
     {
       "player_id": "11638",
@@ -1135,7 +1148,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-18",
+      "est_return_date": "2026-10-25",
       "injury_comment": "Sills (hamstring) is listed as questionable for Sunday's game against the Steelers."
     },
     {
@@ -1175,7 +1188,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-19",
-      "injury_comment": "McNichols (quadriceps) was a full participant in Friday's practice."
+      "injury_comment": "McNichols (quadriceps) is questionable for Monday night's game against the 49ers."
     }
   ],
   "suspended": []
