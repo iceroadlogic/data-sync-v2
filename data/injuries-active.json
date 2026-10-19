@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-18T23:39:43.719Z",
+  "lastUpdated": "2026-10-19T01:42:38.762Z",
   "week": 6,
   "summary": {
     "total_players": 777,
-    "questionable": 16,
+    "questionable": 17,
     "doubtful": 0,
     "out": 71
   },
@@ -46,6 +46,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-10-25",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "8917",
+      "source_id": "3676833",
+      "player_name": "KaVontae Turpin",
+      "position": "WR",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-10-18",
+      "injury_comment": "Turpin (ribs) is questionable to return to Sunday night's matchup against Green Bay, Tommy Yarrish of the Cowboys' official site reports."
     },
     {
       "player_id": "8208",
