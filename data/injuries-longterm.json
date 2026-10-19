@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-19T17:57:04.910Z",
+  "lastUpdated": "2026-10-19T23:12:32.395Z",
   "week": 6,
   "summary": {
-    "total_players": 777,
-    "ir": 91,
+    "total_players": 778,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -460,7 +460,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL + MCL",
       "est_return_date": "2026-10-25",
-      "injury_comment": "The Texans ruled out Dell (knee) for Sunday's game against the Jaguars in London."
+      "injury_comment": "Texans head coach DeMeco Ryans said Monday that Dell (knee) is on track to return from injured reserve to make his season debut in Week 7 versus the Giants, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "12484",
@@ -511,8 +511,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Heel",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Pierce was spotted without a cast on his left ankle/heel Wednesday, James Boyd of The Athletic reports."
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Colts head coach Shane Steichen said Monday that Pierce (heel) won't have his 21-day practice window opened in Week 7, Nathan Brown of The Indianapolis Star reports."
     },
     {
       "player_id": "13407",
@@ -746,7 +746,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
-      "injury_comment": "The Vikings are hopeful that Mason (thumb) will be ready to return from injured reserve for their Week 7 game versus the Colts, Jeremy Fowler of ESPN.com reports."
+      "injury_comment": "The Vikings designated Mason (thumb) for return from injured reserve Monday."
     },
     {
       "player_id": "5973",
@@ -760,6 +760,19 @@
       "injury_detail": "Biceps",
       "est_return_date": "2027-01-17",
       "injury_comment": "The Vikings placed Oliver (biceps) on injured reserve Tuesday, Craig Peters of the team's official site reports."
+    },
+    {
+      "player_id": "8121",
+      "source_id": "4361432",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "The Patriots placed Doubs (shoulder) on injured reserve Monday."
     },
     {
       "player_id": "11371",
@@ -1044,8 +1057,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Calf",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "Kirk (calf), who is listed as questionable for Monday's matchup with the Commanders, is expected to be reinstated from injured reserve ahead of the Week 6 game, Cam Inman of The San Jose Mercury News reports."
+      "est_return_date": "2026-10-25",
+      "injury_comment": "The 49ers downgraded Kirk (calf) to out for Monday's game against the Commanders, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "11638",
@@ -1165,6 +1178,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12533",
+      "source_id": "4575131",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-23",
+      "injury_comment": "The Commanders placed Croskey-Merritt (groin) on injured reserve Monday."
+    },
+    {
       "player_id": "12641",
       "source_id": "4602667",
       "player_name": "Jaylin Lane",
@@ -1176,19 +1202,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "4219",
-      "source_id": "3127586",
-      "player_name": "Jeremy McNichols",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "McNichols (quadriceps) is questionable for Monday night's game against the 49ers."
     }
   ],
   "suspended": []

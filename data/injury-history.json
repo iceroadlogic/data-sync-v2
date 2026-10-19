@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T17:57:04.910Z",
+  "lastUpdated": "2026-10-19T23:12:32.395Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -823,6 +823,13 @@
           "date": "2026-01-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "LAR"
         }
       ]
     },
@@ -1019,6 +1026,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "SF"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -1299,6 +1311,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -3683,6 +3700,11 @@
           "to": "IR",
           "detail": "Quadriceps",
           "team": "WAS"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -6736,6 +6758,11 @@
           "to": "Out",
           "detail": "Groin",
           "team": "GB"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -14128,6 +14155,13 @@
           "date": "2026-10-18",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "NE"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Shoulder",
           "team": "NE"
         }
@@ -21557,6 +21591,11 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "BUF"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -30645,6 +30684,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SF"
         }
       ]
     },
@@ -33796,6 +33842,13 @@
           "date": "2026-10-17",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Groin",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-19",
+          "from": "Out",
+          "to": "IR",
           "detail": "Groin",
           "team": "WAS"
         }
