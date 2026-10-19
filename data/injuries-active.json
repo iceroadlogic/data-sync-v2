@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-19T19:44:48.054Z",
+  "lastUpdated": "2026-10-19T23:58:36.188Z",
   "week": 6,
   "summary": {
-    "total_players": 777,
-    "questionable": 17,
-    "doubtful": 1,
-    "out": 34
+    "total_players": 778,
+    "questionable": 13,
+    "doubtful": 0,
+    "out": 35
   },
   "questionable": [
     {
@@ -20,19 +20,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-25",
       "injury_comment": "Ravens head coach Jesse Minter said Monday that Bateman (shoulder) \"should be OK\" after exiting late in the second quarter of Sunday's 13-10 loss to the Browns, Jeff Zrebiec of The Athletic reports."
-    },
-    {
-      "player_id": "10236",
-      "source_id": "4385690",
-      "player_name": "Dalton Kincaid",
-      "position": "TE",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Kincaid (ribs) is questionable to return to Sunday's game against the Raiders."
     },
     {
       "player_id": "13477",
@@ -165,19 +152,6 @@
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
     },
     {
-      "player_id": "8121",
-      "source_id": "4361432",
-      "player_name": "Romeo Doubs",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-22",
-      "injury_comment": "Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports."
-    },
-    {
       "player_id": "7090",
       "source_id": "4040655",
       "player_name": "Darnell Mooney",
@@ -202,49 +176,9 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-26",
       "injury_comment": "Steele is questionable to return to Sunday's game against the Panthers due to a right shoulder injury."
-    },
-    {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "Evans (ribs/Achilles), who is listed as questionable for Monday's contest against the Commanders, is viewed as a game-time decision, Cam Inman of The San Jose Mercury News reports."
-    },
-    {
-      "player_id": "2449",
-      "source_id": "2976212",
-      "player_name": "Stefon Diggs",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-19",
-      "injury_comment": "Diggs (hamstring) is listed as questionable for Monday's game against San Francisco."
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "12521",
-      "source_id": "4678006",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Arroyo is expected to miss time after exiting Thursday's 17-14 loss to the Broncos due to a shoulder injury, Jeremy Fowler of ESPN.com reports."
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "13287",
@@ -257,7 +191,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "out"
+      "injury_comment": "Head coach Mike LaFleur said Monday that Love (ankle) is expected to do some running Tuesday, Tyler Drake of ArizonaSports.com reports."
     },
     {
       "player_id": "11716",
@@ -283,7 +217,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Ravens head coach Jesse Minter said Monday that Jackson could \"potentially\" practice in Week 7 and is still being considered day-to-day, Ryan Mink of the team's official site reports."
+      "injury_comment": "Ravens head coach Jesse Minter said Monday that Jackson (ankle) could \"potentially\" practice in Week 7 and is still being considered day-to-day, Ryan Mink of the team's official site reports."
     },
     {
       "player_id": "4983",
@@ -362,19 +296,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "5850",
-      "source_id": "4047365",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Jacobs (personal) will be removed from the Commissioner's Exempt List on Monday and be eligible to play as soon as the Packers' Week 7 game at Detroit, Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "9481",
@@ -494,6 +415,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "2133",
+      "source_id": "16800",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Adams sustained a ruptured left hamstring in Sunday's 18-16 loss to the Cardinals and is slated to undergo a procedure that he hopes will allow him to return a little after the Rams' Week 11 bye, Ian Rapoport of NFL Network reports."
+    },
+    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -585,6 +519,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "5872",
       "source_id": "3126486",
       "player_name": "Deebo Samuel Sr.",
@@ -595,7 +542,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Head coach Kyle Shanahan said Thursday that the 49ers will \"hold off\" on placing Samuel (hamstring) on IR due to the team's bye in Week 8, Vic Tafur of the Athletic reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "11651",
@@ -611,6 +558,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12521",
+      "source_id": "4678006",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "Head coach Mike Macdonald confirmed with reporters Monday that Arroyo will miss \"significant time\" due to a shoulder injury that he picked up during Thursday's 17-14 overtime loss to the Broncos, John Boyle of the Seahawks' official site reports."
+    },
+    {
       "player_id": "9753",
       "source_id": "4426385",
       "player_name": "Zach Charbonnet",
@@ -621,7 +581,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Charbonnet (knee) has been ruled out for Thursday's game at Denver, Corbin K. Smith of EmeraldCitySpectrum.com reports."
+      "injury_comment": "Head coach Mike Macdonald said Monday that Charbonnet (knee) is slated for a \"full week of work\" and has a \"good chance\" to play Sunday night against the Chiefs, Gregg Bell of The Tacoma News Tribune reports."
     },
     {
       "player_id": "13047",
@@ -663,19 +623,6 @@
       "injury_comment": "out"
     },
     {
-      "player_id": "12533",
-      "source_id": "4575131",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Croskey-Merritt (groin) has been ruled out for Monday night's game against the 49ers, Tashan Reed of The Washington Post reports."
-    },
-    {
       "player_id": "2307",
       "source_id": "2576980",
       "player_name": "Marcus Mariota",
@@ -686,7 +633,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Mariota (knee) has been ruled out for Monday's game against the 49ers, Tashan Reed of The Washington Post reports."
+      "injury_comment": "inactive"
     }
   ]
 }
