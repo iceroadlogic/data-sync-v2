@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-20T01:39:06.989Z",
-  "week": 6,
+  "lastUpdated": "2026-10-20T11:17:13.199Z",
+  "week": 7,
   "summary": {
     "total_players": 778,
     "questionable": 14,
-    "doubtful": 0,
+    "doubtful": 1,
     "out": 36
   },
   "questionable": [
@@ -191,7 +191,21 @@
       "injury_comment": "Steele is questionable to return to Sunday's game against the Panthers due to a right shoulder injury."
     }
   ],
-  "doubtful": [],
+  "doubtful": [
+    {
+      "player_id": "2216",
+      "source_id": "16737",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Achilles",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "doubtful"
+    }
+  ],
   "out": [
     {
       "player_id": "13287",

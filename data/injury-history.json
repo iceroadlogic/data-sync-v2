@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T00:59:57.988Z",
+  "lastUpdated": "2026-10-20T11:17:13.199Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1031,6 +1031,13 @@
           "date": "2026-10-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Healthy",
+          "to": "Doubtful",
+          "detail": "Achilles",
+          "team": "SF"
         }
       ]
     },
