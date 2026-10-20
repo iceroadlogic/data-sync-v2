@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-20T16:01:05.434Z",
+  "lastUpdated": "2026-10-20T22:49:05.856Z",
   "week": 7,
   "summary": {
-    "total_players": 779,
-    "ir": 92,
+    "total_players": 778,
+    "ir": 91,
     "suspended": 0
   },
   "ir": [
@@ -606,19 +606,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13898",
-      "source_id": "4433901",
-      "player_name": "Corey Rucker",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "13122",
       "source_id": "5155825",
       "player_name": "Carter Runyon",
@@ -671,6 +658,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "2133",
+      "source_id": "16800",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Adams (hamstring) was placed on injured reserve Tuesday, Ian Rapoport of NFL Network reports."
+    },
+    {
       "player_id": "13597",
       "source_id": "4877717",
       "player_name": "Matthew Caldwell",
@@ -692,9 +692,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Ferguson (ankle), who is eligible to come off injured reserve next week, isn't expected to be ready at that time, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "8195",
@@ -805,19 +805,6 @@
       "source_id": "4676889",
       "player_name": "Myles Montgomery",
       "position": "RB",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13124",
-      "source_id": "4572655",
-      "player_name": "Jeremiah Webb",
-      "position": "WR",
       "team_abbr": "NE",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:25:16.346Z",
+  "lastUpdated": "2026-10-20T22:49:05.856Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -828,6 +828,13 @@
           "date": "2026-10-19",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Out",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "LAR"
         }
@@ -7309,6 +7316,13 @@
           "date": "2026-10-20",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Knee",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Knee",
           "team": "WAS"
         }
@@ -24704,6 +24718,13 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Shoulder",
+          "team": "PHI"
         }
       ]
     },
@@ -28417,6 +28438,12 @@
           "date": "2026-08-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "CLE"
         }
       ]
     },
@@ -36433,6 +36460,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Arm",
+          "team": "NE"
         }
       ]
     },
@@ -40393,6 +40427,13 @@
           "date": "2026-08-06",
           "from": "Healthy",
           "to": "IR",
+          "detail": "Undisclosed",
+          "team": "LV"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LV"
         }
