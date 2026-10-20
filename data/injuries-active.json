@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-19T23:58:36.188Z",
+  "lastUpdated": "2026-10-20T00:59:57.988Z",
   "week": 6,
   "summary": {
     "total_players": 778,
-    "questionable": 13,
+    "questionable": 14,
     "doubtful": 0,
-    "out": 35
+    "out": 36
   },
   "questionable": [
     {
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Turpin (ribs) has been ruled out for the rest of Sunday night's contest versus the Packers, Tommy Yarrish of the Cowboys' official site reports."
+      "injury_comment": "Turpin (ribs) is expected to miss the team's Week 7 matchup with the Eagles, Joe Hoyt of The Dallas Morning News reports."
     },
     {
       "player_id": "8208",
@@ -150,6 +150,19 @@
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-25",
       "injury_comment": "The Vikings downgraded Hockenson to out for Sunday's game against the Saints due to a concussion."
+    },
+    {
+      "player_id": "5859",
+      "source_id": "4047646",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-22",
+      "injury_comment": "Brown (ankle) was listed as limited on Monday's estimated practice report."
     },
     {
       "player_id": "7090",
@@ -269,7 +282,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-10-22",
-      "injury_comment": "out"
+      "injury_comment": "Monangai (thumb/toe) was listed as a non-participant on Monday's estimated injury report."
     },
     {
       "player_id": "12512",
@@ -634,6 +647,19 @@
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-11-01",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "5927",
+      "source_id": "3121422",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "McLaurin (hamstring) does not have an injury designation ahead of Monday's game against the 49ers."
     }
   ]
 }

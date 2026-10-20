@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T23:58:36.188Z",
+  "lastUpdated": "2026-10-20T00:59:57.988Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6902,6 +6902,13 @@
           "date": "2026-10-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NE"
         }
       ]
     },
@@ -7234,6 +7241,13 @@
           "date": "2026-10-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "WAS"
         }
       ]
     },
