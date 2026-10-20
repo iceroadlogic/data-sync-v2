@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T11:17:13.199Z",
+  "lastUpdated": "2026-10-20T16:01:05.434Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1036,6 +1036,13 @@
           "date": "2026-10-20",
           "from": "Healthy",
           "to": "Doubtful",
+          "detail": "Achilles",
+          "team": "SF"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Doubtful",
+          "to": "Questionable",
           "detail": "Achilles",
           "team": "SF"
         }
@@ -7253,6 +7260,13 @@
           "date": "2026-10-20",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Knee",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-20",
+          "from": "Out",
+          "to": "Doubtful",
           "detail": "Knee",
           "team": "WAS"
         }

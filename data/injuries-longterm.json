@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-19T23:12:32.395Z",
-  "week": 6,
+  "lastUpdated": "2026-10-20T16:01:05.434Z",
+  "week": 7,
   "summary": {
-    "total_players": 778,
+    "total_players": 779,
     "ir": 92,
     "suspended": 0
   },
@@ -213,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Pectoral",
       "est_return_date": "2027-02-15",
-      "injury_comment": "ir"
+      "injury_comment": "Hudson (pectoral) was placed on injured reserve by the Bengals on Monday."
     },
     {
       "player_id": "10226",
@@ -772,7 +772,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-29",
-      "injury_comment": "The Patriots placed Doubs (shoulder) on injured reserve Monday."
+      "injury_comment": "Doubs (shoulder) is hopeful to return after the Patriots' Week 11 bye and isn't expected to face a long-term absence, Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "11371",
@@ -1082,9 +1082,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Head coach Kyle Shanahan said Thursday that Robinson (ankle) has an \"outside chance\" to return from injured reserve for the 49ers' Week 7 game versus the Falcons but is more likely to be activated following the team's Week 8 bye, David Lombardi of SFStandard.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13417",
