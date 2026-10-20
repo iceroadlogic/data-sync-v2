@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-20T14:44:30.516Z",
+  "lastUpdated": "2026-10-20T19:51:27.230Z",
   "games": [
     {
       "game_id": "401873010",
@@ -9,7 +9,7 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 51,
         "wind": "5 mph E",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
@@ -38,9 +38,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
-        "wind": "0 to 5 mph SE",
-        "conditions": "Mostly Sunny",
+        "temp": 75,
+        "wind": "0 to 5 mph SSE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -59,8 +59,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "5 mph W",
+        "temp": 65,
+        "wind": "3 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -72,8 +72,8 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "8 mph NE",
+        "temp": 68,
+        "wind": "9 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -85,8 +85,8 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "3 mph SW",
+        "temp": 65,
+        "wind": "3 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -130,10 +130,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "6 mph NNE",
+        "temp": 58,
+        "wind": "6 mph NE",
         "conditions": "Chance Light Rain",
-        "precipitation": "36%"
+        "precipitation": "31%"
       }
     },
     {
@@ -143,10 +143,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "5 mph W",
+        "temp": 50,
+        "wind": "0 to 5 mph W",
         "conditions": "Partly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     }
   ]
