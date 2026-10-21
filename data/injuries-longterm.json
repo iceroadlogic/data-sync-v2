@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-20T22:49:05.856Z",
+  "lastUpdated": "2026-10-21T16:17:40.770Z",
   "week": 7,
   "summary": {
-    "total_players": 778,
+    "total_players": 773,
     "ir": 91,
     "suspended": 0
   },
@@ -663,7 +663,7 @@
       "player_name": "Davante Adams",
       "position": "WR",
       "team_abbr": "LAR",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
@@ -693,7 +693,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-11-01",
+      "est_return_date": "2026-11-08",
       "injury_comment": "Ferguson (ankle), who is eligible to come off injured reserve next week, isn't expected to be ready at that time, Adam Schefter of ESPN reports."
     },
     {
@@ -862,8 +862,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Saints head coach Kellen Moore said that Tyson (hamstring) traveled to Paris in advance of Sunday's game against the Steelers, NewOrleans.football reports."
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Saints general manager Mickey Loomis said Tuesday that Tyson (hamstring) is \"getting closer\" but won't practice this week, Ross Jackson of WWL Louisiana reports."
     },
     {
       "player_id": "8125",
@@ -1017,9 +1017,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "The Steelers placed Pittman (foot) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11630",
@@ -1173,9 +1173,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-23",
-      "injury_comment": "The Commanders placed Croskey-Merritt (groin) on injured reserve Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12641",
