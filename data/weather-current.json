@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-21T00:23:48.181Z",
+  "lastUpdated": "2026-10-21T14:53:42.852Z",
   "games": [
     {
       "game_id": "401873010",
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "0 to 5 mph SSE",
+        "wind": "0 to 5 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -73,7 +73,7 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "9 mph NE",
+        "wind": "10 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "3 mph S",
+        "wind": "3 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -131,9 +131,9 @@
       "is_dome": false,
       "weather": {
         "temp": 58,
-        "wind": "6 mph NE",
+        "wind": "7 mph NE",
         "conditions": "Chance Light Rain",
-        "precipitation": "31%"
+        "precipitation": "26%"
       }
     },
     {
@@ -143,10 +143,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
+        "temp": 49,
         "wind": "0 to 5 mph W",
-        "conditions": "Partly Cloudy",
-        "precipitation": "1%"
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     }
   ]
