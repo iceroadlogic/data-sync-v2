@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-21T11:32:56.557Z",
+  "lastUpdated": "2026-10-21T18:30:56.283Z",
   "week": 7,
   "summary": {
     "total_players": 773,
-    "questionable": 31,
-    "doubtful": 2,
-    "out": 16
+    "questionable": 33,
+    "doubtful": 1,
+    "out": 17
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Ravens head coach Jesse Minter said Monday that Bateman (shoulder) \"should be OK\" after exiting late in the second quarter of Sunday's 13-10 loss to the Browns, Jeff Zrebiec of The Athletic reports."
+      "injury_comment": "Bateman (shoulder) is taking part in Wednesday's practice, Brian Wacker of The Baltimore Sun reports."
     },
     {
       "player_id": "4881",
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Jackson (ankle) wasn't present for the open portion of Wednesday's practice, Jonas Shaffer of TheBaltimoreBanner.com reports."
     },
     {
       "player_id": "4983",
@@ -110,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Browns head coach Todd Monken said that he's optimistic that Judkins (ankle) will be available for Sunday's game against the Titans, Daniel Oyefusi of ESPN.comreports."
     },
     {
       "player_id": "8917",
@@ -149,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Montgomery (groin) isn't slated to practice Wednesday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "13862",
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Head coach Andy Reid said that Rice (hamstring) won't practice Wednesday, Nate Taylor of ESPN.com reports."
     },
     {
       "player_id": "12509",
@@ -344,7 +344,20 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Jets head coach Aaron Glenn said that Hall (quadriceps) won't practice Wednesday but hasn't been ruled out from playing Sunday versus the Dolphins, Al Iannazzone of Newsday reports."
+    },
+    {
+      "player_id": "11625",
+      "source_id": "4597500",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Jets head coach Aaron Glenn said that Mitchell (finger) will be a limited participant in Wednesday's practice."
     },
     {
       "player_id": "4866",
@@ -396,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Mayfield (thumb) was seen participating in Wednesday's practice and was throwing while wearing a glove on his right hand, Rick Stroud of the Tampa Bay Times reports."
     },
     {
       "player_id": "9506",
@@ -410,22 +423,22 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-25",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "9508",
+      "source_id": "4428557",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Titans head coach Robert Saleh said that Spears won't participate in Wednesday's practice, Jim Wyatt of the team's official site reports."
     }
   ],
   "doubtful": [
-    {
-      "player_id": "11625",
-      "source_id": "4597500",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Finger",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "doubtful"
-    },
     {
       "player_id": "2307",
       "source_id": "2576980",
@@ -500,6 +513,19 @@
       "position": "TE",
       "team_abbr": "GB",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "11588",
+      "source_id": "4429939",
+      "player_name": "Jawhar Jordan",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,
@@ -647,7 +673,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
-      "injury_comment": "McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com."
+      "injury_comment": "Commanders head coach Dan Quinn announced Monday that McLaurin has been diagnosed with a torn patellar tendon in his left knee following an MRI and will miss the rest of the season."
     }
   ]
 }
