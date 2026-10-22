@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T22:51:44.045Z",
+  "lastUpdated": "2026-10-22T23:48:44.742Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -5738,6 +5738,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "PHI"
         }
       ]
     },
@@ -18117,6 +18124,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19226,6 +19238,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "PHI"
         }
       ]
     },
@@ -25985,6 +26004,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -38064,6 +38088,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
