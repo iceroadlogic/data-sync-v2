@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:33:08.046Z",
+  "lastUpdated": "2026-10-22T16:16:43.216Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -39003,6 +39003,13 @@
           "date": "2026-10-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "LAC"
         }
       ]
     },
