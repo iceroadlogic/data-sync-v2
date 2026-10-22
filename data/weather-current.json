@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-22T00:27:10.767Z",
+  "lastUpdated": "2026-10-22T14:53:46.629Z",
   "games": [
     {
       "game_id": "401873010",
@@ -11,7 +11,7 @@
       "weather": {
         "temp": 51,
         "wind": "5 mph E",
-        "conditions": "Partly Cloudy",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -38,7 +38,7 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 76,
+        "temp": 77,
         "wind": "0 to 5 mph SSE",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -60,7 +60,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "3 mph W",
+        "wind": "2 mph W",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -72,8 +72,8 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "12 mph NE",
+        "temp": 69,
+        "wind": "10 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "3 mph E",
+        "wind": "3 mph NE",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -130,10 +130,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "5 mph NE",
+        "temp": 58,
+        "wind": "5 mph NNE",
         "conditions": "Chance Light Rain",
-        "precipitation": "33%"
+        "precipitation": "34%"
       }
     },
     {
