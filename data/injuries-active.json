@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-22T00:32:49.339Z",
+  "lastUpdated": "2026-10-22T11:33:08.046Z",
   "week": 7,
   "summary": {
-    "total_players": 773,
-    "questionable": 53,
+    "total_players": 774,
+    "questionable": 54,
     "doubtful": 1,
-    "out": 18
+    "out": 17
   },
   "questionable": [
     {
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Beck (back) was a limited participant at practice Wednesday, Darren Urban of the Cardinals' official site reports."
     },
     {
       "player_id": "13287",
@@ -58,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Zaccheaus (shoulder) was a limited participant at the Falcons' practice Wednesday, Daniel Flick of The Atlanta Journal-Constitution reports."
     },
     {
       "player_id": "7571",
@@ -386,6 +386,19 @@
       "injury_comment": "Washington (foot/back) was limited in Wednesday's practice, Around The NFL reports."
     },
     {
+      "player_id": "9490",
+      "source_id": "4565908",
+      "player_name": "Tyler Scott",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "practice-squad",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "12509",
       "source_id": "4686612",
       "player_name": "Tre' Harris",
@@ -435,7 +448,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Kacmarek (hamstring) was a limited participant at the Dolphins' practice Wednesday, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "11643",
@@ -461,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Hockenson (concussion) was a full practice participant Wednesday."
+      "injury_comment": "Head coach Kevin O'Connell said that Hockenson (concussion) is expected to practice Wednesday, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "6794",
@@ -474,7 +487,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Jefferson (ankle) was a limited at Wednesday's practice."
+      "injury_comment": "Jefferson (ankle) was limited at Wednesday's practice."
     },
     {
       "player_id": "13277",
@@ -604,7 +617,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Skowronek (calf) did not practice Wednesday, Teresa Varley of the Steelers' official site reports."
     },
     {
       "player_id": "2216",
@@ -630,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-10-25",
-      "injury_comment": "questionable"
+      "injury_comment": "Lock (elbow) was a limited participant in Wednesday's practice, Corbin K. Smith of EmeraldCitySpectrum.com reports."
     },
     {
       "player_id": "8676",
@@ -811,19 +824,6 @@
       "player_name": "Noah Whittington",
       "position": "RB",
       "team_abbr": "HOU",
-      "injury_status": "practice-squad",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "9490",
-      "source_id": "4565908",
-      "player_name": "Tyler Scott",
-      "position": "WR",
-      "team_abbr": "LV",
       "injury_status": "practice-squad",
       "injury_designation": "Out",
       "injury_description": null,
