@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T16:16:43.216Z",
+  "lastUpdated": "2026-10-22T18:26:41.584Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -20233,6 +20233,13 @@
           "to": "Out",
           "detail": "Knee - ACL",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Out",
+          "to": "Questionable",
+          "detail": "Knee - ACL",
+          "team": "SEA"
         }
       ]
     },
@@ -33840,6 +33847,13 @@
           "date": "2026-10-19",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Shoulder",
+          "team": "SEA"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Out",
+          "to": "IR",
           "detail": "Shoulder",
           "team": "SEA"
         }

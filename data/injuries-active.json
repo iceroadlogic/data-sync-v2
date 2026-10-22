@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-22T11:33:08.046Z",
+  "lastUpdated": "2026-10-22T18:26:41.584Z",
   "week": 7,
   "summary": {
     "total_players": 774,
-    "questionable": 54,
+    "questionable": 56,
     "doubtful": 1,
-    "out": 17
+    "out": 15
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Love (ankle) will not practice Wednesday, per Dani Sureck of the Cardinals' official site."
+      "injury_comment": "The Cardinals expect to remain without Love (ankle) for Sunday's game against the Broncos, Matt Zenitz of CBS Sports reports Thursday."
     },
     {
       "player_id": "8154",
@@ -84,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Jackson (ankle) was listed as a  limited participant Wednesday."
+      "injury_comment": "Jackson (ankle) is taking the practice field with his teammates Thursday, Jamison Hensley of ESPN.com reports."
     },
     {
       "player_id": "4983",
@@ -188,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Golden (shoulder) was listed as a limited participant on Wednesday's estimated injury report, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Head coach Matt LaFleur said Thursday that the Packers have no concern regarding Golden's (shoulder) availability for Sunday's game against the Lions, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "6804",
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Melton (back) was a limited participant in Wednesday's walkthrough practice, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Melton (back) was a non-participant participant in Wednesday's walkthrough practice, Matt Schneidman of The Athletic reports."
     },
     {
       "player_id": "8167",
@@ -227,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Watson was listed as a limited participant on Wednesday's practice estimate due to an ankle injury, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Head coach Matt LaFleur said Thursday that the team has no concern regarding Watson's (ankle) availability for Sunday's game against the Lions, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "12482",
@@ -253,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Montgomery (groin) isn't practicing Wednesday, Aaron Wilson of KPRC 2 Houston reports."
+      "injury_comment": "Montgomery (groin) isn't practicing Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "5001",
@@ -266,7 +266,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Schultz didn't practice Wednesday due to a quadriceps injury."
+      "injury_comment": "Schultz (qaudriceps) returned to practice Thursday, Aaron Wilson of KPRC 2 Houston reports."
     },
     {
       "player_id": "13862",
@@ -331,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Warren (groin) did not practice Wednesday."
+      "injury_comment": "Warren (groin) was not present for Thursday's practice, Kevin Bowen of 107.5 The Fan Indianapolis reports."
     },
     {
       "player_id": "1466",
@@ -370,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Bowers (hamstring/calf) was a limited participant in Wednesday's practice, Around The NFL reports."
+      "injury_comment": "Bowers was a limited participant in Wednesday's practice due to hamstring and calf injuries."
     },
     {
       "player_id": "13305",
@@ -383,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Washington (foot/back) was limited in Wednesday's practice, Around The NFL reports."
+      "injury_comment": "Washington was a limited participant in Wednesday's practice due to foot and back injuries."
     },
     {
       "player_id": "9490",
@@ -423,6 +423,19 @@
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-01",
       "injury_comment": "McConkey won't return to Sunday's game at Kansas City due to a concussion."
+    },
+    {
+      "player_id": "13380",
+      "source_id": "4685553",
+      "player_name": "Brenen Thompson",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Thompson (quadriceps) was active but didn't play any snaps Sunday in the Chargers' 22-6 loss to the Chiefs."
     },
     {
       "player_id": "13296",
@@ -552,7 +565,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Jets head coach Aaron Glenn said that Hall (quadriceps) won't practice Wednesday but hasn't been ruled out from playing Sunday versus the Dolphins, Al Iannazzone of Newsday reports."
+      "injury_comment": "Hall (quadriceps) was stretching with the rest of the team at the beginning of Thursday's practice, Antwan Staley of the New York Daily News reports."
     },
     {
       "player_id": "11625",
@@ -591,7 +604,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
-      "injury_comment": "questionable"
+      "injury_comment": "Barkley (hamstring) is expected to practice Thursday and \"is in line to play Monday against the Cowboys,\" Mike Garafolo of NFL Network reports."
     },
     {
       "player_id": "7021",
@@ -659,6 +672,19 @@
       "injury_comment": "Shaheed (hip) was limited in Wednesday's practice, Corbin K. Smith of EmeraldCitySpectrum.com reports."
     },
     {
+      "player_id": "9753",
+      "source_id": "4426385",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "The Seahawks activated Charbonnet (knee) from the reserve/PUP list Thursday, John Boyle of the team's official site reports."
+    },
+    {
       "player_id": "12514",
       "source_id": "4567750",
       "player_name": "Emeka Egbuka",
@@ -669,7 +695,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Egbuka (concussion/foot) was a non-participant in Wednesday's practice, Scott Smith of the Buccaneers' official site reports."
+      "injury_comment": "Egbuka (concussion/foot) was working on the side with a trainer at Thursday's practice, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "11584",
@@ -682,7 +708,7 @@
       "injury_description": null,
       "injury_detail": "Illness",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Irving (illness) did not practice Wednesday, Greg Auman of Fox Sports reports."
+      "injury_comment": "Irving (illness) was back at practice Thursday, Rick Stroud of the Tampa Bay Times reports."
     },
     {
       "player_id": "4892",
@@ -764,7 +790,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-02",
-      "injury_comment": "Monangai (thumb/toe) has been ruled out for Thursday's game against the Patriots."
+      "injury_comment": "Monangai (toe/thumb) has been ruled out for Thursday's game against the Patriots."
     },
     {
       "player_id": "13435",
@@ -895,32 +921,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12521",
-      "source_id": "4678006",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-02",
-      "injury_comment": "Head coach Mike Macdonald confirmed with reporters Monday that Arroyo will miss \"significant time\" due to a shoulder injury that he picked up during Thursday's 17-14 overtime loss to the Broncos, John Boyle of the Seahawks' official site reports."
-    },
-    {
-      "player_id": "9753",
-      "source_id": "4426385",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Charbonnet (knee) was a full participant at Wednesday's practice, Corbin K. Smith of EmeraldCitySpectrum.com reports."
     },
     {
       "player_id": "13047",
