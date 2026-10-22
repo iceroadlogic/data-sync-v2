@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T22:53:33.079Z",
+  "lastUpdated": "2026-10-22T00:32:49.339Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -464,6 +464,19 @@
           "date": "2025-10-24",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "1466": {
+      "name": "Travis Kelce",
+      "position": "TE",
+      "transitions": [
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "KC"
         }
       ]
     },
@@ -6858,6 +6871,13 @@
           "date": "2026-10-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Elbow",
+          "team": "SEA"
         }
       ]
     },
@@ -8649,6 +8669,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "ATL"
         }
       ]
     },
@@ -11040,6 +11067,13 @@
           "date": "2026-09-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "DEN"
         }
       ]
     },
@@ -15809,6 +15843,13 @@
           "date": "2026-09-22",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "ATL"
         }
       ]
     },
@@ -17997,6 +18038,13 @@
           "date": "2026-01-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "SEA"
         }
       ]
     },
@@ -25838,6 +25886,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "LV"
         }
       ]
     },
@@ -37168,6 +37223,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Back",
+          "team": "ARI"
         }
       ]
     },
@@ -38122,6 +38184,19 @@
           "date": "2026-07-22",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13305": {
+      "name": "Mike Washington Jr.",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "LV"
         }
       ]
     },
