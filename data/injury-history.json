@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T18:26:41.584Z",
+  "lastUpdated": "2026-10-22T22:51:44.045Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -721,6 +721,12 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "CHI"
         }
       ]
     },
@@ -1604,6 +1610,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "NYG"
         }
       ]
     },
@@ -7195,6 +7208,13 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "HOU"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Groin",
+          "team": "HOU"
         }
       ]
     },
@@ -8618,6 +8638,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "TB"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -9484,6 +9509,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "MIN"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -9686,6 +9716,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "GB"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -10982,6 +11017,12 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "PHI"
         }
       ]
     },
@@ -11919,6 +11960,13 @@
           "date": "2026-08-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "HOU"
         }
       ]
     },
@@ -12198,6 +12246,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13685,6 +13738,13 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "PIT"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Calf",
+          "team": "PIT"
         }
       ]
     },
@@ -15101,6 +15161,13 @@
           "date": "2025-12-02",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "DAL"
         }
       ]
     },
@@ -17826,6 +17893,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "IND"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19460,6 +19532,13 @@
           "date": "2026-10-02",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "LAR"
         }
       ]
     },
@@ -37411,6 +37490,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "NO"
+        },
+        {
+          "date": "2026-10-22",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
