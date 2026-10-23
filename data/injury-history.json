@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T23:48:44.742Z",
+  "lastUpdated": "2026-10-23T11:22:31.732Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -9941,6 +9941,13 @@
           "date": "2025-12-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "CHI"
         }
       ]
     },
