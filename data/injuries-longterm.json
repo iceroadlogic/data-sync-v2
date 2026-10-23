@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-23T16:06:29.518Z",
+  "lastUpdated": "2026-10-23T22:44:51.824Z",
   "week": 7,
   "summary": {
-    "total_players": 774,
-    "ir": 91,
+    "total_players": 775,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -190,6 +190,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "6826",
+      "source_id": "4258595",
+      "player_name": "Cole Kmet",
+      "position": "TE",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Bears placed Kmet (knee) on injured reserve Friday."
+    },
+    {
       "player_id": "13712",
       "source_id": "5150662",
       "player_name": "Hayden Large",
@@ -252,7 +265,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Sampson (knee) was a limited participant in Thursday's practice."
+      "injury_comment": "Sampson (knee) is listed as questionable for Sunday's game against the Titans, Scott Petrak of the Elyria Chronicle-Telegram reports."
     },
     {
       "player_id": "12472",
@@ -330,7 +343,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Coleman (ankle) was a full participant in Thursday's practice."
+      "injury_comment": "Coleman (ankle) is listed as questionable for Sunday's game at Arizona."
     },
     {
       "player_id": "12735",
@@ -615,7 +628,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-10-25",
+      "est_return_date": "2026-11-01",
       "injury_comment": "Runyon (foot) was a full participant in practice Wednesday."
     },
     {
@@ -628,7 +641,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-25",
+      "est_return_date": "2026-11-01",
       "injury_comment": "Thornton (hamstring) was a full participant at practice Wednesday."
     },
     {
@@ -746,7 +759,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Mason (thumb) practiced fully Thursday."
+      "injury_comment": "Head coach Kevin O'Connell said Friday that Mason (thumb) is listed as questionable for Sunday's game against the Colts after practicing fully all week, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "5973",
@@ -1045,7 +1058,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-10-25",
-      "injury_comment": "Kirk (calf) was a full practice participant Thursday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Kirk (calf) is questionable for Sunday's game against the Falcons, Matt Barrows of The Athletic reports."
     },
     {
       "player_id": "11638",
@@ -1108,9 +1121,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-11-02",
-      "injury_comment": "Head coach Mike Macdonald said Friday that Price \"should be looking at a sooner rather than later return after\" the Seahawks' next game in Week 7, Brady Henderson of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12521",
@@ -1123,7 +1136,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Arroyo (shoulder) was placed on injured reserve Thursday, and Adam Schefter of ESPN reports that Arroyo will miss the remainder of the season."
+      "injury_comment": "Head coach Mike Macdonald told reporters Friday that Arroyo (shoulder) underwent surgery and will likely be out for the rest of the season, Curtis Crabtree of Fox 13 Seattle reports."
     },
     {
       "player_id": "10867",
