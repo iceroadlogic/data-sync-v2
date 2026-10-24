@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T18:26:46.390Z",
+  "lastUpdated": "2026-10-24T22:06:30.590Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4591,6 +4591,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "BAL"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "BAL"
         }
       ]
     },
@@ -4858,6 +4865,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "SF"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -5772,6 +5784,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -11087,6 +11104,13 @@
           "date": "2026-10-22",
           "from": "Healthy",
           "to": "Questionable",
+          "team": "PHI"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
           "team": "PHI"
         }
       ]
@@ -17230,6 +17254,13 @@
           "to": "Out",
           "detail": "Thumb",
           "team": "DEN"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Thumb",
+          "team": "DEN"
         }
       ]
     },
@@ -17819,6 +17850,11 @@
           "to": "IR",
           "detail": "Thumb",
           "team": "MIN"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -18535,6 +18571,13 @@
           "date": "2026-10-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ribs",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ribs",
           "team": "DAL"
         }
@@ -19337,6 +19380,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "PHI"
         }
       ]
     },
@@ -20046,6 +20096,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "HOU"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -39069,6 +39124,13 @@
           "date": "2026-09-26",
           "from": "Out",
           "to": "IR",
+          "detail": "Ankle",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-10-24",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Ankle",
           "team": "DEN"
         }
