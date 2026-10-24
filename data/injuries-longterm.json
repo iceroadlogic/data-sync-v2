@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-23T22:44:51.824Z",
+  "lastUpdated": "2026-10-24T15:03:24.151Z",
   "week": 7,
   "summary": {
-    "total_players": 775,
+    "total_players": 774,
     "ir": 92,
     "suspended": 0
   },
@@ -69,8 +69,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "The Falcons designated Collins (hip) to return from IR on Thursday, per the NFL's transaction log."
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Collins (hip) is listed as questionable for Sunday's game against the 49ers, Will McFadden of the Falcons' official site reports."
     },
     {
       "player_id": "7593",
@@ -250,9 +250,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Gabriel (back) has been ruled out ahead of Sunday's game against the Titans, Zac Jackson of The Athletic reports."
     },
     {
       "player_id": "12469",
@@ -642,7 +642,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Thornton (hamstring) was a full participant at practice Wednesday."
+      "injury_comment": "Thornton (hamstring) has been ruled out for Sunday's game against the Rams, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "7610",
