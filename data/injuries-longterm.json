@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T15:03:24.151Z",
+  "lastUpdated": "2026-10-24T18:26:46.390Z",
   "week": 7,
   "summary": {
     "total_players": 774,
@@ -253,19 +253,6 @@
       "injury_detail": "Back",
       "est_return_date": "2026-11-01",
       "injury_comment": "Gabriel (back) has been ruled out ahead of Sunday's game against the Titans, Zac Jackson of The Athletic reports."
-    },
-    {
-      "player_id": "12469",
-      "source_id": "5081397",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Sampson (knee) is listed as questionable for Sunday's game against the Titans, Scott Petrak of the Elyria Chronicle-Telegram reports."
     },
     {
       "player_id": "12472",
@@ -541,6 +528,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12455",
+      "source_id": "4596602",
+      "player_name": "Brashard Smith",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Chiefs placed Smith (hamstring) on injured reserve Saturday."
+    },
+    {
       "player_id": "13392",
       "source_id": "4885466",
       "player_name": "Jeff Caldwell",
@@ -588,9 +588,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2027-01-17",
-      "injury_comment": "The Chiefs placed Thornton (ankle) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12483",
