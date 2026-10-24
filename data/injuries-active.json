@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-24T10:41:43.685Z",
+  "lastUpdated": "2026-10-24T17:18:33.321Z",
   "week": 7,
   "summary": {
     "total_players": 774,
     "questionable": 24,
-    "doubtful": 2,
-    "out": 29
+    "doubtful": 1,
+    "out": 30
   },
   "questionable": [
     {
@@ -214,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Barkley (hamstring) was a limited practice participant Friday."
+      "injury_comment": "Barkley (hamstring) was on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "5022",
@@ -227,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Goedert (knee) was a non-participant at Friday's practice."
+      "injury_comment": "Goedert (knee) is on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
     },
     {
       "player_id": "7525",
@@ -240,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Smith (hamstring) didn't practice Friday."
+      "injury_comment": "Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "9486",
@@ -253,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Wicks (ankle) didn't take part in Friday's practice."
+      "injury_comment": "Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports."
     },
     {
       "player_id": "7021",
@@ -322,19 +322,6 @@
     }
   ],
   "doubtful": [
-    {
-      "player_id": "11597",
-      "source_id": "4429148",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Johnson (neck) is listed as doubtful for Sunday's game against the Texans."
-    },
     {
       "player_id": "2307",
       "source_id": "2576980",
@@ -609,6 +596,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11597",
+      "source_id": "4429148",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Johnson (neck) is listed as doubtful for Sunday's game against the Texans."
     },
     {
       "player_id": "7757",
