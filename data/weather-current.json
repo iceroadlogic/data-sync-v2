@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-25T17:28:21.224Z",
+  "lastUpdated": "2026-10-25T19:52:37.287Z",
   "games": [
     {
       "game_id": "401873010",
@@ -9,10 +9,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 72,
+        "temp": 71,
         "wind": "5 mph S",
         "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 5 mph SSE",
+        "wind": "0 to 5 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -59,7 +59,7 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
+        "temp": 66,
         "wind": "3 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
@@ -86,7 +86,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 mph SE",
+        "wind": "5 mph S",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -131,9 +131,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "3 mph SE",
+        "wind": "5 mph SE",
         "conditions": "Light Rain Likely",
-        "precipitation": "62%"
+        "precipitation": "56%"
       }
     },
     {
