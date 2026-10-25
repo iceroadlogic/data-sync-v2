@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-24T17:18:33.321Z",
+  "lastUpdated": "2026-10-25T00:09:22.979Z",
   "week": 7,
   "summary": {
-    "total_players": 774,
-    "questionable": 24,
+    "total_players": 775,
+    "questionable": 20,
     "doubtful": 1,
-    "out": 30
+    "out": 32
   },
   "questionable": [
     {
@@ -35,19 +35,6 @@
       "injury_comment": "Zaccheaus (shoulder) is questionable for Sunday's game against the 49ers, Will McFadden of the Falcons' official site reports."
     },
     {
-      "player_id": "4881",
-      "source_id": "3916387",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Jackson (ankle) was a limited participant in Friday's practice and is listed as questionable for Sunday's game against the Bengals."
-    },
-    {
       "player_id": "4983",
       "source_id": "3915416",
       "player_name": "DJ Moore",
@@ -61,17 +48,17 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "8917",
-      "source_id": "3676833",
-      "player_name": "KaVontae Turpin",
-      "position": "WR",
-      "team_abbr": "DAL",
+      "player_id": "13345",
+      "source_id": "4702555",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "team_abbr": "DEN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Turpin (ribs) did not participate at practice Thursday, Tommy Yarrish of the Cowboys' official site reports."
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "The Broncos activated Coleman (ankle) from injured reserve Saturday, Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "8204",
@@ -214,46 +201,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Barkley (hamstring) was on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
-    },
-    {
-      "player_id": "5022",
-      "source_id": "3121023",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Goedert (knee) is on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports."
-    },
-    {
-      "player_id": "7525",
-      "source_id": "4241478",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports."
-    },
-    {
-      "player_id": "9486",
-      "source_id": "4428850",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports."
+      "injury_comment": "Barkley (hamstring) is listed as questionable for Monday's game against the Cowboys."
     },
     {
       "player_id": "7021",
@@ -377,6 +325,19 @@
       "injury_comment": "Robinson (hamstring) has been ruled out for Sunday's game against the 49ers, Will McFadden of the Falcons' official site reports."
     },
     {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Jackson (ankle) has been downgraded to out for Sunday's game against the Bengals."
+    },
+    {
       "player_id": "11377",
       "source_id": "4241476",
       "player_name": "Tyrell Shavers",
@@ -442,17 +403,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "8208",
-      "source_id": "4362748",
-      "player_name": "Tyler Badie",
-      "position": "RB",
-      "team_abbr": "DEN",
+      "player_id": "8917",
+      "source_id": "3676833",
+      "player_name": "KaVontae Turpin",
+      "position": "WR",
+      "team_abbr": "DAL",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Thumb",
+      "injury_detail": "Ribs",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Badie (thumb) has been ruled out for Sunday's game against the Cardinals."
+      "injury_comment": "Turpin (ribs) has been ruled out for Monday's game against the Eagles, Adam Caplan of SiriusXM NFL Radio reports."
     },
     {
       "player_id": "9481",
@@ -546,19 +507,6 @@
       "injury_comment": "Rice (hamstring/knee) was not present during the portion of Friday's practice open to the media, Pete Sweeney of The Kansas City Star reports."
     },
     {
-      "player_id": "12455",
-      "source_id": "4596602",
-      "player_name": "Brashard Smith",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Smith (hamstring) has been ruled out for Sunday's game against the Seahawks."
-    },
-    {
       "player_id": "13630",
       "source_id": "5082633",
       "player_name": "Evan Svoboda",
@@ -608,7 +556,33 @@
       "injury_description": null,
       "injury_detail": "Neck",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Johnson (neck) is listed as doubtful for Sunday's game against the Texans."
+      "injury_comment": "Johnson (neck) has been ruled out ahead of Sunday's game against the Texans, Mike Garafolo of NFL Network reports."
+    },
+    {
+      "player_id": "7525",
+      "source_id": "4241478",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Smith (hamstring) has been ruled out for Monday's game against the Cowboys."
+    },
+    {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Wicks (ankle) has been ruled out for Monday's game versus the Cowboys."
     },
     {
       "player_id": "7757",
