@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T19:50:28.544Z",
+  "lastUpdated": "2026-10-25T22:14:55.129Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -28444,6 +28444,13 @@
           "date": "2026-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Quadriceps",
+          "team": "MIA"
         }
       ]
     },
@@ -31669,6 +31676,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NYG"
         }
       ]
     },
@@ -35038,6 +35052,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "HOU"
         }
       ]
     },

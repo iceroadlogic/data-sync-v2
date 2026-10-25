@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-25T19:50:28.544Z",
+  "lastUpdated": "2026-10-25T22:14:55.129Z",
   "week": 7,
   "summary": {
     "total_players": 775,
-    "questionable": 12,
+    "questionable": 15,
     "doubtful": 1,
     "out": 66
   },
@@ -33,6 +33,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-11-01",
       "injury_comment": "All (knee) has been ruled out for the rest of Sunday's game against the Ravens."
+    },
+    {
+      "player_id": "12536",
+      "source_id": "4586312",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Noel (toe) was seen in a walking boot after Sunday's 27-21 overtime loss to the Giants, DJ Bien-Aime of ESPN.com reports."
     },
     {
       "player_id": "13862",
@@ -100,6 +113,19 @@
       "injury_comment": "Thompson (quadriceps) was active but didn't play any snaps Sunday in the Chargers' 22-6 loss to the Chiefs."
     },
     {
+      "player_id": "11643",
+      "source_id": "4682745",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "team_abbr": "MIA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Quadriceps",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Wright (quadriceps) left Sunday's game against the Jets early and did not return."
+    },
+    {
       "player_id": "4199",
       "source_id": "3042519",
       "player_name": "Aaron Jones Sr.",
@@ -110,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Jones (knee) is questionable to return to Sunday's game against the Colts."
+      "injury_comment": "Head coach Kevin O'Connell said Jones aggravated a previous knee injury during Sunday's 16-10 win against the Colts, Ben Goessling of the Minnesota Star Tribune reports."
     },
     {
       "player_id": "13277",
@@ -126,6 +152,19 @@
       "injury_comment": "Donaldson (shoulder) is questionable to return to Sunday's game against the Steelers in Paris."
     },
     {
+      "player_id": "12481",
+      "source_id": "4696981",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Skattebo told Dan Graziano of ESPN after Sunday's 27-21 overtime win at Houston that he \"felt something in his hamstring\" during his final carry of the game."
+    },
+    {
       "player_id": "11655",
       "source_id": "4360516",
       "player_name": "Tyrone Tracy Jr.",
@@ -135,7 +174,7 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-25",
+      "est_return_date": "2026-11-08",
       "injury_comment": "Tracy left Sunday's game at Houston due to a hamstring injury, Jordan Raanan of ESPN.com reports."
     },
     {
