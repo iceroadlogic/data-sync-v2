@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-10-25T17:22:05.711Z",
+  "lastUpdated": "2026-10-25T19:50:28.544Z",
   "week": 7,
   "summary": {
     "total_players": 775,
-    "questionable": 14,
+    "questionable": 12,
     "doubtful": 1,
-    "out": 59
+    "out": 66
   },
   "questionable": [
-    {
-      "player_id": "13272",
-      "source_id": "4430841",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Beck (back) is questionable for Sunday's game against the Broncos, Darren Urban of the Cardinals' official site reports."
-    },
     {
       "player_id": "4983",
       "source_id": "3915416",
@@ -35,30 +22,17 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "13345",
-      "source_id": "4702555",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "team_abbr": "DEN",
+      "player_id": "11592",
+      "source_id": "4427834",
+      "player_name": "Erick All Jr.",
+      "position": "TE",
+      "team_abbr": "CIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "The Broncos activated Coleman (ankle) from injured reserve Saturday but continue to list him as questionable for Sunday's game against the Cardinals, Aric DiLalla of the team's official site reports."
-    },
-    {
-      "player_id": "8204",
-      "source_id": "4259305",
-      "player_name": "Bo Melton",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Melton (back) is questionable for Sunday's game against the Lions, Wes Hodkiewicz of the Packers' official site reports."
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "All (knee) has been ruled out for the rest of Sunday's game against the Ravens."
     },
     {
       "player_id": "13862",
@@ -72,19 +46,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13305",
-      "source_id": "4686658",
-      "player_name": "Mike Washington Jr.",
-      "position": "RB",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Washington (foot/back) is considered a game-time decision for Sunday's contest against the Rams, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "9490",
@@ -139,17 +100,17 @@
       "injury_comment": "Thompson (quadriceps) was active but didn't play any snaps Sunday in the Chargers' 22-6 loss to the Chiefs."
     },
     {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
+      "player_id": "4199",
+      "source_id": "3042519",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "The Rams are optimistic that Nacua (calf), who is listed as questionable for Week 7, will play in Sunday's game at Las Vegas, Adam Schefter of ESPN reports."
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Jones (knee) is questionable to return to Sunday's game against the Colts."
     },
     {
       "player_id": "13277",
@@ -162,7 +123,20 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Donaldson (shoulder) has been ruled out for the rest of Sunday's game against the Steelers in Paris, Jeff Nowak of The Big 870 New Orleans reports."
+      "injury_comment": "Donaldson (shoulder) is questionable to return to Sunday's game against the Steelers in Paris."
+    },
+    {
+      "player_id": "11655",
+      "source_id": "4360516",
+      "player_name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-10-25",
+      "injury_comment": "Tracy left Sunday's game at Houston due to a hamstring injury, Jordan Raanan of ESPN.com reports."
     },
     {
       "player_id": "4866",
@@ -208,6 +182,19 @@
   ],
   "out": [
     {
+      "player_id": "13272",
+      "source_id": "4430841",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Beck (back) is inactive but will serve as the emergency third quarterback against the Broncos on Sunday, Darren Urban of the Cardinals' official site reports."
+    },
+    {
       "player_id": "13287",
       "source_id": "4870808",
       "player_name": "Jeremiyah Love",
@@ -218,7 +205,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Head coach Mike LaFleur said Friday that Love (ankle) won't play Sunday against the Broncos, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "11716",
@@ -455,6 +442,45 @@
       "injury_comment": "Turpin (ribs) has been ruled out for Monday's game against the Eagles, Adam Caplan of SiriusXM NFL Radio reports."
     },
     {
+      "player_id": "13577",
+      "source_id": "5159802",
+      "player_name": "Dallen Bentley",
+      "position": "TE",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "7583",
+      "source_id": "4241820",
+      "player_name": "Sam Ehlinger",
+      "position": "QB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Ehlinger (coach's decision) is inactive but will serve as the emergency third quarterback in Sunday's game against the Cardinals, Aric DiLalla of the Broncos' official site reports."
+    },
+    {
+      "player_id": "12504",
+      "source_id": "4819231",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-10-29",
+      "injury_comment": "Johnson (coach's decision) is inactive for Sunday's game against the Lions."
+    },
+    {
       "player_id": "9481",
       "source_id": "4428085",
       "player_name": "Luke Musgrave",
@@ -572,6 +598,19 @@
       "injury_comment": "Rice (hamstring/knee) was not present during the portion of Friday's practice open to the media, Pete Sweeney of The Kansas City Star reports."
     },
     {
+      "player_id": "10866",
+      "source_id": "4260394",
+      "player_name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "O'Connell (coach's decision) is inactive but will serve as the Raiders' emergency third quarterback against the Rams on Sunday."
+    },
+    {
       "player_id": "13630",
       "source_id": "5082633",
       "player_name": "Evan Svoboda",
@@ -583,6 +622,32 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13278",
+      "source_id": "4833029",
+      "player_name": "Max Klare",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13275",
+      "source_id": "4685522",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Simpson (coach's decision) is inactive but will serve as the Rams' emergency third quarterback against the Raiders on Sunday, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "8117",
