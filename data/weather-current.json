@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-25T19:52:37.287Z",
+  "lastUpdated": "2026-10-25T22:21:44.503Z",
   "games": [
     {
       "game_id": "401873010",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 71,
-        "wind": "5 mph S",
+        "wind": "5 mph SE",
         "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "0 to 5 mph E",
+        "wind": "5 mph E",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -59,9 +59,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 44,
         "wind": "3 mph SW",
-        "conditions": "Sunny",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -72,9 +72,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "10 mph NE",
-        "conditions": "Sunny",
+        "temp": 44,
+        "wind": "3 to 8 mph NE",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -85,9 +85,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "5 mph S",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "0 to 3 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -131,9 +131,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "5 mph SE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "56%"
+        "wind": "3 mph SE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "52%"
       }
     },
     {
@@ -143,7 +143,7 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
+        "temp": 51,
         "wind": "0 to 5 mph NW",
         "conditions": "Clear",
         "precipitation": "0%"
