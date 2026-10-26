@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-25T22:14:55.129Z",
+  "lastUpdated": "2026-10-26T00:25:01.728Z",
   "week": 7,
   "summary": {
     "total_players": 775,
     "questionable": 15,
     "doubtful": 1,
-    "out": 66
+    "out": 69
   },
   "questionable": [
     {
@@ -33,6 +33,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-11-01",
       "injury_comment": "All (knee) has been ruled out for the rest of Sunday's game against the Ravens."
+    },
+    {
+      "player_id": "7526",
+      "source_id": "4372016",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Waddle didn't return to Sunday's 30-16 win over the Cardinals due to a chest injury, Parker Gabriel of the Denver Post reports."
     },
     {
       "player_id": "12536",
@@ -189,19 +202,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
       "injury_comment": "Barkley (hamstring) is listed as questionable for Monday's game against the Cowboys."
-    },
-    {
-      "player_id": "5854",
-      "source_id": "3924327",
-      "player_name": "Drew Lock",
-      "position": "QB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2026-10-25",
-      "injury_comment": "Lock (elbow) is listed as questionable ahead of Sunday's game against the Chiefs, John Boyle of the Seahawks' official site reports."
     }
   ],
   "doubtful": [
@@ -555,7 +555,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-01",
+      "est_return_date": "2026-11-08",
       "injury_comment": "inactive"
     },
     {
@@ -568,7 +568,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-11-01",
+      "est_return_date": "2026-11-08",
       "injury_comment": "inactive"
     },
     {
@@ -624,6 +624,19 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "13404",
+      "source_id": "4567747",
+      "player_name": "Garrett Nussmeier",
+      "position": "QB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Nussmeier (coach's decision) is inactive as the emergency third quarterback for Sunday night's game against the Seahawks."
+    },
+    {
       "player_id": "10229",
       "source_id": "4428331",
       "player_name": "Rashee Rice",
@@ -634,7 +647,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Rice (hamstring/knee) was not present during the portion of Friday's practice open to the media, Pete Sweeney of The Kansas City Star reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "10866",
@@ -985,7 +998,33 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-11-02",
-      "injury_comment": "Head coach Mike Macdonald said Friday that Charbonnet (knee) has been ruled out for Sunday's game versus the Chiefs, Curtis Crabtree of Fox 13 Seattle reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13418",
+      "source_id": "5151317",
+      "player_name": "Robert Henry Jr.",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "5854",
+      "source_id": "3924327",
+      "player_name": "Drew Lock",
+      "position": "QB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "Lock (elbow) is inactive but serving as the Seahawks' emergency third quarterback for Sunday night's contest against the Chiefs, Curtis Crabtree of Fox 13 Seattle reports."
     },
     {
       "player_id": "13047",

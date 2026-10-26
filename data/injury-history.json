@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T22:14:55.129Z",
+  "lastUpdated": "2026-10-26T00:25:01.728Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6973,6 +6973,13 @@
           "to": "Questionable",
           "detail": "Elbow",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Elbow",
+          "team": "SEA"
         }
       ]
     },
@@ -11254,6 +11261,13 @@
           "date": "2026-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "DEN"
         }
       ]
     },
@@ -39939,6 +39953,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -40316,6 +40337,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "SEA"
         }
       ]
     },
