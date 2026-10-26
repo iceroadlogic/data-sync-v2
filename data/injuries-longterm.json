@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-26T17:53:33.304Z",
+  "lastUpdated": "2026-10-26T23:27:40.663Z",
   "week": 7,
   "summary": {
-    "total_players": 775,
-    "ir": 89,
+    "total_players": 774,
+    "ir": 86,
     "suspended": 0
   },
   "ir": [
@@ -29,9 +29,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "When asked Monday if Conner (foot) will play this season, coach Mike LaFleur said \"potentially,\" Dani Sureck of the Cardinals' official site reports."
     },
     {
       "player_id": "13879",
@@ -240,19 +240,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12486",
-      "source_id": "4427238",
-      "player_name": "Dillon Gabriel",
-      "position": "QB",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Gabriel (back) has been ruled out ahead of Sunday's game against the Titans, Zac Jackson of The Athletic reports."
     },
     {
       "player_id": "12472",
@@ -498,8 +485,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Heel",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Colts head coach Shane Steichen said Monday that Pierce (heel) won't have his 21-day practice window opened in Week 7, Nathan Brown of The Indianapolis Star reports."
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Colts head coach Shane Steichen said Monday that Pierce (heel) will \"most likely not\" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports."
     },
     {
       "player_id": "13407",
@@ -588,9 +575,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Forearm",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "The Raiders designated Bech (forearm) for return from injured reserve Monday."
     },
     {
       "player_id": "11963",
@@ -931,19 +918,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8177",
-      "source_id": "4241374",
-      "player_name": "Grant Calcaterra",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Calcaterra, who is on injured reserve due to a back injury, is questionable to suit up Monday versus Dallas."
-    },
-    {
       "player_id": "6904",
       "source_id": "4040715",
       "player_name": "Jalen Hurts",
@@ -952,9 +926,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11577",
@@ -968,19 +942,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13349",
-      "source_id": "4431574",
-      "player_name": "Eli Stowers",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Quadriceps",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Stowers (quadriceps), who is on injured reserve, is officially questionable to play Monday against Dallas."
     },
     {
       "player_id": "11636",
@@ -1043,9 +1004,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "49ers coach Kyle Shanahan reiterated Monday that Robinson (ankle) has a chance to return following the team's Week 8 bye, David Lombardi of SFStandard.com reports."
     },
     {
       "player_id": "13417",
@@ -1056,9 +1017,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Stribling (ankle) remains on track to return in December, David Lombardi of SFStandard.com reports."
     },
     {
       "player_id": "8698",

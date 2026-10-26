@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T19:49:18.856Z",
+  "lastUpdated": "2026-10-26T23:27:40.663Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2479,6 +2479,13 @@
           "date": "2026-09-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "SF"
         }
       ]
     },
@@ -4444,6 +4451,11 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -16855,6 +16867,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -23216,6 +23233,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DAL"
         }
       ]
     },
@@ -28726,6 +28750,13 @@
           "date": "2026-10-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "CAR"
         }
       ]
     },
@@ -32164,6 +32195,11 @@
           "to": "IR",
           "detail": "Back",
           "team": "CLE"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -33147,6 +33183,13 @@
           "date": "2026-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "GB"
         }
       ]
     },
@@ -39483,6 +39526,13 @@
           "date": "2026-10-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -39686,6 +39736,11 @@
           "to": "IR",
           "detail": "Hamstring",
           "team": "PHI"
+        },
+        {
+          "date": "2026-10-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
