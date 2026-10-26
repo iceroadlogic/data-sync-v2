@@ -1,6 +1,6 @@
 {
   "week": 7,
-  "lastUpdated": "2026-10-26T00:35:03.940Z",
+  "lastUpdated": "2026-10-26T16:33:53.885Z",
   "games": [
     {
       "game_id": "401873010",
@@ -9,10 +9,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "5 to 10 mph SW",
+        "temp": 61,
+        "wind": "15 mph NNE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "1%"
+        "precipitation": "2%"
       }
     },
     {
@@ -38,9 +38,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 48,
+        "temp": 76,
         "wind": "0 mph ",
-        "conditions": "Partly Cloudy then Areas Of Fog",
+        "conditions": "Partly Sunny",
         "precipitation": "0%"
       }
     },
@@ -59,9 +59,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "3 mph SW",
-        "conditions": "Clear",
+        "temp": 71,
+        "wind": "7 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -72,9 +72,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 44,
-        "wind": "6 mph NNE",
-        "conditions": "Clear",
+        "temp": 72,
+        "wind": "5 mph NNE",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -85,9 +85,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 45,
-        "wind": "2 mph W",
-        "conditions": "Clear",
+        "temp": 72,
+        "wind": "6 mph W",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -131,9 +131,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "2 mph SE",
+        "wind": "3 mph NNW",
         "conditions": "Chance Light Rain",
-        "precipitation": "52%"
+        "precipitation": "33%"
       }
     },
     {
@@ -143,10 +143,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
+        "temp": 50,
         "wind": "0 to 5 mph NW",
-        "conditions": "Clear",
-        "precipitation": "0%"
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     }
   ]
