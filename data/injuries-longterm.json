@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-24T22:06:30.590Z",
+  "lastUpdated": "2026-10-26T17:53:33.304Z",
   "week": 7,
   "summary": {
-    "total_players": 774,
+    "total_players": 775,
     "ir": 89,
     "suspended": 0
   },
@@ -146,9 +146,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Abdomen",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Brooks (core) was seen jogging at practice Thursday, Sheena Quick of Fox Sports Radio 1340 reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11626",
@@ -317,7 +317,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-27",
-      "injury_comment": "ir"
+      "injury_comment": "The Broncos placed Badie (thumb) on injured reserve Saturday, Aric DiLalla of the team's official site reports."
     },
     {
       "player_id": "12492",
@@ -515,19 +515,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12455",
-      "source_id": "4596602",
-      "player_name": "Brashard Smith",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "The Chiefs placed Smith (hamstring) on injured reserve Saturday."
-    },
-    {
       "player_id": "13392",
       "source_id": "4885466",
       "player_name": "Jeff Caldwell",
@@ -565,6 +552,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12455",
+      "source_id": "4596602",
+      "player_name": "Brashard Smith",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Chiefs placed Smith (hamstring) on injured reserve Saturday."
     },
     {
       "player_id": "8188",
@@ -616,7 +616,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Runyon (foot) was a full participant in practice Wednesday."
+      "injury_comment": "The Raiders have ruled out Runyon (foot) for Sunday's game against the Rams."
     },
     {
       "player_id": "12541",
@@ -744,9 +744,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Biceps",
-      "est_return_date": "2027-01-17",
-      "injury_comment": "The Vikings placed Oliver (biceps) on injured reserve Tuesday, Craig Peters of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8121",
@@ -757,9 +757,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Doubs (shoulder) is hopeful to return after the Patriots' Week 11 bye and isn't expected to face a long-term absence, Jeremy Fowler of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11371",
@@ -941,7 +941,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Calcaterra (back) was a full participant at the Eagles' practice Thursday."
+      "injury_comment": "Calcaterra, who is on injured reserve due to a back injury, is questionable to suit up Monday versus Dallas."
     },
     {
       "player_id": "6904",
@@ -980,7 +980,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-10-26",
-      "injury_comment": "Stowers (quadriceps) was a full participant at the Eagles' practice Thursday."
+      "injury_comment": "Stowers (quadriceps), who is on injured reserve, is officially questionable to play Monday against Dallas."
     },
     {
       "player_id": "11636",
@@ -1082,9 +1082,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Chest",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "Seahawks head coach Mike Macdonald said Monday that Price (chest) will be designated for return from injured reserve during Week 8, Gregg Bell of Sports Radio 93.3 KJR Seattle reports."
     },
     {
       "player_id": "12521",
