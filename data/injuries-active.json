@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-26T00:25:01.728Z",
+  "lastUpdated": "2026-10-26T12:40:13.026Z",
   "week": 7,
   "summary": {
     "total_players": 775,
-    "questionable": 15,
+    "questionable": 16,
     "doubtful": 1,
     "out": 69
   },
@@ -136,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Wright (quadriceps) left Sunday's game against the Jets early and did not return."
+      "injury_comment": "Wright (quadriceps) left Sunday's game against the Jets and did not return to the contest."
     },
     {
       "player_id": "4199",
@@ -202,6 +202,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-10-26",
       "injury_comment": "Barkley (hamstring) is listed as questionable for Monday's game against the Cowboys."
+    },
+    {
+      "player_id": "8676",
+      "source_id": "4032473",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-02",
+      "injury_comment": "Shaheed (knee) won't return to Sunday's game against the Chiefs."
     }
   ],
   "doubtful": [
