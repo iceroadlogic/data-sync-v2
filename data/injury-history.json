@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T17:01:09.795Z",
+  "lastUpdated": "2026-10-27T19:18:57.007Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -25956,6 +25956,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "CIN"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee - ACL",
+          "team": "CIN"
         }
       ]
     },
@@ -29165,6 +29172,13 @@
           "date": "2026-10-25",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NYG"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "NYG"
         }
