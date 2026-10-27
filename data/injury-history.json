@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T19:18:57.007Z",
+  "lastUpdated": "2026-10-27T23:20:25.952Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -23173,6 +23173,13 @@
           "to": "Out",
           "detail": "Wrist",
           "team": "ARI"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Wrist",
+          "team": "ARI"
         }
       ]
     },
@@ -28923,6 +28930,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "CAR"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -29179,6 +29191,13 @@
           "date": "2026-10-27",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "NYG"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "Out",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "NYG"
         }
@@ -35622,6 +35641,11 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -40101,6 +40125,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "DAL"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "DAL"
         }
       ]
     },
@@ -41961,6 +41992,13 @@
           "date": "2026-10-01",
           "from": "Healthy",
           "to": "IR",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-10-27",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Undisclosed",
           "team": "ARI"
         }
       ]

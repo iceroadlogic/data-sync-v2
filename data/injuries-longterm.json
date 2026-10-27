@@ -1,12 +1,25 @@
 {
-  "lastUpdated": "2026-10-27T17:01:09.795Z",
+  "lastUpdated": "2026-10-27T23:20:25.952Z",
   "week": 8,
   "summary": {
-    "total_players": 774,
+    "total_players": 775,
     "ir": 86,
     "suspended": 0
   },
   "ir": [
+    {
+      "player_id": "11034",
+      "source_id": "4692835",
+      "player_name": "Jalen Brooks",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Wrist",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Cardinals placed Brooks (wrist) on injured reserve Tuesday."
+    },
     {
       "player_id": "11589",
       "source_id": "4429275",
@@ -32,19 +45,6 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-11-01",
       "injury_comment": "When asked Monday if Conner (foot) will play this season, coach Mike LaFleur said \"potentially,\" Dani Sureck of the Cardinals' official site reports."
-    },
-    {
-      "player_id": "13879",
-      "source_id": "4588298",
-      "player_name": "Jameson Geers",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "7535",
@@ -216,6 +216,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "11592",
+      "source_id": "4427834",
+      "player_name": "Erick All Jr.",
+      "position": "TE",
+      "team_abbr": "CIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Bengals placed All (knee) on injured reserve Tuesday."
+    },
+    {
       "player_id": "5409",
       "source_id": "3050481",
       "player_name": "Tanner Hudson",
@@ -271,19 +284,6 @@
       "player_id": "11508",
       "source_id": "4242442",
       "player_name": "Princeton Fant",
-      "position": "TE",
-      "team_abbr": "DAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "13355",
-      "source_id": "4710711",
-      "player_name": "DJ Rogers",
       "position": "TE",
       "team_abbr": "DAL",
       "injury_status": "day-to-day",
@@ -606,19 +606,6 @@
       "injury_comment": "The Raiders have ruled out Runyon (foot) for Sunday's game against the Rams."
     },
     {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Thornton (hamstring) has been ruled out for Sunday's game against the Rams, Sam Warren of The Athletic reports."
-    },
-    {
       "player_id": "7610",
       "source_id": "4383351",
       "player_name": "Trey Lance",
@@ -838,6 +825,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
       "injury_comment": "Saints general manager Mickey Loomis said Tuesday that Tyson (hamstring) is \"getting closer\" but won't practice this week, Ross Jackson of WWL Louisiana reports."
+    },
+    {
+      "player_id": "11655",
+      "source_id": "4360516",
+      "player_name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team_abbr": "NYG",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "The Giants placed Tracy (hamstring) on injured reserve Tuesday, Dan Salomone of the team's official site reports."
     },
     {
       "player_id": "8125",
