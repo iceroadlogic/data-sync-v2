@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-26T19:49:18.856Z",
+  "lastUpdated": "2026-10-27T00:07:13.293Z",
   "week": 7,
   "summary": {
-    "total_players": 775,
-    "questionable": 18,
+    "total_players": 774,
+    "questionable": 20,
     "doubtful": 0,
-    "out": 38
+    "out": 40
   },
   "questionable": [
     {
@@ -20,6 +20,19 @@
       "injury_detail": "Shoulder - AC Joint",
       "est_return_date": "2026-11-01",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "11646",
+      "source_id": "4695883",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-29",
+      "injury_comment": "Coker was listed as limited on Monday's estimated practice report due to a shoulder injury, Darin Gantt of the Panthers' official site reports."
     },
     {
       "player_id": "11592",
@@ -59,6 +72,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-01",
       "injury_comment": "Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports."
+    },
+    {
+      "player_id": "12501",
+      "source_id": "4701936",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-10-29",
+      "injury_comment": "Golden (shoulder/foot) was listed as a non-participant on Monday's practice estimate, Matt Schneidman of The Athletic reports"
     },
     {
       "player_id": "12536",
@@ -123,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-01",
-      "injury_comment": "McConkey won't return to Sunday's game at Kansas City due to a concussion."
+      "injury_comment": "McConkey (concussion) was spotted on the field in a no-contact jersey during the Chargers' bonus practice session Monday, Noah Furtado of The Athletic reports."
     },
     {
       "player_id": "13380",
@@ -204,17 +230,17 @@
       "injury_comment": "Tracy (hamstring) didn't return to Sunday's 27-21 overtime win over the Texans after exiting with 5:29 remaining in the second quarter, Pat Leonard of the New York Daily News reports."
     },
     {
-      "player_id": "4866",
-      "source_id": "3929630",
-      "player_name": "Saquon Barkley",
+      "player_id": "4034",
+      "source_id": "3117251",
+      "player_name": "Christian McCaffrey",
       "position": "RB",
-      "team_abbr": "PHI",
+      "team_abbr": "SF",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-10-26",
-      "injury_comment": "Barkley (hamstring), who is listed as questionable for Monday's game against the Cowboys, is \"trending toward playing,\" Mike Garafolo of NFL Network reports."
+      "est_return_date": "2026-11-08",
+      "injury_comment": "McCaffrey is dealing with a mild hamstring strain rather than a quadriceps injury, and the 49ers believe he'll be ready following the team's Week 8 bye, David Lombardi of SF Standard reports."
     },
     {
       "player_id": "8676",
@@ -268,7 +294,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Wrist",
-      "est_return_date": "2026-02-15",
+      "est_return_date": "2027-02-15",
       "injury_comment": "Brooks announced Monday in a story on his personal Instagram account that he underwent season-ending wrist surgery, Tyler Drake of ArizonaSports.com reports."
     },
     {
@@ -282,7 +308,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-01",
-      "injury_comment": "out"
+      "injury_comment": "Head coach Mike LaFleur said Monday that Love (ankle) will take part in Wednesday's practice, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "11716",
@@ -293,9 +319,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Head coach Mike LaFleur stated he's \"not too sure\" if Reiman (ankle) will play this season, Dani Sureck of the Cardinals' official site reports."
     },
     {
       "player_id": "8154",
@@ -389,6 +415,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "11199",
+      "source_id": "4362478",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Demercado (coach's decision) is inactive for Monday night's game against the Eagles, Patrik Walker of the Cowboys' official site reports."
+    },
+    {
       "player_id": "8917",
       "source_id": "3676833",
       "player_name": "KaVontae Turpin",
@@ -399,7 +438,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Turpin (ribs) has been ruled out for Monday's game against the Eagles, Adam Caplan of SiriusXM NFL Radio reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "9481",
@@ -410,9 +449,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-11-25",
-      "injury_comment": "Packers head coach Matt Lafleur said Thursday it's \"tough to say\" whether Musgrave (neck) plays this season, Weston Hodkiewicz of the Packers' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11588",
@@ -558,6 +597,19 @@
       "injury_comment": "out"
     },
     {
+      "player_id": "13335",
+      "source_id": "4879250",
+      "player_name": "Cole Payton",
+      "position": "QB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-01",
+      "injury_comment": "Payton (coach's decision) is inactive for Monday's game against the Cowboys but will serve as the team's emergency quarterback."
+    },
+    {
       "player_id": "7525",
       "source_id": "4241478",
       "player_name": "DeVonta Smith",
@@ -568,7 +620,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Smith (hamstring) has been ruled out for Monday's game against the Cowboys."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "9486",
@@ -581,7 +633,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Wicks (ankle) has been ruled out for Monday's game versus the Cowboys."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "7757",
@@ -620,7 +672,7 @@
       "injury_description": null,
       "injury_detail": "Achilles",
       "est_return_date": "2026-11-08",
-      "injury_comment": "out"
+      "injury_comment": "Evans (Achilles) is expected to return after San Francisco's Week 8 bye, David Lombardi of SF Standard reports."
     },
     {
       "player_id": "5872",
@@ -633,7 +685,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "out"
+      "injury_comment": "Samuel (hamstring) has a chance to return following the 49ers' Week 8 bye, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "11651",
