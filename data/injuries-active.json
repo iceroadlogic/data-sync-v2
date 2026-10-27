@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T01:54:14.765Z",
-  "week": 7,
+  "lastUpdated": "2026-10-27T11:55:43.336Z",
+  "week": 8,
   "summary": {
     "total_players": 774,
-    "questionable": 20,
+    "questionable": 21,
     "doubtful": 0,
     "out": 41
   },
@@ -228,6 +228,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
       "injury_comment": "Tracy (hamstring) didn't return to Sunday's 27-21 overtime win over the Texans after exiting with 5:29 remaining in the second quarter, Pat Leonard of the New York Daily News reports."
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-10-26",
+      "injury_comment": "Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports."
     },
     {
       "player_id": "4034",
