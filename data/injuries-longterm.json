@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T23:20:25.952Z",
+  "lastUpdated": "2026-10-28T17:37:32.992Z",
   "week": 8,
   "summary": {
-    "total_players": 775,
-    "ir": 86,
+    "total_players": 770,
+    "ir": 87,
     "suspended": 0
   },
   "ir": [
@@ -68,9 +68,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Collins (hip) has been ruled out ahead of Sunday's game against the 49ers, Tori McElhaney of the Falcons' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7593",
@@ -822,9 +822,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Saints general manager Mickey Loomis said Tuesday that Tyson (hamstring) is \"getting closer\" but won't practice this week, Ross Jackson of WWL Louisiana reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11655",
@@ -1124,6 +1124,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2027-02-15",
       "injury_comment": "Lane underwent surgery Oct. 9 to repair his fractured and dislocated ankle, and he is expected to be cleared for activities before OTAs, Tashan Reed of The Washington Post reports."
+    },
+    {
+      "player_id": "5927",
+      "source_id": "3121422",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Commanders placed McLaurin (knee) on injured reserve Wednesday, Zach Selby of the team's official site reports."
     }
   ],
   "suspended": []

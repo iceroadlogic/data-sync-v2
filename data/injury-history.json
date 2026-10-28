@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T12:32:41.827Z",
+  "lastUpdated": "2026-10-28T17:37:32.992Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7563,6 +7563,13 @@
           "date": "2026-10-20",
           "from": "Doubtful",
           "to": "Out",
+          "detail": "Knee",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-10-28",
+          "from": "Out",
+          "to": "IR",
           "detail": "Knee",
           "team": "WAS"
         }
@@ -25392,6 +25399,13 @@
           "date": "2026-05-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -38540,6 +38554,13 @@
           "date": "2026-10-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-28",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "TEN"
         }
       ]
     },
@@ -42010,6 +42031,19 @@
           "date": "2026-10-28",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13890": {
+      "name": "Michael Briscoe",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-10-28",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "MIN"
         }
       ]
     },
