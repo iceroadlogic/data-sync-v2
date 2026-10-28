@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-28T17:37:32.992Z",
+  "lastUpdated": "2026-10-28T23:43:18.611Z",
   "week": 8,
   "summary": {
-    "total_players": 770,
-    "ir": 87,
+    "total_players": 772,
+    "ir": 89,
     "suspended": 0
   },
   "ir": [
@@ -226,7 +226,7 @@
       "injury_description": null,
       "injury_detail": "Knee - ACL",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Bengals placed All (knee) on injured reserve Tuesday."
+      "injury_comment": "Bengals head coach Zac Taylor confirmed Wednesday that All has been diagnosed with a torn ACL in his right knee and will require season-ending surgery, Jay Morrison of SI.com reports."
     },
     {
       "player_id": "5409",
@@ -422,6 +422,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12536",
+      "source_id": "4586312",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Noel, who was placed on injured reserve earlier Wednesday, is expected to require surgery to address his toe injury and will miss the remainder of the season, Jonathan M. Alexander of the Houston Chronicle reports."
     },
     {
       "player_id": "12171",
@@ -640,9 +653,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Head coach Sean McVay said Wednesday that Adams had successful surgery on his left hamstring, and the Rams are hopeful that the wide receiver will be able to return on the early side of his 6-to-10-week recovery timetable, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "13597",
@@ -668,7 +681,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Ferguson (ankle), who is eligible to come off injured reserve next week, isn't expected to be ready at that time, Adam Schefter of ESPN reports."
+      "injury_comment": "Ferguson (ankle) won't return to practice this week, Greg Beacham of the Associated Press reports."
     },
     {
       "player_id": "8195",
@@ -918,6 +931,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "8129",
+      "source_id": "4360238",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "The Eagles placed Pierce (undisclosed) on injured reserve Wednesday"
+    },
+    {
       "player_id": "6904",
       "source_id": "4040715",
       "player_name": "Jalen Hurts",
@@ -1131,7 +1157,7 @@
       "player_name": "Terry McLaurin",
       "position": "WR",
       "team_abbr": "WAS",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Knee",
