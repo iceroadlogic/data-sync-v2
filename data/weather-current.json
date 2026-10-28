@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-10-28T01:00:49.234Z",
+  "lastUpdated": "2026-10-28T16:27:30.464Z",
   "games": [
     {
       "game_id": "401873023",
@@ -9,8 +9,8 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 39,
-        "wind": "1 to 6 mph WNW",
+        "temp": 38,
+        "wind": "2 to 6 mph WNW",
         "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
@@ -24,8 +24,8 @@
       "weather": {
         "temp": 65,
         "wind": "3 mph S",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "12%"
+        "conditions": "Partly Sunny",
+        "precipitation": "7%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "2 to 7 mph SE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "56%"
+        "temp": 70,
+        "wind": "2 to 6 mph SE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "49%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 67,
-        "wind": "1 to 6 mph SE",
+        "wind": "1 to 6 mph W",
         "conditions": "Partly Sunny",
-        "precipitation": "5%"
+        "precipitation": "2%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
-        "wind": "2 to 6 mph SE",
-        "conditions": "Partly Sunny then Chance Rain Showers",
-        "precipitation": "31%"
+        "temp": 69,
+        "wind": "2 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "9%"
       }
     },
     {
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "6 to 9 mph E",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "55%"
+        "wind": "7 to 10 mph E",
+        "conditions": "Isolated Showers And Thunderstorms",
+        "precipitation": "56%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 78,
-        "wind": "8 to 13 mph E",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "63%"
+        "wind": "9 to 15 mph E",
+        "conditions": "Showers And Thunderstorms Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
-        "wind": "5 to 10 mph NNW",
+        "temp": 71,
+        "wind": "5 to 10 mph NW",
         "conditions": "Chance Rain Showers",
-        "precipitation": "35%"
+        "precipitation": "40%"
       }
     },
     {
@@ -132,7 +132,7 @@
         "temp": 60,
         "wind": "1 to 7 mph E",
         "conditions": "Mostly Cloudy then Chance Rain Showers",
-        "precipitation": "33%"
+        "precipitation": "47%"
       }
     },
     {
@@ -142,10 +142,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 86,
-        "wind": "8 mph E",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "57%"
+        "temp": 85,
+        "wind": "10 mph E",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "65%"
       }
     },
     {
@@ -155,10 +155,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "5 mph SE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "41%"
+        "temp": 52,
+        "wind": "5 mph S",
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "23%"
       }
     },
     {
@@ -169,9 +169,9 @@
       "is_dome": false,
       "weather": {
         "temp": 55,
-        "wind": "3 mph NNE",
+        "wind": "2 mph NNE",
         "conditions": "Partly Sunny",
-        "precipitation": "5%"
+        "precipitation": "13%"
       }
     }
   ]
