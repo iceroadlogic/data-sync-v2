@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-10-29T01:35:56.528Z",
+  "lastUpdated": "2026-10-29T16:40:08.388Z",
   "games": [
     {
       "game_id": "401873023",
@@ -9,9 +9,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 36,
-        "wind": "1 to 6 mph NW",
-        "conditions": "Mostly Clear then Patchy Fog",
+        "temp": 37,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "3 mph SW",
+        "temp": 64,
+        "wind": "3 mph S",
         "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "precipitation": "5%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "3 mph SE",
+        "temp": 70,
+        "wind": "0 to 3 mph SE",
         "conditions": "Chance Light Rain",
-        "precipitation": "33%"
+        "precipitation": "39%"
       }
     },
     {
@@ -65,9 +65,9 @@
       "is_dome": false,
       "weather": {
         "temp": 65,
-        "wind": "1 to 5 mph SW",
+        "wind": "1 to 6 mph SW",
         "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "precipitation": "0%"
       }
     },
     {
@@ -77,7 +77,7 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 70,
+        "temp": 68,
         "wind": "2 mph SE",
         "conditions": "Mostly Cloudy",
         "precipitation": "6%"
@@ -91,9 +91,9 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "8 to 12 mph E",
-        "conditions": "Isolated Showers And Thunderstorms then Chance Showers And Thunderstorms",
-        "precipitation": "69%"
+        "wind": "8 to 12 mph ENE",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "71%"
       }
     },
     {
@@ -104,9 +104,9 @@
       "is_dome": false,
       "weather": {
         "temp": 75,
-        "wind": "12 to 16 mph E",
+        "wind": "15 mph E",
         "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "62%"
+        "precipitation": "59%"
       }
     },
     {
@@ -116,10 +116,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
-        "wind": "5 to 10 mph NW",
+        "temp": 72,
+        "wind": "0 to 10 mph NNW",
         "conditions": "Light Rain Likely",
-        "precipitation": "56%"
+        "precipitation": "55%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "1 to 7 mph ESE",
-        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
-        "precipitation": "16%"
+        "temp": 64,
+        "wind": "1 to 6 mph E",
+        "conditions": "Partly Sunny then Chance Rain Showers",
+        "precipitation": "30%"
       }
     },
     {
@@ -143,9 +143,9 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "10 to 14 mph E",
-        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-        "precipitation": "75%"
+        "wind": "13 mph E",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "78%"
       }
     },
     {
@@ -155,10 +155,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 49,
+        "temp": 47,
         "wind": "3 mph S",
         "conditions": "Mostly Cloudy",
-        "precipitation": "6%"
+        "precipitation": "3%"
       }
     },
     {
