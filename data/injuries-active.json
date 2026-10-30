@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-30T00:32:10.379Z",
+  "lastUpdated": "2026-10-30T01:46:54.111Z",
   "week": 8,
   "summary": {
     "total_players": 773,
-    "questionable": 60,
+    "questionable": 61,
     "doubtful": 0,
     "out": 18
   },
@@ -175,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Turpin (ribs) was estimated to be a nonparticipant in Wednesday's walkthrough, Jon Machota of The Athletic reports."
+      "injury_comment": "Turpin (ribs) was a non-participant in practice Thursday, Tommy Yarrish of the Cowboys' official site reports."
     },
     {
       "player_id": "12489",
@@ -202,6 +202,19 @@
       "injury_detail": "Chest",
       "est_return_date": "2026-11-01",
       "injury_comment": "Waddle (chest) practiced in a limited capacity Thursday, Aric DiLalla of the Broncos' official site reports."
+    },
+    {
+      "player_id": "8167",
+      "source_id": "4248528",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-10-29",
+      "injury_comment": "Watson (chest) is questionable to return to Thursday night's game against the Panthers, Ryan Wood of USA Today reports."
     },
     {
       "player_id": "5892",
@@ -331,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Thomas (shoulder) was a limited participant in Wednesday's practice, Anthony Galaviz of The Fresno Bee reports."
+      "injury_comment": "Thomas (shoulder) was a limited participant at the Raiders' practice Thursday."
     },
     {
       "player_id": "9490",
@@ -383,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Thompson (quadriceps/hamstring) did not participate at practice Wednesday."
+      "injury_comment": "Thompson (quadriceps/hamstring) did not practice Thursday."
     },
     {
       "player_id": "6865",
@@ -448,7 +461,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-01",
-      "injury_comment": "Wayne (knee) was a limited participant in Wednesday's practice, Marcel Louis-Jacques of ESPN.com reports."
+      "injury_comment": "Wayne (knee) was a limited practice participant Thursday, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "12700",
@@ -682,7 +695,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-02",
-      "injury_comment": "questionable"
+      "injury_comment": "Lock (elbow) was a limited participant at the Seahawks' practice Thursday."
     },
     {
       "player_id": "8676",

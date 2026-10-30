@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T23:42:40.784Z",
+  "lastUpdated": "2026-10-30T01:46:54.111Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16858,6 +16858,13 @@
           "date": "2026-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-10-30",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "GB"
         }
       ]
     },
