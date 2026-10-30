@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T23:42:40.784Z",
+  "lastUpdated": "2026-10-30T17:26:57.286Z",
   "week": 8,
   "summary": {
     "total_players": 773,
@@ -237,9 +237,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Pectoral",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Hudson (pectoral) was placed on injured reserve by the Bengals on Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10226",
@@ -250,9 +250,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Iosivas (thumb) is making good progress in his rehab, Mike Petraglia of CLNSCincy.com reports."
     },
     {
       "player_id": "12472",
@@ -367,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Back",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Lions coach Dan Campbell said Friday that Pacheco (back) has a chance to return in late December, Justin Rogers of DetroitFootball.net reports."
     },
     {
       "player_id": "11370",
@@ -1162,7 +1162,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Commanders placed McLaurin (knee) on injured reserve Wednesday, Zach Selby of the team's official site reports."
+      "injury_comment": "McLaurin (knee) underwent surgery Friday to repair the torn patellar tendon in his left knee, Nicki Jhabvala of The Athletic reports."
     }
   ],
   "suspended": []
