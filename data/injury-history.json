@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T23:22:08.450Z",
+  "lastUpdated": "2026-10-31T18:23:56.862Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7246,6 +7246,13 @@
           "from": "Healthy",
           "to": "Questionable",
           "detail": "Knee",
+          "team": "NE"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
           "team": "NE"
         }
       ]
@@ -35574,6 +35581,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Illness",
+          "team": "NE"
         }
       ]
     },
@@ -35859,6 +35873,13 @@
           "from": "Out",
           "to": "Questionable",
           "detail": "Toe",
+          "team": "CHI"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Thumb",
           "team": "CHI"
         }
       ]
