@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-31T16:30:33.889Z",
+  "lastUpdated": "2026-10-31T22:55:32.077Z",
   "week": 8,
   "summary": {
-    "total_players": 773,
+    "total_players": 774,
     "ir": 89,
     "suspended": 0
   },
@@ -69,7 +69,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Hip",
-      "est_return_date": "2026-11-01",
+      "est_return_date": "2026-11-08",
       "injury_comment": "Collins (hip) is questionable for Sunday's game against the Buccaneers, Will McFadden of the Falcons' official site reports."
     },
     {
@@ -318,6 +318,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12489",
+      "source_id": "4568490",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "The Broncos placed Harvey (knee) on injured reserve Saturday, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "12735",
@@ -578,19 +591,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12483",
-      "source_id": "4603186",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Forearm",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Bech (forearm) is listed as questionable for Sunday's game at the Jets, Sam Warren of The Athletic reports."
     },
     {
       "player_id": "11963",
@@ -1097,7 +1097,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-11-02",
-      "injury_comment": "Price (chest) was a full participant in Friday's practice, John Boyle of the Seahawks' official site reports."
+      "injury_comment": "Price (chest) doesn't have a designation for Monday's game against the Bears, but he remains on injured reserve, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "11618",

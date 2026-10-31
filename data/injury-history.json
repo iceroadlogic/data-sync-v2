@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T18:23:56.862Z",
+  "lastUpdated": "2026-10-31T22:55:32.077Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -18781,6 +18781,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "SEA"
         }
       ]
     },
@@ -21108,6 +21115,11 @@
           "to": "Questionable",
           "detail": "Knee - ACL",
           "team": "SEA"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -32709,6 +32721,11 @@
           "to": "IR",
           "detail": "Forearm",
           "team": "LV"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -32987,6 +33004,13 @@
           "date": "2026-10-30",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Knee",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Out",
+          "to": "IR",
           "detail": "Knee",
           "team": "DEN"
         }
@@ -35040,6 +35064,11 @@
           "to": "Questionable",
           "detail": "Neck",
           "team": "CHI"
+        },
+        {
+          "date": "2026-10-31",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
