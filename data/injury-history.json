@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T18:43:15.326Z",
+  "lastUpdated": "2026-11-01T22:27:13.125Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -4208,6 +4208,19 @@
         }
       ]
     },
+    "4454": {
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
+        }
+      ]
+    },
     "4574": {
       "name": "Cooper Rush",
       "position": "QB",
@@ -5343,6 +5356,13 @@
           "date": "2026-11-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "BUF"
         }
       ]
     },
@@ -6953,6 +6973,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "MIN"
         }
       ]
     },
@@ -10680,6 +10707,13 @@
           "to": "Questionable",
           "detail": "Ribs",
           "team": "LAR"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ribs",
+          "team": "LAR"
         }
       ]
     },
@@ -11143,6 +11177,19 @@
         }
       ]
     },
+    "7083": {
+      "name": "Tyler Huntley",
+      "position": "QB",
+      "transitions": [
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "BAL"
+        }
+      ]
+    },
     "7090": {
       "name": "Darnell Mooney",
       "position": "WR",
@@ -11531,6 +11578,11 @@
           "to": "Questionable",
           "detail": "Chest",
           "team": "DEN"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12120,6 +12172,11 @@
           "from": "Healthy",
           "to": "Questionable",
           "team": "DET"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12876,6 +12933,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
@@ -13942,6 +14006,13 @@
           "date": "2026-10-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BUF"
         }
       ]
     },
@@ -23665,6 +23736,13 @@
           "date": "2026-10-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
         }
       ]
     },
@@ -24054,6 +24132,13 @@
           "date": "2026-10-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Neck",
+          "team": "DET"
         }
       ]
     },
@@ -27665,6 +27750,11 @@
           "to": "Questionable",
           "detail": "Back",
           "team": "LAR"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -37632,6 +37722,19 @@
         }
       ]
     },
+    "12860": {
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAC"
+        }
+      ]
+    },
     "12866": {
       "name": "Jalin Conyers",
       "position": "TE",
@@ -39129,6 +39232,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
@@ -39516,6 +39626,13 @@
           "date": "2026-10-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -39869,6 +39986,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "NE"
         }
       ]
     },
@@ -40440,6 +40564,13 @@
           "date": "2026-09-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "ATL"
         }
       ]
     },
@@ -41131,6 +41262,13 @@
           "date": "2026-10-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "MIA"
         }
       ]
     },
@@ -41288,6 +41426,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "KC"
         }
       ]
     },
@@ -42302,6 +42447,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-01",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "DEN"
         }
       ]
     },
