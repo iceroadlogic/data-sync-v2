@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-10-31T19:45:15.306Z",
+  "lastUpdated": "2026-11-01T00:44:23.031Z",
   "games": [
     {
       "game_id": "401873023",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 59,
-        "wind": "6 mph SSE",
-        "conditions": "Scattered Rain Showers",
-        "precipitation": "13%"
+        "temp": 48,
+        "wind": "3 mph S",
+        "conditions": "Chance Rain Showers then Mostly Cloudy",
+        "precipitation": "10%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "5 mph S",
-        "conditions": "Mostly Sunny",
-        "precipitation": "4%"
+        "temp": 68,
+        "wind": "7 mph S",
+        "conditions": "Partly Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -38,7 +38,7 @@
         "temp": 72,
         "wind": "3 mph SE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "13%"
       }
     },
     {
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "3 mph SE",
+        "wind": "5 mph SE",
         "conditions": "Mostly Cloudy",
         "precipitation": "9%"
       }
