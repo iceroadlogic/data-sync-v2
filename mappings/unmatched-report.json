@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T16:56:35.557Z",
+  "generated": "2026-11-01T16:40:21.525Z",
   "unmatched_sleeper": [
     {
       "player_id": "138",
@@ -353,7 +353,14 @@
     },
     {
       "player_id": "8223",
-      "name": "Velus Jones",
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "team": "SEA",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "8861",
+      "name": "Irvin Charles",
       "position": "WR",
       "team": "SEA",
       "ambiguous_espn_candidates": 0
@@ -370,6 +377,13 @@
       "name": "Mitch Tinsley",
       "position": "WR",
       "team": "CIN",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "11199",
+      "name": "Emari Demercado",
+      "position": "RB",
+      "team": "HOU",
       "ambiguous_espn_candidates": 0
     },
     {
@@ -408,13 +422,6 @@
       "ambiguous_espn_candidates": 0
     },
     {
-      "player_id": "11820",
-      "name": "Devin Culp",
-      "position": "TE",
-      "team": "TB",
-      "ambiguous_espn_candidates": 0
-    },
-    {
       "player_id": "12267",
       "name": "Qadir Ismail",
       "position": "WR",
@@ -436,10 +443,10 @@
       "ambiguous_espn_candidates": 0
     },
     {
-      "player_id": "12897",
-      "name": "Nate Carter",
-      "position": "RB",
-      "team": "KC",
+      "player_id": "12907",
+      "name": "Quentin Skinner",
+      "position": "WR",
+      "team": "PHI",
       "ambiguous_espn_candidates": 0
     },
     {
@@ -457,16 +464,9 @@
       "ambiguous_espn_candidates": 0
     },
     {
-      "player_id": "13324",
-      "name": "Matt Hibner",
-      "position": "TE",
-      "team": "BAL",
-      "ambiguous_espn_candidates": 0
-    },
-    {
       "player_id": "13433",
       "name": "Riley Nowakowski",
-      "position": "TE",
+      "position": "RB",
       "team": "PIT",
       "ambiguous_espn_candidates": 0
     },
@@ -488,7 +488,14 @@
       "player_id": "13603",
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
+      "ambiguous_espn_candidates": 0
+    },
+    {
+      "player_id": "13744",
+      "name": "Cameron Ross",
+      "position": "WR",
+      "team": "DEN",
       "ambiguous_espn_candidates": 0
     },
     {
@@ -511,12 +518,6 @@
       "name": "Xavier Weaver",
       "position": "WR",
       "team": "ARI"
-    },
-    {
-      "espn_id": "4432260",
-      "name": "Matthew Hibner",
-      "position": "TE",
-      "team": "BAL"
     },
     {
       "espn_id": "4379769",
@@ -543,8 +544,8 @@
       "team": "DET"
     },
     {
-      "espn_id": "4362617",
-      "name": "Bryce Oliver",
+      "espn_id": "5085942",
+      "name": "Treyvhon Saunders",
       "position": "WR",
       "team": "HOU"
     },
@@ -555,28 +556,22 @@
       "team": "IND"
     },
     {
-      "espn_id": "4426689",
-      "name": "Ulysses Bentley IV",
-      "position": "RB",
-      "team": "IND"
-    },
-    {
       "espn_id": "4685415",
       "name": "Travis Hunter",
       "position": "WR",
       "team": "JAX"
     },
     {
-      "espn_id": "4605841",
-      "name": "Nathan Carter",
-      "position": "RB",
-      "team": "KC"
+      "espn_id": "3138744",
+      "name": "Chris Myarick",
+      "position": "TE",
+      "team": "LV"
     },
     {
-      "espn_id": "4691889",
-      "name": "Greg Desrosiers Jr.",
-      "position": "RB",
-      "team": "LAC"
+      "espn_id": "4565908",
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team": "LV"
     },
     {
       "espn_id": "3115328",
@@ -591,14 +586,20 @@
       "team": "NO"
     },
     {
-      "espn_id": "4877738",
-      "name": "Brock Rechsteiner",
+      "espn_id": "4372758",
+      "name": "Kevin Austin Jr.",
       "position": "WR",
       "team": "NO"
     },
     {
-      "espn_id": "16733",
-      "name": "Odell Beckham Jr.",
+      "espn_id": "4691889",
+      "name": "Greg Desrosiers Jr.",
+      "position": "RB",
+      "team": "NYG"
+    },
+    {
+      "espn_id": "4689988",
+      "name": "Jason Brownlee",
       "position": "WR",
       "team": "NYG"
     },
@@ -615,6 +616,12 @@
       "team": "NYJ"
     },
     {
+      "espn_id": "5086529",
+      "name": "Cody Hardy",
+      "position": "TE",
+      "team": "NYJ"
+    },
+    {
       "espn_id": "5192448",
       "name": "Cole Burgess",
       "position": "WR",
@@ -625,6 +632,12 @@
       "name": "Max Hurleman",
       "position": "RB",
       "team": "PIT"
+    },
+    {
+      "espn_id": "3929636",
+      "name": "Irv Charles",
+      "position": "WR",
+      "team": "SEA"
     },
     {
       "espn_id": "4035693",
@@ -645,5 +658,5 @@
       "team": "TB"
     }
   ],
-  "unmatched_espn_total": 24
+  "unmatched_espn_total": 25
 }
