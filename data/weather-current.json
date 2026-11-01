@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-11-01T00:44:23.031Z",
+  "lastUpdated": "2026-11-01T18:46:59.357Z",
   "games": [
     {
       "game_id": "401873023",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "3 mph S",
-        "conditions": "Chance Rain Showers then Mostly Cloudy",
-        "precipitation": "10%"
+        "temp": 66,
+        "wind": "5 mph S",
+        "conditions": "Partly Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -23,9 +23,9 @@
       "is_dome": false,
       "weather": {
         "temp": 68,
-        "wind": "7 mph S",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "wind": "3 to 8 mph SW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "3%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "3 mph SE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "13%"
+        "temp": 73,
+        "wind": "3 mph SW",
+        "conditions": "Cloudy",
+        "precipitation": "4%"
       }
     },
     {
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "6 mph W",
+        "wind": "7 mph SW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 mph SE",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "9%"
+        "temp": 68,
+        "wind": "1 to 6 mph SE",
+        "conditions": "Partly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "wind": "12 mph E",
-        "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "66%"
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "73%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 78,
-        "wind": "10 to 15 mph E",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "56%"
+        "temp": 79,
+        "wind": "16 mph E",
+        "conditions": "Chance Showers And Thunderstorms",
+        "precipitation": "39%"
       }
     },
     {
@@ -117,9 +117,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 to 15 mph WNW",
-        "conditions": "Light Rain Likely then Slight Chance Rain Showers",
-        "precipitation": "60%"
+        "wind": "15 to 20 mph W",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "18%"
       }
     },
     {
@@ -129,10 +129,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "1 to 8 mph SE",
-        "conditions": "Patchy Fog then Slight Chance Light Rain",
-        "precipitation": "16%"
+        "temp": 63,
+        "wind": "3 to 7 mph SE",
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -143,9 +143,9 @@
       "is_dome": false,
       "weather": {
         "temp": 82,
-        "wind": "12 to 15 mph E",
+        "wind": "14 mph E",
         "conditions": "Showers And Thunderstorms",
-        "precipitation": "78%"
+        "precipitation": "76%"
       }
     },
     {
@@ -156,8 +156,8 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "0 to 3 mph S",
-        "conditions": "Partly Cloudy",
+        "wind": "0 to 3 mph E",
+        "conditions": "Mostly Cloudy",
         "precipitation": "2%"
       }
     },
@@ -168,10 +168,10 @@
       "stadium": "Lumen Field",
       "is_dome": false,
       "weather": {
-        "temp": 54,
-        "wind": "2 mph NE",
+        "temp": 53,
+        "wind": "1 mph NE",
         "conditions": "Mostly Cloudy",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     }
   ]
