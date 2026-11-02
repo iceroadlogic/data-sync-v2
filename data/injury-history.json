@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T22:27:13.125Z",
+  "lastUpdated": "2026-11-02T01:41:43.110Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1897,6 +1897,13 @@
           "date": "2026-02-05",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-02",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Foot",
+          "team": "NE"
         }
       ]
     },
@@ -14078,6 +14085,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-02",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15752,6 +15764,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-02",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22677,6 +22694,13 @@
           "date": "2026-10-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-02",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "ARI"
         }
       ]
     },
@@ -42369,6 +42393,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-02",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },

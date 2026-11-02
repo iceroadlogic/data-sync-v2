@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-01T22:27:13.125Z",
+  "lastUpdated": "2026-11-02T01:41:43.110Z",
   "week": 8,
   "summary": {
     "total_players": 774,
-    "questionable": 20,
+    "questionable": 19,
     "doubtful": 0,
-    "out": 69
+    "out": 71
   },
   "questionable": [
     {
@@ -35,6 +35,19 @@
       "injury_comment": "Love (ankle) was ruled out for Sunday's game against the Cowboys to begin the second half, Alex Weiner of ArizonaSports.com reports."
     },
     {
+      "player_id": "10232",
+      "source_id": "4360761",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Wilson said after Sunday's 33-30 win at Dallas that he suffered two broken ribs during the contest, Josh Weinfuss of ESPN.com reports."
+    },
+    {
       "player_id": "13320",
       "source_id": "4870612",
       "player_name": "Zachariah Branch",
@@ -58,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-05",
-      "injury_comment": "The status of Huntley (toe) is uncertain ahead of Thursday night's game against the Jaguars , Tom Pelissero of Netflix reports"
+      "injury_comment": "Huntley sustained what could be a turf-toe injury during Sunday's 36-10 loss at Buffalo, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "4983",
@@ -97,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Ferguson (ankle) won't return to Sunday's game against the Cardinals, Joe Hoyt reports."
+      "injury_comment": "Ferguson suffered a low-ankle sprain during Sunday's loss to the Cardinals, Jeremy Fowler of ESPN reports."
     },
     {
       "player_id": "11237",
@@ -149,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-09",
-      "injury_comment": "questionable"
+      "injury_comment": "Murray completed 17 of 29 passes for 210 yards with two touchdowns and one interception and rushed four times for 35 yards in the Vikings' 19-15 loss to the Lions on Sunday. He also threw a two-point conversion pass and dealt with hamstring tightness during the game, per Alec Lewis of The Athletic."
     },
     {
       "player_id": "13277",
@@ -241,32 +254,6 @@
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-02",
       "injury_comment": "Lock (elbow) is listed as questionable for Monday's game against the Bears, Curtis Crabtree of Fox 13 Seattle reports."
-    },
-    {
-      "player_id": "7716",
-      "source_id": "4048228",
-      "player_name": "John Bates",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Bates (shoulder) is listed as questionable for Sunday's game against the Eagles."
-    },
-    {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Burks (foot), who is listed as questionable for Sunday's game against the Eagles, is expected to play, Adam Schefter of ESPN reports."
     }
   ],
   "doubtful": [],
@@ -360,7 +347,7 @@
       "injury_description": null,
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Fagnano (coach's decision) is inactive but will serve as the Ravens' emergency third quarterback Sunday against the Bills."
+      "injury_comment": "Fagnano (undisclosed) said that he hopes to be ready for Thursday's game against the Jaguars, but acknowledged he's not 100 percent following Sunday's loss to the Bills, Jonas Shafferof the Baltimore Banner reports."
     },
     {
       "player_id": "4881",
@@ -373,7 +360,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-12-13",
-      "injury_comment": "Jackson is slated to have surgery to address his right thumb injury and will be placed on injured reserve, Brian Wacker of The Baltimore Sun reports."
+      "injury_comment": "Jackson is slated to have surgery to address his right thumb injury and will be placed on injured reserve, per coach Jesse Minter,  Brian Wacker of The Baltimore Sun reports."
     },
     {
       "player_id": "13268",
@@ -922,6 +909,19 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "3214",
+      "source_id": "3046439",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Henry (foot) has been ruled out for the rest of Sunday's game at Miami."
+    },
+    {
       "player_id": "13295",
       "source_id": "4431465",
       "player_name": "Behren Morton",
@@ -984,7 +984,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Covey (knee) has been ruled out for Sunday's game against the Commanders."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "7525",
@@ -997,7 +997,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Smith (hamstring) is listed as out for Sunday night's game against the Commanders."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "9486",
@@ -1010,7 +1010,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Wicks (ankle) has been ruled out for Sunday night's game against the Commanders."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13289",
@@ -1167,6 +1167,19 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-15",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13557",
+      "source_id": "4432722",
+      "player_name": "Athan Kaliakmanis",
+      "position": "QB",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Kaliakmanis (coach's decision) is inactive but serving as the Commanders' emergency third quarterback Sunday night against the Eagles."
     }
   ]
 }
