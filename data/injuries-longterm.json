@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T22:55:32.077Z",
+  "lastUpdated": "2026-11-02T21:03:08.576Z",
   "week": 8,
   "summary": {
     "total_players": 774,
@@ -16,9 +16,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Wrist",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Cardinals placed Brooks (wrist) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11589",
@@ -42,9 +42,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "When asked Monday if Conner (foot) will play this season, coach Mike LaFleur said \"potentially,\" Dani Sureck of the Cardinals' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7535",
@@ -70,7 +70,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Collins (hip) is questionable for Sunday's game against the Buccaneers, Will McFadden of the Falcons' official site reports."
+      "injury_comment": "Collins (hip) has been ruled out for Sunday's game against the Buccaneers and will remain on injured reserve, Tori McElhaney of the Falcons' official site reports."
     },
     {
       "player_id": "7593",
@@ -95,8 +95,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-11-01",
-      "injury_comment": "Randall (neck) is questionable for Sunday's game against the Bills."
+      "est_return_date": "2026-11-05",
+      "injury_comment": "Randall (neck) wasn't activated from injured reserve Saturday and won't be available for Sunday's game against the Bills, Jeff Zrebiec of The Athletic reports."
     },
     {
       "player_id": "5008",
@@ -146,9 +146,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Abdomen",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Panthers head coach Dave Canales said Monday that Brooks (core) will \"potentially\" be designated for return from injured reserve this week, Joe Person of The Athletic reports."
     },
     {
       "player_id": "11626",
@@ -159,9 +159,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Panthers head coach Dave Canales said Monday that Legette (knee) will \"potentially\" be designated for return from injured reserve this week, Joe Person of The Athletic reports."
     },
     {
       "player_id": "8423",
@@ -302,9 +302,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "The Broncos placed Badie (thumb) on injured reserve Saturday, Aric DiLalla of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12492",
@@ -510,9 +510,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Heel",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Colts head coach Shane Steichen said Monday that Pierce (heel) will \"most likely not\" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13407",
@@ -575,9 +575,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "The Chiefs placed Smith (hamstring) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8188",
@@ -770,9 +770,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Hollins (calf), who is eligible to be activated from IR this week, per Doug Kyed of the Boston Herald, could return to practice this week, Evan Lazar of the Patriots' official site reports."
     },
     {
       "player_id": "13964",
@@ -809,9 +809,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Head coach Kellen Moore said that Etienne (hamstring) will be evaluated Monday before the Saints make a determination whether he practices this week, Ross Jackson of WWL Louisiana reports."
     },
     {
       "player_id": "12480",
@@ -835,9 +835,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Saints head coach Kellen Moore said that the Saints will decide by Wednesday whether to open Tyson's (hamstring) 21-day practice window this week, Nick Underhill of NewOrleans.Footballreports."
     },
     {
       "player_id": "11655",
@@ -991,9 +991,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Pittman (foot) said Monday that he resumed running last week as part of a program to return, but the wideout acknowledged that he's without a clear timeline to be activated from injured reserve, Ray Fittipaldo of the Pittsburgh Post-Gazette reports."
     },
     {
       "player_id": "11630",
@@ -1097,7 +1097,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-11-02",
-      "injury_comment": "Price (chest) doesn't have a designation for Monday's game against the Bears, but he remains on injured reserve, John Boyle of the Seahawks' official site reports."
+      "injury_comment": "Price (chest) doesn't have a designation for Monday's game against the Bears but remains on injured reserve, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "11618",
