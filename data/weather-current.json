@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-11-01T22:27:23.909Z",
+  "lastUpdated": "2026-11-02T01:42:48.219Z",
   "games": [
     {
       "game_id": "401873023",
@@ -9,10 +9,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "3 mph S",
-        "conditions": "Partly Sunny",
-        "precipitation": "3%"
+        "temp": 52,
+        "wind": "5 mph SSE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "6%"
       }
     },
     {
@@ -22,10 +22,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "3 mph W",
-        "conditions": "Sunny",
-        "precipitation": "3%"
+        "temp": 49,
+        "wind": "5 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "0%"
       }
     },
     {
@@ -35,10 +35,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 73,
-        "wind": "2 mph SW",
-        "conditions": "Cloudy",
-        "precipitation": "4%"
+        "temp": 54,
+        "wind": "1 to 5 mph S",
+        "conditions": "Cloudy then Light Rain Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 45,
+        "wind": "2 to 6 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "0 mph ",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "temp": 51,
+        "wind": "2 mph SE",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -90,10 +90,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "12 mph ENE",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "71%"
+        "temp": 69,
+        "wind": "10 mph ENE",
+        "conditions": "Scattered Showers And Thunderstorms",
+        "precipitation": "50%"
       }
     },
     {
@@ -103,10 +103,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 79,
-        "wind": "14 mph E",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "28%"
+        "temp": 69,
+        "wind": "13 mph NE",
+        "conditions": "Chance Rain Showers",
+        "precipitation": "30%"
       }
     },
     {
@@ -129,8 +129,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "6 mph NNE",
+        "temp": 46,
+        "wind": "5 mph SW",
         "conditions": "Chance Light Rain",
         "precipitation": "33%"
       }
@@ -142,10 +142,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 82,
-        "wind": "14 mph E",
-        "conditions": "Showers And Thunderstorms Likely",
-        "precipitation": "63%"
+        "temp": 74,
+        "wind": "13 mph E",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "82%"
       }
     },
     {
@@ -156,9 +156,9 @@
       "is_dome": false,
       "weather": {
         "temp": 43,
-        "wind": "0 to 3 mph E",
+        "wind": "1 mph E",
         "conditions": "Mostly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "1%"
       }
     },
     {
