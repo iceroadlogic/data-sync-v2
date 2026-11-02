@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-02T01:41:43.110Z",
+  "lastUpdated": "2026-11-02T15:23:43.704Z",
   "week": 8,
   "summary": {
     "total_players": 774,
-    "questionable": 19,
+    "questionable": 22,
     "doubtful": 0,
-    "out": 71
+    "out": 69
   },
   "questionable": [
     {
@@ -61,6 +61,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "13350",
+      "source_id": "4429582",
+      "player_name": "Joe Fagnano",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-05",
+      "injury_comment": "Fagnano acknowledged that he's not 100 percent healthy after taking a hit to his left knee during Sunday's 36-10 loss to the bills, but he said that he hopes to be ready to play in Thursday's game against the Jaguars, Jonas Shafferof TheBanner.com reports."
+    },
+    {
       "player_id": "7083",
       "source_id": "4035671",
       "player_name": "Tyler Huntley",
@@ -71,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Huntley sustained what could be a turf-toe injury during Sunday's 36-10 loss at Buffalo, Adam Schefter of ESPN reports."
+      "injury_comment": "Huntley may have sustained a right turf toe injury during Sunday's 36-10 loss at Buffalo, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "4983",
@@ -165,6 +178,19 @@
       "injury_comment": "Murray completed 17 of 29 passes for 210 yards with two touchdowns and one interception and rushed four times for 35 yards in the Vikings' 19-15 loss to the Lions on Sunday. He also threw a two-point conversion pass and dealt with hamstring tightness during the game, per Alec Lewis of The Athletic."
     },
     {
+      "player_id": "3214",
+      "source_id": "3046439",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Henry (foot) has been ruled out for the rest of Sunday's game in Miami."
+    },
+    {
       "player_id": "13277",
       "source_id": "5081999",
       "player_name": "CJ Donaldson",
@@ -254,6 +280,19 @@
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-02",
       "injury_comment": "Lock (elbow) is listed as questionable for Monday's game against the Bears, Curtis Crabtree of Fox 13 Seattle reports."
+    },
+    {
+      "player_id": "4219",
+      "source_id": "3127586",
+      "player_name": "Jeremy McNichols",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "McNichols (foot) is questionable to return to Sunday's game against the Eagles."
     }
   ],
   "doubtful": [],
@@ -337,19 +376,6 @@
       "injury_comment": "inactive"
     },
     {
-      "player_id": "13350",
-      "source_id": "4429582",
-      "player_name": "Joe Fagnano",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-05",
-      "injury_comment": "Fagnano (undisclosed) said that he hopes to be ready for Thursday's game against the Jaguars, but acknowledged he's not 100 percent following Sunday's loss to the Bills, Jonas Shafferof the Baltimore Banner reports."
-    },
-    {
       "player_id": "4881",
       "source_id": "3916387",
       "player_name": "Lamar Jackson",
@@ -360,7 +386,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-12-13",
-      "injury_comment": "Jackson is slated to have surgery to address his right thumb injury and will be placed on injured reserve, per coach Jesse Minter,  Brian Wacker of The Baltimore Sun reports."
+      "injury_comment": "Ravens head coach Jesse Minter said after Sunday's 36-10 loss to the Bills that Jackson will undergo surgery to address his right thumb injury and will be placed on injured reserve,  Brian Wacker of The Baltimore Sun reports."
     },
     {
       "player_id": "13268",
@@ -907,19 +933,6 @@
       "injury_detail": "Illness",
       "est_return_date": "2026-11-08",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "3214",
-      "source_id": "3046439",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "team_abbr": "NE",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Henry (foot) has been ruled out for the rest of Sunday's game at Miami."
     },
     {
       "player_id": "13295",
