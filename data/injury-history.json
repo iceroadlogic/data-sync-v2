@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T21:03:08.576Z",
+  "lastUpdated": "2026-11-03T02:41:15.356Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -106,6 +106,13 @@
           "date": "2026-01-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Arm",
+          "team": "LAR"
         }
       ]
     },
@@ -773,6 +780,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CHI"
         }
       ]
     },
@@ -4261,6 +4275,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Lower Leg",
+          "team": "ARI"
         }
       ]
     },
@@ -7221,6 +7242,13 @@
           "to": "Questionable",
           "detail": "Elbow",
           "team": "SEA"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Elbow",
+          "team": "SEA"
         }
       ]
     },
@@ -7870,6 +7898,13 @@
           "date": "2026-11-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "JAX"
         }
       ]
     },
@@ -8365,6 +8400,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "BAL"
         }
       ]
     },
@@ -22046,6 +22088,13 @@
           "date": "2026-08-10",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "JAX"
         }
       ]
     },
@@ -33467,6 +33516,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "JAX"
         }
       ]
     },
@@ -39691,6 +39747,11 @@
           "to": "IR",
           "detail": "Chest",
           "team": "SEA"
+        },
+        {
+          "date": "2026-11-03",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -40650,6 +40711,19 @@
           "from": "Healthy",
           "to": "Out",
           "team": "CIN"
+        }
+      ]
+    },
+    "13315": {
+      "name": "Dean Connors",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-11-03",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hand",
+          "team": "LAR"
         }
       ]
     },
