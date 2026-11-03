@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-11-03T13:57:24.610Z",
+  "lastUpdated": "2026-11-03T20:28:35.068Z",
   "week": 9,
   "summary": {
     "total_players": 778,
-    "questionable": 40,
-    "doubtful": 1,
-    "out": 20
+    "questionable": 38,
+    "doubtful": 2,
+    "out": 21
   },
   "questionable": [
-    {
-      "player_id": "13287",
-      "source_id": "4870808",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Head coach Mike LaFleur said Monday that Love suffered a \"new\" ankle injury during Sunday's overtime win at Dallas, and that he'll have an update on the running back later this week, Josh Weinfuss of ESPN.com reports."
-    },
     {
       "player_id": "10232",
       "source_id": "4360761",
@@ -58,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Fagnano was limited at Monday's walkthrough due to an ankle injury."
+      "injury_comment": "Fagnano practiced Tuesday \"with a significant guard/brace on his right ankle,\" Jeff Zrebiec of The Athletic reports."
     },
     {
       "player_id": "5995",
@@ -72,19 +59,6 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-11-05",
       "injury_comment": "Hill (groin) was estimated as a limited participant on Monday's practice report."
-    },
-    {
-      "player_id": "7083",
-      "source_id": "4035671",
-      "player_name": "Tyler Huntley",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-11-05",
-      "injury_comment": "Head coach Jesse Minter said Monday that Huntley (toe) \"probably\" won't play Thursday versus the Jaguars, and the Ravens then will \"see how it goes from a long-term standpoint.\""
     },
     {
       "player_id": "4983",
@@ -121,7 +95,7 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Thumb",
+      "injury_detail": "Toe",
       "est_return_date": "2026-11-08",
       "injury_comment": "questionable"
     },
@@ -253,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Tuten was a non-participant at Monday's walkthrough due to ankle and foot injuries."
+      "injury_comment": "Tuten (ankle/foot) was not spotted during the portion of Tuesday's practice open to the media, according to Michael DiRocco of ESPN.com."
     },
     {
       "player_id": "13380",
@@ -279,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Hand",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Connors suffered a broken hand in Sunday's 24-9 win over the Rams."
+      "injury_comment": "Connors suffered a broken hand in Sunday's 24-9 win over the Chargers."
     },
     {
       "player_id": "6865",
@@ -318,7 +292,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-09",
-      "injury_comment": "Murray (hamstring), who is dealing with a sore hamstring, is undergoing a full evaluation to determine the extent of the issue, Alec Lewis of The Athletic reports."
+      "injury_comment": "Head coach Kevin O'Connell said Monday that Murray has a sore hamstring and will undergo a full evaluation as the Vikings look to determine the extent of the issue, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "5859",
@@ -357,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Henry (foot) has been ruled out for the rest of Sunday's game in Miami."
+      "injury_comment": "Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. \"I don't have any expectations yet,\" Vrabel said of Henry. \"It's kind of how he responds here. He wasn't able to finish the [Week 8] game. So we'll see where he is, and I know Hunter will do everything he can to get back to help us.\""
     },
     {
       "player_id": "13277",
@@ -500,7 +474,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Lock (coach's decision) is inactive for Monday's matchup with the Bears, John Boyle of the Seahawks' official site reports."
+      "injury_comment": "Lock (coach's decision/elbow) is inactive for Monday's matchup with the Bears but serving as the team's emergency quarterback, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "8676",
@@ -513,7 +487,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-08",
-      "injury_comment": "questionable"
+      "injury_comment": "Seahawks head coach Mike Macdonald said Tuesday that Shaheed (knee) has a chance to play Sunday against the Cardinals, Brady Henderson of ESPN.com reports."
     },
     {
       "player_id": "12514",
@@ -530,6 +504,19 @@
     }
   ],
   "doubtful": [
+    {
+      "player_id": "7083",
+      "source_id": "4035671",
+      "player_name": "Tyler Huntley",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-11-05",
+      "injury_comment": "Huntley (toe) wasn't spotted practicing Tuesday, Jamison Hensley of ESPN.com reports."
+    },
     {
       "player_id": "4219",
       "source_id": "3127586",
@@ -557,6 +544,19 @@
       "injury_detail": "Lower Leg",
       "est_return_date": "2027-02-15",
       "injury_comment": "Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports."
+    },
+    {
+      "player_id": "13287",
+      "source_id": "4870808",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Love was diagnosed Tuesday with a right high-ankle sprain, which is expected to send him to injured reserve and keep him out for 4-to-5 weeks, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "11716",
