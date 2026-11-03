@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "lastUpdated": "2026-11-03T02:52:20.071Z",
+  "lastUpdated": "2026-11-03T03:19:30.982Z",
   "games": [
     {
       "game_id": "401873023",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "12 to 15 mph S",
+        "wind": "13 mph S",
         "conditions": "Light Rain",
         "precipitation": "88%"
       }
@@ -23,7 +23,7 @@
       "is_dome": false,
       "weather": {
         "temp": 54,
-        "wind": "5 to 8 mph S",
+        "wind": "8 mph S",
         "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
         "precipitation": "19%"
       }
@@ -38,7 +38,7 @@
         "temp": 55,
         "wind": "5 mph SE",
         "conditions": "Partly Cloudy",
-        "precipitation": "4%"
+        "precipitation": "3%"
       }
     },
     {
@@ -65,7 +65,7 @@
       "is_dome": false,
       "weather": {
         "temp": 47,
-        "wind": "5 mph SW",
+        "wind": "3 mph SW",
         "conditions": "Mostly Clear",
         "precipitation": "1%"
       }
@@ -78,7 +78,7 @@
       "is_dome": false,
       "weather": {
         "temp": 52,
-        "wind": "0 to 3 mph SE",
+        "wind": "3 mph SE",
         "conditions": "Slight Chance Light Rain then Mostly Cloudy",
         "precipitation": "19%"
       }
@@ -91,7 +91,7 @@
       "is_dome": false,
       "weather": {
         "temp": 70,
-        "wind": "8 mph ENE",
+        "wind": "7 mph ENE",
         "conditions": "Mostly Cloudy",
         "precipitation": "12%"
       }
@@ -106,7 +106,7 @@
         "temp": 70,
         "wind": "12 mph E",
         "conditions": "Chance Rain Showers",
-        "precipitation": "31%"
+        "precipitation": "29%"
       }
     },
     {
@@ -117,7 +117,7 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "0 to 10 mph NNW",
+        "wind": "0 to 5 mph N",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
@@ -144,7 +144,7 @@
       "weather": {
         "temp": 75,
         "wind": "10 mph E",
-        "conditions": "Showers And Thunderstorms Likely",
+        "conditions": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
         "precipitation": "70%"
       }
     },
