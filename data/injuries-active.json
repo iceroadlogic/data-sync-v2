@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-03T20:28:35.068Z",
+  "lastUpdated": "2026-11-04T02:03:44.290Z",
   "week": 9,
   "summary": {
-    "total_players": 778,
-    "questionable": 38,
-    "doubtful": 2,
-    "out": 21
+    "total_players": 779,
+    "questionable": 35,
+    "doubtful": 1,
+    "out": 19
   },
   "questionable": [
     {
@@ -33,32 +33,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
       "injury_comment": "questionable"
-    },
-    {
-      "player_id": "13350",
-      "source_id": "4429582",
-      "player_name": "Joe Fagnano",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-05",
-      "injury_comment": "Fagnano practiced Tuesday \"with a significant guard/brace on his right ankle,\" Jeff Zrebiec of The Athletic reports."
-    },
-    {
-      "player_id": "5995",
-      "source_id": "4038441",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-05",
-      "injury_comment": "Hill (groin) was estimated as a limited participant on Monday's practice report."
     },
     {
       "player_id": "4983",
@@ -201,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Meyers logged two catches for 24 yards on three targets in Sunday's 42-7 win against Indianapolis."
+      "injury_comment": "Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice."
     },
     {
       "player_id": "10219",
@@ -214,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Hand",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Rodriguez was listed as limited on Monday's practice estimate due to a hand injury."
+      "injury_comment": "Rodriguez (hand) was listed as a limited participant in Tuesday's practice."
     },
     {
       "player_id": "12490",
@@ -227,7 +201,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Tuten (ankle/foot) was not spotted during the portion of Tuesday's practice open to the media, according to Michael DiRocco of ESPN.com."
+      "injury_comment": "The Jaguars listed Tuten (ankle/foot) as a non-participant in Tuesday's practice."
     },
     {
       "player_id": "13380",
@@ -241,19 +215,6 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-08",
       "injury_comment": "Thompson (quadriceps/hamstring) is not expected to practice this week, Noah Furtado of The Athletic reports."
-    },
-    {
-      "player_id": "13315",
-      "source_id": "5082269",
-      "player_name": "Dean Connors",
-      "position": "RB",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hand",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Connors suffered a broken hand in Sunday's 24-9 win over the Chargers."
     },
     {
       "player_id": "6865",
@@ -515,49 +476,10 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-05",
-      "injury_comment": "Huntley (toe) wasn't spotted practicing Tuesday, Jamison Hensley of ESPN.com reports."
-    },
-    {
-      "player_id": "4219",
-      "source_id": "3127586",
-      "player_name": "Jeremy McNichols",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "day-to-day",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "McNichols is getting additional opinions on the foot injury that he suffered Sunday against the Eagles, but there's an expectation that he'll miss multiple months, Tashan Reed of The Washington Post reports."
+      "injury_comment": "Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports."
     }
   ],
   "out": [
-    {
-      "player_id": "4454",
-      "source_id": "3045523",
-      "player_name": "Kendrick Bourne",
-      "position": "WR",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Lower Leg",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports."
-    },
-    {
-      "player_id": "13287",
-      "source_id": "4870808",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-06",
-      "injury_comment": "Love was diagnosed Tuesday with a right high-ankle sprain, which is expected to send him to injured reserve and keep him out for 4-to-5 weeks, Ian Rapoport of NFL Network reports."
-    },
     {
       "player_id": "11716",
       "source_id": "4696700",
@@ -565,6 +487,19 @@
       "position": "TE",
       "team_abbr": "ARI",
       "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "7597",
+      "source_id": "4044144",
+      "player_name": "Kenny Yeboah",
+      "position": "TE",
+      "team_abbr": "ARI",
+      "injury_status": "practice-squad",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,
@@ -606,9 +541,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-11-09",
+      "injury_comment": "The Bills designated Shavers (knee) to return from the reserve/PUP list Wednesday, but he will not play against the Ravens on Sunday, Cameron Wolfe of NFL Network reports."
     },
     {
       "player_id": "13312",
@@ -630,19 +565,6 @@
       "position": "TE",
       "team_abbr": "CLE",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "11748",
-      "source_id": "4427985",
-      "player_name": "Bub Means",
-      "position": "WR",
-      "team_abbr": "CLE",
-      "injury_status": "practice-squad",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,
