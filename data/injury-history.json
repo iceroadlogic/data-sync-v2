@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T14:11:05.567Z",
+  "lastUpdated": "2026-11-04T19:03:37.152Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2333,6 +2333,13 @@
           "date": "2026-03-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "CLE"
         }
       ]
     },
@@ -5043,6 +5050,13 @@
           "date": "2026-09-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Quadriceps",
+          "team": "SEA"
         }
       ]
     },
@@ -16656,6 +16670,13 @@
           "date": "2026-05-28",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "NYJ"
         }
       ]
     },
