@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:28:35.068Z",
+  "lastUpdated": "2026-11-04T00:16:05.563Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3938,6 +3938,13 @@
           "to": "Doubtful",
           "detail": "Foot",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Doubtful",
+          "to": "IR",
+          "detail": "Foot",
+          "team": "WAS"
         }
       ]
     },
@@ -4290,6 +4297,13 @@
           "date": "2026-11-03",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Lower Leg",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Out",
+          "to": "IR",
           "detail": "Lower Leg",
           "team": "ARI"
         }
@@ -8431,6 +8445,11 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "BAL"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -13578,6 +13597,12 @@
           "date": "2026-08-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "ARI"
         }
       ]
     },
@@ -30351,6 +30376,11 @@
           "from": "Healthy",
           "to": "Out",
           "team": "CLE"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -39973,6 +40003,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "ARI"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "ARI"
         }
       ]
     },
@@ -40868,6 +40905,13 @@
           "to": "Questionable",
           "detail": "Hand",
           "team": "LAR"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Hand",
+          "team": "LAR"
         }
       ]
     },
@@ -41396,6 +41440,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "BAL"
+        },
+        {
+          "date": "2026-11-04",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },

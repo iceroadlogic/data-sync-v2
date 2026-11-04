@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-03T18:48:20.844Z",
+  "lastUpdated": "2026-11-04T00:16:05.563Z",
   "week": 9,
   "summary": {
-    "total_players": 778,
-    "ir": 88,
+    "total_players": 779,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -34,6 +34,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "4454",
+      "source_id": "3045523",
+      "player_name": "Kendrick Bourne",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Lower Leg",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Arizona placed Bourne (tibia) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports."
+    },
+    {
       "player_id": "4137",
       "source_id": "3045147",
       "player_name": "James Conner",
@@ -58,6 +71,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13287",
+      "source_id": "4870808",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports."
     },
     {
       "player_id": "12889",
@@ -148,7 +174,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Panthers head coach Dave Canales said Monday that Brooks (core) will \"potentially\" be designated for return from injured reserve this week, Joe Person of The Athletic reports."
+      "injury_comment": "Brooks (core) was seen working off to the side during the Panthers' unofficial practice Tuesday, Joe Person of The Athletic reports."
     },
     {
       "player_id": "11626",
@@ -643,6 +669,19 @@
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-08",
       "injury_comment": "Coach Jim Harbaugh said Monday that the Chargers likely will open the 21-day window for Njoku (fibula) this week, Alex Insdorf of BoltBeat.com reports."
+    },
+    {
+      "player_id": "13315",
+      "source_id": "5082269",
+      "player_name": "Dean Connors",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hand",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "Rams head coach Sean McVay said Monday that Connors sustained a broken hand in Sunday's 24-9 win over the Chargers and will require surgery, Nate Atkins of The Athletic reports."
     },
     {
       "player_id": "2133",
@@ -1150,6 +1189,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2027-02-15",
       "injury_comment": "McLaurin (knee) underwent surgery Friday to repair the torn patellar tendon in his left knee, Nicki Jhabvala of The Athletic reports."
+    },
+    {
+      "player_id": "4219",
+      "source_id": "3127586",
+      "player_name": "Jeremy McNichols",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "The Commanders placed McNichols (foot) on injured reserve Tuesday."
     }
   ],
   "suspended": []
