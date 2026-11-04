@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-04T02:03:44.290Z",
+  "lastUpdated": "2026-11-04T14:11:05.567Z",
   "week": 9,
   "summary": {
-    "total_players": 779,
+    "total_players": 777,
     "questionable": 35,
-    "doubtful": 1,
-    "out": 19
+    "doubtful": 0,
+    "out": 20
   },
   "questionable": [
     {
@@ -464,21 +464,7 @@
       "injury_comment": "questionable"
     }
   ],
-  "doubtful": [
-    {
-      "player_id": "7083",
-      "source_id": "4035671",
-      "player_name": "Tyler Huntley",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Doubtful",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-11-05",
-      "injury_comment": "Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports."
-    }
-  ],
+  "doubtful": [],
   "out": [
     {
       "player_id": "11716",
@@ -520,6 +506,19 @@
       "injury_comment": "Coach Kevin Stefanski noted Monday that Branch (hamstring) won't play Sunday against the Bengals, William McFadden of the Falcons' official site reports."
     },
     {
+      "player_id": "7083",
+      "source_id": "4035671",
+      "player_name": "Tyler Huntley",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports."
+    },
+    {
       "player_id": "4881",
       "source_id": "3916387",
       "player_name": "Lamar Jackson",
@@ -528,9 +527,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "Ravens head coach Jesse Minter said after Sunday's 36-10 loss to the Bills that Jackson will undergo surgery to address his right thumb injury and will be placed on injured reserve,  Brian Wacker of The Baltimore Sun reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11377",
@@ -541,9 +540,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "The Bills designated Shavers (knee) to return from the reserve/PUP list Wednesday, but he will not play against the Ravens on Sunday, Cameron Wolfe of NFL Network reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13312",
