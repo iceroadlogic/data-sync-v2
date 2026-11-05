@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-05T00:37:28.443Z",
+  "lastUpdated": "2026-11-05T19:13:57.187Z",
   "week": 9,
   "summary": {
-    "total_players": 777,
-    "ir": 91,
+    "total_players": 781,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -120,9 +120,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Neck",
+      "est_return_date": "2026-11-05",
+      "injury_comment": "Randall (neck) is officially listed as questionable for Thursday's game versus the Jaguars, Ryan Mink of the Ravens' official site reports."
     },
     {
       "player_id": "5008",
@@ -188,6 +188,19 @@
       "injury_detail": "Knee",
       "est_return_date": "2026-11-08",
       "injury_comment": "Panthers head coach Dave Canales said Monday that Legette (knee) will \"potentially\" be designated for return from injured reserve this week, Joe Person of The Athletic reports."
+    },
+    {
+      "player_id": "11299",
+      "source_id": "4257364",
+      "player_name": "Zavier Scott",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Wrist",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "ir"
     },
     {
       "player_id": "8423",
@@ -343,7 +356,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Bryant (ankle) was a full participant at the Broncos' practice Wednesday, Aric DiLalla of the team's official website reports."
+      "injury_comment": "Bryant (ankle) was a full participant at the Broncos' practice Wednesday, Aric DiLalla of the team's official site reports."
     },
     {
       "player_id": "12489",
@@ -419,9 +432,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Brooks (ankle) was designated to return from injured reserve by the Packers on Wednesday, per the NFL's official transaction log."
     },
     {
       "player_id": "8168",
@@ -538,7 +551,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-11-29",
-      "injury_comment": "When asked Wednesday when Pierce (heel) might be able to resume to practice, Colts head coach Shane Steichen noted that he \"can't put a timetable on it right now,\" Kevin Bowen of 107.5 The Fan Indianapolis reports."
+      "injury_comment": "When asked Wednesday when Pierce (heel) might be able to return to practice, Colts head coach Shane Steichen noted that he \"can't put a timetable on it right now,\" Kevin Bowen of 107.5 The Fan Indianapolis reports."
     },
     {
       "player_id": "13407",
@@ -666,9 +679,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-25",
-      "injury_comment": "Head coach Sean McVay said Wednesday that Adams had successful surgery on his left hamstring, and the Rams are hopeful that the wide receiver will be able to return on the early side of his 6-to-10-week recovery timetable, Adam Grosbard of The Orange County Register reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13597",
@@ -718,9 +731,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Rivers (calf) was designated to return from injured reserve Wednesday, Greg Beacham of the Associated Press reports."
     },
     {
       "player_id": "9226",
@@ -863,7 +876,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Tyson (hamstring) turned in a limited practice Wednesday, Adam Schefter of ESPN reports."
+      "injury_comment": "Tyson (hamstring) had his 21-day practice window opened and was a limited participant in Wednesday's session."
     },
     {
       "player_id": "11655",
@@ -1058,7 +1071,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "49ers coach Kyle Shanahan reiterated Monday that Robinson (ankle) has a chance to return following the team's Week 8 bye, David Lombardi of SFStandard.com reports."
+      "injury_comment": "Robinson (ankle) was designated to return from injured reserve Wednesday, Matt Maiocco of NBC Sports Bay Area reports."
     },
     {
       "player_id": "13417",
@@ -1121,9 +1134,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - PCL",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "McMillan (knee) isn't expected back until after Tampa Bay's Week 10 bye, Greg Auman of Fox Sports reports."
     },
     {
       "player_id": "13422",
@@ -1160,9 +1173,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Lane underwent surgery Oct. 9 to repair his fractured and dislocated ankle, and he is expected to be cleared for activities before OTAs, Tashan Reed of The Washington Post reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5927",
