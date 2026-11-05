@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-04T19:03:37.152Z",
+  "lastUpdated": "2026-11-05T00:37:28.443Z",
   "week": 9,
   "summary": {
-    "total_players": 778,
-    "ir": 92,
+    "total_players": 777,
+    "ir": 91,
     "suspended": 0
   },
   "ir": [
@@ -341,9 +341,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Bryant (ankle) was a full participant at the Broncos' practice Wednesday, Aric DiLalla of the team's official website reports."
     },
     {
       "player_id": "12489",
@@ -537,7 +537,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Heel",
-      "est_return_date": "2026-11-08",
+      "est_return_date": "2026-11-29",
       "injury_comment": "When asked Wednesday when Pierce (heel) might be able to resume to practice, Colts head coach Shane Steichen noted that he \"can't put a timetable on it right now,\" Kevin Bowen of 107.5 The Fan Indianapolis reports."
     },
     {
@@ -632,19 +632,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13122",
-      "source_id": "5155825",
-      "player_name": "Carter Runyon",
-      "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Runyon (foot) has been ruled out for Sunday's game against the Jets, Sam Warren of The Athletic reports."
-    },
-    {
       "player_id": "7610",
       "source_id": "4383351",
       "player_name": "Trey Lance",
@@ -668,7 +655,7 @@
       "injury_description": null,
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Coach Jim Harbaugh said Monday that the Chargers likely will open the 21-day window for Njoku (fibula) this week, Alex Insdorf of BoltBeat.com reports."
+      "injury_comment": "Chargers head coach Jim Harbaugh said Wednesday that Njoku (fibula) has been designated for return from injured reserve, Alex Insdorf of BoltBeat.com reports."
     },
     {
       "player_id": "2133",
@@ -720,7 +707,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Coach Sean McVay said Monday that it is \"looking more likely than not\" Ferguson (ankle) will practice this week, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Ferguson (ankle) was limited in Wednesday's practice."
     },
     {
       "player_id": "8195",
@@ -811,7 +798,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Hollins (calf) is slated to return to practice Wednesday, Ian Rapoport of NFL Network reports."
+      "injury_comment": "The Patriots are expected to designate Hollins (calf) for return from injured reserve Wednesday, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "13964",
@@ -850,7 +837,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Head coach Kellen Moore said that Etienne (hamstring) will be evaluated Monday before the Saints make a determination whether he practices this week, Ross Jackson of WWL Louisiana reports."
+      "injury_comment": "Head coach Kellen Moore said Wednesday that the Saints haven't opened Etienne's (hamstring) practice window just yet, Jeff Nowak of WWL Louisiana reports."
     },
     {
       "player_id": "12480",
@@ -876,7 +863,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Tyson (hamstring) is slated to resume practicing with the Saints on Wednesday, Nick Underhill of NewOrleans.Football reports."
+      "injury_comment": "Tyson (hamstring) turned in a limited practice Wednesday, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "11655",
