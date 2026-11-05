@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-05T02:08:02.107Z",
+  "lastUpdated": "2026-11-05T14:26:57.772Z",
   "week": 9,
   "summary": {
-    "total_players": 777,
-    "questionable": 52,
+    "total_players": 781,
+    "questionable": 54,
     "doubtful": 1,
     "out": 22
   },
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Wilson (ribs) wore a yellow non-contact jersey at Wednesday's practice, Bo Brack of GoPHNX.com reports."
+      "injury_comment": "Wilson (rest/ribs) practiced in a limited capacity Wednesday, Theo Mackie of The Arizona Republic reports."
     },
     {
       "player_id": "8154",
@@ -70,6 +70,19 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Toe",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Monangai (thumb/toe) didn't participate in Wednesday's walkthrough."
+    },
+    {
+      "player_id": "11299",
+      "source_id": "4257364",
+      "player_name": "Zavier Scott",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Wrist",
       "est_return_date": "2026-11-08",
       "injury_comment": "questionable"
     },
@@ -149,7 +162,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-08",
-      "injury_comment": "questionable"
+      "injury_comment": "Turpin (ribs) did not practice Wednesday, Patrik Walker of the Cowboys' official site reports."
     },
     {
       "player_id": "11237",
@@ -331,7 +344,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-11-08",
-      "injury_comment": "questionable"
+      "injury_comment": "Whittington (back) was a limited participant at the Rams' practice Wednesday, Sarah Barshop of ESPN.com reports."
     },
     {
       "player_id": "13405",
@@ -344,7 +357,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-08",
-      "injury_comment": "questionable"
+      "injury_comment": "Allen (quadriceps) was a limited participant at the Dolphins' practice Wednesday."
     },
     {
       "player_id": "13434",
@@ -394,9 +407,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Ankle",
+      "injury_detail": "Knee",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Brown (ankle/knee) won't practice Wednesday, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Patriots head coach Mike Vrabel said that Brown (knee/ankle) won't practice Wednesday, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "12529",
@@ -409,7 +422,7 @@
       "injury_description": null,
       "injury_detail": "Illness",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Henderson (illness) won't practice Wednesday, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Patriots head coach Mike Vrabel said that Henderson (illness) won't practice Wednesday, Doug Kyed of the Boston Herald reports."
     },
     {
       "player_id": "3214",
@@ -604,7 +617,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "McCaffrey (hamstring) said Wednesday that he has a chance to practice this week and play Sunday against the Raiders, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "McCaffrey (hamstring) will not participate in Wednesday's practice, Cam Inman of Bay Area News Group reports."
     },
     {
       "player_id": "5872",
@@ -630,7 +643,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Lock (elbow) is slated to start Sunday's game against the Cardinals, perNFL reporter Andrew Siciliano."
+      "injury_comment": "Lock (elbow) is slated to start Sunday's game against the Cardinals, per NFL reporter Andrew Siciliano."
     },
     {
       "player_id": "8676",
@@ -643,7 +656,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Seahawks head coach Mike Macdonald said Tuesday that Shaheed (knee) has a chance to play Sunday against the Cardinals, Brady Henderson of ESPN.com reports."
+      "injury_comment": "Shaheed (knee) did not practice Wednesday, John Boyle of the Seahawks' official site reports."
     },
     {
       "player_id": "12514",
@@ -656,7 +669,20 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Head coach Todd Bowles said Egbuka (foot) didn't practice Wednesday, but the wide receiver was able to run on a side field, and the Buccaneers will see how he feels Thursday, Scott Smith of the Buccaneers' official site reports."
+      "injury_comment": "Egbuka (foot) was spotted running on the side with a trainer Wednesday, Greg Auman of Fox Sports reports."
+    },
+    {
+      "player_id": "7567",
+      "source_id": "4371733",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "team_abbr": "TB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Gainwell (hip) was listed as limited on Wednesday's injury report."
     },
     {
       "player_id": "7716",
@@ -842,7 +868,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-15",
-      "injury_comment": "While Montgomery (groin) has made some progress, coach DeMeco Ryans noted Wednesday that the running back will remain out for Sunday's game against the Chargers, Jonathan M. Alexander of the Houston Chronicle reports."
+      "injury_comment": "Texans head coach DeMeco Ryans said Wednesday that Montgomery (groin) has made some progress but is still viewed as week-to-week and will remain out for Sunday's game against the Chargers, Jonathan M. Alexander of the Houston Chronicle reports."
     },
     {
       "player_id": "13437",

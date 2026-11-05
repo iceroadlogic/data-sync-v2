@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T00:37:28.443Z",
+  "lastUpdated": "2026-11-05T14:26:57.772Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -12681,6 +12681,13 @@
           "date": "2026-11-01",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-05",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "TB"
         }
       ]
     },
@@ -24846,6 +24853,13 @@
           "date": "2025-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-05",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Wrist",
+          "team": "CHI"
         }
       ]
     },
