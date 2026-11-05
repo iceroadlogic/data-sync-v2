@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2026-11-05T02:00:56.957Z",
+  "lastUpdated": "2026-11-05T17:52:34.639Z",
   "games": [
     {
       "game_id": "401873037",
@@ -9,10 +9,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "1 to 6 mph SW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "49%"
+        "temp": 61,
+        "wind": "1 to 8 mph SW",
+        "conditions": "Showers And Thunderstorms",
+        "precipitation": "76%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "3 mph W",
+        "wind": "3 mph WSW",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -52,9 +52,9 @@
       "is_dome": false,
       "weather": {
         "temp": 83,
-        "wind": "3 to 8 mph NE",
-        "conditions": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "precipitation": "15%"
+        "wind": "5 to 8 mph NE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "12%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "5 to 10 mph W",
-        "conditions": "Mostly Sunny",
-        "precipitation": "7%"
+        "temp": 61,
+        "wind": "5 to 10 mph NW",
+        "conditions": "Sunny",
+        "precipitation": "1%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "8 to 12 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "temp": 63,
+        "wind": "7 to 12 mph W",
+        "conditions": "Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -99,7 +99,7 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "5 mph NW",
+        "wind": "3 mph NW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -112,7 +112,7 @@
       "is_dome": false,
       "weather": {
         "temp": 87,
-        "wind": "0 to 5 mph NW",
+        "wind": "5 mph NNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -124,9 +124,9 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "1 to 6 mph NNW",
-        "conditions": "Mostly Sunny",
+        "temp": 72,
+        "wind": "1 to 7 mph NW",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -137,10 +137,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "9 mph NW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "31%"
+        "temp": 57,
+        "wind": "9 mph W",
+        "conditions": "Chance Light Rain then Partly Sunny",
+        "precipitation": "41%"
       }
     },
     {
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "3 to 16 mph SSW",
-        "conditions": "Light Rain Likely",
-        "precipitation": "56%"
+        "wind": "5 to 17 mph SSW",
+        "conditions": "Chance Light Rain",
+        "precipitation": "51%"
       }
     },
     {
