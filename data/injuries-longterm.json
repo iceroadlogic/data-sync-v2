@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-05T19:13:57.187Z",
+  "lastUpdated": "2026-11-06T00:37:04.854Z",
   "week": 9,
   "summary": {
-    "total_players": 781,
-    "ir": 92,
+    "total_players": 780,
+    "ir": 94,
     "suspended": 0
   },
   "ir": [
@@ -96,7 +96,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Collins (hip) has been ruled out for Sunday's game against the Buccaneers and will remain on injured reserve, Tori McElhaney of the Falcons' official site reports."
+      "injury_comment": "Collins (hip) was a full participant in Thursday's practice, D. Orlando Ledbetter of BowTieSports.com reports."
     },
     {
       "player_id": "7593",
@@ -112,6 +112,32 @@
       "injury_comment": null
     },
     {
+      "player_id": "7083",
+      "source_id": "4035671",
+      "player_name": "Tyler Huntley",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Huntley (toe) was placed on injured reserve Thursday."
+    },
+    {
+      "player_id": "4881",
+      "source_id": "3916387",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbr": "BAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "The Ravens have officially placed Jackson (thumb) on injured reserve."
+    },
+    {
       "player_id": "13302",
       "source_id": "4685526",
       "player_name": "Adam Randall",
@@ -121,7 +147,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Neck",
-      "est_return_date": "2026-11-05",
+      "est_return_date": "2026-11-16",
       "injury_comment": "Randall (neck) is officially listed as questionable for Thursday's game versus the Jaguars, Ryan Mink of the Ravens' official site reports."
     },
     {
@@ -190,19 +216,6 @@
       "injury_comment": "Panthers head coach Dave Canales said Monday that Legette (knee) will \"potentially\" be designated for return from injured reserve this week, Joe Person of The Athletic reports."
     },
     {
-      "player_id": "11299",
-      "source_id": "4257364",
-      "player_name": "Zavier Scott",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Wrist",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "ir"
-    },
-    {
       "player_id": "8423",
       "source_id": "4036032",
       "player_name": "Brittain Brown",
@@ -253,6 +266,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11299",
+      "source_id": "4257364",
+      "player_name": "Zavier Scott",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Wrist",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "The Bears placed Scott (wrist) on injured reserve Thursday."
     },
     {
       "player_id": "11592",
@@ -720,7 +746,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Ferguson (ankle) was limited in Wednesday's practice."
+      "injury_comment": "Ferguson (ankle) was a limited practice participant Thursday, Greg Beacham of the Associated Press reports."
     },
     {
       "player_id": "8195",
@@ -876,7 +902,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Tyson (hamstring) had his 21-day practice window opened and was a limited participant in Wednesday's session."
+      "injury_comment": "Tyson (hamstring) remained a limited participant at Thursday's practice, Katherine Terrell of ESPN.com reports."
     },
     {
       "player_id": "11655",
@@ -1071,7 +1097,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Robinson (ankle) was designated to return from injured reserve Wednesday, Matt Maiocco of NBC Sports Bay Area reports."
+      "injury_comment": "Robinson (ankle) practiced on a limited basis Thursday."
     },
     {
       "player_id": "13417",
