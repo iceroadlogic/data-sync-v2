@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T23:52:37.642Z",
+  "lastUpdated": "2026-11-07T01:44:56.814Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15957,6 +15957,12 @@
           "to": "IR",
           "detail": "Undisclosed",
           "team": "PHI"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Questionable",
+          "team": "PHI"
         }
       ]
     },
@@ -25226,6 +25232,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "KC"
         }
       ]
     },
