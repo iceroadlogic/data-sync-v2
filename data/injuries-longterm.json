@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-07T17:09:39.782Z",
+  "lastUpdated": "2026-11-07T23:14:51.105Z",
   "week": 9,
   "summary": {
-    "total_players": 780,
-    "ir": 93,
+    "total_players": 779,
+    "ir": 90,
     "suspended": 0
   },
   "ir": [
@@ -86,17 +86,17 @@
       "injury_comment": "Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports."
     },
     {
-      "player_id": "12889",
-      "source_id": "4431210",
-      "player_name": "Beaux Collins",
-      "position": "WR",
+      "player_id": "8154",
+      "source_id": "4241474",
+      "player_name": "Brian Robinson Jr.",
+      "position": "RB",
       "team_abbr": "ATL",
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Collins (hip) is listed as questionable for Sunday's game against the Bengals in Madrid, Spain,, Tori McElhaney of the Falcons' official site reports."
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "Robinson (hamstring) was placed on injured reserve Saturday, Marc Raimondi of ESPN.com reports."
     },
     {
       "player_id": "7593",
@@ -135,7 +135,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-12-13",
-      "injury_comment": "The Ravens have officially placed Jackson (thumb) on injured reserve."
+      "injury_comment": "Jackson's odds to play again this season depend on his recovery from a right thumb injury, and also whether or not new QB Jacoby Brissett can keep the Ravens in the playoff picture long enough to make a return late in the season possible for Jackson, Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "13302",
@@ -370,19 +370,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "12492",
-      "source_id": "4600981",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Coach Sean Payton said Friday that Bryant (ankle) is in line to play in Sunday's game against the Panthers, Chris Tomasson of the Denver Gazette reports."
     },
     {
       "player_id": "12489",
@@ -749,19 +736,6 @@
       "injury_comment": "Ferguson (ankle) was expected to return for Sunday's game against Washington, but he's been ruled out after injuring his hamstring during Friday's practice, Cameron DaSilva of USA Today reports."
     },
     {
-      "player_id": "8195",
-      "source_id": "4243003",
-      "player_name": "Ronnie Rivers",
-      "position": "RB",
-      "team_abbr": "LAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Rivers (calf) does not have a designation for Sunday's clash against the Commanders, Sarah Barshop of ESPN.com reports."
-    },
-    {
       "player_id": "9226",
       "source_id": "4429160",
       "player_name": "De'Von Achane",
@@ -827,19 +801,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "4177",
-      "source_id": "2991662",
-      "player_name": "Mack Hollins",
-      "position": "WR",
-      "team_abbr": "NE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Hollins (calf) is listed as questionable for Sunday's game against the Packers."
-    },
-    {
       "player_id": "13964",
       "source_id": "4676889",
       "player_name": "Myles Montgomery",
@@ -890,19 +851,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "13281",
-      "source_id": "4880281",
-      "player_name": "Jordyn Tyson",
-      "position": "WR",
-      "team_abbr": "NO",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Tyson (hamstring) is listed as questionable for Sunday's game against the Browns, Katherine Terrell of ESPN.com reports."
     },
     {
       "player_id": "11655",
@@ -1061,6 +1009,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "4950",
+      "source_id": "3895856",
+      "player_name": "Christian Kirk",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - Meniscus",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "The 49ers placed Kirk (knee) on injured reserve Saturday."
+    },
+    {
       "player_id": "11638",
       "source_id": "4428209",
       "player_name": "Ricky Pearsall",
@@ -1072,19 +1033,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "3286",
-      "source_id": "3043116",
-      "player_name": "Demarcus Robinson",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Robinson (ankle) is listed as questionable for Sunday's game against the Raiders, with 49ers coach Kyle Shanahan saying Friday that the wideout likely will be activated from injured reserve, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "13417",
@@ -1189,6 +1137,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "7587",
+      "source_id": "4361577",
+      "player_name": "Dyami Brown",
+      "position": "WR",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "ir"
     },
     {
       "player_id": "5927",

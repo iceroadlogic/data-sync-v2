@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T18:36:34.177Z",
+  "lastUpdated": "2026-11-07T23:14:51.105Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2143,6 +2143,11 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "SF"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -3608,6 +3613,13 @@
           "date": "2026-10-10",
           "from": "Out",
           "to": "IR",
+          "detail": "Calf",
+          "team": "NE"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Calf",
           "team": "NE"
         }
@@ -5213,6 +5225,13 @@
           "to": "Out",
           "detail": "Knee - Meniscus",
           "team": "SF"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee - Meniscus",
+          "team": "SF"
         }
       ]
     },
@@ -5539,6 +5558,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "BUF"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -7166,6 +7190,13 @@
           "date": "2026-11-01",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "MIN"
         }
@@ -11464,6 +11495,13 @@
           "to": "Questionable",
           "detail": "Calf",
           "team": "MIN"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Calf",
+          "team": "MIN"
         }
       ]
     },
@@ -13415,6 +13453,13 @@
           "to": "Out",
           "detail": "Calf",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Calf",
+          "team": "WAS"
         }
       ]
     },
@@ -14397,6 +14442,13 @@
           "date": "2026-11-01",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "BUF"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "BUF"
         }
@@ -17089,6 +17141,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Hamstring",
+          "team": "ATL"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Out",
+          "to": "IR",
           "detail": "Hamstring",
           "team": "ATL"
         }
@@ -29745,6 +29804,11 @@
           "to": "Questionable",
           "detail": "Shoulder",
           "team": "BUF"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -34288,6 +34352,13 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "DEN"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "DEN"
         }
       ]
     },
@@ -38768,6 +38839,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "ATL"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "ATL"
         }
       ]
     },
@@ -40413,6 +40491,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "NO"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "NO"
         }
       ]
     },
@@ -41932,6 +42017,13 @@
           "date": "2026-11-06",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "MIN"
+        },
+        {
+          "date": "2026-11-07",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee",
           "team": "MIN"
         }
