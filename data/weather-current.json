@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2026-11-07T16:07:23.915Z",
+  "lastUpdated": "2026-11-08T01:08:08.669Z",
   "games": [
     {
       "game_id": "401873037",
@@ -9,10 +9,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 60,
-        "wind": "14 mph NW",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 44,
+        "wind": "12 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -38,8 +38,8 @@
       "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "2 to 6 mph W",
+        "temp": 64,
+        "wind": "1 to 5 mph WNW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 84,
-        "wind": "7 mph NE",
+        "wind": "6 mph N",
         "conditions": "Mostly Sunny",
         "precipitation": "11%"
       }
@@ -74,7 +74,7 @@
       "weather": {
         "temp": 62,
         "wind": "10 mph W",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "1%"
       }
     },
@@ -98,8 +98,8 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 6 mph WNW",
+        "temp": 66,
+        "wind": "0 to 7 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -111,8 +111,8 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 88,
-        "wind": "5 to 10 mph NW",
+        "temp": 86,
+        "wind": "5 to 10 mph N",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -125,8 +125,8 @@
       "is_dome": false,
       "weather": {
         "temp": 72,
-        "wind": "1 to 7 mph NNW",
-        "conditions": "Patchy Fog then Partly Sunny",
+        "wind": "1 to 7 mph NW",
+        "conditions": "Patchy Fog then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -137,10 +137,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "6 to 12 mph W",
-        "conditions": "Slight Chance Rain Showers then Mostly Sunny",
-        "precipitation": "18%"
+        "temp": 59,
+        "wind": "9 to 14 mph W",
+        "conditions": "Mostly Sunny",
+        "precipitation": "11%"
       }
     },
     {
@@ -151,9 +151,9 @@
       "is_dome": false,
       "weather": {
         "temp": 56,
-        "wind": "8 to 18 mph SSW",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "50%"
+        "wind": "6 to 16 mph SSW",
+        "conditions": "Chance Light Rain",
+        "precipitation": "52%"
       }
     },
     {
@@ -163,7 +163,7 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 42,
+        "temp": 41,
         "wind": "5 to 10 mph WNW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
