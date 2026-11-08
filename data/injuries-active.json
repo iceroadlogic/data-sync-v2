@@ -1,51 +1,25 @@
 {
-  "lastUpdated": "2026-11-07T18:36:34.177Z",
+  "lastUpdated": "2026-11-08T01:13:39.473Z",
   "week": 9,
   "summary": {
-    "total_players": 781,
-    "questionable": 25,
+    "total_players": 779,
+    "questionable": 23,
     "doubtful": 2,
-    "out": 39
+    "out": 40
   },
   "questionable": [
     {
-      "player_id": "11637",
-      "source_id": "4635008",
-      "player_name": "Keon Coleman",
+      "player_id": "12889",
+      "source_id": "4431210",
+      "player_name": "Beaux Collins",
       "position": "WR",
-      "team_abbr": "BUF",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Coleman (shoulder) was a limited practice participant Friday."
-    },
-    {
-      "player_id": "4983",
-      "source_id": "3915416",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Moore (shoulder) remained in a red non-contact jersey at Saturday's practice, Katherine Fitzgerald of The Buffalo News reports."
-    },
-    {
-      "player_id": "7670",
-      "source_id": "4242433",
-      "player_name": "Joshua Palmer",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Palmer (hamstring) did not practice Thursday."
+      "injury_detail": "Hip",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Atlanta activated Collins (hip) from injured reserve Saturday, though he remains questionable for Sunday's matchup against the Bengals."
     },
     {
       "player_id": "12534",
@@ -71,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Watson (concussion) cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans."
+      "injury_comment": "Watson cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans."
     },
     {
       "player_id": "8110",
@@ -111,6 +85,19 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-11-08",
       "injury_comment": "questionable"
+    },
+    {
+      "player_id": "12492",
+      "source_id": "4600981",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "team_abbr": "DEN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Bryant (ankle) was activated from injured reserve Saturday, but he remains questionable for Sunday's game in Carolina, Zac Stevens of TheDNVR.com reports."
     },
     {
       "player_id": "11237",
@@ -230,45 +217,6 @@
       "injury_comment": "Wright (quad) is listed as questionable for Sunday's game against the Lions, David Furones of the South Florida Sun Sentinel reports."
     },
     {
-      "player_id": "13347",
-      "source_id": "4832846",
-      "player_name": "Demond Claiborne",
-      "position": "RB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Claiborne (knee) did not participate in Friday's practice."
-    },
-    {
-      "player_id": "7049",
-      "source_id": "3886598",
-      "player_name": "Jauan Jennings",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Jennings (calf) did not participate in Friday's practice."
-    },
-    {
-      "player_id": "5849",
-      "source_id": "3917315",
-      "player_name": "Kyler Murray",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-09",
-      "injury_comment": "Murray (hamstring) is recovering from a Grade 2 strain \"that will keep him out for Monday's game and potentially beyond,\" Tom Pelissero of Netflix reports."
-    },
-    {
       "player_id": "3214",
       "source_id": "3046439",
       "player_name": "Hunter Henry",
@@ -280,6 +228,32 @@
       "injury_detail": "Foot",
       "est_return_date": "2026-11-08",
       "injury_comment": "Henry (foot) is listed as questionable for Sunday's game against the Packers, Doug Kyed of the Boston Herald reports."
+    },
+    {
+      "player_id": "4177",
+      "source_id": "2991662",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "The Patriots activated Hollins (calf) from injured reserve Saturday, but he remains questionable for Sunday's game against the Packers."
+    },
+    {
+      "player_id": "13281",
+      "source_id": "4880281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "team_abbr": "NO",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-08",
+      "injury_comment": "Tyson (hamstring) was activated from injured reserve Saturday, but he remains questionable for Sunday's game against the Browns."
     },
     {
       "player_id": "10228",
@@ -403,19 +377,6 @@
       "injury_comment": "Coach Kevin Stefanski noted Monday that Branch (hamstring) won't play Sunday against the Bengals, William McFadden of the Falcons' official site reports."
     },
     {
-      "player_id": "8154",
-      "source_id": "4241474",
-      "player_name": "Brian Robinson Jr.",
-      "position": "RB",
-      "team_abbr": "ATL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Robinson (hamstring) has been ruled out for Sunday's game against the Bengals, Tori McElhaney of the Falcons' official site reports."
-    },
-    {
       "player_id": "13268",
       "source_id": "5088338",
       "player_name": "Elijah Sarratt",
@@ -442,6 +403,19 @@
       "injury_comment": "Slovis (coach's decision) is inactive for Thursday's game against Jacksonville but will serve as the team's emergency quarterback."
     },
     {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Palmer (hamstring) has been ruled out for Monday's game in Minnesota, Maddy Glab of the Bills' official site reports."
+    },
+    {
       "player_id": "11377",
       "source_id": "4241476",
       "player_name": "Tyrell Shavers",
@@ -450,9 +424,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL",
+      "est_return_date": "2026-11-09",
+      "injury_comment": "Shavers (knee) is listed as questionable ahead of Monday night's game against the Vikings, Maddy Glab of the Bills' official site reports."
     },
     {
       "player_id": "13312",
@@ -583,6 +557,45 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13347",
+      "source_id": "4832846",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Claiborne (knee) has been ruled out for Monday's battle against Buffalo, Craig Peters of the Vikings' official site reports."
+    },
+    {
+      "player_id": "7049",
+      "source_id": "3886598",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Jennings (calf) has been ruled out for Monday's contest versus the Bills."
+    },
+    {
+      "player_id": "5849",
+      "source_id": "3917315",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills."
     },
     {
       "player_id": "13890",
@@ -741,19 +754,6 @@
       "injury_comment": "Evans (Achilles) has been ruled out for Sunday's game against the Raiders, Nick Wagoner of ESPN reports."
     },
     {
-      "player_id": "4950",
-      "source_id": "3895856",
-      "player_name": "Christian Kirk",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - Meniscus",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Kirk (knee) will miss Sunday's game against Las Vegas and may need surgery for a meniscus injury, David Lombardi of SFStandard.com reports."
-    },
-    {
       "player_id": "5872",
       "source_id": "3126486",
       "player_name": "Deebo Samuel Sr.",
@@ -843,19 +843,6 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-15",
       "injury_comment": "out"
-    },
-    {
-      "player_id": "7587",
-      "source_id": "4361577",
-      "player_name": "Dyami Brown",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-12",
-      "injury_comment": "Brown has been ruled out for Sunday's game against the Rams due to a calf injury."
     },
     {
       "player_id": "8135",
