@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "lastUpdated": "2026-11-08T22:29:58.014Z",
+  "lastUpdated": "2026-11-09T01:50:47.976Z",
   "games": [
     {
       "game_id": "401873037",
@@ -9,10 +9,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "7 mph SW",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 45,
+        "wind": "5 to 8 mph W",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -38,9 +38,9 @@
       "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 3 mph NNW",
-        "conditions": "Sunny",
+        "temp": 44,
+        "wind": "2 mph E",
+        "conditions": "Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -51,10 +51,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 84,
-        "wind": "7 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "temp": 72,
+        "wind": "5 mph N",
+        "conditions": "Slight Chance Rain Showers then Mostly Clear",
+        "precipitation": "17%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "10 mph W",
-        "conditions": "Sunny",
-        "precipitation": "0%"
+        "temp": 45,
+        "wind": "5 to 10 mph W",
+        "conditions": "Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -85,9 +85,9 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "7 mph SW",
-        "conditions": "Sunny",
+        "temp": 45,
+        "wind": "5 to 9 mph W",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -98,9 +98,9 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "6 mph WSW",
-        "conditions": "Sunny",
+        "temp": 41,
+        "wind": "3 mph WSW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -137,10 +137,10 @@
       "stadium": "Gillette Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "10 mph W",
-        "conditions": "Sunny",
-        "precipitation": "1%"
+        "temp": 40,
+        "wind": "7 mph SW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "3%"
       }
     },
     {
@@ -164,7 +164,7 @@
       "is_dome": false,
       "weather": {
         "temp": 42,
-        "wind": "5 to 10 mph WNW",
+        "wind": "5 to 10 mph NW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
