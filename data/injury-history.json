@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T22:29:17.623Z",
+  "lastUpdated": "2026-11-09T01:51:48.541Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -816,6 +816,13 @@
           "date": "2026-11-03",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CHI"
         }
       ]
     },
@@ -7475,6 +7482,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Oblique",
+          "team": "SEA"
         }
       ]
     },
@@ -10308,6 +10322,13 @@
           "date": "2026-01-05",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Finger",
+          "team": "LAC"
         }
       ]
     },
@@ -14285,6 +14306,13 @@
           "date": "2026-10-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "NE"
         }
       ]
     },
@@ -18318,6 +18346,13 @@
           "date": "2026-10-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Head",
+          "team": "GB"
         }
       ]
     },
@@ -21225,6 +21260,13 @@
           "date": "2026-10-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "LAR"
         }
       ]
     },
@@ -36413,6 +36455,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "TB"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -37366,6 +37413,13 @@
           "from": "Out",
           "to": "Questionable",
           "detail": "Thumb",
+          "team": "CHI"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Toe",
           "team": "CHI"
         }
       ]

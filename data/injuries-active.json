@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-11-08T22:29:17.623Z",
+  "lastUpdated": "2026-11-09T01:51:48.541Z",
   "week": 9,
   "summary": {
     "total_players": 781,
-    "questionable": 12,
+    "questionable": 15,
     "doubtful": 0,
-    "out": 74
+    "out": 76
   },
   "questionable": [
-    {
-      "player_id": "12534",
-      "source_id": "4608686",
-      "player_name": "Kyle Monangai",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Monangai (thumb/toe) isn't slated to play in Sunday's game against the Buccaneers, but he's expected to return after the Bears' Week 10 bye in a Week 11 matchup with the Saints, Ian Rapoport of NFL Network reports."
-    },
     {
       "player_id": "8110",
       "source_id": "4242355",
@@ -69,9 +56,22 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Hand",
+      "injury_detail": "Finger",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Jacobs fractured his finger during Sunday's 45-27 win over the Patriots, Matt Schneidman of The Athletic reports."
+    },
+    {
+      "player_id": "8204",
+      "source_id": "4259305",
+      "player_name": "Bo Melton",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Head",
       "est_return_date": "2026-11-08",
-      "injury_comment": "Jacobs (hand) is questionable to return to Sunday's game against the Patriots."
+      "injury_comment": "Melton exited Sunday's game against the Patriots and is being evaluated for a concussion."
     },
     {
       "player_id": "4054",
@@ -97,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Coach Andy Reid acknowledged after Sunday's 35-12 win over the Jets that Mahomes will likely be sore Monday after suffering an apparent elbow injury during the contest, Lindsey Thiry of ESPN reports."
+      "injury_comment": "Mahomes (elbow) underwent an MRI after Sunday's 35-12 win over the Jets, and the tests did not reveal a major injury, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "11624",
@@ -113,6 +113,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "6797",
+      "source_id": "4038941",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Finger",
+      "est_return_date": "2026-11-16",
+      "injury_comment": "Herbert sustained a left middle finger injury in Sunday's 44-22 loss to the Texans, Alex Insdorf of BoltBeat.com reports."
+    },
+    {
       "player_id": "11635",
       "source_id": "4612826",
       "player_name": "Ladd McConkey",
@@ -124,6 +137,19 @@
       "injury_detail": "Back",
       "est_return_date": "2026-11-08",
       "injury_comment": "McConkey (back) is questionable to return to Sunday's game against the Texans."
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Nacua suffered a knee injury during Sunday's 20-13 win at Washington and will undergo an MRI on Monday to determine its extent, Mike Garafolo of NFL Network reports."
     },
     {
       "player_id": "13434",
@@ -139,6 +165,19 @@
       "injury_comment": "Kacmarek is dealing with a quad injury and is questionable to return to Sunday's clash against Detroit."
     },
     {
+      "player_id": "7611",
+      "source_id": "4569173",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Stevenson (knee) won't return to Sunday's game against the Packers, Mark Daniels of MassLive.com reports."
+    },
+    {
       "player_id": "8129",
       "source_id": "4360238",
       "player_name": "Dameon Pierce",
@@ -152,17 +191,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "12514",
-      "source_id": "4567750",
-      "player_name": "Emeka Egbuka",
-      "position": "WR",
-      "team_abbr": "TB",
+      "player_id": "5854",
+      "source_id": "3924327",
+      "player_name": "Drew Lock",
+      "position": "QB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-08",
-      "injury_comment": "Egbuka (foot), who is listed as questionable for Sunday's game at Chicago, is slated to return to action, Tom Pelissero of Netflix reports."
+      "injury_detail": "Oblique",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Seahawks coach Mike Macdonald said after Sunday's 17-3 win over the Cardinals that Lock sustained an oblique injury during the game, leaving Lock's availability for Week 10 against the Raiders up in the air, Bob Condotta of the Seattle Times reports."
     }
   ],
   "doubtful": [],
@@ -309,6 +348,32 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-11-15",
       "injury_comment": "King (coach's decision) is inactive but will serve as Carolina's emergency third quarterback Sunday against Denver, Darin Gantt of the Panthers' official site reports."
+    },
+    {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Keenum (coach's decision) is inactive but serving as the Bears' emergency No. 3 quarterback for Sunday Night Football versus the Buccaneers."
+    },
+    {
+      "player_id": "12534",
+      "source_id": "4608686",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Monangai (thumb/toe) is inactive for Sunday's contest against the Buccaneers."
     },
     {
       "player_id": "13312",
