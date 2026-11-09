@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T01:51:48.541Z",
+  "lastUpdated": "2026-11-09T15:51:03.087Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -17518,6 +17518,13 @@
           "date": "2026-01-11",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "MIA"
         }
       ]
     },
@@ -36722,6 +36729,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-09",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "CHI"
         }
       ]
     },
