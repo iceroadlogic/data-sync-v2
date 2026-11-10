@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-09T21:44:45.608Z",
-  "week": 9,
+  "lastUpdated": "2026-11-10T19:01:51.706Z",
+  "week": 10,
   "summary": {
-    "total_players": 780,
-    "ir": 90,
+    "total_players": 779,
+    "ir": 92,
     "suspended": 0
   },
   "ir": [
@@ -177,6 +177,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "7670",
+      "source_id": "4242433",
+      "player_name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbr": "BUF",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "13353",
       "source_id": "5091739",
       "player_name": "Chris Brazzell II",
@@ -200,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Coach Dave Canales said Monday that the Panthers will spend the next two days discussing the status of Brooks (core), Mike Kaye of ESPN.com reports."
+      "injury_comment": "Head coach Dave Canales said Monday that the Panthers will spend the next two days discussing the status of Brooks (core), Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "11626",
@@ -447,7 +460,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "The Packers didn't activate Brooks (ankle) from injured reserve Saturday, Weston Hodkiewicz of the Packers' official site reports."
+      "injury_comment": "As Week 10 approaches, Rob Demovsky of ESPN.com indicates that Brooks (ankle) may be ready to return from IR."
     },
     {
       "player_id": "8168",
@@ -733,7 +746,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Coach Sean McVay noted Sunday that Ferguson pulled his hamstring during Friday's practice and will likely be sidelined for another couple of weeks, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he's hopeful Ferguson (hamstring/ankle) will return from injured reserve this season, but was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
     },
     {
       "player_id": "9226",
@@ -760,6 +773,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13347",
+      "source_id": "4832846",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "ir"
     },
     {
       "player_id": "5973",
