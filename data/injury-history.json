@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T21:44:45.608Z",
+  "lastUpdated": "2026-11-10T03:00:25.116Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -8800,6 +8800,13 @@
           "to": "Questionable",
           "detail": "Elbow",
           "team": "ARI"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Elbow",
+          "team": "ARI"
         }
       ]
     },
@@ -11771,6 +11778,13 @@
           "date": "2026-10-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Chest",
+          "team": "NYG"
         }
       ]
     },
@@ -14632,6 +14646,13 @@
           "to": "Out",
           "detail": "Hamstring",
           "team": "BUF"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Hamstring",
+          "team": "BUF"
         }
       ]
     },
@@ -15321,6 +15342,13 @@
           "date": "2026-11-08",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee",
           "team": "DAL"
         }
@@ -18633,6 +18661,13 @@
           "to": "Doubtful",
           "detail": "Knee",
           "team": "DAL"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "DAL"
         }
       ]
     },
@@ -18803,6 +18838,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "WAS"
         }
       ]
     },
@@ -21335,6 +21377,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "LAR"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Knee",
+          "team": "LAR"
         }
       ]
     },
@@ -23413,6 +23462,13 @@
           "date": "2026-11-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Thumb",
+          "team": "NYG"
         }
       ]
     },
@@ -32006,6 +32062,13 @@
           "date": "2025-12-22",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "WAS"
         }
       ]
     },
@@ -42549,6 +42612,13 @@
           "to": "Out",
           "detail": "Knee",
           "team": "MIN"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee",
+          "team": "MIN"
         }
       ]
     },
@@ -43058,6 +43128,13 @@
           "date": "2026-11-02",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-10",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BUF"
         }
       ]
     },
