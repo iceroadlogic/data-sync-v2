@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-11T01:47:42.754Z",
+  "lastUpdated": "2026-11-11T13:56:18.009Z",
   "week": 10,
   "summary": {
-    "total_players": 775,
-    "questionable": 36,
+    "total_players": 770,
+    "questionable": 37,
     "doubtful": 4,
-    "out": 26
+    "out": 23
   },
   "questionable": [
     {
@@ -269,6 +269,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "8161",
+      "source_id": "4242512",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "7049",
       "source_id": "3886598",
       "player_name": "Jauan Jennings",
@@ -474,7 +487,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-12",
-      "injury_comment": "questionable"
+      "injury_comment": "Yankoff (knee) did not participate in Tuesday's walkthrough practice."
     }
   ],
   "doubtful": [
@@ -570,19 +583,6 @@
       "injury_detail": "Knee - ACL",
       "est_return_date": "2026-11-15",
       "injury_comment": "Shavers (knee) was not activated from the reserve/PUP list ahead of Monday night's matchup with Minnesota, per the NFL's official transaction log."
-    },
-    {
-      "player_id": "7559",
-      "source_id": "4240573",
-      "player_name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "practice-squad",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
     },
     {
       "player_id": "1737",
@@ -715,19 +715,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "13630",
-      "source_id": "5082633",
-      "player_name": "Evan Svoboda",
-      "position": "TE",
-      "team_abbr": "LAC",
-      "injury_status": "practice-squad",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "13890",
       "source_id": "4688418",
       "player_name": "Michael Briscoe",
@@ -747,19 +734,6 @@
       "position": "WR",
       "team_abbr": "NO",
       "injury_status": "day-to-day",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
-      "player_id": "8583",
-      "source_id": "4250764",
-      "player_name": "Stone Smartt",
-      "position": "TE",
-      "team_abbr": "NO",
-      "injury_status": "practice-squad",
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": null,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T01:47:42.754Z",
+  "lastUpdated": "2026-11-11T13:56:18.009Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -12877,6 +12877,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -17738,6 +17743,13 @@
           "to": "IR",
           "detail": "Groin",
           "team": "MIA"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "MIA"
         }
       ]
     },
@@ -19882,6 +19894,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "NO"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -44827,6 +44844,11 @@
           "from": "Healthy",
           "to": "Out",
           "team": "LAC"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
