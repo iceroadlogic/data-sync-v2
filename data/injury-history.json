@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T18:59:51.044Z",
+  "lastUpdated": "2026-11-11T21:12:09.557Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1842,6 +1842,13 @@
           "date": "2026-03-19",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "MIN"
         }
       ]
     },
@@ -24786,6 +24793,12 @@
           "date": "2026-11-09",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "LV"
         }
       ]
     },
@@ -34965,6 +34978,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "JAX"
         }
       ]
     },
