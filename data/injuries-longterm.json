@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-10T19:01:51.706Z",
+  "lastUpdated": "2026-11-11T00:18:56.717Z",
   "week": 10,
   "summary": {
-    "total_players": 779,
-    "ir": 92,
+    "total_players": 777,
+    "ir": 96,
     "suspended": 0
   },
   "ir": [
@@ -42,9 +42,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Lower Leg",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Arizona placed Bourne (tibia) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "4137",
@@ -81,9 +81,35 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-06",
-      "injury_comment": "Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
+      "player_id": "6011",
+      "source_id": "4038524",
+      "player_name": "Gardner Minshew II",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Elbow",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "The Cardinals placed Minshew (elbow) on injured reserve Tuesday, Darren Urban of the team's official site reports."
+    },
+    {
+      "player_id": "10232",
+      "source_id": "4360761",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "team_abbr": "ARI",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Neck",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "The Cardinals placed Wilson (neck) on injured reserve Tuesday."
     },
     {
       "player_id": "8154",
@@ -697,6 +723,19 @@
       "injury_comment": "Njoku (fibula) wasn't activated from IR-designated to return ahead of Sunday's game against the Texans, per the NFL's official transaction log."
     },
     {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "ir"
+    },
+    {
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
@@ -746,7 +785,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he's hopeful Ferguson (hamstring/ankle) will return from injured reserve this season, but was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
+      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he remains hopeful Ferguson (hamstring/ankle) will return from injured reserve this season, though he was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
     },
     {
       "player_id": "9226",
@@ -773,6 +812,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8161",
+      "source_id": "4242512",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "team_abbr": "MIA",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "ir"
     },
     {
       "player_id": "13347",
@@ -863,7 +915,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Head coach Kellen Moore said Wednesday that the Saints haven't opened Etienne's (hamstring) practice window just yet, Jeff Nowak of WWL Louisiana reports."
+      "injury_comment": "Head coach Kellen Moore said Monday that the Saints haven't yet determined whether Etienne (hamstring) will return from injured reserve ahead of Sunday's game against the Panthers, Luke Johnson of The New Orleans Times-Picayune reports. \"We'll see,\" Moore said. \"He's progressing well. We'll gather some more information and make a decision.\""
     },
     {
       "player_id": "12480",

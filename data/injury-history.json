@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T19:01:51.706Z",
+  "lastUpdated": "2026-11-11T00:18:56.717Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7294,6 +7294,13 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "MIN"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "MIN"
         }
       ]
     },
@@ -8847,6 +8854,13 @@
           "date": "2026-11-10",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Elbow",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Doubtful",
+          "to": "IR",
           "detail": "Elbow",
           "team": "ARI"
         }
@@ -11834,6 +11848,11 @@
           "to": "Questionable",
           "detail": "Chest",
           "team": "NYG"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -12851,6 +12870,13 @@
           "date": "2026-08-30",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "CAR"
         }
       ]
     },
@@ -16533,6 +16559,13 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Foot",
+          "team": "WAS"
         }
       ]
     },
@@ -17689,6 +17722,13 @@
           "date": "2026-11-09",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "MIA"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Groin",
           "team": "MIA"
         }
@@ -18929,6 +18969,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19823,6 +19868,13 @@
           "date": "2025-12-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Undisclosed",
+          "team": "NO"
         }
       ]
     },
@@ -23581,6 +23633,11 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "NYG"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23798,6 +23855,13 @@
           "date": "2026-11-09",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Neck",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "IR",
           "detail": "Neck",
           "team": "ARI"
         }
@@ -29057,6 +29121,13 @@
           "date": "2026-11-10",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Back",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Back",
           "team": "LAR"
         }
@@ -44738,6 +44809,11 @@
           "to": "Out",
           "detail": "Undisclosed",
           "team": "LAC"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
