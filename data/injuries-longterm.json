@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-11T00:18:56.717Z",
+  "lastUpdated": "2026-11-11T18:59:51.044Z",
   "week": 10,
   "summary": {
-    "total_players": 777,
+    "total_players": 770,
     "ir": 96,
     "suspended": 0
   },
@@ -95,7 +95,7 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Elbow",
-      "est_return_date": "2026-12-20",
+      "est_return_date": "2027-02-15",
       "injury_comment": "The Cardinals placed Minshew (elbow) on injured reserve Tuesday, Darren Urban of the team's official site reports."
     },
     {
@@ -239,7 +239,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Head coach Dave Canales said Monday that the Panthers will spend the next two days discussing the status of Brooks (core), Mike Kaye of ESPN.com reports."
+      "injury_comment": "The Panthers designated Brooks (core) for return from injured reserve Wednesday, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "11626",
@@ -252,7 +252,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Panthers head coach Dave Canales said Monday that Legette (knee) will be designated for return from injured reserve this week, Joe Person of The Athletic reports."
+      "injury_comment": "The Panthers designated Legette (knee) for return from injured reserve Wednesday, Joe Person of The Athletic reports."
     },
     {
       "player_id": "8423",
@@ -603,7 +603,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-11-29",
-      "injury_comment": "When asked Wednesday when Pierce (heel) might be able to return to practice, Colts head coach Shane Steichen noted that he \"can't put a timetable on it right now,\" Kevin Bowen of 107.5 The Fan Indianapolis reports."
+      "injury_comment": "When asked Wednesday whether Pierce (heel) has a chance to return from IR this season, Colts head coach Shane Steichen was noncommittal, James Boyd of The Athletic reports."
     },
     {
       "player_id": "13407",
@@ -723,19 +723,6 @@
       "injury_comment": "Njoku (fibula) wasn't activated from IR-designated to return ahead of Sunday's game against the Texans, per the NFL's official transaction log."
     },
     {
-      "player_id": "11623",
-      "source_id": "4569382",
-      "player_name": "Jordan Whittington",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "ir"
-    },
-    {
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
@@ -770,9 +757,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hand",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "Connors (hand) was placed on IR on Tuesday, Blaine Grisak of SI.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12487",
@@ -786,6 +773,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-25",
       "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he remains hopeful Ferguson (hamstring/ankle) will return from injured reserve this season, though he was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
+    },
+    {
+      "player_id": "11623",
+      "source_id": "4569382",
+      "player_name": "Jordan Whittington",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "Whittington (back) was placed on injured reserve Tuesday."
     },
     {
       "player_id": "9226",
@@ -822,7 +822,7 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Groin",
+      "injury_detail": "Abdomen",
       "est_return_date": "2026-12-13",
       "injury_comment": "ir"
     },

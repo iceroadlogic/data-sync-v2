@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:56:18.009Z",
+  "lastUpdated": "2026-11-11T18:59:51.044Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2413,6 +2413,12 @@
           "from": "Out",
           "to": "Questionable",
           "detail": "Concussion",
+          "team": "CLE"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Out",
           "team": "CLE"
         }
       ]
@@ -17750,6 +17756,13 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "MIA"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Abdomen",
+          "team": "MIA"
         }
       ]
     },
@@ -28245,6 +28258,12 @@
           "date": "2026-11-09",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "HOU"
         }
       ]
     },
@@ -32309,6 +32328,13 @@
           "date": "2026-11-10",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Knee",
           "team": "WAS"
         }
@@ -41100,6 +41126,13 @@
           "date": "2026-10-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NYJ"
         }
       ]
     },
@@ -42826,6 +42859,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "CLE"
         }
       ]
     },
