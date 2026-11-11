@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-10T17:31:03.013Z",
+  "lastUpdated": "2026-11-11T01:43:44.872Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 42,
-        "wind": "10 to 14 mph NE",
+        "temp": 43,
+        "wind": "12 mph N",
         "conditions": "Light Rain",
-        "precipitation": "84%"
+        "precipitation": "96%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "12 mph NW",
-        "conditions": "Slight Chance Light Rain then Mostly Cloudy",
-        "precipitation": "15%"
+        "temp": 46,
+        "wind": "10 mph NW",
+        "conditions": "Slight Chance Light Rain",
+        "precipitation": "23%"
       }
     },
     {
@@ -51,8 +51,8 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "2 mph NE",
+        "temp": 47,
+        "wind": "0 to 3 mph NNE",
         "conditions": "Mostly Sunny",
         "precipitation": "2%"
       }
@@ -93,8 +93,8 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "10 to 14 mph NW",
+        "temp": 51,
+        "wind": "9 to 14 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -130,10 +130,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 33,
-        "wind": "2 mph N",
+        "temp": 31,
+        "wind": "2 mph NE",
         "conditions": "Partly Cloudy",
-        "precipitation": "3%"
+        "precipitation": "6%"
       }
     },
     {
@@ -143,10 +143,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 36,
+        "temp": 35,
         "wind": "5 mph N",
         "conditions": "Partly Cloudy",
-        "precipitation": "4%"
+        "precipitation": "3%"
       }
     }
   ]
