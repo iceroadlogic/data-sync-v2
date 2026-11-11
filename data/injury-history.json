@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T00:18:56.717Z",
+  "lastUpdated": "2026-11-11T01:47:42.754Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -16564,6 +16564,13 @@
           "date": "2026-11-11",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Foot",
+          "team": "WAS"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Foot",
           "team": "WAS"
         }
@@ -44814,6 +44821,12 @@
           "date": "2026-11-11",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-11",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "LAC"
         }
       ]
     },
