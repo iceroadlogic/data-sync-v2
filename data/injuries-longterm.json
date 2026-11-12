@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-11T18:59:51.044Z",
+  "lastUpdated": "2026-11-12T01:44:19.465Z",
   "week": 10,
   "summary": {
-    "total_players": 770,
+    "total_players": 769,
     "ir": 96,
     "suspended": 0
   },
@@ -55,9 +55,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Cardinals head coach Mike LaFleur said Tuesday that Conner (foot) won't return from IR this week, Darren Urban of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7535",
@@ -68,9 +68,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "The Cardinals designated Long (knee) for return from injured reserve Wednesday."
     },
     {
       "player_id": "13287",
@@ -96,7 +96,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2027-02-15",
-      "injury_comment": "The Cardinals placed Minshew (elbow) on injured reserve Tuesday, Darren Urban of the team's official site reports."
+      "injury_comment": "Minshew (elbow) will undergo UCL surgery and is out for the season, Theo Mackie of AzCentral reports."
     },
     {
       "player_id": "10232",
@@ -237,9 +237,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Abdomen",
+      "injury_detail": "Groin",
       "est_return_date": "2026-11-15",
-      "injury_comment": "The Panthers designated Brooks (core) for return from injured reserve Wednesday, Mike Kaye of ESPN.com reports."
+      "injury_comment": "Brooks (groin) was listed as a full participant on Wednesday's estimated injury report."
     },
     {
       "player_id": "11626",
@@ -486,7 +486,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "As Week 10 approaches, Rob Demovsky of ESPN.com indicates that Brooks (ankle) may be ready to return from IR."
+      "injury_comment": "Brooks (ankle) was listed as a limited practice participant for Wednesday's jog-through session."
     },
     {
       "player_id": "8168",
@@ -497,9 +497,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "The Packers designated Moore (ankle) to return from injured reserve Wednesday."
     },
     {
       "player_id": "10222",
@@ -536,9 +536,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Noel, who was placed on injured reserve earlier Wednesday, is expected to require surgery to address his toe injury and will miss the remainder of the season, Jonathan M. Alexander of the Houston Chronicle reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "12171",
@@ -731,9 +731,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Coach Sean McVay noted of Adams (hamstring) on Wednesday that he thinks a return to action by the wideout on Nov. 25 against the Packers \"is a realistic timeline for us,\" Greg Beacham of the Associated Press reports."
     },
     {
       "player_id": "13597",
@@ -915,7 +915,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Head coach Kellen Moore said Monday that the Saints haven't yet determined whether Etienne (hamstring) will return from injured reserve ahead of Sunday's game against the Panthers, Luke Johnson of The New Orleans Times-Picayune reports. \"We'll see,\" Moore said. \"He's progressing well. We'll gather some more information and make a decision.\""
+      "injury_comment": "Head coach Kellen Moore said Wednesday that the Saints will wait until the end of the week to make a decision whether or not to activate Etienne from injured reserve, Mike Triplett of NewOrleans.Football reports."
     },
     {
       "player_id": "12480",
@@ -1071,7 +1071,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Pittman (foot) said Monday that he resumed running last week as part of a program to return, but the wideout acknowledged that he's without a clear timeline to be activated from injured reserve, Ray Fittipaldo of the Pittsburgh Post-Gazette reports."
+      "injury_comment": "Pittman (foot) is making progress but won't have his practice window opened this week, Mike DeFabo of The Athletic reports."
     },
     {
       "player_id": "11630",
