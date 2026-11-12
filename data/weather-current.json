@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-11T17:44:01.037Z",
+  "lastUpdated": "2026-11-12T02:43:30.019Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "8 to 12 mph N",
+        "temp": 40,
+        "wind": "13 mph NE",
         "conditions": "Light Rain",
-        "precipitation": "98%"
+        "precipitation": "77%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
+        "temp": 48,
         "wind": "10 mph NW",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "19%"
+        "conditions": "Chance Light Rain",
+        "precipitation": "35%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "2 mph N",
+        "temp": 46,
+        "wind": "2 mph NNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -67,7 +67,7 @@
         "temp": 54,
         "wind": "0 to 5 mph NE",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -95,7 +95,7 @@
       "weather": {
         "temp": 52,
         "wind": "8 to 12 mph NW",
-        "conditions": "Mostly Sunny",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -131,7 +131,7 @@
       "is_dome": false,
       "weather": {
         "temp": 32,
-        "wind": "1 mph NE",
+        "wind": "2 mph NE",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -143,10 +143,10 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
-        "wind": "5 mph N",
+        "temp": 35,
+        "wind": "1 to 5 mph N",
         "conditions": "Partly Cloudy",
-        "precipitation": "2%"
+        "precipitation": "0%"
       }
     }
   ]
