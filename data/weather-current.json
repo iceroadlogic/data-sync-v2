@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-12T02:43:30.019Z",
+  "lastUpdated": "2026-11-12T17:56:42.316Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "13 mph NE",
-        "conditions": "Light Rain",
-        "precipitation": "77%"
+        "temp": 41,
+        "wind": "8 to 14 mph NE",
+        "conditions": "Rain",
+        "precipitation": "96%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "10 mph NW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "35%"
+        "temp": 47,
+        "wind": "12 mph NW",
+        "conditions": "Light Rain Likely",
+        "precipitation": "57%"
       }
     },
     {
@@ -66,8 +66,8 @@
       "weather": {
         "temp": 54,
         "wind": "0 to 5 mph NE",
-        "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "conditions": "Widespread Frost then Sunny",
+        "precipitation": "0%"
       }
     },
     {
@@ -93,9 +93,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 52,
+        "temp": 51,
         "wind": "8 to 12 mph NW",
-        "conditions": "Sunny",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -130,8 +130,8 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 32,
-        "wind": "2 mph NE",
+        "temp": 31,
+        "wind": "2 mph N",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -143,9 +143,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "1 to 5 mph N",
-        "conditions": "Partly Cloudy",
+        "temp": 34,
+        "wind": "5 mph NW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     }
