@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-13T01:37:32.969Z",
+  "lastUpdated": "2026-11-13T02:30:10.303Z",
   "week": 10,
   "summary": {
     "total_players": 774,
-    "questionable": 49,
+    "questionable": 50,
     "doubtful": 2,
     "out": 25
   },
@@ -19,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-11-16",
-      "injury_comment": "Bateman (calf) was limited  in practice Thursday."
+      "injury_comment": "Bateman (calf) was limited in practice Thursday."
     },
     {
       "player_id": "10236",
@@ -644,6 +644,19 @@
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-15",
       "injury_comment": "Tate (shoulder) didn't practice Thursday."
+    },
+    {
+      "player_id": "8210",
+      "source_id": "4360635",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "team_abbr": "WAS",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-12",
+      "injury_comment": "Okonkwo (back) is questionable to return to Thursday's game against the Giants, Ralph Vacchiano of FoxSports.com reports."
     }
   ],
   "doubtful": [
