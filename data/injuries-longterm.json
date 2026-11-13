@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-12T19:18:35.150Z",
+  "lastUpdated": "2026-11-13T00:47:52.753Z",
   "week": 10,
   "summary": {
     "total_players": 774,
-    "ir": 96,
+    "ir": 97,
     "suspended": 0
   },
   "ir": [
@@ -211,9 +211,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-12-06",
-      "injury_comment": "ir"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13353",
@@ -239,7 +239,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Brooks (groin) was listed as a full participant on Wednesday's estimated injury report."
+      "injury_comment": "Brooks (groin) was a full practice participant Thursday."
     },
     {
       "player_id": "11626",
@@ -252,7 +252,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-15",
-      "injury_comment": "The Panthers designated Legette (knee) for return from injured reserve Wednesday, Joe Person of The Athletic reports."
+      "injury_comment": "Legette (knee) was a full practice participant Thursday."
     },
     {
       "player_id": "8423",
@@ -328,9 +328,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Bengals head coach Zac Taylor confirmed Wednesday that All has been diagnosed with a torn ACL in his right knee and will require season-ending surgery, Jay Morrison of SI.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5409",
@@ -486,7 +486,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Brooks (ankle) was listed as a limited practice participant for Wednesday's jog-through session."
+      "injury_comment": "Brooks (IR, ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "8168",
@@ -499,7 +499,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "The Packers designated Moore (ankle) to return from injured reserve Wednesday."
+      "injury_comment": "Moore (IR, ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "10222",
@@ -720,7 +720,20 @@
       "injury_description": null,
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-16",
-      "injury_comment": "Njoku (fibula) wasn't activated from IR-designated to return ahead of Sunday's game against the Texans, per the NFL's official transaction log."
+      "injury_comment": "Njoku (fibula) was a limited participant at the Chargers' practice Thursday."
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "The Rams placed Nacua (knee) on injured reserve Thursday, Greg Beacham of the Associated Press reports."
     },
     {
       "player_id": "2133",
@@ -772,7 +785,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he remains hopeful Ferguson (hamstring/ankle) will return from injured reserve this season, though he was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
+      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he remains optimistic Ferguson (hamstring/ankle) will return from injured reserve this season, though he was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
     },
     {
       "player_id": "11623",
@@ -824,7 +837,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-12-13",
-      "injury_comment": "ir"
+      "injury_comment": "The Dolphins hope Willis (abdomen) will return this year but haven't ruled out season-ending surgery, Joe Schad of The Palm Beach Post reports."
     },
     {
       "player_id": "13347",
@@ -837,7 +850,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-12-06",
-      "injury_comment": "ir"
+      "injury_comment": "The Vikings placed Claiborne (knee) on injured reserve Monday."
     },
     {
       "player_id": "5973",
@@ -915,7 +928,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Head coach Kellen Moore said Wednesday that the Saints will wait until the end of the week to make a decision whether or not to activate Etienne from injured reserve, Mike Triplett of NewOrleans.Football reports."
+      "injury_comment": "Etienne (hamstring) practiced in a limited capacity Thursday, Ross Jackson of WWL-TV reports."
     },
     {
       "player_id": "12480",
@@ -1251,9 +1264,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "McNichols, who suffered a foot injury Sunday against the Eagles that may require surgery, is out for the season, Ian Rapoport of NFL Network reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     }
   ],
   "suspended": []
