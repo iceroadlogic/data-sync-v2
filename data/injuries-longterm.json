@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-13T00:47:52.753Z",
+  "lastUpdated": "2026-11-13T18:55:59.564Z",
   "week": 10,
   "summary": {
     "total_players": 774,
-    "ir": 97,
+    "ir": 96,
     "suspended": 0
   },
   "ir": [
@@ -160,8 +160,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Thumb",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "Jackson, who is scheduled to undergo surgery on his injured right thumb, has told teammates he plans to return later this season, Ian Rapoport of NFL Network reports."
+      "est_return_date": "2026-12-27",
+      "injury_comment": "Jackson (thumb) is \"doing well\" and is expected to be out for \"6-to-10 weeks,\" per head coach Jesse Minter."
     },
     {
       "player_id": "13302",
@@ -239,7 +239,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Brooks (groin) was a full practice participant Thursday."
+      "injury_comment": "Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of panthers.com reports."
     },
     {
       "player_id": "11626",
@@ -252,7 +252,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Legette (knee) was a full practice participant Thursday."
+      "injury_comment": "Legette (knee) is listed as questionable for Sunday's game at New Orleans."
     },
     {
       "player_id": "8423",
@@ -684,19 +684,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "11963",
-      "source_id": "4698191",
-      "player_name": "Chris Collier",
-      "position": "RB",
-      "team_abbr": "LV",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "7610",
       "source_id": "4383351",
       "player_name": "Trey Lance",
@@ -733,7 +720,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-12-20",
-      "injury_comment": "The Rams placed Nacua (knee) on injured reserve Thursday, Greg Beacham of the Associated Press reports."
+      "injury_comment": "The Rams placed Nacua (knee) on injured reserve Thursday."
     },
     {
       "player_id": "2133",

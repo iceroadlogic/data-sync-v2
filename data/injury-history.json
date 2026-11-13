@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T14:22:45.879Z",
+  "lastUpdated": "2026-11-13T18:55:59.564Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2027,6 +2027,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "NE"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -3277,6 +3282,13 @@
           "date": "2026-11-08",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "IND"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "IND"
         }
@@ -32820,6 +32832,13 @@
           "from": "Healthy",
           "to": "IR",
           "team": "LV"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "LV"
         }
       ]
     },
@@ -41528,6 +41547,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "NYJ"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -41682,6 +41706,13 @@
           "date": "2026-11-10",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "TEN"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Shoulder",
           "team": "TEN"
         }
@@ -42805,6 +42836,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "MIA"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Knee",
+          "team": "MIA"
         }
       ]
     },
@@ -42932,6 +42970,13 @@
           "date": "2026-11-10",
           "from": "Out",
           "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "ATL"
+        },
+        {
+          "date": "2026-11-13",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "ATL"
         }
