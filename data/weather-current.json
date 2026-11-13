@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-12T17:56:42.316Z",
+  "lastUpdated": "2026-11-13T01:45:08.507Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 41,
-        "wind": "8 to 14 mph NE",
-        "conditions": "Rain",
-        "precipitation": "96%"
+        "temp": 44,
+        "wind": "9 to 15 mph NE",
+        "conditions": "Rain Showers then Light Rain",
+        "precipitation": "86%"
       }
     },
     {
@@ -51,9 +51,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "2 mph NNW",
-        "conditions": "Mostly Sunny",
+        "temp": 47,
+        "wind": "2 mph WNW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -64,10 +64,10 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
+        "temp": 55,
         "wind": "0 to 5 mph NE",
         "conditions": "Widespread Frost then Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -94,7 +94,7 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "8 to 12 mph NW",
+        "wind": "8 to 13 mph NW",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -130,8 +130,8 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 31,
-        "wind": "2 mph N",
+        "temp": 33,
+        "wind": "1 mph N",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -144,7 +144,7 @@
       "is_dome": false,
       "weather": {
         "temp": 34,
-        "wind": "5 mph NW",
+        "wind": "3 mph NW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
