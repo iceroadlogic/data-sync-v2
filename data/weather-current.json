@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-14T01:59:08.203Z",
+  "lastUpdated": "2026-11-14T16:24:05.247Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,10 +9,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "6 mph NW",
-        "conditions": "Cloudy",
-        "precipitation": "11%"
+        "temp": 47,
+        "wind": "15 mph NW",
+        "conditions": "Partly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "8 to 12 mph NW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "49%"
+        "wind": "12 mph NW",
+        "conditions": "Light Rain Likely",
+        "precipitation": "55%"
       }
     },
     {
@@ -51,9 +51,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "2 mph W",
-        "conditions": "Sunny",
+        "temp": 47,
+        "wind": "1 mph WNW",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -66,7 +66,7 @@
       "weather": {
         "temp": 56,
         "wind": "0 to 5 mph NNE",
-        "conditions": "Widespread Frost then Sunny",
+        "conditions": "Widespread Frost then Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -94,9 +94,9 @@
       "is_dome": false,
       "weather": {
         "temp": 51,
-        "wind": "8 to 13 mph NW",
+        "wind": "10 to 15 mph NW",
         "conditions": "Sunny",
-        "precipitation": "0%"
+        "precipitation": "1%"
       }
     },
     {
@@ -130,9 +130,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 32,
-        "wind": "1 mph N",
-        "conditions": "Partly Cloudy",
+        "temp": 31,
+        "wind": "2 mph N",
+        "conditions": "Mostly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -143,7 +143,7 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 34,
+        "temp": 35,
         "wind": "3 mph NW",
         "conditions": "Mostly Clear",
         "precipitation": "0%"
