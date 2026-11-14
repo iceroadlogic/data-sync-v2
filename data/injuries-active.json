@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-11-14T13:18:57.768Z",
+  "lastUpdated": "2026-11-14T18:59:56.085Z",
   "week": 10,
   "summary": {
     "total_players": 771,
-    "questionable": 23,
+    "questionable": 22,
     "doubtful": 1,
-    "out": 38
+    "out": 39
   },
   "questionable": [
+    {
+      "player_id": "11626",
+      "source_id": "4430034",
+      "player_name": "Xavier Legette",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Legette (knee) is listed as questionable for Sunday's game at New Orleans."
+    },
     {
       "player_id": "12519",
       "source_id": "4685278",
@@ -74,32 +87,6 @@
       "injury_comment": "Vaki (ankle) is listed as questionable for Sunday's game against the Patriots in Munich, Nolan Bianchi of The Detroit News reports."
     },
     {
-      "player_id": "5892",
-      "source_id": "4035538",
-      "player_name": "David Montgomery",
-      "position": "RB",
-      "team_abbr": "HOU",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Montgomery (groin) is listed as questionable for Sunday's game against the Browns, while Woody Marks (knee) doesn't have an injury designation."
-    },
-    {
-      "player_id": "10220",
-      "source_id": "4362523",
-      "player_name": "Will Mallory",
-      "position": "TE",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Mallory (hamstring) is listed as questionable for Sunday's game against Miami."
-    },
-    {
       "player_id": "13419",
       "source_id": "4685489",
       "player_name": "Jaydn Ott",
@@ -111,19 +98,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-15",
       "injury_comment": "Ott (hamstring) is listed as questionable for Sunday's game against the Falcons."
-    },
-    {
-      "player_id": "8151",
-      "source_id": "4567048",
-      "player_name": "Kenneth Walker III",
-      "position": "RB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Walker (groin) is listed as questionable for Sunday's game against the Falcons."
     },
     {
       "player_id": "12541",
@@ -253,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Cooper (ankle), who was a full participant in Friday's practice, is listed as questionable for Sunday's game against the Bills."
+      "injury_comment": "Cooper (ankle), who is listed as questionable for Sunday's game against the Bills, is expected to be available, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "11625",
@@ -266,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Mitchell (knee) is listed as questionable for Sunday's game against the Bills after he was a full participant in Friday's practice."
+      "injury_comment": "Mitchell (knee) is listed as questionable for Sunday's game against the Bills but is expected to play, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "8146",
@@ -279,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Wilson (concussion) has one more step to complete in concussion protocol, and Jets coach Aaron Glenn believes that will happen before Sunday's game against the Bills, Brian Costello of the New York Post reports."
+      "injury_comment": "Wilson (concussion) is expected to be cleared to play against the Bills on Sunday, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "8129",
@@ -293,6 +267,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "7600",
+      "source_id": "4361411",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Freiermuth (illness) was added to Saturday's injury report and is listed as questionable for Sunday's game against Cincinnati."
     },
     {
       "player_id": "9508",
@@ -429,19 +416,6 @@
       "injury_comment": "According to coach Brian Schottenheimer, Ferguson (knee) is in line to miss multiple weeks, Patrik Walker of the Cowboys' official site reports."
     },
     {
-      "player_id": "8207",
-      "source_id": "4429676",
-      "player_name": "Tyler Goodson",
-      "position": "RB",
-      "team_abbr": "DAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Goodson sustained ACL and MCL sprains in his knee during Sunday's 27-23 win over the Colts, a source tells Todd Archer of ESPN.com."
-    },
-    {
       "player_id": "10225",
       "source_id": "4426485",
       "player_name": "Jonathan Mingo",
@@ -465,7 +439,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Jacobs will undergo finger surgery Friday, and the Packers will have a better sense of his recovery timetable afterward, Matt Schneidman of The Athletic reports."
+      "injury_comment": "Jacobs underwent surgery on his fractured right ring finger Friday and \"should be back in the next few weeks,\" Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "10212",
@@ -533,6 +507,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "5892",
+      "source_id": "4035538",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-19",
+      "injury_comment": "Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns."
+    },
+    {
       "player_id": "13437",
       "source_id": "4432631",
       "player_name": "Noah Whittington",
@@ -546,17 +533,30 @@
       "injury_comment": null
     },
     {
-      "player_id": "4054",
-      "source_id": "2998565",
-      "player_name": "Mo Alie-Cox",
+      "player_id": "10220",
+      "source_id": "4362523",
+      "player_name": "Will Mallory",
       "position": "TE",
       "team_abbr": "IND",
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Groin",
+      "injury_detail": "Hamstring",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Alie-Cox (groin) has been ruled out for Sunday's game against the Dolphins, Abby Halpin of the Colts' official site reports."
+      "injury_comment": "Mallory (hamstring) has been downgraded from questionable to out for Sunday's game against the Dolphins."
+    },
+    {
+      "player_id": "8151",
+      "source_id": "4567048",
+      "player_name": "Kenneth Walker III",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Walker (groin) has been ruled out for Sunday's game against the Falcons, Jordan Schultz of Fox Sports reports."
     },
     {
       "player_id": "11056",

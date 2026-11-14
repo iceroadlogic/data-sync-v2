@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T17:27:55.960Z",
+  "lastUpdated": "2026-11-14T18:59:56.085Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -8098,6 +8098,13 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "HOU"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Groin",
+          "team": "HOU"
         }
       ]
     },
@@ -14411,6 +14418,13 @@
           "date": "2026-10-18",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "PIT"
         }
       ]
     },
@@ -19102,6 +19116,13 @@
           "from": "Doubtful",
           "to": "Out",
           "detail": "Knee",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Knee - ACL + MCL",
           "team": "DAL"
         }
       ]
@@ -29993,6 +30014,13 @@
           "date": "2026-10-03",
           "from": "Out",
           "to": "IR",
+          "detail": "Knee",
+          "team": "CAR"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Knee",
           "team": "CAR"
         }
