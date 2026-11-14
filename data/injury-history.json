@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T18:59:56.085Z",
+  "lastUpdated": "2026-11-14T23:30:04.017Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -12686,6 +12686,13 @@
           "to": "IR",
           "detail": "Knee",
           "team": "ARI"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "ARI"
         }
       ]
     },
@@ -12904,6 +12911,13 @@
           "date": "2026-10-01",
           "from": "Out",
           "to": "IR",
+          "detail": "Hamstring",
+          "team": "NO"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Hamstring",
           "team": "NO"
         }
@@ -18351,6 +18365,13 @@
           "to": "IR",
           "detail": "Ankle",
           "team": "GB"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "GB"
         }
       ]
     },
@@ -22720,6 +22741,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "LAC"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -23323,6 +23349,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Concussion",
+          "team": "GB"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Out",
+          "to": "IR",
           "detail": "Concussion",
           "team": "GB"
         }
@@ -26422,6 +26455,13 @@
           "date": "2026-10-10",
           "from": "Out",
           "to": "IR",
+          "detail": "Ankle",
+          "team": "GB"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "IR",
+          "to": "Questionable",
           "detail": "Ankle",
           "team": "GB"
         }
@@ -38208,6 +38248,13 @@
           "to": "Out",
           "detail": "Illness",
           "team": "NE"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Illness",
+          "team": "NE"
         }
       ]
     },
@@ -43948,6 +43995,13 @@
           "from": "Out",
           "to": "Questionable",
           "detail": "Quadriceps",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Hamstring",
           "team": "LAC"
         }
       ]

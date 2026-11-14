@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-14T17:27:55.960Z",
+  "lastUpdated": "2026-11-14T23:30:04.017Z",
   "week": 10,
   "summary": {
-    "total_players": 771,
-    "ir": 97,
+    "total_players": 769,
+    "ir": 95,
     "suspended": 0
   },
   "ir": [
@@ -58,19 +58,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "7535",
-      "source_id": "4239944",
-      "player_name": "Hunter Long",
-      "position": "TE",
-      "team_abbr": "ARI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "The Cardinals designated Long (knee) for return from injured reserve Wednesday."
     },
     {
       "player_id": "13287",
@@ -238,21 +225,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of the Panthers' official site reports."
-    },
-    {
-      "player_id": "11626",
-      "source_id": "4430034",
-      "player_name": "Xavier Legette",
-      "position": "WR",
-      "team_abbr": "CAR",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Legette (knee) is listed as questionable for Sunday's game at New Orleans."
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Brooks (groin) has been downgraded from doubtful to out for Sunday's game against the Saints, Joe Person of The Athletic reports."
     },
     {
       "player_id": "8423",
@@ -355,8 +329,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Thumb",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Iosivas (thumb) is listed as doubtful for Sunday's game against Pittsburgh."
+      "est_return_date": "2026-11-23",
+      "injury_comment": "Iosivas (thumb) has been downgraded from doubtful to out for Sunday's game against the Steelers."
     },
     {
       "player_id": "12472",
@@ -396,6 +370,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "8207",
+      "source_id": "4429676",
+      "player_name": "Tyler Goodson",
+      "position": "RB",
+      "team_abbr": "DAL",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - ACL + MCL",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "The Cowboys placed Goodson (knee) on injured reserve Saturday, Tommy Yarrish of the team's official site reports."
     },
     {
       "player_id": "8208",
@@ -476,32 +463,6 @@
       "injury_comment": "Lions coach Dan Campbell said Friday that Pacheco (back) has a chance to return in late December, Justin Rogers of DetroitFootball.net reports."
     },
     {
-      "player_id": "11370",
-      "source_id": "3149687",
-      "player_name": "Chris Brooks",
-      "position": "RB",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Brooks (ankle) is listed as questionable for Sunday's game against the Vikings, Wes Hodkiewicz of the Packers' official site reports."
-    },
-    {
-      "player_id": "8168",
-      "source_id": "4430191",
-      "player_name": "Skyy Moore",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Moore (ankle) is listed as questionable for Sunday's game against the Vikings, Wes Hodkiewicz of the Packers' official site reports."
-    },
-    {
       "player_id": "10222",
       "source_id": "4362249",
       "player_name": "Jayden Reed",
@@ -513,6 +474,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "10212",
+      "source_id": "4360086",
+      "player_name": "Josh Whyle",
+      "position": "TE",
+      "team_abbr": "GB",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "Green Bay placed Whyle (concussion) on injured reserve Saturday."
     },
     {
       "player_id": "12113",
@@ -585,12 +559,12 @@
       "player_name": "Mo Alie-Cox",
       "position": "TE",
       "team_abbr": "IND",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-12-20",
-      "injury_comment": "Alie-Cox (groin) has been ruled out for Sunday's game against the Dolphins, Abby Halpin of the Colts' official site reports."
+      "injury_comment": "The Colts placed Alie-Cox (groin) on injured reserve Saturday."
     },
     {
       "player_id": "6453",
@@ -720,7 +694,7 @@
       "injury_description": null,
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-16",
-      "injury_comment": "Njoku (fibula), who is still on IR, was limited in practice Friday."
+      "injury_comment": "Njoku (fibula) is listed as questionable for Monday's game against the Ravens."
     },
     {
       "player_id": "9493",
@@ -879,6 +853,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12529",
+      "source_id": "4432710",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "team_abbr": "NE",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-12-21",
+      "injury_comment": "Henderson (illness) was placed on injured reserve Saturday, Mike Reiss of ESPN.com reports."
+    },
+    {
       "player_id": "11371",
       "source_id": "4365395",
       "player_name": "Julian Hill",
@@ -916,19 +903,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "7543",
-      "source_id": "4239996",
-      "player_name": "Travis Etienne Jr.",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "The Saints are expected to activate Etienne (hamstring) from injured reserve ahead of Sunday's NFC South tilt against the Panthers, Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "12480",
