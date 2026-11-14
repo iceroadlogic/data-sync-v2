@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-14T00:33:12.298Z",
+  "lastUpdated": "2026-11-14T17:27:55.960Z",
   "week": 10,
   "summary": {
     "total_players": 771,
-    "ir": 96,
+    "ir": 97,
     "suspended": 0
   },
   "ir": [
@@ -580,6 +580,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "4054",
+      "source_id": "2998565",
+      "player_name": "Mo Alie-Cox",
+      "position": "TE",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "Alie-Cox (groin) has been ruled out for Sunday's game against the Dolphins, Abby Halpin of the Colts' official site reports."
+    },
+    {
       "player_id": "6453",
       "source_id": "4249030",
       "player_name": "D.J. Montgomery",
@@ -707,7 +720,7 @@
       "injury_description": null,
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-16",
-      "injury_comment": "Njoku (fibula) was a limited participant at the Chargers' practice Thursday."
+      "injury_comment": "Njoku (fibula), who is still on IR, was limited in practice Friday."
     },
     {
       "player_id": "9493",
@@ -915,7 +928,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Etienne (hamstring) said Friday that \"the week of practice went well,\" and that he hopes to be active for Sunday's game against the Panthers, Jeff Nowak of WWL Radio reports."
+      "injury_comment": "The Saints are expected to activate Etienne (hamstring) from injured reserve ahead of Sunday's NFC South tilt against the Panthers, Tom Pelissero of Netflix reports."
     },
     {
       "player_id": "12480",

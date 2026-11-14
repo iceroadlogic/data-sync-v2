@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T00:33:12.298Z",
+  "lastUpdated": "2026-11-14T17:27:55.960Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -3306,6 +3306,13 @@
           "date": "2026-11-13",
           "from": "Questionable",
           "to": "Out",
+          "detail": "Groin",
+          "team": "IND"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Out",
+          "to": "IR",
           "detail": "Groin",
           "team": "IND"
         }
@@ -17718,6 +17725,13 @@
           "to": "Questionable",
           "detail": "Groin",
           "team": "KC"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Groin",
+          "team": "KC"
         }
       ]
     },
@@ -23673,6 +23687,13 @@
           "date": "2026-11-14",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "IND"
+        },
+        {
+          "date": "2026-11-14",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "IND"
         }
