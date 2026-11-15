@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-11-15T19:31:14.881Z",
+  "lastUpdated": "2026-11-15T23:31:07.264Z",
   "week": 10,
   "summary": {
     "total_players": 771,
-    "questionable": 15,
-    "doubtful": 1,
-    "out": 59
+    "questionable": 14,
+    "doubtful": 2,
+    "out": 70
   },
   "questionable": [
     {
-      "player_id": "7535",
-      "source_id": "4239944",
-      "player_name": "Hunter Long",
-      "position": "TE",
-      "team_abbr": "ARI",
+      "player_id": "8112",
+      "source_id": "4426502",
+      "player_name": "Drake London",
+      "position": "WR",
+      "team_abbr": "ATL",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
+      "injury_detail": "Concussion",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Arizona activated Long (knee) from injured reserve Saturday, and he remains questionable for Sunday's battle against the Rams."
+      "injury_comment": "London is being evaluated for a possible concussion during Sunday's game against the Chiefs, Tori McElhaney of the Falcons' official site reports."
     },
     {
       "player_id": "12519",
@@ -57,8 +57,8 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Thigh",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Melton (thigh) has been ruled out for the rest of Sunday's game against the Vikings, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "8168",
@@ -70,60 +70,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Moore (ankle) is questionable to return to Sunday's game against the Vikings."
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Moore (ankle) has been ruled out for the rest of Sunday's game against the Vikings, Rob Demovsky of ESPN.com reports."
     },
     {
-      "player_id": "11595",
-      "source_id": "4430723",
-      "player_name": "Jared Wiley",
-      "position": "TE",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Wiley (ankle) has been ruled out for the remainder of Sunday's game against the Falcons."
-    },
-    {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
+      "player_id": "11911",
+      "source_id": "4360637",
+      "player_name": "Jeshaun Jones",
       "position": "WR",
-      "team_abbr": "LV",
+      "team_abbr": "MIN",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Back",
+      "injury_detail": "Shoulder",
       "est_return_date": "2026-11-15",
-      "injury_comment": "Thornton (back) is questionable to play against the Seahawks on Sunday, Ryan McFadden of ESPN.com reports."
-    },
-    {
-      "player_id": "11635",
-      "source_id": "4612826",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-11-16",
-      "injury_comment": "McConkey (back) is listed as questionable for Monday night's game against the Ravens, Noah Furtado of The Athletic reports."
-    },
-    {
-      "player_id": "10214",
-      "source_id": "4426553",
-      "player_name": "Davis Allen",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Oblique",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Allen (oblique) is questionable for Sunday's game against Arizona, Sarah Barshop of ESPN.com reports."
+      "injury_comment": "Jones (shoulder) is questionable to return to Sunday's game against the Packers."
     },
     {
       "player_id": "5859",
@@ -161,8 +122,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Ankle",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Cooper (ankle) is questionable to return to Sunday's game against the Bills."
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Cooper (ankle) won't return to Sunday's game against the Bills, Zack Rosenblatt of The Athletic reports."
+    },
+    {
+      "player_id": "1373",
+      "source_id": "15864",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Smith (ankle) has been ruled out for the remainder of Sunday's game against the Bills, Brian Costello of the New York Post reports."
     },
     {
       "player_id": "8129",
@@ -202,9 +176,35 @@
       "injury_detail": "Lower Leg",
       "est_return_date": "2026-11-22",
       "injury_comment": "Mayfield's availability for next Sunday's game against the Lions is in question due to an injury he sustained to his foot and ankle area during the Buccaneers' Week 9 loss to the Bears, Mike Garafolo of NFL Network reports."
+    },
+    {
+      "player_id": "8126",
+      "source_id": "4569587",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-15",
+      "injury_comment": "Robinson (ankle) is questionable to return to Sunday's game against the Jaguars."
     }
   ],
   "doubtful": [
+    {
+      "player_id": "12474",
+      "source_id": "4429059",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-11-19",
+      "injury_comment": "Marks (concussion) has been downgraded to out for the remainder of Sunday's game against the Browns."
+    },
     {
       "player_id": "13380",
       "source_id": "4685553",
@@ -220,6 +220,19 @@
     }
   ],
   "out": [
+    {
+      "player_id": "13428",
+      "source_id": "5151948",
+      "player_name": "Joey Aguilar",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Aguilar (coach's decision) is inactive but will serve as the emergency third quarterback against the Rams on Sunday, Darren Urban of the Cardinals' official site reports."
+    },
     {
       "player_id": "11716",
       "source_id": "4696700",
@@ -426,7 +439,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-22",
-      "injury_comment": "According to coach Brian Schottenheimer, Ferguson (knee) is in line to miss multiple weeks, Patrik Walker of the Cowboys' official site reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "10225",
@@ -439,7 +452,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Mingo (ankle/foot) has been ruled out ahead of Sunday's game against the 49ers, Tommy Yarrish of the Cowboys' official site reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "5850",
@@ -622,6 +635,84 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-11-22",
       "injury_comment": "Walker (groin), who won't play Sunday in Atlanta, is expected to \"be able to go\" next Sunday against the Cardinals, Ian Rapoport of NFL Network reports."
+    },
+    {
+      "player_id": "11595",
+      "source_id": "4430723",
+      "player_name": "Jared Wiley",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "Wiley suffered a fractured ankle in the Chiefs' 35-13 victory over the Falcons on Sunday, Matt Derrick of ChiefsDigest.com reports."
+    },
+    {
+      "player_id": "13329",
+      "source_id": "5150247",
+      "player_name": "Malik Benson",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Benson (coach's decision) is inactive for Sunday's game against the Seahawks."
+    },
+    {
+      "player_id": "11604",
+      "source_id": "4432665",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Bowers (ankle) won't return to Sunday's game against the Seahawks, Mike Garafolo of NFL Network and ESPN reports."
+    },
+    {
+      "player_id": "12541",
+      "source_id": "4432775",
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Thornton (back) is inactive for Sunday's game against the Seahawks."
+    },
+    {
+      "player_id": "11635",
+      "source_id": "4612826",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "McConkey (back) won't travel to Baltimore with the Chargers for Monday's game against the Ravens and has been downgraded from questionable to out for Week 10 action."
+    },
+    {
+      "player_id": "13275",
+      "source_id": "4685522",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Simpson (coach's decision) is inactive but will serve as the Rams' emergency third quarterback in Sunday's game against the Cardinals."
     },
     {
       "player_id": "13311",
@@ -884,6 +975,19 @@
       "injury_comment": "The 49ers reinstated Aiyuk (personal) from the reserve/left squad list Monday and were granted a two-week roster exemption for the wide receiver, Tom Pelissero of Netflix reports."
     },
     {
+      "player_id": "2197",
+      "source_id": "16731",
+      "player_name": "Brandin Cooks",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Cooks (coach's decision) is inactive for Sunday's game against the Cowboys."
+    },
+    {
       "player_id": "2216",
       "source_id": "16737",
       "player_name": "Mike Evans",
@@ -895,6 +999,19 @@
       "injury_detail": "Achilles",
       "est_return_date": "2026-11-22",
       "injury_comment": "Evans (Achilles) has a chance to return to action next Sunday against the Vikings, Mike Garafolo of NFL Network reports."
+    },
+    {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "inactive"
     },
     {
       "player_id": "11651",
@@ -920,7 +1037,33 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Darnold (quadriceps), who won't play this coming Sunday at Las Vegas, is expected to return in Week 12 at San Francisco on Sunday, Nov. 29 after a Week 11 bye, Gregg Bell of Sports Radio 93.3 KJR Seattle reports."
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Holani (knee) has been ruled out for the remainder of Sunday's game against the Seahawks."
+    },
+    {
+      "player_id": "11435",
+      "source_id": "4887558",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Wilson (coach's decision) is inactive for Sunday's game at Arizona."
     },
     {
       "player_id": "13047",
