@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-15T19:37:11.722Z",
+  "lastUpdated": "2026-11-15T23:31:04.528Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,9 +9,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "8 to 12 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 37,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -38,10 +38,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 47,
-        "wind": "12 mph NW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "21%"
+        "temp": 40,
+        "wind": "3 to 9 mph NW",
+        "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
+        "precipitation": "16%"
       }
     },
     {
@@ -52,7 +52,7 @@
       "is_dome": false,
       "weather": {
         "temp": 48,
-        "wind": "2 mph WSW",
+        "wind": "1 mph SW",
         "conditions": "Sunny",
         "precipitation": "0%"
       }
@@ -65,8 +65,8 @@
       "is_dome": false,
       "weather": {
         "temp": 57,
-        "wind": "5 mph NNE",
-        "conditions": "Sunny",
+        "wind": "5 mph N",
+        "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
     },
@@ -93,9 +93,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "8 to 12 mph NW",
-        "conditions": "Mostly Sunny",
+        "temp": 37,
+        "wind": "3 to 8 mph NW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
