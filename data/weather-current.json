@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-15T23:31:04.528Z",
+  "lastUpdated": "2026-11-16T02:57:24.607Z",
   "games": [
     {
       "game_id": "401873052",
@@ -10,7 +10,7 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "3 to 8 mph NW",
+        "wind": "6 mph NW",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -39,7 +39,7 @@
       "is_dome": false,
       "weather": {
         "temp": 40,
-        "wind": "3 to 9 mph NW",
+        "wind": "6 mph NW",
         "conditions": "Slight Chance Rain Showers then Mostly Cloudy",
         "precipitation": "16%"
       }
@@ -51,9 +51,9 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 48,
-        "wind": "1 mph SW",
-        "conditions": "Sunny",
+        "temp": 29,
+        "wind": "3 mph SSW",
+        "conditions": "Mostly Clear",
         "precipitation": "0%"
       }
     },
@@ -64,9 +64,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "5 mph N",
-        "conditions": "Mostly Sunny",
+        "temp": 32,
+        "wind": "0 to 5 mph NNE",
+        "conditions": "Mostly Clear then Widespread Frost",
         "precipitation": "0%"
       }
     },
@@ -94,7 +94,7 @@
       "is_dome": false,
       "weather": {
         "temp": 37,
-        "wind": "3 to 8 mph NW",
+        "wind": "6 mph NW",
         "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
@@ -131,7 +131,7 @@
       "is_dome": false,
       "weather": {
         "temp": 35,
-        "wind": "1 mph N",
+        "wind": "0 mph ",
         "conditions": "Mostly Cloudy then Patchy Fog",
         "precipitation": "0%"
       }
