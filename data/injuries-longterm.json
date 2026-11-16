@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-14T23:30:04.017Z",
+  "lastUpdated": "2026-11-16T21:25:08.097Z",
   "week": 10,
   "summary": {
-    "total_players": 769,
-    "ir": 95,
+    "total_players": 772,
+    "ir": 94,
     "suspended": 0
   },
   "ir": [
@@ -83,7 +83,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Minshew (elbow) will undergo UCL surgery and is out for the season, Theo Mackie of AzCentral reports."
+      "injury_comment": "Minshew suffered a torn UCL in his right throwing elbow last Sunday at Seattle and is slated to undergo season-ending surgery, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "10232",
@@ -94,9 +94,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "The Cardinals placed Wilson (neck) on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8154",
@@ -107,9 +107,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "Robinson (hamstring) was placed on injured reserve Saturday, Marc Raimondi of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7593",
@@ -159,9 +159,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Neck",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Randall (neck), who remains on IR, has been tagged as questionable to face the Chargers on Monday."
     },
     {
       "player_id": "5008",
@@ -458,9 +458,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-12-28",
-      "injury_comment": "Lions coach Dan Campbell said Friday that Pacheco (back) has a chance to return in late December, Justin Rogers of DetroitFootball.net reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10222",
@@ -684,19 +684,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "4033",
-      "source_id": "3123076",
-      "player_name": "David Njoku",
-      "position": "TE",
-      "team_abbr": "LAC",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Lower Leg",
-      "est_return_date": "2026-11-16",
-      "injury_comment": "Njoku (fibula) is listed as questionable for Monday's game against the Ravens."
-    },
-    {
       "player_id": "9493",
       "source_id": "4426515",
       "player_name": "Puka Nacua",
@@ -707,7 +694,7 @@
       "injury_description": null,
       "injury_detail": "Knee - MCL",
       "est_return_date": "2026-12-20",
-      "injury_comment": "The Rams placed Nacua (knee) on injured reserve Thursday."
+      "injury_comment": "Nacua (knee/toe) has an expected return date of \"mid-December,\" Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "2133",
@@ -720,7 +707,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Head coach Sean McVay said Wednesday that Adams (hamstring) returning after the Nov. 25 against the Packers \"is a realistic timeline for us,\" Greg Beacham of the Associated Press reports."
+      "injury_comment": "According to Ian Rapoport of NFL Network and ESPN,  Adams (hamstring) is believed to be targeting a return to action Nov. 25 against the Packers."
     },
     {
       "player_id": "13597",
@@ -757,9 +744,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-25",
-      "injury_comment": "Rams head coach Sean McVay acknowledged Monday during his appearance on the \"Coach McVay Show\" that he remains optimistic Ferguson (hamstring/ankle) will return from injured reserve this season, though he was unwilling to guarantee that the tight end will be activated by the time his 21-day evaluation window closes, Cameron DaSilva of USA Today reports. \"I'm reluctant to get too far ahead of anything, just because -- but yes, that is something we'd want to avoid if he's not prepared,\" McVay said, regarding the possibility of Ferguson being shut down."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11623",
@@ -770,9 +757,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "Whittington (back) was placed on injured reserve Tuesday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9226",
@@ -811,7 +798,7 @@
       "injury_description": null,
       "injury_detail": "Abdomen",
       "est_return_date": "2026-12-13",
-      "injury_comment": "The Dolphins hope Willis (abdomen) will return this year but haven't ruled out season-ending surgery, Joe Schad of The Palm Beach Post reports."
+      "injury_comment": "Coach Jeff Hafley said Monday that it has yet to be determined whether Willis (abdomen) will need surgery to address his groin/core injury.David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "13347",
@@ -822,9 +809,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-12-06",
-      "injury_comment": "The Vikings placed Claiborne (knee) on injured reserve Monday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "5973",
@@ -1030,9 +1017,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Eagles opened Shipley's (foot) 21-day practice window Monday."
     },
     {
       "player_id": "11636",
@@ -1058,7 +1045,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Pittman (foot) is warmed up with his teammates Thursday, though he remains on IR and wasn't wearing a helmet, Nick Farabaugh of PennLive.com reports."
+      "injury_comment": "Could Mike McCarthy said Monday that the Steelers are 'hopeful' they can get Pittman -- who last played in Week 4 -- back from his foot injury this week, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "11630",
@@ -1069,9 +1056,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Finger",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Steelers head coach Mike McCarthy said that he's \"hopeful\" Wilson (finger) will be able to return from injured reserve for Sunday's game against the Eagles, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "4950",
@@ -1186,9 +1173,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-23",
+      "injury_comment": "Coach Dan Quinn said Monday that while the 21-day practice window for Croskey-Merritt (groin) hasn't been opened yet, he notes that the running back is \"trending in the right direction,\" Nicki Jhabvala of The Athletic reports."
     },
     {
       "player_id": "12641",
