@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-15T23:31:07.264Z",
+  "lastUpdated": "2026-11-16T03:07:38.058Z",
   "week": 10,
   "summary": {
     "total_players": 771,
-    "questionable": 14,
+    "questionable": 15,
     "doubtful": 2,
-    "out": 70
+    "out": 71
   },
   "questionable": [
     {
@@ -74,6 +74,19 @@
       "injury_comment": "Moore (ankle) has been ruled out for the rest of Sunday's game against the Vikings, Rob Demovsky of ESPN.com reports."
     },
     {
+      "player_id": "11604",
+      "source_id": "4432665",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Bowers (ankle) will be evaluated further Monday, Ryan McFadden of ESPN reports."
+    },
+    {
       "player_id": "11911",
       "source_id": "4360637",
       "player_name": "Jeshaun Jones",
@@ -97,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Brown (hamstring) won't return to Sunday's game against the Lions, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Brown (hamstring) was spotted limping out of the locker room following Sunday's Week 10 loss to Detroit, Andrew Callahan of the Boston Herald reports."
     },
     {
       "player_id": "11564",
@@ -110,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Following Sunday's 35-10 loss to the Lions, coach Mike Vrabel said that Maye will need additional testing to determine the severity of the ankle injury he suffered during the contest, Doug Kyed of the Boston Herald."
+      "injury_comment": "Maye (ankle) will undergo additional testing, but the Patriots expect him to be out for a while, SNF on NBC reports."
     },
     {
       "player_id": "13276",
@@ -136,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Smith (ankle) has been ruled out for the remainder of Sunday's game against the Bills, Brian Costello of the New York Post reports."
+      "injury_comment": "Jets head coach Aaron Glenn said after Sunday's loss to Buffalo that Smith, who departed the contest due to an ankle injury, will have his status for Week 11 determined during the upcoming week of practice, Jack Bell of the Jets' official site reports."
     },
     {
       "player_id": "8129",
@@ -152,17 +165,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "7600",
-      "source_id": "4361411",
-      "player_name": "Pat Freiermuth",
-      "position": "TE",
-      "team_abbr": "PIT",
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Illness",
-      "est_return_date": "2026-11-15",
-      "injury_comment": "Freiermuth (illness) was added to Saturday's injury report and is listed as questionable for Sunday's game against Cincinnati."
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Holani (knee) has been ruled out for the remainder of Sunday's game against the Seahawks."
     },
     {
       "player_id": "4892",
@@ -203,7 +216,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Marks (concussion) has been downgraded to out for the remainder of Sunday's game against the Browns."
+      "injury_comment": "Coach DeMeco Ryans acknowledged after Sunday's 27-24 loss to the Browns that Marks (concussion) is unlikely to play in Thursday night's game against the Colts, ESPN.com's DJ Bien-Aime reports."
     },
     {
       "player_id": "13380",
@@ -543,7 +556,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns."
+      "injury_comment": "Texans head coach DeMeco Ryans said Sunday that he's \"not certain\" if Montgomery (groin) will be able to play Thursday against Indianapolis, DJ Bien-Aime of ESPN reports."
     },
     {
       "player_id": "13437",
@@ -661,19 +674,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-11-22",
       "injury_comment": "Benson (coach's decision) is inactive for Sunday's game against the Seahawks."
-    },
-    {
-      "player_id": "11604",
-      "source_id": "4432665",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Bowers (ankle) won't return to Sunday's game against the Seahawks, Mike Garafolo of NFL Network and ESPN reports."
     },
     {
       "player_id": "12541",
@@ -962,6 +962,45 @@
       "injury_comment": "out"
     },
     {
+      "player_id": "13289",
+      "source_id": "4714771",
+      "player_name": "Drew Allar",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13423",
+      "source_id": "5081508",
+      "player_name": "Eli Heidenreich",
+      "position": "RB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "inactive"
+    },
+    {
+      "player_id": "12511",
+      "source_id": "4429955",
+      "player_name": "Will Howard",
+      "position": "QB",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Howard (coach's decision) is inactive and serving as Pittsburgh's emergency third quarterback Sunday night versus Cincinnati."
+    },
+    {
       "player_id": "6803",
       "source_id": "4360438",
       "player_name": "Brandon Aiyuk",
@@ -1038,19 +1077,6 @@
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-29",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "12048",
-      "source_id": "4429835",
-      "player_name": "George Holani",
-      "position": "RB",
-      "team_abbr": "SEA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Holani (knee) has been ruled out for the remainder of Sunday's game against the Seahawks."
     },
     {
       "player_id": "11435",
