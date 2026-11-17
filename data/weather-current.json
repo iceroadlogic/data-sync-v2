@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "lastUpdated": "2026-11-16T20:01:15.974Z",
+  "lastUpdated": "2026-11-17T03:40:53.107Z",
   "games": [
     {
       "game_id": "401873052",
@@ -9,9 +9,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "8 mph NW",
-        "conditions": "Sunny",
+        "temp": 36,
+        "wind": "3 mph NW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -38,9 +38,9 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "7 mph SW",
-        "conditions": "Mostly Sunny",
+        "temp": 36,
+        "wind": "6 mph SW",
+        "conditions": "Partly Cloudy",
         "precipitation": "0%"
       }
     },
@@ -51,10 +51,10 @@
       "stadium": "Lambeau Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "7 to 12 mph SW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "temp": 38,
+        "wind": "7 mph SW",
+        "conditions": "Mostly Clear",
+        "precipitation": "1%"
       }
     },
     {
@@ -64,9 +64,9 @@
       "stadium": "Nissan Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 61,
-        "wind": "5 mph NE",
-        "conditions": "Sunny",
+        "temp": 35,
+        "wind": "0 to 5 mph ENE",
+        "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -93,9 +93,9 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "8 mph NW",
-        "conditions": "Sunny",
+        "temp": 36,
+        "wind": "3 mph NW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     },
@@ -130,9 +130,9 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 54,
+        "temp": 33,
         "wind": "0 mph ",
-        "conditions": "Sunny",
+        "conditions": "Mostly Clear then Patchy Fog",
         "precipitation": "0%"
       }
     },
@@ -143,9 +143,9 @@
       "stadium": "M&T Bank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "3 mph NW",
-        "conditions": "Mostly Clear",
+        "temp": 37,
+        "wind": "2 mph NW",
+        "conditions": "Clear",
         "precipitation": "0%"
       }
     }
