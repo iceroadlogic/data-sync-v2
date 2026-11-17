@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T21:25:08.097Z",
+  "lastUpdated": "2026-11-17T03:15:15.820Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2705,6 +2705,11 @@
           "to": "Questionable",
           "detail": "Lower Leg",
           "team": "LAC"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -8162,6 +8167,11 @@
           "to": "Out",
           "detail": "Groin",
           "team": "HOU"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -31971,6 +31981,13 @@
           "date": "2026-11-09",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -32653,6 +32670,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "IND"
         }
       ]
     },
@@ -41864,6 +41888,13 @@
           "date": "2026-11-09",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "BAL"
         }
       ]
     },
@@ -44479,6 +44510,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Hamstring",
+          "team": "LAC"
+        },
+        {
+          "date": "2026-11-17",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "LAC"
         }
