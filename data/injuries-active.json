@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-17T04:23:42.812Z",
+  "lastUpdated": "2026-11-17T04:59:42.831Z",
   "week": 10,
   "summary": {
-    "total_players": 772,
+    "total_players": 771,
     "questionable": 14,
     "doubtful": 2,
     "out": 43
@@ -559,19 +559,6 @@
       "injury_comment": "out"
     },
     {
-      "player_id": "9756",
-      "source_id": "4429205",
-      "player_name": "Jordan Addison",
-      "position": "WR",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Vikings head coach Kevin O'Connell said Monday that Addison will require surgery on his thumb and will miss a few weeks, Alec Lewis of The Athletic reports."
-    },
-    {
       "player_id": "5844",
       "source_id": "4036133",
       "player_name": "T.J. Hockenson",
@@ -609,6 +596,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
       "injury_comment": "out"
+    },
+    {
+      "player_id": "9756",
+      "source_id": "4429205",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "team_abbr": "MIN",
+      "injury_status": "day-to-day",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Thumb",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Vikings head coach Kevin O'Connell said Monday that Addison will require surgery on his thumb and will miss a few weeks, Alec Lewis of The Athletic reports."
     },
     {
       "player_id": "13890",
