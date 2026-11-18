@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2026-11-18T03:21:10.693Z",
+  "lastUpdated": "2026-11-18T18:40:50.065Z",
   "games": [
     {
       "game_id": "401873066",
@@ -17,10 +17,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "9 mph S",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "42%"
+        "temp": 64,
+        "wind": "7 mph S",
+        "conditions": "Mostly Sunny then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -30,10 +30,10 @@
       "stadium": "Soldier Field",
       "is_dome": false,
       "weather": {
-        "temp": 51,
-        "wind": "10 mph W",
-        "conditions": "Chance Rain then Partly Sunny",
-        "precipitation": "32%"
+        "temp": 58,
+        "wind": "10 mph WSW",
+        "conditions": "Rain Showers Likely",
+        "precipitation": "66%"
       }
     },
     {
@@ -59,10 +59,10 @@
       "stadium": "GEHA Field at Arrowhead Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "7 mph NNW",
-        "conditions": "Sunny",
-        "precipitation": "4%"
+        "temp": 51,
+        "wind": "9 to 14 mph NNW",
+        "conditions": "Slight Chance Light Rain then Mostly Sunny",
+        "precipitation": "15%"
       }
     },
     {
@@ -74,8 +74,8 @@
       "weather": {
         "temp": 61,
         "wind": "5 mph NE",
-        "conditions": "Chance Light Rain",
-        "precipitation": "37%"
+        "conditions": "Mostly Cloudy then Chance Light Rain",
+        "precipitation": "40%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 69,
-        "wind": "5 to 8 mph N",
+        "temp": 67,
+        "wind": "6 to 13 mph NNE",
         "conditions": "Chance Light Rain",
-        "precipitation": "33%"
+        "precipitation": "28%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "0 to 5 mph ENE",
-        "conditions": "Mostly Sunny then Slight Chance Light Rain",
-        "precipitation": "23%"
+        "temp": 66,
+        "wind": "0 to 5 mph NNE",
+        "conditions": "Sunny then Slight Chance Light Rain",
+        "precipitation": "20%"
       }
     },
     {
@@ -111,10 +111,10 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "1 to 5 mph ENE",
+        "temp": 48,
+        "wind": "1 to 5 mph E",
         "conditions": "Mostly Sunny",
-        "precipitation": "1%"
+        "precipitation": "0%"
       }
     },
     {
@@ -124,10 +124,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "0 to 5 mph NE",
+        "temp": 64,
+        "wind": "5 mph NE",
         "conditions": "Chance Light Rain",
-        "precipitation": "37%"
+        "precipitation": "45%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "6 mph SW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "40%"
+        "temp": 58,
+        "wind": "3 mph S",
+        "conditions": "Light Rain Likely",
+        "precipitation": "62%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 40,
-        "wind": "7 to 10 mph NW",
-        "conditions": "Mostly Clear",
-        "precipitation": "3%"
+        "temp": 39,
+        "wind": "10 mph NW",
+        "conditions": "Partly Cloudy",
+        "precipitation": "7%"
       }
     }
   ]
