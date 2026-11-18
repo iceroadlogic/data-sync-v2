@@ -1,26 +1,13 @@
 {
-  "lastUpdated": "2026-11-17T15:48:01.982Z",
+  "lastUpdated": "2026-11-18T03:31:27.116Z",
   "week": 11,
   "summary": {
-    "total_players": 775,
-    "questionable": 35,
+    "total_players": 782,
+    "questionable": 33,
     "doubtful": 2,
     "out": 20
   },
   "questionable": [
-    {
-      "player_id": "12519",
-      "source_id": "4685278",
-      "player_name": "Luther Burden III",
-      "position": "WR",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Burden (concussion) was spotted participating in the Bears' unofficial practice session Monday, AllCHGO.com reports."
-    },
     {
       "player_id": "12534",
       "source_id": "4608686",
@@ -32,7 +19,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Monangai (thumb/toe) said Monday that he's \"on track\" to return to action Sunday against the Saints, Courtney Cronin of ESPN reports."
+      "injury_comment": "Monangai (toe/thumb) was seen wearing full pads for the Bears' unofficial practice Tuesday, Adam Jahns of AllCHGO.com reports."
     },
     {
       "player_id": "10225",
@@ -97,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Harrison (hamstring) was estimated as a non-participant on Monday's practice report."
+      "injury_comment": "Harrison (hamstring) was a non-participant in Tuesday's practice."
     },
     {
       "player_id": "7568",
@@ -108,9 +95,9 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Finger",
+      "injury_detail": "Foot",
       "est_return_date": "2026-11-19",
-      "injury_comment": "questionable"
+      "injury_comment": "Jordan (foot/illness) did not participate at practice Tuesday."
     },
     {
       "player_id": "11762",
@@ -123,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Gould (toe) was estimated as limited in Monday's walkthrough practice."
+      "injury_comment": "The Colts listed Gould (toe) as a limited participant in Tuesday's walk-through practice."
     },
     {
       "player_id": "10220",
@@ -136,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Mallory (hamstring) did not participate in Monday's walkthrough practice."
+      "injury_comment": "Mallory (hamstring) was estimated as a non-participant for Tuesday's practice walkthrough."
     },
     {
       "player_id": "13419",
@@ -422,20 +409,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times reports."
-    },
-    {
-      "player_id": "8126",
-      "source_id": "4569587",
-      "player_name": "Wan'Dale Robinson",
-      "position": "WR",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Robinson is questionable to return to Sunday's game against the Jaguars due to an ankle injury."
+      "injury_comment": "Mayfield (foot) \"seems to be trending\" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "13279",
@@ -476,7 +450,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-19",
-      "injury_comment": "Marks (concussion) missed Monday's walkthrough."
+      "injury_comment": "Marks (concussion) didn't practice Tuesday."
     },
     {
       "player_id": "11564",
