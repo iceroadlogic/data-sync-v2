@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T03:31:27.116Z",
+  "lastUpdated": "2026-11-18T19:44:26.398Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -24031,6 +24031,13 @@
           "to": "Questionable",
           "detail": "Hamstring",
           "team": "IND"
+        },
+        {
+          "date": "2026-11-18",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "IND"
         }
       ]
     },
@@ -26903,6 +26910,11 @@
           "to": "Out",
           "detail": "Knee - ACL",
           "team": "BUF"
+        },
+        {
+          "date": "2026-11-18",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -29572,6 +29584,19 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "LV"
+        }
+      ]
+    },
+    "11608": {
+      "name": "Isaiah Williams",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-11-18",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "NYJ"
         }
       ]
     },
@@ -43464,6 +43489,11 @@
           "from": "Healthy",
           "to": "IR",
           "team": "BAL"
+        },
+        {
+          "date": "2026-11-18",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },

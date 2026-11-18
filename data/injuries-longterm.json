@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-17T20:13:11.751Z",
+  "lastUpdated": "2026-11-18T19:44:26.398Z",
   "week": 11,
   "summary": {
-    "total_players": 775,
+    "total_players": 781,
     "ir": 94,
     "suspended": 0
   },
@@ -83,7 +83,7 @@
       "injury_description": null,
       "injury_detail": "Elbow",
       "est_return_date": "2027-02-15",
-      "injury_comment": "Minshew suffered a torn UCL in his right throwing elbow last Sunday at Seattle and is slated to undergo season-ending surgery, Adam Schefter of ESPN reports."
+      "injury_comment": "Minshew (elbow) underwent UCL reconstructive surgery Monday, Jeremy Fowler of ESPN.com reports."
     },
     {
       "player_id": "10232",
@@ -148,20 +148,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-12-27",
-      "injury_comment": "Jackson (thumb) is \"doing well\" and is expected to be out for \"6-to-10 weeks,\" per head coach Jesse Minter."
-    },
-    {
-      "player_id": "13302",
-      "source_id": "4685526",
-      "player_name": "Adam Randall",
-      "position": "RB",
-      "team_abbr": "BAL",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Randall (neck/hamstring) wasn't activated from injured reserve and will remain out for Monday's game against the Chargers, Brian Wacker of The Baltimore Sun reports."
+      "injury_comment": "The Ravens believe \"there's a chance\" that Jackson (thumb) could return for their Week 16 matchup with the Browns, assuming all goes well in his recovery from right thumb surgery, Dan Graziano of ESPN.com reports."
     },
     {
       "player_id": "5008",
@@ -705,9 +692,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-25",
-      "injury_comment": "According to Ian Rapoport of NFL Network and ESPN,  Adams (hamstring) is believed to be targeting a return to action Nov. 25 against the Packers."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13597",
@@ -848,9 +835,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Illness",
-      "est_return_date": "2026-12-21",
-      "injury_comment": "Henderson (illness) was placed on injured reserve Saturday, Mike Reiss of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11371",
@@ -1165,17 +1152,17 @@
       "injury_comment": null
     },
     {
-      "player_id": "12533",
-      "source_id": "4575131",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "team_abbr": "WAS",
-      "injury_status": "active",
+      "player_id": "8126",
+      "source_id": "4569587",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbr": "TEN",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-11-23",
-      "injury_comment": "The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday."
+      "injury_detail": "Ankle",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Coach Robert Saleh said Wednesday that Robinson (ankle) -- who was placed on IR on Tuesady -- is out for the rest of the season, Terry McCormick of TitanInsider.com reports."
     },
     {
       "player_id": "12641",
@@ -1202,6 +1189,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12533",
+      "source_id": "4575131",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team_abbr": "WAS",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-11-23",
+      "injury_comment": "The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday."
     },
     {
       "player_id": "5927",
