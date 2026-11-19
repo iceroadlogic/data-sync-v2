@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-19T01:33:55.085Z",
+  "lastUpdated": "2026-11-19T19:44:50.372Z",
   "week": 11,
   "summary": {
-    "total_players": 782,
+    "total_players": 783,
     "ir": 95,
     "suspended": 0
   },
@@ -57,7 +57,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-12-20",
-      "injury_comment": "Cardinals head coach Mike LaFleur said Wednesday that he had no new updates on the status of Conner (foot), who is still \"working to return to perform,\" Tyler Drake of ArizonaSports.com reports. \"It was not a good injury,\" LaFleur said."
+      "injury_comment": "Cardinals head coach Mike LaFleur said Wednesday that he has no new updates on the status of Conner (foot), who is still \"working to return to perform,\" Tyler Drake of ArizonaSports.com reports. \"It was not a good injury,\" LaFleur said."
     },
     {
       "player_id": "13287",
@@ -367,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - ACL + MCL",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "The Cowboys placed Goodson (knee) on injured reserve Saturday, Tommy Yarrish of the team's official site reports."
     },
     {
       "player_id": "8208",
@@ -549,9 +549,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Groin",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "The Colts placed Alie-Cox (groin) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "6453",
@@ -591,19 +591,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "11595",
-      "source_id": "4430723",
-      "player_name": "Jared Wiley",
-      "position": "TE",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-21",
-      "injury_comment": "The Chiefs placed Wiley (ankle) on injured reserve Wednesday, Matt Derrick of ChiefsDigest.com reports."
     },
     {
       "player_id": "13392",
@@ -669,6 +656,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11595",
+      "source_id": "4430723",
+      "player_name": "Jared Wiley",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-21",
+      "injury_comment": "The Chiefs placed Wiley (ankle) on injured reserve Wednesday, Matt Derrick of ChiefsDigest.com reports."
     },
     {
       "player_id": "7610",
@@ -1045,7 +1045,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Pittman (foot) was limited in his return to practice Wednesday, Teresa Varley of the Steelers' official site reports."
+      "injury_comment": "Pittman (foot) participated in practice Thursday, Nick Farabaugh of PennLive.com reports."
     },
     {
       "player_id": "11630",
@@ -1069,9 +1069,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Knee - Meniscus",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Kirk announced Wednesday via his personal Instagram account that he recently underwent meniscus surgery."
     },
     {
       "player_id": "11638",
@@ -1214,7 +1214,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-23",
-      "injury_comment": "The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday."
+      "injury_comment": "Commanders head coach Dan Quinn confirmed that Croskey-Merritt (groin) will practice Thursday, Tashan Reed of The Washington Post reports."
     },
     {
       "player_id": "5927",
