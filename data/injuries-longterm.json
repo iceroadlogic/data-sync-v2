@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-18T19:44:26.398Z",
+  "lastUpdated": "2026-11-19T01:33:55.085Z",
   "week": 11,
   "summary": {
-    "total_players": 781,
-    "ir": 94,
+    "total_players": 782,
+    "ir": 95,
     "suspended": 0
   },
   "ir": [
@@ -56,8 +56,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Updating a previous report, Conner (foot) no longer appears to be a candidate to return from injured reserve to play Week 11 versus the Chiefs, according to Tyler Drake of ArizonaSports.com."
+      "est_return_date": "2026-12-20",
+      "injury_comment": "Cardinals head coach Mike LaFleur said Wednesday that he had no new updates on the status of Conner (foot), who is still \"working to return to perform,\" Tyler Drake of ArizonaSports.com reports. \"It was not a good injury,\" LaFleur said."
     },
     {
       "player_id": "13287",
@@ -213,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Brooks (groin) has been downgraded from doubtful to out for Sunday's game against the Saints, Joe Person of The Athletic reports."
+      "injury_comment": "Brooks (groin) was a full participant at Wednesday's walkthrough."
     },
     {
       "player_id": "8423",
@@ -367,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "The Cowboys placed Goodson (knee) on injured reserve Saturday, Tommy Yarrish of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8208",
@@ -406,9 +406,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Broncos opened Lohner's (lower body) 21-day practice window Wednesday, Parker Gabriel of The Denver Post reports."
     },
     {
       "player_id": "6588",
@@ -591,6 +591,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11595",
+      "source_id": "4430723",
+      "player_name": "Jared Wiley",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-21",
+      "injury_comment": "The Chiefs placed Wiley (ankle) on injured reserve Wednesday, Matt Derrick of ChiefsDigest.com reports."
     },
     {
       "player_id": "13392",
@@ -900,9 +913,9 @@
       "injury_status": "active",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Tracy (hamstring) could be reinstated from injured reserve when first eligible ahead of the Giants' Week 13 game against the 49ers, Dan Duggan of The Athletic reports."
     },
     {
       "player_id": "8125",
@@ -1006,7 +1019,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "The Eagles opened Shipley's (foot) 21-day practice window Monday."
+      "injury_comment": "Shipley (foot) was a limited practice participant Wednesday."
     },
     {
       "player_id": "11636",
@@ -1032,7 +1045,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Coach Mike McCarthy said Monday that the Steelers are \"hopeful\" they can get Pittman -- who last played in Week 4 -- back from his foot injury this week, Nick Farabaugh of PennLive.com reports."
+      "injury_comment": "Pittman (foot) was limited in his return to practice Wednesday, Teresa Varley of the Steelers' official site reports."
     },
     {
       "player_id": "11630",
@@ -1045,7 +1058,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Steelers head coach Mike McCarthy said that he's \"hopeful\" Wilson (finger) will be able to return from injured reserve for Sunday's game against the Eagles, Nick Farabaugh of PennLive.com reports."
+      "injury_comment": "Wilson (finger), who was designated for return from injured reserve earlier Wednesday, was a full participant in his return to practice."
     },
     {
       "player_id": "4950",
@@ -1082,9 +1095,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Stribling (ankle) was doing some work on the side at Wednesday's practice, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "8698",
