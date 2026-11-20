@@ -1,13 +1,26 @@
 {
-  "lastUpdated": "2026-11-19T15:33:38.913Z",
+  "lastUpdated": "2026-11-20T01:59:02.033Z",
   "week": 11,
   "summary": {
-    "total_players": 782,
+    "total_players": 783,
     "questionable": 41,
     "doubtful": 1,
-    "out": 22
+    "out": 23
   },
   "questionable": [
+    {
+      "player_id": "13272",
+      "source_id": "4430841",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Beck was listed as limited on Thursday's injury report due to a back issue, Dani Sureck of the Cardinals' official site reports."
+    },
     {
       "player_id": "11575",
       "source_id": "4429501",
@@ -19,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Davis was a limited participant in Wednesday's practice due to a hamstring injury."
+      "injury_comment": "Davis (hamstring) remained limited in Thursday's practice."
     },
     {
       "player_id": "12658",
@@ -45,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Kincaid (thumb/ankle) did not practice Wednesday, David Furones of the Sun Sentinel reports."
+      "injury_comment": "Kincaid (thumb/ankle) wasn't spotted on the field for Thursday's practice, Joe Buscaglia of The Athletic reports."
     },
     {
       "player_id": "7694",
@@ -58,7 +71,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Tremble didn't practice Wednesday due to a knee issue, with head coach Dave Canales noting after the session that the tight end's injury is a \"concern,\" Steve Reed of the Associated Press reports."
+      "injury_comment": "Tremble (knee) was limited in Thursday's practice, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "2505",
@@ -71,7 +84,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Waller didn't practice Wednesday due to a knee issue, and afterward head coach Dave Canales called the tight end's injury a \"concern,\" Steve Reed of the Associated Press reports."
+      "injury_comment": "Waller (knee) was a limited participant in Thursday's practice, Mike Kaye of ESPN reports."
     },
     {
       "player_id": "10225",
@@ -87,6 +100,19 @@
       "injury_comment": "questionable"
     },
     {
+      "player_id": "10871",
+      "source_id": "4372096",
+      "player_name": "Luke Schoonmaker",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Illness",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "questionable"
+    },
+    {
       "player_id": "7526",
       "source_id": "4372016",
       "player_name": "Jaylen Waddle",
@@ -97,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Waddle (concussion) was present for Wednesday's practice, Chris Tomasson of the Denver Gazette reports."
+      "injury_comment": "Waddle (concussion) was a full practice participant Thursday."
     },
     {
       "player_id": "11729",
@@ -110,7 +136,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Vaki (ankle) was a limited participant in Wednesday's walkthrough practice."
+      "injury_comment": "Vaki (ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "8204",
@@ -139,19 +165,6 @@
       "injury_comment": "Moore's ankle injury is not considered serious, Jeremy Fowler of ESPN.com reports."
     },
     {
-      "player_id": "11762",
-      "source_id": "4429684",
-      "player_name": "Anthony Gould",
-      "position": "WR",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Toe",
-      "est_return_date": "2026-11-19",
-      "injury_comment": "Gould (toe) is listed as questionable for Thursday night's game against the Texans, Abby Halpin of the Colts' official site reports."
-    },
-    {
       "player_id": "12544",
       "source_id": "4911851",
       "player_name": "LeQuint Allen Jr.",
@@ -162,7 +175,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Allen (hamstring) was a limited participant at practice Wednesday, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports."
+      "injury_comment": "Allen (hamstring) was a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "5947",
@@ -175,7 +188,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Meyers (ankle) was a limited participant in Wednesday's practice."
+      "injury_comment": "Meyers (ankle) was a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "10219",
@@ -188,7 +201,7 @@
       "injury_description": null,
       "injury_detail": "Hand",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Rodriguez (hand) was listed as a limited participant in Wednesday's practice."
+      "injury_comment": "Rodriguez (hand) was listed as a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "12490",
@@ -201,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Tuten (ankle/foot) was a limited participant in Wednesday's practice, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_comment": "Tuten (ankle/foot) was listed as a non-participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
       "player_id": "8151",
@@ -214,7 +227,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Walker (groin) won't practice Wednesday, Sam McDowell of The Kansas City Star reports."
+      "injury_comment": "Walker (groin) did not practice Thursday."
     },
     {
       "player_id": "11604",
@@ -227,7 +240,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Coach Klint Kubiak said Wednesday that Bowers (ankle) doesn't need to practice this week to play Sunday Sunday against the Broncos, Sam Warren of The Athletic reports."
+      "injury_comment": "Bowers (ankle/quadriceps) was listed as a limited participant in Thursday's practice, Ryan McFadden of ESPN.com reports."
     },
     {
       "player_id": "8127",
@@ -240,7 +253,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Kolar (concussion) did not participate at practice Wednesday."
+      "injury_comment": "Kolar (concussion) remained sidelined for Thursday's practice."
     },
     {
       "player_id": "11635",
@@ -253,7 +266,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-11-22",
-      "injury_comment": "McConkey (back) was a limited participant in Wednesday's practice."
+      "injury_comment": "McConkey (back) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "13380",
@@ -279,7 +292,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Bell (knee) was a limited participant in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports."
+      "injury_comment": "Bell (knee) remained a limited participant in Thursday's practice, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "13296",
@@ -292,7 +305,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Douglas was a limited participant in Wednesday's practice due to a shoulder injury, David Furones of the South Florida Sun Sentinel reports."
+      "injury_comment": "Douglas (shoulder) remained a limited practice participant Thursday, David Furones of the South Florida Sun Sentinel reports."
     },
     {
       "player_id": "11056",
@@ -318,7 +331,7 @@
       "injury_description": null,
       "injury_detail": "Wrist",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Hockenson (wrist) practiced in a limited capacity Wednesday."
+      "injury_comment": "Hockenson (wrist) practiced on a limited basis Thursday."
     },
     {
       "player_id": "11911",
@@ -357,7 +370,7 @@
       "injury_description": null,
       "injury_detail": "Chest",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Head coach Kellen Moore said Tyson was limited at Wednesday's practice due to a chest injury, Nick Underhill of NewOrleans.Football reports."
+      "injury_comment": "Tyson (chest) practiced in a limited capacity Thursday."
     },
     {
       "player_id": "13276",
@@ -370,7 +383,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Cooper (ankle) isn't practicing Wednesday, Brian Costello of the New York Post reports."
+      "injury_comment": "Cooper didn't practice Thursday due to ankle and hip injuries."
     },
     {
       "player_id": "1373",
@@ -383,7 +396,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Smith (ankle), who was a limited participant in Wednesday's walkthrough practice, said afterward that he intends to play in Sunday's game against the Chargers, Rich Cimini of ESPN.com reports."
+      "injury_comment": "Smith (ankle) was a limited participant in Thursday's practice."
     },
     {
       "player_id": "11608",
@@ -396,7 +409,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Jets head coach Aaron Glenn said that Williams won't practice Wednesday due to a rib injury, Eric Allen of the Jets' official site reports."
+      "injury_comment": "Williams (ribs) was a non-participant in Thursday's practice."
     },
     {
       "player_id": "8414",
@@ -425,19 +438,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "7525",
-      "source_id": "4241478",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Smith (hamstring) was spotted practicing Wednesday, Tim McManus of ESPN.com reports."
-    },
-    {
       "player_id": "9486",
       "source_id": "4428850",
       "player_name": "Dontayvion Wicks",
@@ -448,7 +448,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Wicks (ankle) practiced in a limited capacity Wednesday."
+      "injury_comment": "Wicks (ankle) practiced in a limited capacity Thursday."
     },
     {
       "player_id": "2216",
@@ -461,7 +461,20 @@
       "injury_description": null,
       "injury_detail": "Achilles",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Head coach Kyle Shanahan said Evans (Achilles) won't practice Wednesday, but Shanahan hopes the wide receiver will return to drills Thursday, Nick Wagoner of ESPN.com reports."
+      "injury_comment": "Evans (Achilles) officially was limited at Thursday's practice, Nick Wagoner of ESPN reports."
+    },
+    {
+      "player_id": "12467",
+      "source_id": "4685397",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "7527",
@@ -500,7 +513,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Mayfield (foot) isn't practicing Wednesday, Greg Auman of Fox Sports reports."
+      "injury_comment": "Mayfield (foot/right thumb) officially was limited at Thursday's practice."
     },
     {
       "player_id": "9508",
@@ -513,7 +526,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Spears (knee) didn't practice Wednesday."
+      "injury_comment": "Spears (knee) was limited in practice Thursday."
     },
     {
       "player_id": "13279",
@@ -526,20 +539,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Tate (shoulder) was a limited participant in Wednesday's practice."
-    },
-    {
-      "player_id": "11942",
-      "source_id": "4361088",
-      "player_name": "Colson Yankoff",
-      "position": "TE",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-23",
-      "injury_comment": "questionable"
+      "injury_comment": "Tate (shoulder) was a limited participant in Thursday's practice."
     }
   ],
   "doubtful": [
@@ -673,7 +673,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Harrison (hamstring) has been ruled out for Thursday night's game against the Colts."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "7568",
@@ -712,7 +712,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Marks (concussion) has been ruled out for Thursday's game against the Colts."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13437",
@@ -728,6 +728,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "12470",
+      "source_id": "4683423",
+      "player_name": "Riley Leonard",
+      "position": "QB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Leonard (coach's decision) is inactive but will serve as the Colts' emergency third quarterback for Thursday's game at Houston."
+    },
+    {
       "player_id": "10220",
       "source_id": "4362523",
       "player_name": "Will Mallory",
@@ -738,7 +751,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "The Colts ruled out Mallory (hamstring) for Thursday night's games against the Texans."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "5849",
@@ -814,9 +827,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Pectoral",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Guerendo (pectoral) was working off to the side during practice Thursday, Nick Wagoner of ESPN.com reports."
     },
     {
       "player_id": "4943",
