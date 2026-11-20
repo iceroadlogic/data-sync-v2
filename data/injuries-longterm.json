@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T19:44:50.372Z",
+  "lastUpdated": "2026-11-20T01:31:06.493Z",
   "week": 11,
   "summary": {
     "total_players": 783,
@@ -213,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Brooks (groin) was a full participant at Wednesday's walkthrough."
+      "injury_comment": "Brooks (groin) remained a full participant in Thursday's practice, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "8423",
@@ -317,7 +317,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-23",
-      "injury_comment": "Iosivas (thumb) has been downgraded from doubtful to out for Sunday's game against the Steelers."
+      "injury_comment": "Iosivas (thumb) practiced fully Thursday, Paul Dehner Jr. of The Athletic reports."
     },
     {
       "player_id": "12472",
@@ -367,9 +367,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Knee - ACL + MCL",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "The Cowboys placed Goodson (knee) on injured reserve Saturday, Tommy Yarrish of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "8208",
@@ -684,19 +684,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "9493",
-      "source_id": "4426515",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
-    },
-    {
       "player_id": "2133",
       "source_id": "16800",
       "player_name": "Davante Adams",
@@ -747,6 +734,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "9493",
+      "source_id": "4426515",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "team_abbr": "LAR",
+      "injury_status": "day-to-day",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "Nacua has been suspended three games for violating the NFL's personal conduct policy, Adam Schefter of ESPN reports."
     },
     {
       "player_id": "11623",
@@ -1019,7 +1019,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Shipley (foot) was a limited practice participant Wednesday."
+      "injury_comment": "Shipley (foot) remained limited in practice Thursday."
     },
     {
       "player_id": "11636",
@@ -1045,7 +1045,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Pittman (foot) participated in practice Thursday, Nick Farabaugh of PennLive.com reports."
+      "injury_comment": "Pittman (foot) was listed as a full participant in Thursday's practice, Alan Saunders of SteelersNow.com reports."
     },
     {
       "player_id": "11630",
@@ -1058,7 +1058,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Wilson (finger), who was designated for return from injured reserve earlier Wednesday, was a full participant in his return to practice."
+      "injury_comment": "Wilson (finger) was a full participant in Thursday's practice."
     },
     {
       "player_id": "4950",
@@ -1214,7 +1214,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-23",
-      "injury_comment": "Commanders head coach Dan Quinn confirmed that Croskey-Merritt (groin) will practice Thursday, Tashan Reed of The Washington Post reports."
+      "injury_comment": "Croskey-Merritt (groin) was a full participant in Thursday's practice."
     },
     {
       "player_id": "5927",
