@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-20T02:55:30.472Z",
+  "lastUpdated": "2026-11-20T03:49:53.966Z",
   "week": 11,
   "summary": {
     "total_players": 783,
     "questionable": 41,
     "doubtful": 1,
-    "out": 23
+    "out": 24
   },
   "questionable": [
     {
@@ -752,6 +752,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
       "injury_comment": "inactive"
+    },
+    {
+      "player_id": "13424",
+      "source_id": "4686468",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "McGowan (hamstring) has been ruled out for the rest of Thursday's game against the Texans, Jane Slater of NFL Network reports."
     },
     {
       "player_id": "5849",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T01:31:06.493Z",
+  "lastUpdated": "2026-11-20T03:49:53.966Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -45883,6 +45883,19 @@
           "date": "2026-11-16",
           "from": "Out",
           "to": "Healthy"
+        }
+      ]
+    },
+    "13424": {
+      "name": "Seth McGowan",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-11-20",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Hamstring",
+          "team": "IND"
         }
       ]
     },
