@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T15:13:15.246Z",
+  "lastUpdated": "2026-11-20T19:25:32.486Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -7203,6 +7203,11 @@
           "to": "Questionable",
           "detail": "Wrist",
           "team": "MIN"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -16926,6 +16931,13 @@
           "date": "2026-10-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Undisclosed",
+          "team": "NYG"
         }
       ]
     },
@@ -25121,6 +25133,13 @@
           "to": "Questionable",
           "detail": "Thumb",
           "team": "BUF"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Questionable",
+          "to": "Doubtful",
+          "detail": "Thumb",
+          "team": "BUF"
         }
       ]
     },
@@ -27651,6 +27670,13 @@
           "to": "Doubtful",
           "detail": "Ankle",
           "team": "NE"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Lower Leg",
+          "team": "NE"
         }
       ]
     },
@@ -29703,6 +29729,13 @@
           "date": "2026-11-18",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ribs",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ribs",
           "team": "NYJ"
         }
@@ -42634,6 +42667,13 @@
           "date": "2026-11-14",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "NYJ"
+        },
+        {
+          "date": "2026-11-20",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ankle",
           "team": "NYJ"
         }
