@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-20T03:49:53.966Z",
+  "lastUpdated": "2026-11-20T15:13:15.246Z",
   "week": 11,
   "summary": {
     "total_players": 783,
-    "questionable": 41,
+    "questionable": 44,
     "doubtful": 1,
-    "out": 24
+    "out": 23
   },
   "questionable": [
     {
@@ -165,6 +165,32 @@
       "injury_comment": "Moore's ankle injury is not considered serious, Jeremy Fowler of ESPN.com reports."
     },
     {
+      "player_id": "9504",
+      "source_id": "4429022",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "team_abbr": "HOU",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hip",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Boutte (hip) was deemed questionable to return to Thursday's Week 11 win over Indianapolis and didn't return to the game."
+    },
+    {
+      "player_id": "13424",
+      "source_id": "4686468",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "team_abbr": "IND",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "McGowan (hamstring) has been ruled out for the rest of Thursday's game against the Texans, Jane Slater of NFL Network reports."
+    },
+    {
       "player_id": "12544",
       "source_id": "4911851",
       "player_name": "LeQuint Allen Jr.",
@@ -241,6 +267,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-22",
       "injury_comment": "Bowers (ankle/quadriceps) was listed as a limited participant in Thursday's practice, Ryan McFadden of ESPN.com reports."
+    },
+    {
+      "player_id": "4995",
+      "source_id": "4045305",
+      "player_name": "Ian Thomas",
+      "position": "TE",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "questionable"
     },
     {
       "player_id": "8127",
@@ -752,19 +791,6 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
       "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13424",
-      "source_id": "4686468",
-      "player_name": "Seth McGowan",
-      "position": "RB",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "McGowan (hamstring) has been ruled out for the rest of Thursday's game against the Texans, Jane Slater of NFL Network reports."
     },
     {
       "player_id": "5849",
