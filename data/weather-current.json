@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2026-11-20T18:22:08.016Z",
+  "lastUpdated": "2026-11-21T02:59:33.195Z",
   "games": [
     {
       "game_id": "401873066",
@@ -31,9 +31,9 @@
       "is_dome": false,
       "weather": {
         "temp": 59,
-        "wind": "15 mph WSW",
+        "wind": "10 to 15 mph WSW",
         "conditions": "Rain",
-        "precipitation": "98%"
+        "precipitation": "84%"
       }
     },
     {
@@ -61,8 +61,8 @@
       "weather": {
         "temp": 50,
         "wind": "10 to 16 mph NNW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "12%"
+        "conditions": "Chance Light Rain then Partly Sunny",
+        "precipitation": "25%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "3 to 7 mph NE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "70%"
+        "temp": 63,
+        "wind": "3 to 9 mph NE",
+        "conditions": "Cloudy then Rain Likely",
+        "precipitation": "68%"
       }
     },
     {
@@ -86,9 +86,9 @@
       "is_dome": false,
       "weather": {
         "temp": 66,
-        "wind": "7 to 14 mph N",
-        "conditions": "Chance Showers And Thunderstorms",
-        "precipitation": "53%"
+        "wind": "6 to 13 mph N",
+        "conditions": "Rain Showers Likely then Light Rain Likely",
+        "precipitation": "72%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 68,
-        "wind": "5 mph NNW",
-        "conditions": "Mostly Sunny then Chance Light Rain",
-        "precipitation": "25%"
+        "temp": 67,
+        "wind": "5 mph N",
+        "conditions": "Partly Sunny then Chance Light Rain",
+        "precipitation": "29%"
       }
     },
     {
@@ -112,7 +112,7 @@
       "is_dome": false,
       "weather": {
         "temp": 46,
-        "wind": "1 to 5 mph ENE",
+        "wind": "0 to 5 mph ENE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -125,9 +125,9 @@
       "is_dome": false,
       "weather": {
         "temp": 64,
-        "wind": "5 mph NE",
+        "wind": "5 to 10 mph NE",
         "conditions": "Rain",
-        "precipitation": "76%"
+        "precipitation": "84%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 57,
-        "wind": "2 mph ENE",
-        "conditions": "Light Rain Likely",
-        "precipitation": "64%"
+        "temp": 58,
+        "wind": "2 mph N",
+        "conditions": "Chance Light Rain",
+        "precipitation": "36%"
       }
     },
     {
@@ -150,10 +150,10 @@
       "stadium": "Northwest Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 38,
-        "wind": "7 to 10 mph NW",
+        "temp": 39,
+        "wind": "8 mph NW",
         "conditions": "Mostly Clear",
-        "precipitation": "1%"
+        "precipitation": "3%"
       }
     }
   ]
