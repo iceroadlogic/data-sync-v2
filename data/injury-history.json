@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T00:59:30.936Z",
+  "lastUpdated": "2026-11-21T23:59:43.143Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -17184,6 +17184,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -18024,6 +18029,13 @@
           "date": "2026-01-04",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "LAR"
         }
       ]
     },
@@ -21971,6 +21983,13 @@
           "to": "Out",
           "detail": "Ankle",
           "team": "PHI"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "Out",
+          "to": "IR",
+          "detail": "Ankle",
+          "team": "PHI"
         }
       ]
     },
@@ -23064,6 +23083,13 @@
           "date": "2026-11-19",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "TEN"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Knee",
           "team": "TEN"
         }
@@ -28467,6 +28493,13 @@
           "to": "IR",
           "detail": "Foot",
           "team": "PHI"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "PHI"
         }
       ]
     },
@@ -31141,6 +31174,13 @@
           "from": "Out",
           "to": "IR",
           "detail": "Finger",
+          "team": "PIT"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "IR",
+          "to": "Questionable",
+          "detail": "Hand",
           "team": "PIT"
         }
       ]
@@ -42556,6 +42596,13 @@
           "date": "2026-11-20",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Back",
+          "team": "ARI"
+        },
+        {
+          "date": "2026-11-21",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Back",
           "team": "ARI"
         }

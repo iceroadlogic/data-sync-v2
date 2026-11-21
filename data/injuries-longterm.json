@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T18:27:03.632Z",
+  "lastUpdated": "2026-11-21T23:59:43.143Z",
   "week": 11,
   "summary": {
     "total_players": 782,
@@ -212,8 +212,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Groin",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Brooks (groin) is listed as questionable for Sunday's game against the Ravens, Joe Person of The Athletic reports."
+      "est_return_date": "2026-11-30",
+      "injury_comment": "Brooks (groin) has been downgraded to out for Sunday's game against the Ravens."
     },
     {
       "player_id": "8423",
@@ -317,7 +317,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-23",
-      "injury_comment": "Iosivas (thumb) practiced fully Thursday, Paul Dehner Jr. of The Athletic reports."
+      "injury_comment": "Iosivas (thumb) is listed as doubtful for Monday's game against the Commanders."
     },
     {
       "player_id": "12472",
@@ -796,9 +796,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Abdomen",
-      "est_return_date": "2026-12-13",
-      "injury_comment": "Head coach Jeff Hafley said Monday that Willis (groin/core) has not undergone surgery and that the Dolphins are still determining if a procedure is needed, David Furones of the South Florida Sun Sentinel reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13347",
@@ -996,6 +996,19 @@
       "injury_comment": null
     },
     {
+      "player_id": "9486",
+      "source_id": "4428850",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-19",
+      "injury_comment": "The Eagles placed Wicks (ankle/foot) on injured reserve Saturday."
+    },
+    {
       "player_id": "6904",
       "source_id": "4040715",
       "player_name": "Jalen Hurts",
@@ -1007,19 +1020,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "11577",
-      "source_id": "4431545",
-      "player_name": "Will Shipley",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Shipley (foot/illness) didn't practice Friday and is listed as questionable for Sunday's contest versus the Steelers."
     },
     {
       "player_id": "11636",
@@ -1044,21 +1044,8 @@
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Foot",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Pittman (foot) is listed as questionable for Sunday's game against the Eagles, Mark Kaboly reports."
-    },
-    {
-      "player_id": "11630",
-      "source_id": "4431492",
-      "player_name": "Roman Wilson",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hand",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Wilson (finger) is questionable for Sunday's game against the Eagles, Brooke Pryor of ESPN.com reports."
+      "est_return_date": "2026-11-27",
+      "injury_comment": "Pittman (foot) is not expected to be activated from injured reserve for Sunday's game against the Eagles, Brooke Pryor of ESPN reports."
     },
     {
       "player_id": "4950",
@@ -1152,6 +1139,19 @@
       "injury_comment": "Head coach Todd Bowles suggested Monday that McMillan (knee) isn't likely to immediately return to action following the Buccaneers' Week 10 bye, Rick Stroud of the Tampa Bay Times reports."
     },
     {
+      "player_id": "9508",
+      "source_id": "4428557",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbr": "TEN",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-12-20",
+      "injury_comment": "The Titans placed Spears (knee) on injured reserve Saturday, Jim Wyatt of the Titans' official site reports."
+    },
+    {
       "player_id": "13422",
       "source_id": "4877034",
       "player_name": "Jaren Kanak",
@@ -1214,7 +1214,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-23",
-      "injury_comment": "Croskey-Merritt (groin) is trending toward playing in Monday night's game against the Bengals, Nicki Jhabvala of The Athletic reports."
+      "injury_comment": "Croskey-Merritt (groin) is slated to be activated from IR in time to play in Monday's game against the Bengals, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "5927",
