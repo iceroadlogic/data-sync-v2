@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T14:28:56.533Z",
+  "lastUpdated": "2026-11-22T02:00:29.440Z",
   "week": 11,
   "summary": {
     "total_players": 782,
@@ -8,19 +8,6 @@
     "out": 30
   },
   "questionable": [
-    {
-      "player_id": "13272",
-      "source_id": "4430841",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "team_abbr": "ARI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Back",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Beck (back) will not practice Friday, Theo Mackie of The Arizona Republic reports."
-    },
     {
       "player_id": "12658",
       "source_id": "4573699",
@@ -123,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Moore's ankle injury is not considered serious, Jeremy Fowler of ESPN.com reports."
+      "injury_comment": "Moore (ankle) participated in practice Saturday, Bill Huber of SI.com reports."
     },
     {
       "player_id": "9504",
@@ -191,6 +178,19 @@
       "injury_comment": "McConkey (back) is listed as questionable for Sunday's game against the Jets."
     },
     {
+      "player_id": "8150",
+      "source_id": "4430737",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Toe",
+      "est_return_date": "2026-11-25",
+      "injury_comment": "Head coach Sean McVay said Saturday that Williams is tending to a sore toe but is expected to play Wednesday against the Packers, Sarah Barshop of ESPN reports."
+    },
+    {
       "player_id": "8129",
       "source_id": "4360238",
       "player_name": "Dameon Pierce",
@@ -202,6 +202,32 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "11577",
+      "source_id": "4431545",
+      "player_name": "Will Shipley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Eagles activated Shipley (foot) from injured reserve Saturday, but he remains questionable for Sunday's game against the Steelers."
+    },
+    {
+      "player_id": "11630",
+      "source_id": "4431492",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Hand",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "The Steelers activated Wilson (hand) from injured reserve Saturday, Ian Rapoport of NFL Network reports."
     },
     {
       "player_id": "2216",
@@ -266,20 +292,7 @@
       "injury_description": null,
       "injury_detail": "Foot",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Mayfield (foot) is trending in the right direction to start Sunday's game against the Lions after looking good in Friday's practice, Scott Smith of the Buccaneers' official site reports."
-    },
-    {
-      "player_id": "9508",
-      "source_id": "4428557",
-      "player_name": "Tyjae Spears",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Spears (knee) is questionable for Sunday's game against Dallas."
+      "injury_comment": "Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he would wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports."
     },
     {
       "player_id": "13279",
@@ -292,20 +305,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-22",
-      "injury_comment": "Tate (shoulder), who was a full participant in Friday's practice, is listed as questionable for Sunday's game against the Cowboys."
-    },
-    {
-      "player_id": "8135",
-      "source_id": "4567156",
-      "player_name": "Treylon Burks",
-      "position": "WR",
-      "team_abbr": "WAS",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-11-23",
-      "injury_comment": "Burks (foot) did not practice Friday."
+      "injury_comment": "Tate (shoulder) is questionable for Sunday's game against the Cowboys but is \"considered likely\" to be cleared to play, Matt Zenitz of CBS Sports reports."
     },
     {
       "player_id": "8136",
@@ -318,7 +318,7 @@
       "injury_description": null,
       "injury_detail": "Heel",
       "est_return_date": "2026-11-23",
-      "injury_comment": "White was limited at Friday's practice due to a heel injury."
+      "injury_comment": "White (heel) is listed as questionable for Monday's game versus the Bengals."
     }
   ],
   "doubtful": [
@@ -363,6 +363,19 @@
     }
   ],
   "out": [
+    {
+      "player_id": "13272",
+      "source_id": "4430841",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "team_abbr": "ARI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Back",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Beck (back) has been ruled out for Sunday's game at Kansas City, Darren Urban of the Cardinals' official site reports."
+    },
     {
       "player_id": "11716",
       "source_id": "4696700",
@@ -465,7 +478,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Jacobs (finger) has a \"realistic chance\" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports."
+      "injury_comment": "Jacobs (finger) is participating in Saturday's practice session, Bill Huber of SI.com reports."
     },
     {
       "player_id": "9481",
@@ -582,7 +595,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-26",
-      "injury_comment": "Walker (groin) wasn't spotted during the portion of Friday's practice open to the media, Pete Sweeney of The Kansas City Star reports."
+      "injury_comment": "Walker (groin) has been ruled out for Sunday's game against the Cardinals."
     },
     {
       "player_id": "11056",
@@ -687,19 +700,6 @@
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-29",
       "injury_comment": "Williams (ribs) won't play in Sunday's game against the Chargers."
-    },
-    {
-      "player_id": "9486",
-      "source_id": "4428850",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Wicks (ankle/foot) is listed as out for Sunday's game against the Steelers."
     },
     {
       "player_id": "6803",
