@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "lastUpdated": "2026-11-21T17:09:01.216Z",
+  "lastUpdated": "2026-11-22T01:55:41.432Z",
   "games": [
     {
       "game_id": "401873066",
@@ -17,7 +17,7 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 66,
         "wind": "7 mph S",
         "conditions": "Mostly Cloudy",
         "precipitation": "0%"
@@ -33,7 +33,7 @@
         "temp": 60,
         "wind": "15 mph WSW",
         "conditions": "Rain",
-        "precipitation": "91%"
+        "precipitation": "97%"
       }
     },
     {
@@ -72,10 +72,10 @@
       "stadium": "MetLife Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "wind": "3 to 9 mph NE",
-        "conditions": "Rain",
-        "precipitation": "88%"
+        "conditions": "Rain Likely",
+        "precipitation": "64%"
       }
     },
     {
@@ -85,10 +85,10 @@
       "stadium": "Bank of America Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 65,
-        "wind": "5 to 12 mph N",
-        "conditions": "Rain Showers Likely",
-        "precipitation": "56%"
+        "temp": 64,
+        "wind": "5 to 12 mph NNE",
+        "conditions": "Chance Light Rain",
+        "precipitation": "63%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 69,
-        "wind": "5 mph NW",
-        "conditions": "Partly Sunny then Chance Light Rain",
-        "precipitation": "29%"
+        "wind": "0 to 5 mph W",
+        "conditions": "Partly Sunny then Light Rain Likely",
+        "precipitation": "58%"
       }
     },
     {
@@ -111,8 +111,8 @@
       "stadium": "Empower Field at Mile High",
       "is_dome": false,
       "weather": {
-        "temp": 46,
-        "wind": "0 to 5 mph NNE",
+        "temp": 45,
+        "wind": "0 to 6 mph NNE",
         "conditions": "Mostly Sunny",
         "precipitation": "0%"
       }
@@ -124,10 +124,10 @@
       "stadium": "Lincoln Financial Field",
       "is_dome": false,
       "weather": {
-        "temp": 65,
+        "temp": 64,
         "wind": "5 to 10 mph NE",
-        "conditions": "Light Rain",
-        "precipitation": "92%"
+        "conditions": "Rain",
+        "precipitation": "81%"
       }
     },
     {
@@ -137,10 +137,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 58,
-        "wind": "2 mph NNE",
-        "conditions": "Areas Of Fog",
-        "precipitation": "39%"
+        "temp": 56,
+        "wind": "1 to 5 mph NE",
+        "conditions": "Areas Of Fog then Chance Light Rain",
+        "precipitation": "43%"
       }
     },
     {
