@@ -1,13 +1,39 @@
 {
-  "lastUpdated": "2026-11-22T20:33:13.415Z",
+  "lastUpdated": "2026-11-23T01:07:38.681Z",
   "week": 11,
   "summary": {
     "total_players": 782,
-    "questionable": 12,
+    "questionable": 16,
     "doubtful": 1,
-    "out": 62
+    "out": 64
   },
   "questionable": [
+    {
+      "player_id": "11646",
+      "source_id": "4695883",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "team_abbr": "CAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-11-30",
+      "injury_comment": "Coker entered the league's concussion protocol following Sunday's 35-33 win over the Ravens, Sheena Quick of Fox Sports Radio 1340 reports."
+    },
+    {
+      "player_id": "10235",
+      "source_id": "4426386",
+      "player_name": "Roschon Johnson",
+      "position": "RB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-26",
+      "injury_comment": "Johnson (ankle) has been ruled out for the rest of Sunday's game against the Saints, Courtney Cronin of ESPN.com reports."
+    },
     {
       "player_id": "8204",
       "source_id": "4259305",
@@ -19,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Thigh",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Melton (thigh) has been ruled out for the rest of Sunday's game against the Vikings, Rob Demovsky of ESPN.com reports."
+      "injury_comment": "Melton (thigh) was a limited participant in Sunday's practice, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "8168",
@@ -32,7 +58,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Moore (ankle) participated in practice Saturday, Bill Huber of SI.com reports."
+      "injury_comment": "Moore (ankle) was a limited participant in Sunday's practice, Rob Demovsky of ESPN.com reports."
     },
     {
       "player_id": "9504",
@@ -61,6 +87,58 @@
       "injury_comment": "McGowan (hamstring) has been ruled out for the rest of Thursday's game against the Texans, Jane Slater of NFL Network reports."
     },
     {
+      "player_id": "7828",
+      "source_id": "4240472",
+      "player_name": "Noah Gray",
+      "position": "TE",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Ribs",
+      "est_return_date": "2026-11-26",
+      "injury_comment": "Gray (ribs) is questionable to return to Sunday's matchup against Arizona."
+    },
+    {
+      "player_id": "8527",
+      "source_id": "4401805",
+      "player_name": "Dareke Young",
+      "position": "WR",
+      "team_abbr": "LV",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Undisclosed",
+      "est_return_date": "2026-11-22",
+      "injury_comment": "Young (stinger) is questionable to return to Sunday's contest against Denver."
+    },
+    {
+      "player_id": "6797",
+      "source_id": "4038941",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Herbert entered the concussion protocol after Sunday's 27-24 loss to the Jets, Noah Furtado of The Athletic reports."
+    },
+    {
+      "player_id": "9511",
+      "source_id": "4596334",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "team_abbr": "LAC",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Mitchell (knee) is questionable to return to Sunday's contest against the Jets."
+    },
+    {
       "player_id": "8150",
       "source_id": "4430737",
       "player_name": "Kyren Williams",
@@ -71,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Toe",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Head coach Sean McVay said Saturday that Williams is tending to a sore toe but is expected to play Wednesday against the Packers, Sarah Barshop of ESPN reports."
+      "injury_comment": "Williams (toe) was a limited practice participant Sunday, Adam Caplan of SiriusXM NFL Radio reports."
     },
     {
       "player_id": "7002",
@@ -83,8 +161,21 @@
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Hamstring",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "questionable"
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Johnson injured his hamstring during Sunday's game in Chicago, Jeff Nowak of WWL Radio reports."
+    },
+    {
+      "player_id": "4866",
+      "source_id": "3929630",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbr": "PHI",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Arm",
+      "est_return_date": "2026-11-26",
+      "injury_comment": "Barkley (left arm) said after Sunday's 19-16 win over the Steelers that he believes he'll play in Thursday's game at Dallas, Johnny McGonigal of PennLive.com reports."
     },
     {
       "player_id": "8129",
@@ -98,45 +189,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "2216",
-      "source_id": "16737",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Achilles",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Evans (Achilles), who is listed as questionable for Sunday's game against the Vikings in Mexico City, is expected to be active and is likely to avoid a strict \"pitch count,\" though the 49ers plan to \"be smart\" with his workload, Jay Glazer reported on \"Fox NFL Sunday.\""
-    },
-    {
-      "player_id": "12467",
-      "source_id": "4685397",
-      "player_name": "Jordan James",
-      "position": "RB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Calf",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "James (calf) is questionable for Sunday's game against the Vikings in Mexico City."
-    },
-    {
-      "player_id": "7527",
-      "source_id": "4241464",
-      "player_name": "Mac Jones",
-      "position": "QB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Illness",
-      "est_return_date": "2026-11-22",
-      "injury_comment": "Jones (illness) is listed as questionable for Sunday's game against the Vikings in Mexico City."
     },
     {
       "player_id": "12048",
@@ -338,19 +390,6 @@
       "injury_comment": "Sanders (coach's decision) is inactive for Sunday's game against Baltimore, Darin Gantt of the team's official site reports."
     },
     {
-      "player_id": "10235",
-      "source_id": "4426386",
-      "player_name": "Roschon Johnson",
-      "position": "RB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Johnson (ankle) has been ruled out for the rest of Sunday's game against the Saints, Courtney Cronin of ESPN.com reports."
-    },
-    {
       "player_id": "1737",
       "source_id": "15168",
       "player_name": "Case Keenum",
@@ -465,7 +504,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Jacobs (finger) is practicing Sunday, Mike Spofford of the Packers' official site reports."
+      "injury_comment": "Jacobs (finger) was listed as limited at Sunday's practice, Rob Demovsky of ESPN reports."
     },
     {
       "player_id": "9481",
@@ -702,6 +741,19 @@
       "injury_comment": "inactive"
     },
     {
+      "player_id": "12775",
+      "source_id": "4573398",
+      "player_name": "Max Brosmer",
+      "position": "QB",
+      "team_abbr": "MIN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Brosmer (coach's decision) is inactive but operating as the Vikings' emergency third QB on Sunday night versus the 49ers."
+    },
+    {
       "player_id": "5849",
       "source_id": "3917315",
       "player_name": "Kyler Murray",
@@ -712,7 +764,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Murray (hamstring) has been ruled out for Sunday night's game against the 49ers."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "9756",
@@ -725,7 +777,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Head coach Kevin O'Connell said Wednesday that Addison underwent thumb surgery earlier this week and won't be placed on injured reserve, Alec Lewis of The Athletic reports."
+      "injury_comment": "inactive"
     },
     {
       "player_id": "13890",
@@ -923,6 +975,32 @@
       "injury_comment": "Aiyuk's agent, Drew Rosenhaus, said Tuesday that the receiver is \"100 percent healthy\" and fully recovered from his November 2024 right knee surgery and plans to work out for interested teams once he's released by the 49ers, Dianna Russini of BetUS TV reports."
     },
     {
+      "player_id": "3286",
+      "source_id": "3043116",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Robinson (coach's decision) is inactive for Sunday night's contest against the Vikings, Brooke Evans of the 49ers' official website reports."
+    },
+    {
+      "player_id": "12477",
+      "source_id": "4430431",
+      "player_name": "Kurtis Rourke",
+      "position": "QB",
+      "team_abbr": "SF",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Coach's Decision",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "inactive"
+    },
+    {
       "player_id": "11651",
       "source_id": "4372561",
       "player_name": "Isaac Guerendo",
@@ -932,7 +1010,7 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Pectoral",
-      "est_return_date": "2026-11-22",
+      "est_return_date": "2026-11-29",
       "injury_comment": "Guerendo (pectoral) was working off to the side during practice Thursday, Nick Wagoner of ESPN.com reports."
     },
     {
