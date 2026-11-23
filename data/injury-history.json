@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T17:50:26.734Z",
+  "lastUpdated": "2026-11-23T23:03:16.946Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -6546,6 +6546,13 @@
           "date": "2026-10-24",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shin",
+          "team": "PHI"
         }
       ]
     },
@@ -10919,6 +10926,11 @@
           "from": "Healthy",
           "to": "Out",
           "team": "SF"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -18184,6 +18196,11 @@
           "to": "Questionable",
           "detail": "Toe",
           "team": "LAR"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -21647,6 +21664,13 @@
           "date": "2026-11-08",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "PHI"
         }
       ]
     },
@@ -28705,6 +28729,13 @@
           "date": "2026-11-22",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "PHI"
         }
       ]
     },
@@ -32616,6 +32647,11 @@
           "to": "Questionable",
           "detail": "Concussion",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -39582,6 +39618,11 @@
           "to": "IR",
           "detail": "Groin",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -44681,6 +44722,11 @@
           "from": "Healthy",
           "to": "Out",
           "team": "CIN"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Out",
+          "to": "Healthy"
         }
       ]
     },
@@ -46654,6 +46700,13 @@
           "date": "2026-11-20",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "IND"
+        },
+        {
+          "date": "2026-11-23",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Hamstring",
           "team": "IND"
         }
