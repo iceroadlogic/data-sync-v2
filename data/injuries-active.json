@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-23T01:07:38.681Z",
+  "lastUpdated": "2026-11-23T17:50:26.734Z",
   "week": 11,
   "summary": {
     "total_players": 782,
-    "questionable": 16,
+    "questionable": 17,
     "doubtful": 1,
-    "out": 64
+    "out": 32
   },
   "questionable": [
     {
@@ -87,6 +87,19 @@
       "injury_comment": "McGowan (hamstring) has been ruled out for the rest of Thursday's game against the Texans, Jane Slater of NFL Network reports."
     },
     {
+      "player_id": "12490",
+      "source_id": "4882093",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Lower Body",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Tuten (undisclosed) exited Sunday's 23-18 loss to the Giants after an eight-yard gain with 3:40 left in the contest, Garry Smitsof the Florida Times-Union reports."
+    },
+    {
       "player_id": "7828",
       "source_id": "4240472",
       "player_name": "Noah Gray",
@@ -108,8 +121,8 @@
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Undisclosed",
-      "est_return_date": "2026-11-22",
+      "injury_detail": "Neck",
+      "est_return_date": "2026-11-29",
       "injury_comment": "Young (stinger) is questionable to return to Sunday's contest against Denver."
     },
     {
@@ -136,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Mitchell (knee) is questionable to return to Sunday's contest against the Jets."
+      "injury_comment": "Mitchell (back) has re-entered Sunday's game against the Jets, Noah Furtado of The Athletic reports."
     },
     {
       "player_id": "8150",
@@ -229,7 +242,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Brown (hamstring) is expected to miss multiple weeks, Adam Schefter of ESPN reports."
+      "injury_comment": "Patriots head coach Mike Vrabel said that he doesn't anticipate Brown (hamstring) playing Sunday against the Chargers, Mike Reiss of ESPN.com reports."
     }
   ],
   "out": [
@@ -244,7 +257,7 @@
       "injury_description": null,
       "injury_detail": "Back",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Beck (back) has been ruled out for Sunday's game at Kansas City, Darren Urban of the Cardinals' official site reports."
+      "injury_comment": "out"
     },
     {
       "player_id": "11716",
@@ -286,58 +299,6 @@
       "injury_comment": "out"
     },
     {
-      "player_id": "13302",
-      "source_id": "4685526",
-      "player_name": "Adam Randall",
-      "position": "RB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Randall (coach's decision) is inactive for Sunday's game against Carolina."
-    },
-    {
-      "player_id": "13268",
-      "source_id": "5088338",
-      "player_name": "Elijah Sarratt",
-      "position": "WR",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Sarratt (coach's decision) is inactive for Sunday's game against Carolina."
-    },
-    {
-      "player_id": "11648",
-      "source_id": "4428512",
-      "player_name": "Kedon Slovis",
-      "position": "QB",
-      "team_abbr": "BAL",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Slovis (coach's decision) is inactive for Sunday's game against the Panthers but will serve as the Ravens' emergency quarterback."
-    },
-    {
-      "player_id": "13402",
-      "source_id": "4683153",
-      "player_name": "Skyler Bell",
-      "position": "WR",
-      "team_abbr": "BUF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Bell (coach's decision) is inactive for Sunday's game against the Dolphins."
-    },
-    {
       "player_id": "10236",
       "source_id": "4385690",
       "player_name": "Dalton Kincaid",
@@ -349,58 +310,6 @@
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-26",
       "injury_comment": "Kincaid (thumb/ankle) is inactive for Sunday's game against the Dolphins, Cameron Wolfe of NFL Network reports."
-    },
-    {
-      "player_id": "6828",
-      "source_id": "4239934",
-      "player_name": "AJ Dillon",
-      "position": "RB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-30",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13415",
-      "source_id": "4428993",
-      "player_name": "Haynes King",
-      "position": "QB",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-30",
-      "injury_comment": "King (coach's decision) is inactive but will serve as the emergency third quarterback against the Ravens on Sunday, Steve Reed of the Associated Press reports."
-    },
-    {
-      "player_id": "11600",
-      "source_id": "4431588",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "team_abbr": "CAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-30",
-      "injury_comment": "Sanders (coach's decision) is inactive for Sunday's game against Baltimore, Darin Gantt of the team's official site reports."
-    },
-    {
-      "player_id": "1737",
-      "source_id": "15168",
-      "player_name": "Case Keenum",
-      "position": "QB",
-      "team_abbr": "CHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Keenum (coach's decision) is inactive but will serve as Chicago's emergency third quarterback Sunday versus the Saints."
     },
     {
       "player_id": "13312",
@@ -438,8 +347,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Knee",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "inactive"
+      "est_return_date": "2026-12-07",
+      "injury_comment": "out"
     },
     {
       "player_id": "10225",
@@ -452,46 +361,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-26",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13577",
-      "source_id": "5159802",
-      "player_name": "Dallen Bentley",
-      "position": "TE",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "7583",
-      "source_id": "4241820",
-      "player_name": "Sam Ehlinger",
-      "position": "QB",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "Ehlinger (coach's decision) is inactive but will serve as the Broncos' emergency third quarterback against the Raiders on Sunday."
-    },
-    {
-      "player_id": "5938",
-      "source_id": "4039057",
-      "player_name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "team_abbr": "DEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "Humphrey (coach's decision) is inactive for Sunday's game against Las Vegas."
+      "injury_comment": "out"
     },
     {
       "player_id": "5850",
@@ -504,7 +374,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Jacobs (finger) was listed as limited at Sunday's practice, Rob Demovsky of ESPN reports."
+      "injury_comment": "Coach Matt LaFleur noted Monday that Jacobs (finger) remains unlikely to play in Wednesday's game against the Rams, Rob Demovsky of ESPN reports."
     },
     {
       "player_id": "9481",
@@ -530,7 +400,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_comment": "out"
     },
     {
       "player_id": "7568",
@@ -541,9 +411,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "out"
     },
     {
       "player_id": "11588",
@@ -569,7 +439,7 @@
       "injury_description": null,
       "injury_detail": "Concussion",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_comment": "out"
     },
     {
       "player_id": "13437",
@@ -585,19 +455,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12470",
-      "source_id": "4683423",
-      "player_name": "Riley Leonard",
-      "position": "QB",
-      "team_abbr": "IND",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "The Colts announced Friday that Leonard will act as Anthony Richardson's backup at quarterback, Stephen Holder of ESPN.com reports."
-    },
-    {
       "player_id": "10220",
       "source_id": "4362523",
       "player_name": "Will Mallory",
@@ -608,33 +465,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13554",
-      "source_id": "5085024",
-      "player_name": "CJ Williams",
-      "position": "WR",
-      "team_abbr": "JAX",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13404",
-      "source_id": "4567747",
-      "player_name": "Garrett Nussmeier",
-      "position": "QB",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Nussmeier (coach's decision) is inactive but will serve as the Chiefs' emergency third quarterback against the Cardinals on Sunday."
+      "injury_comment": "out"
     },
     {
       "player_id": "8151",
@@ -647,20 +478,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-26",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13329",
-      "source_id": "5150247",
-      "player_name": "Malik Benson",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_comment": "out"
     },
     {
       "player_id": "11604",
@@ -673,33 +491,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Bowers (ankle/quad) is inactive for Sunday's game against the Broncos."
-    },
-    {
-      "player_id": "12541",
-      "source_id": "4432775",
-      "player_name": "Dont'e Thornton Jr.",
-      "position": "WR",
-      "team_abbr": "LV",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Thornton (coach's decision) is inactive for Sunday's Week 11 tilt against Denver."
-    },
-    {
-      "player_id": "12670",
-      "source_id": "4430870",
-      "player_name": "KeAndre Lambert-Smith",
-      "position": "WR",
-      "team_abbr": "LAC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Lambert-Smith (coach's decision) is inactive for Sunday's game against the Jets."
+      "injury_comment": "Raiders coach Klink Kubiak said after Sunday's 38-24 loss to the Broncos that he's optimistic Bowers (ankle/quadriceps) will be available to face the Browns on Nov. 29, Ryan McFadden of ESPN.com reports."
     },
     {
       "player_id": "13380",
@@ -715,19 +507,6 @@
       "injury_comment": "Thompson (hamstring) is inactive for Sunday's game against the Jets."
     },
     {
-      "player_id": "13400",
-      "source_id": "4912052",
-      "player_name": "Justin Joly",
-      "position": "TE",
-      "team_abbr": "MIA",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
       "player_id": "11056",
       "source_id": "4430681",
       "player_name": "Jared Wayne",
@@ -738,20 +517,7 @@
       "injury_description": null,
       "injury_detail": "Quadriceps",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "12775",
-      "source_id": "4573398",
-      "player_name": "Max Brosmer",
-      "position": "QB",
-      "team_abbr": "MIN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Brosmer (coach's decision) is inactive but operating as the Vikings' emergency third QB on Sunday night versus the 49ers."
+      "injury_comment": "out"
     },
     {
       "player_id": "5849",
@@ -764,7 +530,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_comment": "out"
     },
     {
       "player_id": "9756",
@@ -776,8 +542,8 @@
       "injury_designation": "Out",
       "injury_description": null,
       "injury_detail": "Thumb",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "est_return_date": "2026-12-06",
+      "injury_comment": "out"
     },
     {
       "player_id": "13890",
@@ -806,32 +572,6 @@
       "injury_comment": "Maye, who sustained a fractured right fibula in last Sunday's loss to the Lions, is on track to miss at least six weeks, Ian Rapoport of NFL Network reports."
     },
     {
-      "player_id": "11579",
-      "source_id": "4569682",
-      "player_name": "Audric Estime",
-      "position": "RB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Estime (coach's decision) is inactive for Sunday's game against the Bears."
-    },
-    {
-      "player_id": "7538",
-      "source_id": "4361259",
-      "player_name": "Zach Wilson",
-      "position": "QB",
-      "team_abbr": "NO",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Wilson (coach's decision) is inactive but will serve as the Saints' emergency third quarterback against the Bears on Sunday."
-    },
-    {
       "player_id": "11895",
       "source_id": "4573697",
       "player_name": "Mason Tipton",
@@ -845,19 +585,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "12715",
-      "source_id": "4590292",
-      "player_name": "Thomas Fidone II",
-      "position": "TE",
-      "team_abbr": "NYG",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
       "player_id": "13276",
       "source_id": "4723820",
       "player_name": "Omar Cooper Jr.",
@@ -868,7 +595,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_comment": "out"
     },
     {
       "player_id": "11608",
@@ -881,85 +608,7 @@
       "injury_description": null,
       "injury_detail": "Ribs",
       "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "8219",
-      "source_id": "4241410",
-      "player_name": "Jelani Woods",
-      "position": "TE",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13335",
-      "source_id": "4879250",
-      "player_name": "Cole Payton",
-      "position": "QB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Payton (coach's decision) is inactive but will serve as the Eagles' emergency third quarterback against the Steelers on Sunday."
-    },
-    {
-      "player_id": "13289",
-      "source_id": "4714771",
-      "player_name": "Drew Allar",
-      "position": "QB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "13423",
-      "source_id": "5081508",
-      "player_name": "Eli Heidenreich",
-      "position": "RB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "inactive"
-    },
-    {
-      "player_id": "12511",
-      "source_id": "4429955",
-      "player_name": "Will Howard",
-      "position": "QB",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "Howard (coach's decision) is inactive but will serve as the Steelers' emergency quarterback against the Eagles on Sunday."
-    },
-    {
-      "player_id": "13491",
-      "source_id": "5081338",
-      "player_name": "Kaden Wetjen",
-      "position": "WR",
-      "team_abbr": "PIT",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "Wetjen (coach's decision) is inactive for Sunday's game against the Eagles."
+      "injury_comment": "out"
     },
     {
       "player_id": "6803",
@@ -970,35 +619,9 @@
       "injury_status": "active",
       "injury_designation": "Out",
       "injury_description": null,
-      "injury_detail": "Personal",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Aiyuk's agent, Drew Rosenhaus, said Tuesday that the receiver is \"100 percent healthy\" and fully recovered from his November 2024 right knee surgery and plans to work out for interested teams once he's released by the 49ers, Dianna Russini of BetUS TV reports."
-    },
-    {
-      "player_id": "3286",
-      "source_id": "3043116",
-      "player_name": "Demarcus Robinson",
-      "position": "WR",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Robinson (coach's decision) is inactive for Sunday night's contest against the Vikings, Brooke Evans of the 49ers' official website reports."
-    },
-    {
-      "player_id": "12477",
-      "source_id": "4430431",
-      "player_name": "Kurtis Rourke",
-      "position": "QB",
-      "team_abbr": "SF",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "inactive"
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11651",
@@ -1038,32 +661,6 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
-    },
-    {
-      "player_id": "6185",
-      "source_id": "3120590",
-      "player_name": "Easton Stick",
-      "position": "QB",
-      "team_abbr": "TB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-30",
-      "injury_comment": "Stick (coach's decision) is inactive but will serve as the emergency third quarterback against the Lions, Scott Smith of the Buccaneers' official site reports."
-    },
-    {
-      "player_id": "13288",
-      "source_id": "4685555",
-      "player_name": "Nicholas Singleton",
-      "position": "RB",
-      "team_abbr": "TEN",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Coach's Decision",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Singleton (coach's decision) is inactive for Sunday's game against the Cowboys."
     }
   ]
 }
