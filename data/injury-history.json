@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T23:03:16.946Z",
+  "lastUpdated": "2026-11-24T05:01:28.733Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -17412,6 +17412,11 @@
           "to": "Questionable",
           "detail": "Heel",
           "team": "WAS"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -25769,6 +25774,13 @@
           "date": "2026-09-09",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "DET"
         }
       ]
     },
@@ -34320,6 +34332,13 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "SEA"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Questionable",
+          "to": "IR",
+          "detail": "Knee - MCL",
+          "team": "SEA"
         }
       ]
     },
@@ -34449,6 +34468,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "CIN"
         }
       ]
     },
@@ -46462,6 +46488,13 @@
           "date": "2026-10-26",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
@@ -47222,6 +47255,13 @@
           "date": "2026-11-16",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "WAS"
         }
       ]
     },
