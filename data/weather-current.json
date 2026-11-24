@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2026-11-24T05:45:19.360Z",
+  "lastUpdated": "2026-11-24T06:54:09.557Z",
   "games": [
     {
       "game_id": "401873079",
@@ -9,10 +9,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 72,
-        "wind": "0 to 10 mph NNW",
+        "temp": 73,
+        "wind": "5 to 10 mph NNW",
         "conditions": "Mostly Sunny",
-        "precipitation": "0%"
+        "precipitation": "2%"
       }
     },
     {
@@ -40,7 +40,7 @@
       "weather": {
         "temp": 36,
         "wind": "7 to 10 mph E",
-        "conditions": "Light Rain",
+        "conditions": "Rain Showers",
         "precipitation": "99%"
       }
     },
@@ -53,8 +53,8 @@
       "weather": {
         "temp": 44,
         "wind": "17 to 22 mph SW",
-        "conditions": "Light Rain Likely",
-        "precipitation": "72%"
+        "conditions": "Light Rain",
+        "precipitation": "86%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 49,
-        "wind": "15 mph SW",
-        "conditions": "Slight Chance Light Rain",
-        "precipitation": "22%"
+        "temp": 50,
+        "wind": "12 to 16 mph SW",
+        "conditions": "Chance Light Rain",
+        "precipitation": "36%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "8 mph NE",
+        "temp": 78,
+        "wind": "5 to 8 mph NE",
         "conditions": "Chance Rain Showers",
-        "precipitation": "49%"
+        "precipitation": "40%"
       }
     },
     {
@@ -127,10 +127,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 66,
+        "temp": 67,
         "wind": "5 mph W",
-        "conditions": "Mostly Cloudy",
-        "precipitation": "11%"
+        "conditions": "Mostly Cloudy then Slight Chance Rain Showers",
+        "precipitation": "15%"
       }
     },
     {
@@ -149,9 +149,9 @@
       "is_dome": false,
       "weather": {
         "temp": 63,
-        "wind": "8 to 14 mph SSW",
+        "wind": "7 to 12 mph S",
         "conditions": "Light Rain",
-        "precipitation": "82%"
+        "precipitation": "80%"
       }
     },
     {
@@ -161,10 +161,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 71,
+        "temp": 72,
         "wind": "0 to 10 mph SSE",
         "conditions": "Chance Light Rain",
-        "precipitation": "49%"
+        "precipitation": "34%"
       }
     },
     {
@@ -175,9 +175,9 @@
       "is_dome": false,
       "weather": {
         "temp": 74,
-        "wind": "7 mph ESE",
+        "wind": "3 to 8 mph ENE",
         "conditions": "Scattered Rain Showers",
-        "precipitation": "29%"
+        "precipitation": "40%"
       }
     }
   ]
