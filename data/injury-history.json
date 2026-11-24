@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T17:23:13.577Z",
+  "lastUpdated": "2026-11-24T21:42:38.044Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15807,6 +15807,13 @@
           "date": "2026-11-13",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Calf",
+          "team": "PIT"
         }
       ]
     },
@@ -16164,6 +16171,13 @@
           "date": "2026-11-24",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Knee",
+          "team": "DAL"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Questionable",
+          "to": "Doubtful",
           "detail": "Knee",
           "team": "DAL"
         }
@@ -45371,6 +45385,13 @@
           "date": "2026-11-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-24",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Toe",
+          "team": "CLE"
         }
       ]
     },

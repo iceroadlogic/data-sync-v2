@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-23T23:03:16.946Z",
-  "week": 11,
+  "lastUpdated": "2026-11-24T21:42:38.044Z",
+  "week": 12,
   "summary": {
-    "total_players": 781,
-    "ir": 94,
+    "total_players": 778,
+    "ir": 95,
     "suspended": 0
   },
   "ir": [
@@ -55,9 +55,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Foot",
-      "est_return_date": "2026-12-20",
-      "injury_comment": "Cardinals head coach Mike LaFleur said Wednesday that he has no new updates on the status of Conner (foot), who is still \"working to return to perform,\" Tyler Drake of ArizonaSports.com reports. \"It was not a good injury,\" LaFleur said."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "13287",
@@ -81,9 +81,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Elbow",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Minshew (elbow) underwent UCL reconstructive surgery Monday, Jeremy Fowler of ESPN.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "10232",
@@ -328,9 +328,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hip",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "The Browns designated Sanders (hip) for return from injured reserve Tuesday."
     },
     {
       "player_id": "8800",
@@ -1098,6 +1098,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "12048",
+      "source_id": "4429835",
+      "player_name": "George Holani",
+      "position": "RB",
+      "team_abbr": "SEA",
+      "injury_status": "active",
+      "injury_designation": "Injured Reserve",
+      "injury_description": null,
+      "injury_detail": "Knee - MCL",
+      "est_return_date": "2026-12-25",
+      "injury_comment": "The Seahawks placed Holani (knee) on injured reserve Monday, John Boyle of the team's official site reports."
     },
     {
       "player_id": "12521",
