@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:00:29.831Z",
+  "lastUpdated": "2026-11-25T20:50:17.764Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1272,6 +1272,13 @@
           "date": "2026-11-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Achilles",
+          "team": "SF"
         }
       ]
     },
@@ -1588,6 +1595,13 @@
           "date": "2026-10-29",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Personal",
+          "team": "WAS"
         }
       ]
     },
@@ -1956,6 +1970,19 @@
           "date": "2026-11-13",
           "from": "Questionable",
           "to": "Healthy"
+        }
+      ]
+    },
+    "3198": {
+      "name": "Derrick Henry",
+      "position": "RB",
+      "transitions": [
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Concussion",
+          "team": "BAL"
         }
       ]
     },
@@ -16209,6 +16236,13 @@
           "to": "Doubtful",
           "detail": "Knee",
           "team": "DAL"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Doubtful",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "DAL"
         }
       ]
     },
@@ -19378,6 +19412,13 @@
           "date": "2026-01-05",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SF"
         }
       ]
     },
@@ -20721,6 +20762,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "IND"
         }
       ]
     },
@@ -24788,6 +24836,13 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "DAL"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Ankle",
+          "team": "DAL"
         }
       ]
     },
@@ -25359,6 +25414,13 @@
           "date": "2026-11-23",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Ankle",
+          "team": "CHI"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Ankle",
           "team": "CHI"
         }
@@ -28885,6 +28947,11 @@
           "to": "Questionable",
           "detail": "Illness",
           "team": "PHI"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -39482,6 +39549,13 @@
           "date": "2026-07-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "CAR"
         }
       ]
     },
