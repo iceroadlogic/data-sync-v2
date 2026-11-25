@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-24T17:23:13.577Z",
+  "lastUpdated": "2026-11-25T04:50:21.664Z",
   "week": 12,
   "summary": {
-    "total_players": 778,
-    "questionable": 34,
-    "doubtful": 2,
-    "out": 12
+    "total_players": 775,
+    "questionable": 30,
+    "doubtful": 3,
+    "out": 13
   },
   "questionable": [
     {
@@ -32,7 +32,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "questionable"
+      "injury_comment": "Branch (hamstring) went through warmups during the media-viewing portion of Monday's unofficial practice session, Daniel Flick of The Atlanta Journal-Constitution reports."
     },
     {
       "player_id": "10236",
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-26",
-      "injury_comment": "Kincaid (thumb/ankle) was listed as a limited participant on Monday's practice estimate."
+      "injury_comment": "The Bills listed Kincaid (thumb/ankle) as a limited participant in Thursday's practice."
     },
     {
       "player_id": "10235",
@@ -58,20 +58,20 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-26",
-      "injury_comment": "Johnson (ankle) was listed as a non-participant on Monday's estimated practice report."
+      "injury_comment": "Johnson (ankle) was a nonparticipant at the Bears' walkthrough practice Tuesday."
     },
     {
-      "player_id": "8110",
-      "source_id": "4242355",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
-      "team_abbr": "DAL",
+      "player_id": "13346",
+      "source_id": "4832800",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "team_abbr": "CLE",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Knee",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Ferguson (knee/ankle) was listed as a non-participant on Monday's practice estimate, Tommy Yarrish of the Cowboys' official site reports."
+      "injury_detail": "Toe",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Boston (toe) didn't take part in the Browns' unofficial practice Tuesday, Daniel Oyefusi of ESPN.com reports."
     },
     {
       "player_id": "10225",
@@ -84,20 +84,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-26",
-      "injury_comment": "questionable"
-    },
-    {
-      "player_id": "10859",
-      "source_id": "4430027",
-      "player_name": "Sam LaPorta",
-      "position": "TE",
-      "team_abbr": "DET",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "LaPorta (ankle) was limited at Monday's walkthrough, Nolan Bianchi of The Detroit News reports."
+      "injury_comment": "Mingo (ankle) did not participate in practice Tuesday."
     },
     {
       "player_id": "5850",
@@ -110,7 +97,7 @@
       "injury_description": null,
       "injury_detail": "Finger",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Jacobs (finger) was a limited participant in Monday's practice, Matt Schneidman of The Athletic reports."
+      "injury_comment": "The Packers list Jacobs (finger) as questionable for Wednesday's game against the Rams, Wes Hodkiewicz of the team's official site reports."
     },
     {
       "player_id": "8204",
@@ -123,7 +110,7 @@
       "injury_description": null,
       "injury_detail": "Thigh",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Melton (thigh) was limited in Monday's practice."
+      "injury_comment": "Melton (thigh) is listed as questionable for Wednesday night's game against the Rams, Wes Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "8168",
@@ -136,7 +123,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-25",
-      "injury_comment": "Moore (ankle) remained limited in Monday's practice."
+      "injury_comment": "Moore (ankle) is listed as questionable for Wednesday night's game against the Rams, Wes Hodkiewicz of the Packers' official site reports."
     },
     {
       "player_id": "9504",
@@ -217,19 +204,6 @@
       "injury_comment": "Jaguars head coach Liam Coen said Tuten aggravated a right ankle injury in Sunday's 23-18 loss to the Giants, while noting that an examination Monday revealed nothing \"too bad,\" Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
-      "player_id": "7828",
-      "source_id": "4240472",
-      "player_name": "Noah Gray",
-      "position": "TE",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Gray (ribs) was deemed a non-participant in Monday's practice walkthrough."
-    },
-    {
       "player_id": "8151",
       "source_id": "4567048",
       "player_name": "Kenneth Walker III",
@@ -240,7 +214,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-26",
-      "injury_comment": "Walker (groin) was listed as a non-participant on Monday's practice estimate."
+      "injury_comment": "The Chiefs listed Walker (groin) as a limited participant in Tuesday's practice."
     },
     {
       "player_id": "11604",
@@ -373,45 +347,6 @@
       "injury_comment": "questionable"
     },
     {
-      "player_id": "4866",
-      "source_id": "3929630",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Neck",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Barkley was listed as a limited participant on Monday's estimated practice report due to a neck injury and an illness."
-    },
-    {
-      "player_id": "5022",
-      "source_id": "3121023",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Shin",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "Goedert was listed as a limited participant in Monday's practice estimate due to a shin injury."
-    },
-    {
-      "player_id": "9230",
-      "source_id": "4685201",
-      "player_name": "Tanner McKee",
-      "position": "QB",
-      "team_abbr": "PHI",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ribs",
-      "est_return_date": "2026-11-26",
-      "injury_comment": "McKee (ribs) was estimated as a limited participant on Monday's injury report."
-    },
-    {
       "player_id": "8129",
       "source_id": "4360238",
       "player_name": "Dameon Pierce",
@@ -435,7 +370,20 @@
       "injury_description": null,
       "injury_detail": "Illness",
       "est_return_date": "2026-11-26",
-      "injury_comment": "Shipley (foot/illness) was estimated as a limited participant on Monday's injury report."
+      "injury_comment": "Shipley (foot/illness) was a limited participant at the Eagles' walkthrough practice Tuesday."
+    },
+    {
+      "player_id": "7757",
+      "source_id": "4035656",
+      "player_name": "Ben Skowronek",
+      "position": "WR",
+      "team_abbr": "PIT",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Calf",
+      "est_return_date": "2026-11-27",
+      "injury_comment": "Skowronek (calf) did not practice Tuesday."
     },
     {
       "player_id": "4943",
@@ -452,6 +400,19 @@
     }
   ],
   "doubtful": [
+    {
+      "player_id": "8110",
+      "source_id": "4242355",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "team_abbr": "DAL",
+      "injury_status": "active",
+      "injury_designation": "Doubtful",
+      "injury_description": null,
+      "injury_detail": "Knee",
+      "est_return_date": "2026-11-26",
+      "injury_comment": "Ferguson (knee/ankle) remained a non-participant in practice Tuesday, Tommy Yarrish of the Cowboys' official site reports."
+    },
     {
       "player_id": "9756",
       "source_id": "4429205",
@@ -476,7 +437,7 @@
       "injury_description": null,
       "injury_detail": "Hamstring",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Brown (hamstring) wasn't on the field Monday for the Patriots' unofficial practice session, Doug Kyed of the Boston Herald reports."
+      "injury_comment": "Brown (hamstring) wasn't spotted on the field for Tuesday's unofficial practice, Evan Lazar of the Patriots' official site reports."
     }
   ],
   "out": [
@@ -518,6 +479,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "6806",
+      "source_id": "4241985",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "team_abbr": "DEN",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Personal",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Broncos head coach Sean Payton announced Tuesday that Dobbins has been suspended one game for conduct detrimental to the team, Chris Tomasson of The Denver Gazette reports."
     },
     {
       "player_id": "9481",
