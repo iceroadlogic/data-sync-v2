@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2026-11-25T04:47:34.659Z",
+  "lastUpdated": "2026-11-25T19:47:19.955Z",
   "games": [
     {
       "game_id": "401873079",
@@ -10,9 +10,9 @@
       "is_dome": false,
       "weather": {
         "temp": 77,
-        "wind": "5 mph N",
-        "conditions": "Partly Sunny",
-        "precipitation": "0%"
+        "wind": "5 mph NW",
+        "conditions": "Mostly Sunny",
+        "precipitation": "2%"
       }
     },
     {
@@ -38,10 +38,10 @@
       "stadium": "Highmark Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 35,
-        "wind": "8 to 13 mph NE",
-        "conditions": "Rain",
-        "precipitation": "100%"
+        "temp": 36,
+        "wind": "8 to 16 mph NE",
+        "conditions": "Rain Showers",
+        "precipitation": "98%"
       }
     },
     {
@@ -51,10 +51,10 @@
       "stadium": "Acrisure Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 43,
-        "wind": "18 to 22 mph SW",
-        "conditions": "Light Rain",
-        "precipitation": "85%"
+        "temp": 44,
+        "wind": "18 mph SW",
+        "conditions": "Rain",
+        "precipitation": "97%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "7 to 10 mph S",
-        "conditions": "Chance Light Rain",
-        "precipitation": "45%"
+        "temp": 56,
+        "wind": "5 to 15 mph S",
+        "conditions": "Light Rain",
+        "precipitation": "87%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 50,
-        "wind": "13 to 16 mph SW",
-        "conditions": "Chance Light Rain",
-        "precipitation": "40%"
+        "temp": 52,
+        "wind": "9 to 14 mph S",
+        "conditions": "Mostly Cloudy then Light Rain Likely",
+        "precipitation": "73%"
       }
     },
     {
@@ -98,10 +98,10 @@
       "stadium": "Hard Rock Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "6 to 9 mph NE",
-        "conditions": "Chance Rain Showers",
-        "precipitation": "45%"
+        "temp": 79,
+        "wind": "3 to 8 mph E",
+        "conditions": "Slight Chance Rain Showers",
+        "precipitation": "20%"
       }
     },
     {
@@ -127,10 +127,10 @@
       "stadium": "EverBank Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 67,
-        "wind": "5 mph NE",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "15%"
+        "temp": 66,
+        "wind": "1 to 7 mph S",
+        "conditions": "Mostly Cloudy",
+        "precipitation": "7%"
       }
     },
     {
@@ -149,9 +149,9 @@
       "is_dome": false,
       "weather": {
         "temp": 64,
-        "wind": "6 to 15 mph S",
+        "wind": "3 to 12 mph SSE",
         "conditions": "Light Rain",
-        "precipitation": "75%"
+        "precipitation": "84%"
       }
     },
     {
@@ -161,10 +161,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 74,
-        "wind": "0 to 10 mph SSE",
-        "conditions": "Mostly Sunny then Slight Chance Light Rain",
-        "precipitation": "16%"
+        "temp": 75,
+        "wind": "0 to 10 mph ESE",
+        "conditions": "Mostly Sunny",
+        "precipitation": "6%"
       }
     },
     {
@@ -174,10 +174,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 62,
-        "wind": "5 mph NW",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "23%"
+        "temp": 63,
+        "wind": "5 mph E",
+        "conditions": "Scattered Showers And Thunderstorms",
+        "precipitation": "38%"
       }
     }
   ]
