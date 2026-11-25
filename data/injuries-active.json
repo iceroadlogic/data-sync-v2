@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-25T04:50:21.664Z",
+  "lastUpdated": "2026-11-25T17:00:29.831Z",
   "week": 12,
   "summary": {
     "total_players": 775,
     "questionable": 30,
     "doubtful": 3,
-    "out": 13
+    "out": 14
   },
   "questionable": [
     {
@@ -45,7 +45,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-26",
-      "injury_comment": "The Bills listed Kincaid (thumb/ankle) as a limited participant in Thursday's practice."
+      "injury_comment": "The Bills listed Kincaid (thumb/ankle) as a limited participant in Tuesday's practice."
     },
     {
       "player_id": "10235",
@@ -204,17 +204,17 @@
       "injury_comment": "Jaguars head coach Liam Coen said Tuten aggravated a right ankle injury in Sunday's 23-18 loss to the Giants, while noting that an examination Monday revealed nothing \"too bad,\" Ryan O'Halloran of The Florida Times-Union reports."
     },
     {
-      "player_id": "8151",
-      "source_id": "4567048",
-      "player_name": "Kenneth Walker III",
-      "position": "RB",
+      "player_id": "7828",
+      "source_id": "4240472",
+      "player_name": "Noah Gray",
+      "position": "TE",
       "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Groin",
+      "injury_detail": "Ribs",
       "est_return_date": "2026-11-26",
-      "injury_comment": "The Chiefs listed Walker (groin) as a limited participant in Tuesday's practice."
+      "injury_comment": "questionable"
     },
     {
       "player_id": "11604",
@@ -544,6 +544,19 @@
       "injury_detail": "Hamstring",
       "est_return_date": "2026-12-13",
       "injury_comment": "Colts head coach Shane Steichen said that McGowan will miss some time after injuring his hamstring in Thursday's 26-3 loss to the Texans, Stephen Holder of ESPN.com reports."
+    },
+    {
+      "player_id": "8151",
+      "source_id": "4567048",
+      "player_name": "Kenneth Walker III",
+      "position": "RB",
+      "team_abbr": "KC",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Groin",
+      "est_return_date": "2026-12-03",
+      "injury_comment": "Walker (groin) is slated to be out for Thursday's game against the Bills, according to NFL reporter Jordan Schultz."
     },
     {
       "player_id": "13890",

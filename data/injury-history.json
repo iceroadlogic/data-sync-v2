@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T04:50:21.664Z",
+  "lastUpdated": "2026-11-25T17:00:29.831Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -15912,6 +15912,13 @@
           "date": "2026-11-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ribs",
+          "team": "KC"
         }
       ]
     },
@@ -18361,6 +18368,13 @@
           "date": "2026-11-24",
           "from": "Out",
           "to": "Questionable",
+          "detail": "Groin",
+          "team": "KC"
+        },
+        {
+          "date": "2026-11-25",
+          "from": "Questionable",
+          "to": "Out",
           "detail": "Groin",
           "team": "KC"
         }
