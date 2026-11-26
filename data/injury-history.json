@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:50:17.764Z",
+  "lastUpdated": "2026-11-26T04:02:03.880Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -2305,6 +2305,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Chest",
+          "team": "LAR"
         }
       ]
     },
@@ -2790,6 +2797,13 @@
           "date": "2026-11-17",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "LAC"
         }
       ]
     },
@@ -5491,6 +5505,11 @@
           "to": "Questionable",
           "detail": "Quadriceps",
           "team": "SEA"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -7819,6 +7838,13 @@
           "to": "Questionable",
           "detail": "Finger",
           "team": "GB"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Out",
+          "detail": "Finger",
+          "team": "GB"
         }
       ]
     },
@@ -7889,6 +7915,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Elbow",
+          "team": "SEA"
         }
       ]
     },
@@ -8683,6 +8716,13 @@
           "date": "2026-11-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "JAX"
         }
       ]
     },
@@ -11099,6 +11139,13 @@
           "from": "Healthy",
           "to": "Out",
           "detail": "Personal",
+          "team": "DEN"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Out",
+          "to": "Suspended",
+          "detail": "Suspension",
           "team": "DEN"
         }
       ]
@@ -14113,6 +14160,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "BAL"
         }
       ]
     },
@@ -16619,6 +16673,13 @@
           "date": "2025-12-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hamstring",
+          "team": "ATL"
         }
       ]
     },
@@ -17242,6 +17303,13 @@
           "date": "2026-11-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "NYG"
         }
       ]
     },
@@ -17461,6 +17529,13 @@
           "date": "2026-11-21",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Foot",
+          "team": "WAS"
         }
       ]
     },
@@ -18978,6 +19053,13 @@
           "date": "2026-11-06",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Concussion",
+          "team": "GB"
         }
       ]
     },
@@ -19023,6 +19105,11 @@
           "to": "Questionable",
           "detail": "Ankle",
           "team": "GB"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -19577,6 +19664,11 @@
           "to": "Questionable",
           "detail": "Thigh",
           "team": "GB"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -20886,6 +20978,11 @@
           "to": "Questionable",
           "detail": "Undisclosed",
           "team": "LV"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22418,6 +22515,13 @@
           "date": "2026-10-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SEA"
         }
       ]
     },
@@ -24041,6 +24145,13 @@
           "date": "2026-10-16",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "BAL"
         }
       ]
     },
@@ -24228,6 +24339,13 @@
           "date": "2026-11-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "LAR"
         }
       ]
     },
@@ -26732,6 +26850,13 @@
           "date": "2025-10-23",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "CLE"
         }
       ]
     },
@@ -37242,6 +37367,19 @@
         }
       ]
     },
+    "12496": {
+      "name": "Tai Felton",
+      "position": "WR",
+      "transitions": [
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Hip",
+          "team": "MIN"
+        }
+      ]
+    },
     "12497": {
       "name": "Tory Horton",
       "position": "WR",
@@ -38132,6 +38270,13 @@
           "date": "2026-11-14",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "CLE"
         }
       ]
     },
@@ -38602,6 +38747,13 @@
           "date": "2026-10-19",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Illness",
+          "team": "SEA"
         }
       ]
     },
@@ -40782,6 +40934,13 @@
           "date": "2026-09-21",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Groin",
+          "team": "SF"
         }
       ]
     },
@@ -42320,6 +42479,13 @@
           "date": "2026-05-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Knee",
+          "team": "MIN"
         }
       ]
     },
@@ -42778,6 +42944,13 @@
           "date": "2026-10-12",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Ankle",
+          "team": "SEA"
         }
       ]
     },
@@ -43437,6 +43610,13 @@
           "date": "2026-11-16",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "LAR"
         }
       ]
     },
