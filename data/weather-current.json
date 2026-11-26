@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2026-11-26T03:58:16.050Z",
+  "lastUpdated": "2026-11-26T19:26:01.897Z",
   "games": [
     {
       "game_id": "401873079",
@@ -9,9 +9,9 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 55,
-        "wind": "5 mph NNE",
-        "conditions": "Mostly Clear",
+        "temp": 82,
+        "wind": "5 mph NW",
+        "conditions": "Sunny",
         "precipitation": "0%"
       }
     },
@@ -39,9 +39,9 @@
       "is_dome": false,
       "weather": {
         "temp": 36,
-        "wind": "8 to 16 mph NE",
+        "wind": "9 to 16 mph NE",
         "conditions": "Rain",
-        "precipitation": "98%"
+        "precipitation": "100%"
       }
     },
     {
@@ -53,8 +53,8 @@
       "weather": {
         "temp": 44,
         "wind": "18 mph SW",
-        "conditions": "Rain",
-        "precipitation": "97%"
+        "conditions": "Light Rain",
+        "precipitation": "95%"
       }
     },
     {
@@ -64,10 +64,10 @@
       "stadium": "Paycor Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 56,
-        "wind": "5 to 15 mph S",
+        "temp": 55,
+        "wind": "3 to 14 mph S",
         "conditions": "Light Rain",
-        "precipitation": "87%"
+        "precipitation": "97%"
       }
     },
     {
@@ -77,10 +77,10 @@
       "stadium": "Huntington Bank Field",
       "is_dome": false,
       "weather": {
-        "temp": 52,
-        "wind": "9 to 14 mph S",
-        "conditions": "Mostly Cloudy then Light Rain Likely",
-        "precipitation": "73%"
+        "temp": 50,
+        "wind": "8 to 12 mph S",
+        "conditions": "Mostly Cloudy then Light Rain",
+        "precipitation": "88%"
       }
     },
     {
@@ -99,9 +99,9 @@
       "is_dome": false,
       "weather": {
         "temp": 79,
-        "wind": "3 to 8 mph E",
-        "conditions": "Slight Chance Rain Showers",
-        "precipitation": "20%"
+        "wind": "6 mph E",
+        "conditions": "Cloudy",
+        "precipitation": "11%"
       }
     },
     {
@@ -130,7 +130,7 @@
         "temp": 66,
         "wind": "1 to 7 mph S",
         "conditions": "Mostly Cloudy",
-        "precipitation": "7%"
+        "precipitation": "1%"
       }
     },
     {
@@ -148,10 +148,10 @@
       "stadium": "Levi's Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 64,
-        "wind": "3 to 12 mph SSE",
+        "temp": 65,
+        "wind": "5 to 15 mph SSE",
         "conditions": "Light Rain",
-        "precipitation": "84%"
+        "precipitation": "93%"
       }
     },
     {
@@ -161,10 +161,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 75,
-        "wind": "0 to 10 mph ESE",
+        "temp": 74,
+        "wind": "5 to 10 mph SSE",
         "conditions": "Mostly Sunny",
-        "precipitation": "6%"
+        "precipitation": "5%"
       }
     },
     {
@@ -174,10 +174,10 @@
       "stadium": "Raymond James Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 63,
-        "wind": "5 mph E",
+        "temp": 64,
+        "wind": "5 mph NE",
         "conditions": "Scattered Showers And Thunderstorms",
-        "precipitation": "38%"
+        "precipitation": "47%"
       }
     }
   ]
