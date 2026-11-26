@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-26T04:02:03.880Z",
+  "lastUpdated": "2026-11-26T16:41:54.050Z",
   "week": 12,
   "summary": {
     "total_players": 777,
-    "questionable": 45,
+    "questionable": 47,
     "doubtful": 2,
-    "out": 20
+    "out": 19
   },
   "questionable": [
     {
@@ -150,6 +150,19 @@
       "injury_detail": "Hip",
       "est_return_date": "2026-11-29",
       "injury_comment": "Whiteheart (hip) was a limited participant in Wednesday's practice, Ryan McFadden of ESPN.com reports."
+    },
+    {
+      "player_id": "8167",
+      "source_id": "4248528",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "team_abbr": "GB",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Concussion",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Watson (concussion) has been ruled out for the rest of Wednesday's game against the Rams."
     },
     {
       "player_id": "9504",
@@ -345,6 +358,19 @@
       "injury_detail": "Ankle",
       "est_return_date": "2026-12-03",
       "injury_comment": "Allen (ankle) has been ruled out for the remainder of Wednesday night's game against the Packers."
+    },
+    {
+      "player_id": "3271",
+      "source_id": "2573401",
+      "player_name": "Tyler Higbee",
+      "position": "TE",
+      "team_abbr": "LAR",
+      "injury_status": "active",
+      "injury_designation": "Questionable",
+      "injury_description": null,
+      "injury_detail": "Chest",
+      "est_return_date": "2026-12-03",
+      "injury_comment": "Higbee exited Wednesday's game against the Packers with a chest injury and will not return, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "11056",
@@ -663,6 +689,19 @@
       "injury_comment": "Johnson (ankle) has been ruled out  for Thursday's game against the Lions."
     },
     {
+      "player_id": "1737",
+      "source_id": "15168",
+      "player_name": "Case Keenum",
+      "position": "QB",
+      "team_abbr": "CHI",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
+    },
+    {
       "player_id": "13435",
       "source_id": "4565859",
       "player_name": "Joe Royer",
@@ -713,19 +752,6 @@
       "injury_detail": "Finger",
       "est_return_date": "2026-12-06",
       "injury_comment": "Jacobs (finger) is listed as inactive Wednesday at the Rams, Tom Pelissero of Netflix reports."
-    },
-    {
-      "player_id": "8167",
-      "source_id": "4248528",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "team_abbr": "GB",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Concussion",
-      "est_return_date": "2026-12-06",
-      "injury_comment": "Watson (concussion) has been ruled out for the rest of Wednesday's game against the Rams."
     },
     {
       "player_id": "9481",
@@ -791,19 +817,6 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-12-03",
       "injury_comment": "The Chiefs ruled out Walker (groin) for Thursday's game against the Bills."
-    },
-    {
-      "player_id": "3271",
-      "source_id": "2573401",
-      "player_name": "Tyler Higbee",
-      "position": "TE",
-      "team_abbr": "LAR",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Chest",
-      "est_return_date": "2026-12-03",
-      "injury_comment": "Higbee exited Wednesday's game against the Packers with a chest injury and will not return, Adam Grosbard of The Orange County Register reports."
     },
     {
       "player_id": "13275",

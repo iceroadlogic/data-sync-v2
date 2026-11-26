@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T04:02:03.880Z",
+  "lastUpdated": "2026-11-26T16:41:54.050Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -869,6 +869,12 @@
           "date": "2026-11-23",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "team": "CHI"
         }
       ]
     },
@@ -2310,6 +2316,13 @@
           "date": "2026-11-26",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Chest",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Chest",
           "team": "LAR"
         }
@@ -19058,6 +19071,13 @@
           "date": "2026-11-26",
           "from": "Healthy",
           "to": "Out",
+          "detail": "Concussion",
+          "team": "GB"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Out",
+          "to": "Questionable",
           "detail": "Concussion",
           "team": "GB"
         }
