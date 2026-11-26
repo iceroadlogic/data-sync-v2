@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T16:41:54.050Z",
+  "lastUpdated": "2026-11-26T20:42:17.416Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -11247,6 +11247,11 @@
           "to": "IR",
           "detail": "Foot",
           "team": "PIT"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -13119,6 +13124,12 @@
           "date": "2026-11-15",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "team": "ARI"
         }
       ]
     },
@@ -15923,6 +15934,13 @@
           "date": "2026-11-24",
           "from": "Healthy",
           "to": "Questionable",
+          "detail": "Calf",
+          "team": "PIT"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "IR",
           "detail": "Calf",
           "team": "PIT"
         }
@@ -19365,6 +19383,13 @@
           "date": "2026-10-26",
           "from": "IR",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
@@ -20881,6 +20906,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "IND"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -22517,6 +22547,13 @@
           "date": "2026-08-25",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Questionable",
+          "detail": "Shoulder",
+          "team": "JAX"
         }
       ]
     },
@@ -37397,6 +37434,11 @@
           "to": "Questionable",
           "detail": "Hip",
           "team": "MIN"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -39308,6 +39350,13 @@
           "date": "2026-10-31",
           "from": "Questionable",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Knee",
+          "team": "CHI"
         }
       ]
     },
@@ -45540,6 +45589,13 @@
           "date": "2026-11-23",
           "from": "Out",
           "to": "Healthy"
+        },
+        {
+          "date": "2026-11-26",
+          "from": "Healthy",
+          "to": "Out",
+          "detail": "Coach's Decision",
+          "team": "PHI"
         }
       ]
     },
