@@ -1,6 +1,6 @@
 {
   "week": 12,
-  "lastUpdated": "2026-11-25T19:47:19.955Z",
+  "lastUpdated": "2026-11-26T03:58:16.050Z",
   "games": [
     {
       "game_id": "401873079",
@@ -9,10 +9,10 @@
       "stadium": "SoFi Stadium",
       "is_dome": false,
       "weather": {
-        "temp": 77,
-        "wind": "5 mph NW",
-        "conditions": "Mostly Sunny",
-        "precipitation": "2%"
+        "temp": 55,
+        "wind": "5 mph NNE",
+        "conditions": "Mostly Clear",
+        "precipitation": "0%"
       }
     },
     {
@@ -40,7 +40,7 @@
       "weather": {
         "temp": 36,
         "wind": "8 to 16 mph NE",
-        "conditions": "Rain Showers",
+        "conditions": "Rain",
         "precipitation": "98%"
       }
     },
