@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-26T20:42:17.416Z",
+  "lastUpdated": "2026-11-27T20:28:05.081Z",
   "week": 12,
   "summary": {
     "total_players": 777,
-    "ir": 95,
+    "ir": 94,
     "suspended": 1
   },
   "ir": [
@@ -70,7 +70,7 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-12-06",
-      "injury_comment": "Head coach Mike LaFleur said Wednesday that the Cardinals will evaluate Love (ankle) again Monday to hone in on a return date for the running back, Bo Brack of GoPHNX.com reports."
+      "injury_comment": "Head coach Mike LaFleur said Friday that he has no update on Love (ankle), who is eligible to come off injured reserve following Sunday's game against the Commanders, Bo Brack of GoPHNX.com reports."
     },
     {
       "player_id": "6011",
@@ -213,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-30",
-      "injury_comment": "Head coach Dave Canales suggested Wednesday that a decision on Brooks (core) being activated from injured reserve before his 21-day window expires next week will hinge on the Panthers having a role available to him, Mike Kaye of ESPN.com reports."
+      "injury_comment": "Brooks (groin) was estimated as a full practice participant on Thursday's report, Mike Kaye of ESPN.com reports."
     },
     {
       "player_id": "8423",
@@ -330,7 +330,7 @@
       "injury_description": null,
       "injury_detail": "Hip",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Sanders (hip) was a limited participant in Wednesday's practice, Ryan McFadden of ESPN.com reports."
+      "injury_comment": "Sanders (hip) is questionable for Sunday's game against the Raiders, Mary Kay Cabot of the Cleveland Plain Dealer reports."
     },
     {
       "player_id": "8800",
@@ -372,19 +372,6 @@
       "injury_comment": null
     },
     {
-      "player_id": "8208",
-      "source_id": "4362748",
-      "player_name": "Tyler Badie",
-      "position": "RB",
-      "team_abbr": "DEN",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Thumb",
-      "est_return_date": "2026-11-27",
-      "injury_comment": "The Broncos designated Badie (thumb) for return from injured reserve Tuesday, Susanna Weir of the team's official site reports."
-    },
-    {
       "player_id": "12489",
       "source_id": "4568490",
       "player_name": "RJ Harvey",
@@ -406,9 +393,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Foot",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Lohner (foot) has been ruled out for Friday's game against the Steelers."
     },
     {
       "player_id": "6588",
@@ -666,9 +653,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-21",
-      "injury_comment": "The Chiefs placed Wiley (ankle) on injured reserve Wednesday, Matt Derrick of ChiefsDigest.com reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "7610",
@@ -731,9 +718,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Ankle",
+      "est_return_date": "2027-02-15",
+      "injury_comment": "Rams head coach Sean McVay said Monday that Ferguson (hamstring) won't be activated from injured reserve this season and will require surgery to address the ankle injury he aggravated in Week 3, Stu Jackson of the team's official site reports."
     },
     {
       "player_id": "9493",
@@ -837,7 +824,7 @@
       "injury_description": null,
       "injury_detail": "Shoulder",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Doubs (shoulder) was limited in Wednesday's practice."
+      "injury_comment": "Doubs (shoulder), who remains on injured reserve, has been ruled out for Sunday's game against the Chargers."
     },
     {
       "player_id": "12529",
@@ -1017,9 +1004,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-19",
-      "injury_comment": "The Eagles placed Wicks (ankle/foot) on injured reserve Saturday."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "11636",
@@ -1040,12 +1027,12 @@
       "player_name": "Ben Skowronek",
       "position": "WR",
       "team_abbr": "PIT",
-      "injury_status": "active",
+      "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
       "injury_detail": "Calf",
       "est_return_date": "2026-12-27",
-      "injury_comment": "ir"
+      "injury_comment": "The Steelers placed Skowronek (calf) on injured reserve Thursday, Teresa Varley of the team's official site reports."
     },
     {
       "player_id": "4950",
@@ -1149,7 +1136,7 @@
       "injury_description": null,
       "injury_detail": "Knee - PCL",
       "est_return_date": "2026-11-30",
-      "injury_comment": "The Buccaneers designated McMillan (knee) for return from injured reserve Wednesday, Scott Smith of the team's official site reports."
+      "injury_comment": "McMillan (knee) was a full participant in Thursday's practice."
     },
     {
       "player_id": "13422",
