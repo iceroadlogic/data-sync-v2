@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-27T04:43:05.870Z",
+  "lastUpdated": "2026-11-27T16:27:34.633Z",
   "week": 12,
   "summary": {
     "total_players": 777,
-    "questionable": 47,
+    "questionable": 46,
     "doubtful": 2,
-    "out": 24
+    "out": 25
   },
   "questionable": [
     {
@@ -149,7 +149,7 @@
       "injury_description": null,
       "injury_detail": "Knee",
       "est_return_date": "2026-12-06",
-      "injury_comment": "Loveland (knee) has been ruled out from returning to Thursday's game in Detroit."
+      "injury_comment": "Loveland (knee) is scheduled to undergo an MRI on Friday on the knee injury he sustained during Thursday's 39-35 win over the Bears, Ian Rapoport of ESPN and NFL Network reports."
     },
     {
       "player_id": "11560",
@@ -183,7 +183,7 @@
       "player_name": "Tyler Badie",
       "position": "RB",
       "team_abbr": "DEN",
-      "injury_status": "day-to-day",
+      "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
       "injury_detail": "Thumb",
@@ -292,20 +292,20 @@
       "injury_description": null,
       "injury_detail": "Ankle",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Tuten (ankle/foot) didn't practice Thursday, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_comment": "Head coach Liam Coen said Friday that the team is \"not sure yet\" whether Tuten (ankle/foot) will be available Sunday against the Titans, Demetrius Harvey of the Florida Times-Union reports."
     },
     {
-      "player_id": "9487",
-      "source_id": "4432620",
-      "player_name": "Parker Washington",
+      "player_id": "12505",
+      "source_id": "5082630",
+      "player_name": "Jalen Royals",
       "position": "WR",
-      "team_abbr": "JAX",
+      "team_abbr": "KC",
       "injury_status": "active",
       "injury_designation": "Questionable",
       "injury_description": null,
-      "injury_detail": "Shoulder",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Washington (shoulder) was listed as a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports."
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-12-03",
+      "injury_comment": "Head coach Andy Reid said Royals suffered a sprained ankle during Thursday's 13-10 loss in Buffalo, Charles Goldman of AtoZSports.com reports."
     },
     {
       "player_id": "11604",
@@ -462,19 +462,6 @@
       "injury_detail": "Groin",
       "est_return_date": "2026-11-29",
       "injury_comment": "Likely (groin) was listed as limited on Thursday's practice report, Dan Salomone of the Giants' official site reports."
-    },
-    {
-      "player_id": "13276",
-      "source_id": "4723820",
-      "player_name": "Omar Cooper Jr.",
-      "position": "WR",
-      "team_abbr": "NYJ",
-      "injury_status": "active",
-      "injury_designation": "Questionable",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Cooper (ankle/groin) was listed as a non-participant in practice Thursday."
     },
     {
       "player_id": "4866",
@@ -819,6 +806,19 @@
       "injury_comment": "Colts head coach Shane Steichen said that McGowan will miss some time after injuring his hamstring in Thursday's 26-3 loss to the Texans, Stephen Holder of ESPN.com reports."
     },
     {
+      "player_id": "9487",
+      "source_id": "4432620",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "team_abbr": "JAX",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Shoulder",
+      "est_return_date": "2026-12-06",
+      "injury_comment": "Washington (shoulder) will be out for Sunday's game against the Titans and is considered week-to-week moving forward, Demetrius Harvey of the Florida Times-Union reports."
+    },
+    {
       "player_id": "13404",
       "source_id": "4567747",
       "player_name": "Garrett Nussmeier",
@@ -830,19 +830,6 @@
       "injury_detail": "Coach's Decision",
       "est_return_date": "2026-12-03",
       "injury_comment": "Nussmeier (coach's decision) is inactive but will serve as the Chiefs' emergency third quarterback against the Bills on Thursday."
-    },
-    {
-      "player_id": "12505",
-      "source_id": "5082630",
-      "player_name": "Jalen Royals",
-      "position": "WR",
-      "team_abbr": "KC",
-      "injury_status": "active",
-      "injury_designation": "Out",
-      "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2026-12-03",
-      "injury_comment": "out"
     },
     {
       "player_id": "8151",
@@ -908,6 +895,19 @@
       "injury_detail": null,
       "est_return_date": null,
       "injury_comment": null
+    },
+    {
+      "player_id": "13276",
+      "source_id": "4723820",
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "team_abbr": "NYJ",
+      "injury_status": "active",
+      "injury_designation": "Out",
+      "injury_description": null,
+      "injury_detail": "Ankle",
+      "est_return_date": "2026-11-29",
+      "injury_comment": "Head coach Aaron Glenn announced Friday that Cooper (ankle) will remain out for Sunday's game against the Dolphins, Brian Costello of the New York Post reports."
     },
     {
       "player_id": "8177",
