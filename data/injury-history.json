@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T03:48:22.093Z",
+  "lastUpdated": "2026-11-28T19:18:03.631Z",
   "recordedSince": "2025-10-03",
   "players": {
     "19": {
@@ -1746,6 +1746,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -15698,6 +15703,11 @@
           "to": "Questionable",
           "detail": "Knee",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -24634,6 +24644,13 @@
           "date": "2026-11-27",
           "from": "Questionable",
           "to": "Doubtful",
+          "detail": "Ankle",
+          "team": "LAR"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "Doubtful",
+          "to": "Out",
           "detail": "Ankle",
           "team": "LAR"
         }
@@ -36251,6 +36268,11 @@
           "to": "IR",
           "detail": "Hip",
           "team": "CLE"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "IR",
+          "to": "Healthy"
         }
       ]
     },
@@ -36287,6 +36309,11 @@
           "to": "Questionable",
           "detail": "Achilles",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },
@@ -40127,6 +40154,11 @@
           "to": "Questionable",
           "detail": "Foot",
           "team": "CAR"
+        },
+        {
+          "date": "2026-11-28",
+          "from": "Questionable",
+          "to": "Healthy"
         }
       ]
     },

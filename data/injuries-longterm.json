@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-27T20:28:05.081Z",
+  "lastUpdated": "2026-11-28T19:18:03.631Z",
   "week": 12,
   "summary": {
-    "total_players": 777,
-    "ir": 94,
+    "total_players": 776,
+    "ir": 93,
     "suspended": 1
   },
   "ir": [
@@ -213,7 +213,7 @@
       "injury_description": null,
       "injury_detail": "Groin",
       "est_return_date": "2026-11-30",
-      "injury_comment": "Brooks (groin) was estimated as a full practice participant on Thursday's report, Mike Kaye of ESPN.com reports."
+      "injury_comment": "Brooks (groin) is listed as questionable for Monday's game against the Buccaneers, Sheena Quick of Fox Sports Radio 1340 reports."
     },
     {
       "player_id": "8423",
@@ -317,20 +317,7 @@
       "injury_description": null,
       "injury_detail": "Thumb",
       "est_return_date": "2026-11-29",
-      "injury_comment": "Iosivas (thumb) was downgraded to out for Monday's game against the Commanders, Mike Petraglia of CLNSCincy.com reports."
-    },
-    {
-      "player_id": "12472",
-      "source_id": "4601080",
-      "player_name": "Raheim Sanders",
-      "position": "RB",
-      "team_abbr": "CLE",
-      "injury_status": "day-to-day",
-      "injury_designation": "Injured Reserve",
-      "injury_description": null,
-      "injury_detail": "Hip",
-      "est_return_date": "2026-11-29",
-      "injury_comment": "Sanders (hip) is questionable for Sunday's game against the Raiders, Mary Kay Cabot of the Cleveland Plain Dealer reports."
+      "injury_comment": "Iosivas (thumb) is questionable for Sunday's game against the Saints."
     },
     {
       "player_id": "8800",
@@ -679,9 +666,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": null,
-      "est_return_date": null,
-      "injury_comment": null
+      "injury_detail": "Hamstring",
+      "est_return_date": "2026-12-13",
+      "injury_comment": "The Rams are not expected to open the 21-day practice window for Adams (hamstring) ahead of the team's Week 13 game against the Chiefs, Nate Adkins of The Athletic reports."
     },
     {
       "player_id": "13597",
@@ -718,9 +705,9 @@
       "injury_status": "day-to-day",
       "injury_designation": "Injured Reserve",
       "injury_description": null,
-      "injury_detail": "Ankle",
-      "est_return_date": "2027-02-15",
-      "injury_comment": "Rams head coach Sean McVay said Monday that Ferguson (hamstring) won't be activated from injured reserve this season and will require surgery to address the ankle injury he aggravated in Week 3, Stu Jackson of the team's official site reports."
+      "injury_detail": null,
+      "est_return_date": null,
+      "injury_comment": null
     },
     {
       "player_id": "9493",
@@ -1136,7 +1123,7 @@
       "injury_description": null,
       "injury_detail": "Knee - PCL",
       "est_return_date": "2026-11-30",
-      "injury_comment": "McMillan (knee) was a full participant in Thursday's practice."
+      "injury_comment": "McMillan (knee) is listed as questionable for Monday's game against the Panthers, Scott Smith of the Buccaneers' official site reports."
     },
     {
       "player_id": "13422",
